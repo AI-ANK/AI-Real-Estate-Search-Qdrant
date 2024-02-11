@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Momentum Real Estate Llc
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 3000000
+
+    BEDS: 3
+
+    BATH: 32.0
+
+    PROPERTYSQFT: 11760.0
+
+    ADDRESS: 8001 New Utrecht Ave
+
+    STATE: Brooklyn, NY 11214
+
+    MAIN_ADDRESS: 8001 New Utrecht AveBrooklyn, NY 11214
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: New Utrecht Avenue
+
+    FORMATTED_ADDRESS: 8001 New Utrecht Ave, Brooklyn, NY 11214, USA
+
+    LATITUDE: 40.6115483
+
+    LONGITUDE: -74.0008656

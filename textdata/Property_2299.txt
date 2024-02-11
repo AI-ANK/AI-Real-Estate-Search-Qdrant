@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Condo for sale
+
+    PRICE: 18500000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 4856.0
+
+    ADDRESS: 73 Wooster St # A
+
+    STATE: Manhattan, NY 10012
+
+    MAIN_ADDRESS: 73 Wooster St # AManhattan, NY 10012
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: Wooster Street
+
+    FORMATTED_ADDRESS: 73 Wooster St, New York, NY 10012, USA
+
+    LATITUDE: 40.7238868
+
+    LONGITUDE: -74.0021541

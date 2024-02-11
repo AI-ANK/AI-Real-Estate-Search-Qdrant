@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Julia B. Fee Sotheby's International Realty
+
+    TYPE: Co-op for sale
+
+    PRICE: 165000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 750.0
+
+    ADDRESS: 5615 Netherland Ave Apt 4E
+
+    STATE: Bronx, NY 10471
+
+    MAIN_ADDRESS: 5615 Netherland Ave Apt 4EBronx, NY 10471
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: North Riverdale
+
+    LONG_NAME: 5615
+
+    FORMATTED_ADDRESS: 5615 Netherland Ave #4e, Bronx, NY 10471, USA
+
+    LATITUDE: 40.904655
+
+    LONGITUDE: -73.9066105

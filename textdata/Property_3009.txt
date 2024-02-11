@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 575 Madison Ave
+
+    TYPE: Townhouse for sale
+
+    PRICE: 8750000
+
+    BEDS: 3
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 4275.0
+
+    ADDRESS: 133 E 91st St
+
+    STATE: New York, NY 10128
+
+    MAIN_ADDRESS: 133 E 91st StNew York, NY 10128
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: East 91st Street
+
+    FORMATTED_ADDRESS: 133 E 91st St, New York, NY 10128, USA
+
+    LATITUDE: 40.7829849
+
+    LONGITUDE: -73.9535589

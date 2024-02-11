@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Coldwell Banker Signature Prop
+
+    TYPE: Co-op for sale
+
+    PRICE: 115000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 550.0
+
+    ADDRESS: 306 E Mosholu Pkwy S Apt 5C
+
+    STATE: Bronx, NY 10458
+
+    MAIN_ADDRESS: 306 E Mosholu Pkwy S Apt 5CBronx, NY 10458
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: West Bronx
+
+    LONG_NAME: 306
+
+    FORMATTED_ADDRESS: 306 E Mosholu Pkwy S #5c, Bronx, NY 10458, USA
+
+    LATITUDE: 40.8716219
+
+    LONGITUDE: -73.8826018

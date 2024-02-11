@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Realty Group
+
+    TYPE: Co-op for sale
+
+    PRICE: 325000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 622.0
+
+    ADDRESS: 525 W 134th St Apt 2E
+
+    STATE: New York, NY 10031
+
+    MAIN_ADDRESS: 525 W 134th St Apt 2ENew York, NY 10031
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 525
+
+    FORMATTED_ADDRESS: 525 W 134th St #2e, New York, NY 10031, USA
+
+    LATITUDE: 40.8192151
+
+    LONGITUDE: -73.9544658

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by BERGEN BASIN REALTY
+
+    TYPE: House for sale
+
+    PRICE: 2950000
+
+    BEDS: 6
+
+    BATH: 5.0
+
+    PROPERTYSQFT: 5436.0
+
+    ADDRESS: 2390 National Dr
+
+    STATE: Brooklyn, NY 11234
+
+    MAIN_ADDRESS: 2390 National DrBrooklyn, NY 11234
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: National Drive
+
+    FORMATTED_ADDRESS: 2390 National Dr, Brooklyn, NY 11234, USA
+
+    LATITUDE: 40.6037688
+
+    LONGITUDE: -73.9113665

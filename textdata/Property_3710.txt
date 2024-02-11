@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Co-op for sale
+
+    PRICE: 595000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 19 E 73rd St Unit Medical
+
+    STATE: Manhattan, NY 10021
+
+    MAIN_ADDRESS: 19 E 73rd St Unit MedicalManhattan, NY 10021
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: East 73rd Street
+
+    FORMATTED_ADDRESS: 19 E 73rd St, New York, NY 10021, USA
+
+    LATITUDE: 40.7728688
+
+    LONGITUDE: -73.9653065

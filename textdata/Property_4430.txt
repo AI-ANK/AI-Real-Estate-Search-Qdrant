@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Real Estate Executives
+
+    TYPE: House for sale
+
+    PRICE: 1249949
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2720.0
+
+    ADDRESS: 25 Sanford St
+
+    STATE: Staten Island, NY 10307
+
+    MAIN_ADDRESS: 25 Sanford StStaten Island, NY 10307
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Sanford Street
+
+    FORMATTED_ADDRESS: 25 Sanford St, Staten Island, NY 10307, USA
+
+    LATITUDE: 40.5107574
+
+    LONGITUDE: -74.239192

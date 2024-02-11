@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Gosen Properties Inc
+
+    TYPE: Townhouse for sale
+
+    PRICE: 2649000
+
+    BEDS: 5
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 4050.0
+
+    ADDRESS: 282 Macon St
+
+    STATE: Brooklyn, NY 11216
+
+    MAIN_ADDRESS: 282 Macon StBrooklyn, NY 11216
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Macon Street
+
+    FORMATTED_ADDRESS: 282 Macon St, Brooklyn, NY 11216, USA
+
+    LATITUDE: 40.6820924
+
+    LONGITUDE: -73.9393924

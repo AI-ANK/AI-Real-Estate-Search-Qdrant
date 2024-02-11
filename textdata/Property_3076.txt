@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Hometime Estates LLC
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 988000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 3061.0
+
+    ADDRESS: 251 Kelly Blvd
+
+    STATE: Staten Island, NY 10314
+
+    MAIN_ADDRESS: 251 Kelly BlvdStaten Island, NY 10314
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Kelly Boulevard
+
+    FORMATTED_ADDRESS: 251 Kelly Blvd, Staten Island, NY 10314, USA
+
+    LATITUDE: 40.5838227
+
+    LONGITUDE: -74.1568196

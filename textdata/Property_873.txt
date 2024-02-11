@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Townhouse for sale
+
+    PRICE: 7400000
+
+    BEDS: 4
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 3700.0
+
+    ADDRESS: 413 Degraw St
+
+    STATE: Brooklyn, NY 11217
+
+    MAIN_ADDRESS: 413 Degraw StBrooklyn, NY 11217
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Degraw Street
+
+    FORMATTED_ADDRESS: 413 Degraw St, Brooklyn, NY 11217, USA
+
+    LATITUDE: 40.6820656
+
+    LONGITUDE: -73.9903833

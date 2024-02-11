@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Reserve
+
+    TYPE: Co-op for sale
+
+    PRICE: 32000000
+
+    BEDS: 4
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 7500.0
+
+    ADDRESS: 383 W Broadway
+
+    STATE: New York, NY 10012
+
+    MAIN_ADDRESS: 383 W BroadwayNew York, NY 10012
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: West Broadway
+
+    FORMATTED_ADDRESS: 383 W Broadway, New York, NY 10012, USA
+
+    LATITUDE: 40.7237571
+
+    LONGITUDE: -74.0021582

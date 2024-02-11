@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Howard Hanna | Rand Realty
+
+    TYPE: Co-op for sale
+
+    PRICE: 350000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 850.0
+
+    ADDRESS: 2440 Amsterdam Ave Apt 2I
+
+    STATE: New York, NY 10033
+
+    MAIN_ADDRESS: 2440 Amsterdam Ave Apt 2INew York, NY 10033
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 2440
+
+    FORMATTED_ADDRESS: 2440 Amsterdam Ave #2a, New York, NY 10033, USA
+
+    LATITUDE: 40.8485417
+
+    LONGITUDE: -73.930871

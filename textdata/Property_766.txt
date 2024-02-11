@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Homesmart Premier Living Rlty
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 949999
+
+    BEDS: 5
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1740.0
+
+    ADDRESS: 109-42 Centreville St
+
+    STATE: Ozone Park, NY 11417
+
+    MAIN_ADDRESS: 109-42 Centreville StOzone Park, NY 11417
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Centreville Street
+
+    FORMATTED_ADDRESS: 109-42 Centreville St, Jamaica, NY 11417, USA
+
+    LATITUDE: 40.6778227
+
+    LONGITUDE: -73.8350282

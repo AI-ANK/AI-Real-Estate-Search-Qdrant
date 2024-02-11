@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Fort Greene
+
+    TYPE: Co-op for sale
+
+    PRICE: 350000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 319 E 50th St Apt 8F
+
+    STATE: New York, NY 10022
+
+    MAIN_ADDRESS: 319 E 50th St Apt 8FNew York, NY 10022
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 319
+
+    FORMATTED_ADDRESS: 319 E 50th St #8f, New York, NY 10022, USA
+
+    LATITUDE: 40.7546656
+
+    LONGITUDE: -73.9675207

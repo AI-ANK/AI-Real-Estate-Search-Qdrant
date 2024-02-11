@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Oxford Property Group
+
+    TYPE: Co-op for sale
+
+    PRICE: 425000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 504 W 135th St Apt 1B
+
+    STATE: New York, NY 10031
+
+    MAIN_ADDRESS: 504 W 135th St Apt 1BNew York, NY 10031
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 504
+
+    FORMATTED_ADDRESS: 504 W 135th St #1b, New York, NY 10031, USA
+
+    LATITUDE: 40.8189893
+
+    LONGITUDE: -73.953108

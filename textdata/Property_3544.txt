@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 575 Madison Ave
+
+    TYPE: Townhouse for sale
+
+    PRICE: 4895000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 3622.0
+
+    ADDRESS: 66 Reade St Unit Th
+
+    STATE: New York, NY 10007
+
+    MAIN_ADDRESS: 66 Reade St Unit ThNew York, NY 10007
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: Reade Street
+
+    FORMATTED_ADDRESS: 66 Reade St, New York, NY 10007, USA
+
+    LATITUDE: 40.7151591
+
+    LONGITUDE: -74.006685

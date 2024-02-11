@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE/MAX Team
+
+    TYPE: Co-op for sale
+
+    PRICE: 289000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 2199 Holland Ave Apt 5N
+
+    STATE: Bronx, NY 10462
+
+    MAIN_ADDRESS: 2199 Holland Ave Apt 5NBronx, NY 10462
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: East Bronx
+
+    LONG_NAME: 2199
+
+    FORMATTED_ADDRESS: 2199 Holland Ave #5n, Bronx, NY 10462, USA
+
+    LATITUDE: 40.8563536
+
+    LONGITUDE: -73.865974

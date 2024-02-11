@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS REALTY CENTRAL INC
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1560000
+
+    BEDS: 5
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 1919 67th St
+
+    STATE: Brooklyn, NY 11204
+
+    MAIN_ADDRESS: 1919 67th StBrooklyn, NY 11204
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: 67th Street
+
+    FORMATTED_ADDRESS: 1919 67th St, Brooklyn, NY 11204, USA
+
+    LATITUDE: 40.6165009
+
+    LONGITUDE: -73.9885469

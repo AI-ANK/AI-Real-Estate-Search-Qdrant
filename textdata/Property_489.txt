@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 280000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1100.0
+
+    ADDRESS: 1506 Overing St Unit STR3
+
+    STATE: Bronx, NY 10461
+
+    MAIN_ADDRESS: 1506 Overing St Unit STR3Bronx, NY 10461
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: Westchester Square
+
+    LONG_NAME: 1506
+
+    FORMATTED_ADDRESS: 1506 Overing St str3, Bronx, NY 10461, USA
+
+    LATITUDE: 40.8409736
+
+    LONGITUDE: -73.8456248

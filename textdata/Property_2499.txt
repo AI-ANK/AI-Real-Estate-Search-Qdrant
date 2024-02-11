@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by NEXT - NextStopNY
+
+    TYPE: Co-op for sale
+
+    PRICE: 2095000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 345 E 56th St Ph C
+
+    STATE: New York, NY 10022
+
+    MAIN_ADDRESS: 345 E 56th St Ph CNew York, NY 10022
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: East 56th Street
+
+    FORMATTED_ADDRESS: 345 E 56th St, New York, NY 10022, USA
+
+    LATITUDE: 40.7579677
+
+    LONGITUDE: -73.9636757

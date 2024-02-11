@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Rty Gold Coast
+
+    TYPE: House for sale
+
+    PRICE: 2100000
+
+    BEDS: 4
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 3512.0
+
+    ADDRESS: 150-123 Powells Cove Blvd
+
+    STATE: Whitestone, NY 11357
+
+    MAIN_ADDRESS: 150-123 Powells Cove BlvdWhitestone, NY 11357
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Powells Cove Boulevard
+
+    FORMATTED_ADDRESS: 150-123 Powells Cove Blvd, Whitestone, NY 11357, USA
+
+    LATITUDE: 40.7974719
+
+    LONGITUDE: -73.8143638

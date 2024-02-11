@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Co-op for sale
+
+    PRICE: 359000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 850.0
+
+    ADDRESS: 1901 Madison Ave Apt 412
+
+    STATE: Manhattan, NY 10035
+
+    MAIN_ADDRESS: 1901 Madison Ave Apt 412Manhattan, NY 10035
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 1901
+
+    FORMATTED_ADDRESS: 1901 Madison Ave Apt 412, New York, NY 10035, USA
+
+    LATITUDE: 40.804259
+
+    LONGITUDE: -73.9415268

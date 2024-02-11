@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sovereign Realty Of Ny Inc
+
+    TYPE: Land for sale
+
+    PRICE: 199000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 164th Dr
+
+    STATE: Howard Beach, NY 11414
+
+    MAIN_ADDRESS: 164th DrHoward Beach, NY 11414
+
+    ADMINISTRATIVE_AREA_LEVEL_2: 11414
+
+    LOCALITY: United States
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Queens County
+
+    LONG_NAME: Old Howard Beach
+
+    FORMATTED_ADDRESS: 164th Dr, Queens, NY 11414, USA
+
+    LATITUDE: 40.6511537
+
+    LONGITUDE: -73.8284146

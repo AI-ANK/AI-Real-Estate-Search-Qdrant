@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Amerihomes Realty Of Ny Inc
+
+    TYPE: Co-op for sale
+
+    PRICE: 265000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 900.0
+
+    ADDRESS: 2461 E 29th St Apt 3F
+
+    STATE: Brooklyn, NY 11235
+
+    MAIN_ADDRESS: 2461 E 29th St Apt 3FBrooklyn, NY 11235
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Sheepshead Bay
+
+    LONG_NAME: 2461
+
+    FORMATTED_ADDRESS: 2461 E 29th St #3f, Brooklyn, NY 11235, USA
+
+    LATITUDE: 40.5920038
+
+    LONGITUDE: -73.9410354

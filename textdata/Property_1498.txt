@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Edge
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 999900
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2024.0
+
+    ADDRESS: 29 Bay 10th St
+
+    STATE: Brooklyn, NY 11228
+
+    MAIN_ADDRESS: 29 Bay 10th StBrooklyn, NY 11228
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Bay 10th Street
+
+    FORMATTED_ADDRESS: 29 Bay 10th St, Brooklyn, NY 11228, USA
+
+    LATITUDE: 40.6101839
+
+    LONGITUDE: -74.009209

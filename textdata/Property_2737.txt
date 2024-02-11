@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Han Tang Realty Inc.
+
+    TYPE: Condo for sale
+
+    PRICE: 285000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 835.0
+
+    ADDRESS: 1527 Metropolitan Ave Apt 4G
+
+    STATE: Bronx, NY 10462
+
+    MAIN_ADDRESS: 1527 Metropolitan Ave Apt 4GBronx, NY 10462
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: Parkchester
+
+    LONG_NAME: 1527
+
+    FORMATTED_ADDRESS: 1527 Metropolitan Ave #4g, Bronx, NY 10462, USA
+
+    LATITUDE: 40.8396194
+
+    LONGITUDE: -73.8587548

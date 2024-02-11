@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Townhouse for sale
+
+    PRICE: 2600000
+
+    BEDS: 5
+
+    BATH: 5.0
+
+    PROPERTYSQFT: 4057.0
+
+    ADDRESS: 65 Gates Ave
+
+    STATE: Brooklyn, NY 11238
+
+    MAIN_ADDRESS: 65 Gates AveBrooklyn, NY 11238
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Gates Avenue
+
+    FORMATTED_ADDRESS: 65 Gates Ave, Brooklyn, NY 11238, USA
+
+    LATITUDE: 40.6846326
+
+    LONGITUDE: -73.9660028

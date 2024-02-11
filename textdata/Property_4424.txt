@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Tudor Realty Services Corp. - Tudor Realty Services Corp.
+
+    TYPE: Co-op for sale
+
+    PRICE: 269500
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 2080-2090 Barnes Ave Unit 5B
+
+    STATE: Bronx, NY 10462
+
+    MAIN_ADDRESS: 2080-2090 Barnes Ave Unit 5BBronx, NY 10462
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: East Bronx
+
+    LONG_NAME: 2080
+
+    FORMATTED_ADDRESS: 2080 Barnes Ave #2090, Bronx, NY 10462, USA
+
+    LATITUDE: 40.8531021
+
+    LONGITUDE: -73.8636237

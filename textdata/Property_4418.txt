@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Accord Homes Realty
+
+    TYPE: Condo for sale
+
+    PRICE: 309000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 862.0
+
+    ADDRESS: 1505 Archer Rd Apt 2D
+
+    STATE: Bronx, NY 10462
+
+    MAIN_ADDRESS: 1505 Archer Rd Apt 2DBronx, NY 10462
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: Parkchester
+
+    LONG_NAME: 1505
+
+    FORMATTED_ADDRESS: 1505 Archer Rd #2d, Bronx, NY 10462, USA
+
+    LATITUDE: 40.8385018
+
+    LONGITUDE: -73.86211

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - Central Nassau
+
+    TYPE: Pending
+
+    PRICE: 400000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 280 Dean St Apt 23
+
+    STATE: Brooklyn, NY 11217
+
+    MAIN_ADDRESS: 280 Dean St Apt 23Brooklyn, NY 11217
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Boerum Hill
+
+    LONG_NAME: 280
+
+    FORMATTED_ADDRESS: 280 Dean St Apartment 23, Brooklyn, NY 11217, USA
+
+    LATITUDE: 40.684191
+
+    LONGITUDE: -73.982522

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Pride Estates
+
+    TYPE: Co-op for sale
+
+    PRICE: 185000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 854.0
+
+    ADDRESS: 2250 Brigham St Apt 3G
+
+    STATE: Brooklyn, NY 11229
+
+    MAIN_ADDRESS: 2250 Brigham St Apt 3GBrooklyn, NY 11229
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Sheepshead Bay
+
+    LONG_NAME: 2250
+
+    FORMATTED_ADDRESS: 2250 Brigham St #3g, Brooklyn, NY 11229, USA
+
+    LATITUDE: 40.5977235
+
+    LONGITUDE: -73.9352176

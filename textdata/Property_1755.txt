@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by CAROZZA NICHOLAS M
+
+    TYPE: House for sale
+
+    PRICE: 638000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1728.0
+
+    ADDRESS: 154 Revere Ave Unit 5589/141
+
+    STATE: Nyc, NY 10465
+
+    MAIN_ADDRESS: 154 Revere Ave Unit 5589/141Nyc, NY 10465
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: East Bronx
+
+    LONG_NAME: 154
+
+    FORMATTED_ADDRESS: 154 Revere Ave #5589, Bronx, NY 10465, USA
+
+    LATITUDE: 40.814845
+
+    LONGITUDE: -73.8159564

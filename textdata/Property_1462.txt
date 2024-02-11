@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 1995 Broadway
+
+    TYPE: Co-op for sale
+
+    PRICE: 175000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 275 Webster Ave Apt 6G
+
+    STATE: Brooklyn, NY 11230
+
+    MAIN_ADDRESS: 275 Webster Ave Apt 6GBrooklyn, NY 11230
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Kensington
+
+    LONG_NAME: 275
+
+    FORMATTED_ADDRESS: 275 Webster Ave #6g, Brooklyn, NY 11230, USA
+
+    LATITUDE: 40.6329634
+
+    LONGITUDE: -73.9709274

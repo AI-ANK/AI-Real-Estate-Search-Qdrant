@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran SoHo
+
+    TYPE: Co-op for sale
+
+    PRICE: 3345000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 3000.0
+
+    ADDRESS: 151 W 86th St Apt 3D
+
+    STATE: New York, NY 10024
+
+    MAIN_ADDRESS: 151 W 86th St Apt 3DNew York, NY 10024
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 151
+
+    FORMATTED_ADDRESS: 151 W 86th St #3d, New York, NY 10024, USA
+
+    LATITUDE: 40.7875112
+
+    LONGITUDE: -73.9739349

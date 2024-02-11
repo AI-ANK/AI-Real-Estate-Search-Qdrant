@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Anita Loewy
+
+    TYPE: Condo for sale
+
+    PRICE: 2795000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1372.0
+
+    ADDRESS: 20 W 64th St Unit 18K
+
+    STATE: New York, NY 10023
+
+    MAIN_ADDRESS: 20 W 64th St Unit 18KNew York, NY 10023
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York County
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Manhattan
+
+    STREET_NAME: West 64th Street
+
+    LONG_NAME: 1 Lincoln Plaza
+
+    FORMATTED_ADDRESS: 1 Lincoln Plaza, 20 W 64th St #18b, New York, NY 10023, USA
+
+    LATITUDE: 40.7716812
+
+    LONGITUDE: -73.9815796

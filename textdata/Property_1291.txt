@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by REALHome Services & Solutions
+
+    TYPE: House for sale
+
+    PRICE: 911600
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1596.0
+
+    ADDRESS: 32-26 Parsons Blvd
+
+    STATE: Flushing, NY 11354
+
+    MAIN_ADDRESS: 32-26 Parsons BlvdFlushing, NY 11354
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Parsons Boulevard
+
+    FORMATTED_ADDRESS: 32-26 Parsons Blvd, Flushing, NY 11354, USA
+
+    LATITUDE: 40.7685072
+
+    LONGITUDE: -73.8246067

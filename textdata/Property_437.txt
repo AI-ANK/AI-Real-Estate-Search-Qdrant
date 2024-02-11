@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Blooming Realty
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 678990
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1575.0
+
+    ADDRESS: 155 Wellbrook Ave
+
+    STATE: Staten Island, NY 10314
+
+    MAIN_ADDRESS: 155 Wellbrook AveStaten Island, NY 10314
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Wellbrook Avenue
+
+    FORMATTED_ADDRESS: 155 Wellbrook Ave, Staten Island, NY 10314, USA
+
+    LATITUDE: 40.6012318
+
+    LONGITUDE: -74.1300175

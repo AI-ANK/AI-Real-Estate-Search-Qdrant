@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brownstone Real Estate LLC - Carroll Gardens
+
+    TYPE: Townhouse for sale
+
+    PRICE: 3200000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 3200.0
+
+    ADDRESS: 556 Henry St
+
+    STATE: Brooklyn, NY 11231
+
+    MAIN_ADDRESS: 556 Henry StBrooklyn, NY 11231
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Henry Street
+
+    FORMATTED_ADDRESS: 556 Henry St, Brooklyn, NY 11231, USA
+
+    LATITUDE: 40.6820276
+
+    LONGITUDE: -74.000601

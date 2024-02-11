@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - Merrick
+
+    TYPE: Co-op for sale
+
+    PRICE: 169999
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 153-25 88th St Unit 2F
+
+    STATE: Howard Beach, NY 11414
+
+    MAIN_ADDRESS: 153-25 88th St Unit 2FHoward Beach, NY 11414
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Howard Beach
+
+    LONG_NAME: 153-25
+
+    FORMATTED_ADDRESS: 153-25 88th St #2f, Howard Beach, NY 11414, USA
+
+    LATITUDE: 40.6661012
+
+    LONGITUDE: -73.8471882

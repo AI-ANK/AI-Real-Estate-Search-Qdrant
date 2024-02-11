@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran SoHo
+
+    TYPE: Co-op for sale
+
+    PRICE: 565000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 78 8th Ave Apt 2K
+
+    STATE: Brooklyn, NY 11215
+
+    MAIN_ADDRESS: 78 8th Ave Apt 2KBrooklyn, NY 11215
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Park Slope
+
+    LONG_NAME: 78
+
+    FORMATTED_ADDRESS: 78 8th Ave #2k, Brooklyn, NY 11215, USA
+
+    LATITUDE: 40.6733809
+
+    LONGITUDE: -73.9732475

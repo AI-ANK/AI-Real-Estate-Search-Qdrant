@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Townhouse for sale
+
+    PRICE: 2395000
+
+    BEDS: 6
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 3972.0
+
+    ADDRESS: 438 W 162nd St Unit Townhouse
+
+    STATE: Manhattan, NY 10032
+
+    MAIN_ADDRESS: 438 W 162nd St Unit TownhouseManhattan, NY 10032
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: West 162nd Street
+
+    FORMATTED_ADDRESS: 438 W 162nd St, New York, NY 10032, USA
+
+    LATITUDE: 40.8351954
+
+    LONGITUDE: -73.9390016

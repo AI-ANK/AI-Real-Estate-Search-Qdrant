@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Bedford Stuyvesant
+
+    TYPE: Townhouse for sale
+
+    PRICE: 4395000
+
+    BEDS: 5
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 425 Pacific St
+
+    STATE: Brooklyn, NY 11217
+
+    MAIN_ADDRESS: 425 Pacific StBrooklyn, NY 11217
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Pacific Street
+
+    FORMATTED_ADDRESS: 425 Pacific St, Brooklyn, NY 11217, USA
+
+    LATITUDE: 40.6859683
+
+    LONGITUDE: -73.9839494

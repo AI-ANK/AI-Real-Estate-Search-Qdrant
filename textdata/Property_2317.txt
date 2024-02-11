@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Condo for sale
+
+    PRICE: 8250000
+
+    BEDS: 6
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 3920.0
+
+    ADDRESS: 306 Mott St Unit Phtriplex
+
+    STATE: Manhattan, NY 10012
+
+    MAIN_ADDRESS: 306 Mott St Unit PhtriplexManhattan, NY 10012
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: Mott Street
+
+    FORMATTED_ADDRESS: 306 Mott St, New York, NY 10012, USA
+
+    LATITUDE: 40.7250022
+
+    LONGITUDE: -73.9938611

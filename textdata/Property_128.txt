@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Midas Realty
+
+    TYPE: Condo for sale
+
+    PRICE: 759000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1200.0
+
+    ADDRESS: 206-04 Emily Rd Unit 37M
+
+    STATE: Bayside, NY 11360
+
+    MAIN_ADDRESS: 206-04 Emily Rd Unit 37MBayside, NY 11360
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Bayside
+
+    LONG_NAME: 206-4
+
+    FORMATTED_ADDRESS: 206-4 Emily Rd #37, Bayside, NY 11360, USA
+
+    LATITUDE: 40.7881763
+
+    LONGITUDE: -73.7877051

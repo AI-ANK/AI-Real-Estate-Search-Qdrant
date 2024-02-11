@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Andron Realty Group Tulip R E
+
+    TYPE: House for sale
+
+    PRICE: 888000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 84-49 264th St
+
+    STATE: Floral Park, NY 11001
+
+    MAIN_ADDRESS: 84-49 264th StFloral Park, NY 11001
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 264th Street
+
+    FORMATTED_ADDRESS: 84-49 264th St, Queens, NY 11001, USA
+
+    LATITUDE: 40.7367436
+
+    LONGITUDE: -73.7039037

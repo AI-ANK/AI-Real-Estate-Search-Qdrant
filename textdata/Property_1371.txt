@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Condo for sale
+
+    PRICE: 28000000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 5000.0
+
+    ADDRESS: 443 Greenwich St Ph E
+
+    STATE: Manhattan, NY 10013
+
+    MAIN_ADDRESS: 443 Greenwich St Ph EManhattan, NY 10013
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 443
+
+    FORMATTED_ADDRESS: 443 Greenwich St Ph E, New York, NY 10013, USA
+
+    LATITUDE: 40.7229769
+
+    LONGITUDE: -74.0093524

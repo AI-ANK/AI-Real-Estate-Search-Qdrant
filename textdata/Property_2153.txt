@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by NEUHAUS REALTY INC.
+
+    TYPE: House for sale
+
+    PRICE: 799999
+
+    BEDS: 3
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2337.0
+
+    ADDRESS: 619 Johnston Ter
+
+    STATE: Staten Island, NY 10309
+
+    MAIN_ADDRESS: 619 Johnston TerStaten Island, NY 10309
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Johnston Terrace
+
+    FORMATTED_ADDRESS: 619 Johnston Terrace, Staten Island, NY 10309, USA
+
+    LATITUDE: 40.513375
+
+    LONGITUDE: -74.202668

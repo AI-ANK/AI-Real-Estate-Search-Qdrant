@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by 5 Boro Realty Corp
+
+    TYPE: House for sale
+
+    PRICE: 1299999
+
+    BEDS: 6
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2068.0
+
+    ADDRESS: 32 E 55th St
+
+    STATE: Brooklyn, NY 11203
+
+    MAIN_ADDRESS: 32 E 55th StBrooklyn, NY 11203
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: East 55th Street
+
+    FORMATTED_ADDRESS: 32 E 55th St, Brooklyn, NY 11203, USA
+
+    LATITUDE: 40.6575904
+
+    LONGITUDE: -73.9264561

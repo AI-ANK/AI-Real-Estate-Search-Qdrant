@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Chelsea/Flatiron
+
+    TYPE: Condo for sale
+
+    PRICE: 13000000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 3844.0
+
+    ADDRESS: 385 W 12th St Ph W
+
+    STATE: New York, NY 10014
+
+    MAIN_ADDRESS: 385 W 12th St Ph WNew York, NY 10014
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: West 12th Street
+
+    FORMATTED_ADDRESS: 385 W 12th St, New York, NY 10014, USA
+
+    LATITUDE: 40.7377131
+
+    LONGITUDE: -74.0087585

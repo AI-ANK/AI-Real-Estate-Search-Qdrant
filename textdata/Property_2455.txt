@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Pending
+
+    PRICE: 225000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 600.0
+
+    ADDRESS: 535 W 163rd St Apt 3
+
+    STATE: Manhattan, NY 10032
+
+    MAIN_ADDRESS: 535 W 163rd St Apt 3Manhattan, NY 10032
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 535
+
+    FORMATTED_ADDRESS: 535 W 163rd St #3, New York, NY 10032, USA
+
+    LATITUDE: 40.8375103
+
+    LONGITUDE: -73.9407123

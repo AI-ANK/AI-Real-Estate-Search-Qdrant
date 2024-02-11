@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Wilk Real Estate I Llc
+
+    TYPE: House for sale
+
+    PRICE: 1389000
+
+    BEDS: 7
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 1016 Gravesend Neck Rd
+
+    STATE: Brooklyn, NY 11223
+
+    MAIN_ADDRESS: 1016 Gravesend Neck RdBrooklyn, NY 11223
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Gravesend Neck Road
+
+    FORMATTED_ADDRESS: 1016 Gravesend Neck Rd, Brooklyn, NY 11223, USA
+
+    LATITUDE: 40.5943151
+
+    LONGITUDE: -73.9602134

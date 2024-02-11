@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran East Side
+
+    TYPE: Condo for sale
+
+    PRICE: 7600000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 3216.0
+
+    ADDRESS: 100 Barclay St Apt 20C
+
+    STATE: New York, NY 10007
+
+    MAIN_ADDRESS: 100 Barclay St Apt 20CNew York, NY 10007
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 100
+
+    FORMATTED_ADDRESS: 100 Barclay St #20c, New York, NY 10007, USA
+
+    LATITUDE: 40.7139639
+
+    LONGITUDE: -74.0127212

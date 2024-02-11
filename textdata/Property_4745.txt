@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Townhouse for sale
+
+    PRICE: 10500000
+
+    BEDS: 7
+
+    BATH: 10.0
+
+    PROPERTYSQFT: 7040.0
+
+    ADDRESS: 115-117 W 87th St Unit Townhouse
+
+    STATE: Manhattan, NY 10024
+
+    MAIN_ADDRESS: 115-117 W 87th St Unit TownhouseManhattan, NY 10024
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: West 87th Street
+
+    FORMATTED_ADDRESS: 115 W 87th St, New York, NY 10024, USA
+
+    LATITUDE: 40.7875734
+
+    LONGITUDE: -73.9721327

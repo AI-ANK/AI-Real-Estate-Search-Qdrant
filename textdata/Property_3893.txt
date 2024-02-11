@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 1595000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 210 Riverside Dr Apt 6B
+
+    STATE: Manhattan, NY 10025
+
+    MAIN_ADDRESS: 210 Riverside Dr Apt 6BManhattan, NY 10025
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 210
+
+    FORMATTED_ADDRESS: 210 Riverside Dr #6b, New York, NY 10025, USA
+
+    LATITUDE: 40.7942107
+
+    LONGITUDE: -73.9761618

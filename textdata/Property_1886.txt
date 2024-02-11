@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Serhant
+
+    TYPE: Townhouse for sale
+
+    PRICE: 5999999
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 4375.0
+
+    ADDRESS: 310 E 69th St
+
+    STATE: New York, NY 10021
+
+    MAIN_ADDRESS: 310 E 69th StNew York, NY 10021
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: East 69th Street
+
+    FORMATTED_ADDRESS: 310 E 69th St, New York, NY 10021, USA
+
+    LATITUDE: 40.7665309
+
+    LONGITUDE: -73.9594908

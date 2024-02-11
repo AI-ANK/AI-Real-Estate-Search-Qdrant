@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran SoHo
+
+    TYPE: Co-op for sale
+
+    PRICE: 439000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 475.0
+
+    ADDRESS: 54 E 8th St Apt 3L
+
+    STATE: New York, NY 10003
+
+    MAIN_ADDRESS: 54 E 8th St Apt 3LNew York, NY 10003
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 54
+
+    FORMATTED_ADDRESS: 54 E 8th St #3l, New York, NY 10003, USA
+
+    LATITUDE: 40.7308814
+
+    LONGITUDE: -73.9937801

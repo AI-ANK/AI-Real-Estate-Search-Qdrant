@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Real Broker NY LLC
+
+    TYPE: House for sale
+
+    PRICE: 699900
+
+    BEDS: 5
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1827.0
+
+    ADDRESS: 87-37 90th St
+
+    STATE: Woodhaven, NY 11421
+
+    MAIN_ADDRESS: 87-37 90th StWoodhaven, NY 11421
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 90th Street
+
+    FORMATTED_ADDRESS: 87-37 90th St, Jamaica, NY 11421, USA
+
+    LATITUDE: 40.6917678
+
+    LONGITUDE: -73.8540537

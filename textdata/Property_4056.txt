@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Ozana Realty Group
+
+    TYPE: House for sale
+
+    PRICE: 632000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1496.0
+
+    ADDRESS: 40 Princeton Ln
+
+    STATE: Staten Island, NY 10312
+
+    MAIN_ADDRESS: 40 Princeton LnStaten Island, NY 10312
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Princeton Lane
+
+    FORMATTED_ADDRESS: 40 Princeton Ln, Staten Island, NY 10312, USA
+
+    LATITUDE: 40.5533858
+
+    LONGITUDE: -74.1974018

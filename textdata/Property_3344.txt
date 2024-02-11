@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran West Side
+
+    TYPE: Co-op for sale
+
+    PRICE: 4675000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 180 Riverside Dr Apt 8A
+
+    STATE: New York, NY 10024
+
+    MAIN_ADDRESS: 180 Riverside Dr Apt 8ANew York, NY 10024
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 180
+
+    FORMATTED_ADDRESS: 180 Riverside Dr #8a, New York, NY 10024, USA
+
+    LATITUDE: 40.7920875
+
+    LONGITUDE: -73.9773027

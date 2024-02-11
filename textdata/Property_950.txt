@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 575 Madison Ave
+
+    TYPE: House for sale
+
+    PRICE: 1625000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2743.0
+
+    ADDRESS: 269 W 87th St Apt 7A
+
+    STATE: New York, NY 10024
+
+    MAIN_ADDRESS: 269 W 87th St Apt 7ANew York, NY 10024
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 269
+
+    FORMATTED_ADDRESS: 269 W 87th St #7a, New York, NY 10024, USA
+
+    LATITUDE: 40.7895034
+
+    LONGITUDE: -73.9769713

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Community Home Sales Inc
+
+    TYPE: Condo for sale
+
+    PRICE: 385000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 919.0
+
+    ADDRESS: 12205 Flatlands Ave Apt 3H
+
+    STATE: Brooklyn, NY 11207
+
+    MAIN_ADDRESS: 12205 Flatlands Ave Apt 3HBrooklyn, NY 11207
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: East New York
+
+    LONG_NAME: 12205
+
+    FORMATTED_ADDRESS: 12205 Flatlands Ave #3h, Brooklyn, NY 11207, USA
+
+    LATITUDE: 40.6543591
+
+    LONGITUDE: -73.8837899

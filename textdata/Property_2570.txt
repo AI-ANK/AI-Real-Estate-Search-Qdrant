@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Serhant
+
+    TYPE: Townhouse for sale
+
+    PRICE: 12995000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 5608.0
+
+    ADDRESS: 129 E 70th St
+
+    STATE: New York, NY 10021
+
+    MAIN_ADDRESS: 129 E 70th StNew York, NY 10021
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: East 70th Street
+
+    FORMATTED_ADDRESS: 129 E 70th St, New York, NY 10021, USA
+
+    LATITUDE: 40.7694487
+
+    LONGITUDE: -73.9634625

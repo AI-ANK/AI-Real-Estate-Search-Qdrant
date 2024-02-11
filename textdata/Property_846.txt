@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Momentum Real Estate Llc
+
+    TYPE: House for sale
+
+    PRICE: 988000
+
+    BEDS: 4
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2400.0
+
+    ADDRESS: 4 Minna St
+
+    STATE: Staten Island, NY 10304
+
+    MAIN_ADDRESS: 4 Minna StStaten Island, NY 10304
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Minna Street
+
+    FORMATTED_ADDRESS: 4 Minna St, Staten Island, NY 10304, USA
+
+    LATITUDE: 40.5945187
+
+    LONGITUDE: -74.0904783

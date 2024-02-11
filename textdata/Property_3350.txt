@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Vandenberg -The Townhouse Experts
+
+    TYPE: Contingent
+
+    PRICE: 12850000
+
+    BEDS: 5
+
+    BATH: 5.0
+
+    PROPERTYSQFT: 5139.0
+
+    ADDRESS: 53 W 71st St
+
+    STATE: New York, NY 10023
+
+    MAIN_ADDRESS: 53 W 71st StNew York, NY 10023
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: West 71st Street
+
+    FORMATTED_ADDRESS: 53 W 71st St, New York, NY 10023, USA
+
+    LATITUDE: 40.7764987
+
+    LONGITUDE: -73.9782935

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Co-op for sale
+
+    PRICE: 750000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 920.0
+
+    ADDRESS: 330 Third Ave Unit 9G
+
+    STATE: Manhattan, NY 10010
+
+    MAIN_ADDRESS: 330 Third Ave Unit 9GManhattan, NY 10010
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 330
+
+    FORMATTED_ADDRESS: 330 3rd Ave Apt 9b, New York, NY 10010, USA
+
+    LATITUDE: 40.7398059
+
+    LONGITUDE: -73.982438

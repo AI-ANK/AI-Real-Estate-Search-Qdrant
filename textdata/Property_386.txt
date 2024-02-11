@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 1995 Broadway
+
+    TYPE: Co-op for sale
+
+    PRICE: 1649000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 165 W End Ave Apt 7N
+
+    STATE: New York, NY 10023
+
+    MAIN_ADDRESS: 165 W End Ave Apt 7NNew York, NY 10023
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 165
+
+    FORMATTED_ADDRESS: 165 West End Ave #7n, New York, NY 10023, USA
+
+    LATITUDE: 40.777244
+
+    LONGITUDE: -73.9868738

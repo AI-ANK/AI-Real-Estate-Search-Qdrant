@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Edge
+
+    TYPE: Co-op for sale
+
+    PRICE: 295000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 700.0
+
+    ADDRESS: 1275 E 5th St Apt 6A
+
+    STATE: Brooklyn, NY 11230
+
+    MAIN_ADDRESS: 1275 E 5th St Apt 6ABrooklyn, NY 11230
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Midwood
+
+    LONG_NAME: 1275
+
+    FORMATTED_ADDRESS: 1275 E 5th St #6a, Brooklyn, NY 11230, USA
+
+    LATITUDE: 40.6196386
+
+    LONGITUDE: -73.9707307

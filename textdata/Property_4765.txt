@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 575 Madison Ave
+
+    TYPE: Co-op for sale
+
+    PRICE: 3450000
+
+    BEDS: 3
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 1965.0
+
+    ADDRESS: 329 W 71st St Apt 4
+
+    STATE: New York, NY 10023
+
+    MAIN_ADDRESS: 329 W 71st St Apt 4New York, NY 10023
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 329
+
+    FORMATTED_ADDRESS: 329 W 71st St Apt 4, New York, NY 10023, USA
+
+    LATITUDE: 40.7794765
+
+    LONGITUDE: -73.9854258

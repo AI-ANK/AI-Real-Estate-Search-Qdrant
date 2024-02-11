@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Nest Seekers International, Tribeca
+
+    TYPE: Condo for sale
+
+    PRICE: 7750000
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 65 W 13th St Ph 1B
+
+    STATE: New York, NY 10011
+
+    MAIN_ADDRESS: 65 W 13th St Ph 1BNew York, NY 10011
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York County
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Manhattan
+
+    STREET_NAME: West 13th Street
+
+    LONG_NAME: Arnhold Hall
+
+    FORMATTED_ADDRESS: Arnhold Hall, 65 W 13th St Ph 1B, New York, NY 10011, USA
+
+    LATITUDE: 40.7366739
+
+    LONGITUDE: -73.9966616

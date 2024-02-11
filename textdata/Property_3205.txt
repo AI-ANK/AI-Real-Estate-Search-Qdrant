@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Elite
+
+    TYPE: House for sale
+
+    PRICE: 1388800
+
+    BEDS: 6
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2146.0
+
+    ADDRESS: 37 Douglas Rd
+
+    STATE: Staten Island, NY 10304
+
+    MAIN_ADDRESS: 37 Douglas RdStaten Island, NY 10304
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Douglas Road
+
+    FORMATTED_ADDRESS: 37 Douglas Rd, Staten Island, NY 10304, USA
+
+    LATITUDE: 40.6066676
+
+    LONGITUDE: -74.093461

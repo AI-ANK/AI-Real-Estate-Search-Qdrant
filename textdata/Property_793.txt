@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Edge
+
+    TYPE: House for sale
+
+    PRICE: 999000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1392.0
+
+    ADDRESS: 1648 Marine Pkwy
+
+    STATE: Brooklyn, NY 11234
+
+    MAIN_ADDRESS: 1648 Marine PkwyBrooklyn, NY 11234
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Marine Parkway
+
+    FORMATTED_ADDRESS: 1648 Marine Pkwy, Brooklyn, NY 11234, USA
+
+    LATITUDE: 40.6123969
+
+    LONGITUDE: -73.9422162

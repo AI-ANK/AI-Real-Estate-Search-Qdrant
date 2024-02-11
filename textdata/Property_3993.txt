@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Townhouse for sale
+
+    PRICE: 14995000
+
+    BEDS: 5
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 6000.0
+
+    ADDRESS: 184 E 75th St
+
+    STATE: Manhattan, NY 10021
+
+    MAIN_ADDRESS: 184 E 75th StManhattan, NY 10021
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: East 75th Street
+
+    FORMATTED_ADDRESS: 184 E 75th St, New York, NY 10021, USA
+
+    LATITUDE: 40.7719074
+
+    LONGITUDE: -73.9601359

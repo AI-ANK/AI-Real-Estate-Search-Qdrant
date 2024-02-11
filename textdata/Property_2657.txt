@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Julia B. Fee Sotheby's International Realty
+
+    TYPE: Co-op for sale
+
+    PRICE: 345000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1000.0
+
+    ADDRESS: 2711 Henry Hudson Pkwy Apt 5G
+
+    STATE: Bronx, NY 10463
+
+    MAIN_ADDRESS: 2711 Henry Hudson Pkwy Apt 5GBronx, NY 10463
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: Spuyten Duyvil
+
+    LONG_NAME: 2711
+
+    FORMATTED_ADDRESS: 2711 Henry Hudson Pkwy #5g, Bronx, NY 10463, USA
+
+    LATITUDE: 40.8819273
+
+    LONGITUDE: -73.9172822

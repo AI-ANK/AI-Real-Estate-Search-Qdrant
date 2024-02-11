@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by UNITED NATIONAL REALTY
+
+    TYPE: Condo for sale
+
+    PRICE: 449000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1440.0
+
+    ADDRESS: 1722 Forest Hill Rd
+
+    STATE: Staten Island, NY 10314
+
+    MAIN_ADDRESS: 1722 Forest Hill RdStaten Island, NY 10314
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Forest Hill Road
+
+    FORMATTED_ADDRESS: 1722 Forest Hill Rd, Staten Island, NY 10314, USA
+
+    LATITUDE: 40.580134
+
+    LONGITUDE: -74.154154

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Tiffany Moves You Inc
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 2480000
+
+    BEDS: 7
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 2740.0
+
+    ADDRESS: 57-34 159th St
+
+    STATE: Fresh Meadows, NY 11365
+
+    MAIN_ADDRESS: 57-34 159th StFresh Meadows, NY 11365
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 159th Street
+
+    FORMATTED_ADDRESS: 57-34 159th St, Flushing, NY 11365, USA
+
+    LATITUDE: 40.7411879
+
+    LONGITUDE: -73.8094885

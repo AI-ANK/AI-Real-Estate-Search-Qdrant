@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - Franklin Square
+
+    TYPE: Co-op for sale
+
+    PRICE: 319000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 960.0
+
+    ADDRESS: 58-42 251st St Unit 190
+
+    STATE: Little Neck, NY 11362
+
+    MAIN_ADDRESS: 58-42 251st St Unit 190Little Neck, NY 11362
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 251st Street
+
+    FORMATTED_ADDRESS: 58- 42 251st St, Queens, NY 11362, USA
+
+    LATITUDE: 40.7598591
+
+    LONGITUDE: -73.7290086

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Williamsburg Bedford
+
+    TYPE: Condo for sale
+
+    PRICE: 899000
+
+    BEDS: 1
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1151.0
+
+    ADDRESS: 95 Dikeman St Apt 1R
+
+    STATE: Brooklyn, NY 11231
+
+    MAIN_ADDRESS: 95 Dikeman St Apt 1RBrooklyn, NY 11231
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Red Hook
+
+    LONG_NAME: 95
+
+    FORMATTED_ADDRESS: 95 Dikeman St #1r, Brooklyn, NY 11231, USA
+
+    LATITUDE: 40.6764286
+
+    LONGITUDE: -74.013234

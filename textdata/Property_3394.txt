@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Winzone Realty Inc
+
+    TYPE: Co-op for sale
+
+    PRICE: 304900
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 850.0
+
+    ADDRESS: 68-63 108th St Unit 3D
+
+    STATE: Forest Hills, NY 11375
+
+    MAIN_ADDRESS: 68-63 108th St Unit 3DForest Hills, NY 11375
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Forest Hills
+
+    LONG_NAME: 68-63
+
+    FORMATTED_ADDRESS: 68-63 108th St #3a, Forest Hills, NY 11375, USA
+
+    LATITUDE: 40.7254109
+
+    LONGITUDE: -73.8453358

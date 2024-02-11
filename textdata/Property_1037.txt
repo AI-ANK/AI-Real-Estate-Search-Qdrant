@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by ETPG - Eastpointe Properties Group
+
+    TYPE: Co-op for sale
+
+    PRICE: 370000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 35 E 30th St Apt 6D
+
+    STATE: New York, NY 10016
+
+    MAIN_ADDRESS: 35 E 30th St Apt 6DNew York, NY 10016
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 35
+
+    FORMATTED_ADDRESS: 35 E 30th St #6d, New York, NY 10016, USA
+
+    LATITUDE: 40.7450423
+
+    LONGITUDE: -73.9839731

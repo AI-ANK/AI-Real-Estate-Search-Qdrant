@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams NYC
+
+    TYPE: Townhouse for sale
+
+    PRICE: 3200000
+
+    BEDS: 7
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2976.0
+
+    ADDRESS: 140 Hoyt St
+
+    STATE: Brooklyn, NY 11217
+
+    MAIN_ADDRESS: 140 Hoyt StBrooklyn, NY 11217
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Hoyt Street
+
+    FORMATTED_ADDRESS: 140 Hoyt St, Brooklyn, NY 11217, USA
+
+    LATITUDE: 40.6861131
+
+    LONGITUDE: -73.9882714

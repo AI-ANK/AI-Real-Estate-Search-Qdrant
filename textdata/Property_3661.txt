@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 3544 Johnson Ave
+
+    TYPE: Co-op for sale
+
+    PRICE: 1049000
+
+    BEDS: 4
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2400.0
+
+    ADDRESS: 750 Kappock St Unit 611-614
+
+    STATE: Bronx, NY 10463
+
+    MAIN_ADDRESS: 750 Kappock St Unit 611-614Bronx, NY 10463
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: Spuyten Duyvil
+
+    LONG_NAME: 750
+
+    FORMATTED_ADDRESS: 750 Kappock St 611 614, Bronx, NY 10463, USA
+
+    LATITUDE: 40.881939
+
+    LONGITUDE: -73.9204858

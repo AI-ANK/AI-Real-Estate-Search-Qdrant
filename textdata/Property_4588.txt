@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Townhouse for sale
+
+    PRICE: 4100000
+
+    BEDS: 5
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 1390 Lexington Ave
+
+    STATE: Manhattan, NY 10128
+
+    MAIN_ADDRESS: 1390 Lexington AveManhattan, NY 10128
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: Lexington Avenue
+
+    FORMATTED_ADDRESS: 1390 Lexington Ave, New York, NY 10128, USA
+
+    LATITUDE: 40.783095
+
+    LONGITUDE: -73.95318

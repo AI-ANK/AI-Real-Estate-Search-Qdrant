@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sotheby's International Realty - East Side Manhattan Brokerage
+
+    TYPE: Co-op for sale
+
+    PRICE: 4800000
+
+    BEDS: 3
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 3475.0
+
+    ADDRESS: 61 E 82nd St Apt 1A
+
+    STATE: New York, NY 10028
+
+    MAIN_ADDRESS: 61 E 82nd St Apt 1ANew York, NY 10028
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 61
+
+    FORMATTED_ADDRESS: 61 E 82nd St #1a, New York, NY 10028, USA
+
+    LATITUDE: 40.778129
+
+    LONGITUDE: -73.9598269

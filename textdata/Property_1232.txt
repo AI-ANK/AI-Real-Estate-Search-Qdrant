@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Century 21 Realty First
+
+    TYPE: Co-op for sale
+
+    PRICE: 659000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 440.0
+
+    ADDRESS: 202 Baltic St Unit 1
+
+    STATE: Brooklyn, NY 11201
+
+    MAIN_ADDRESS: 202 Baltic St Unit 1Brooklyn, NY 11201
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Cobble Hill
+
+    LONG_NAME: 202
+
+    FORMATTED_ADDRESS: 202 Baltic St # 1, Brooklyn, NY 11201, USA
+
+    LATITUDE: 40.6867525
+
+    LONGITUDE: -73.996485

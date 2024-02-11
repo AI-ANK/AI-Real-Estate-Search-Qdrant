@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Triolo Realty Group, Inc.
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1149000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1472.0
+
+    ADDRESS: 1625 W 2nd St
+
+    STATE: Brooklyn, NY 11223
+
+    MAIN_ADDRESS: 1625 W 2nd StBrooklyn, NY 11223
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: West 2nd Street
+
+    FORMATTED_ADDRESS: 1625 W 2nd St, Brooklyn, NY 11223, USA
+
+    LATITUDE: 40.6078291
+
+    LONGITUDE: -73.9755535

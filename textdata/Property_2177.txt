@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Living NY - Main Office
+
+    TYPE: Condo for sale
+
+    PRICE: 2750000
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2782.0
+
+    ADDRESS: 160 Imlay St Unit 6D2
+
+    STATE: Brooklyn, NY 11231
+
+    MAIN_ADDRESS: 160 Imlay St Unit 6D2Brooklyn, NY 11231
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Imlay Street
+
+    FORMATTED_ADDRESS: 160 Imlay St, Brooklyn, NY 11231, USA
+
+    LATITUDE: 40.6811053
+
+    LONGITUDE: -74.0098135

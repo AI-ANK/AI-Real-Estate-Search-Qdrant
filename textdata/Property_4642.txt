@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sotheby's International Realty - East Side Manhattan Brokerage
+
+    TYPE: Co-op for sale
+
+    PRICE: 6900000
+
+    BEDS: 3
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 983 Park Ave # 5B
+
+    STATE: New York, NY 10028
+
+    MAIN_ADDRESS: 983 Park Ave # 5BNew York, NY 10028
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 983
+
+    FORMATTED_ADDRESS: 983 Park Ave #5b, New York, NY 10028, USA
+
+    LATITUDE: 40.7781265
+
+    LONGITUDE: -73.9579786

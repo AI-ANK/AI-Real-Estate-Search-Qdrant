@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Neuhaus Realty, Inc.
+
+    TYPE: Contingent
+
+    PRICE: 599000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1008.0
+
+    ADDRESS: 14 Cascade St
+
+    STATE: Staten Island, NY 10306
+
+    MAIN_ADDRESS: 14 Cascade StStaten Island, NY 10306
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Cascade Street
+
+    FORMATTED_ADDRESS: 14 Cascade St, Staten Island, NY 10306, USA
+
+    LATITUDE: 40.5819307
+
+    LONGITUDE: -74.1025463

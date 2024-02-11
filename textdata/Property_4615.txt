@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Radiant Estates LLC
+
+    TYPE: House for sale
+
+    PRICE: 685000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1100.0
+
+    ADDRESS: 5197 Amboy Rd
+
+    STATE: Staten Island, NY 10312
+
+    MAIN_ADDRESS: 5197 Amboy RdStaten Island, NY 10312
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Amboy Road
+
+    FORMATTED_ADDRESS: 5197 Amboy Rd, Staten Island, NY 10312, USA
+
+    LATITUDE: 40.5351707
+
+    LONGITUDE: -74.1837439

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Townhouse for sale
+
+    PRICE: 10495000
+
+    BEDS: 7
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 5100.0
+
+    ADDRESS: 48 Garden Pl
+
+    STATE: Brooklyn, NY 11201
+
+    MAIN_ADDRESS: 48 Garden PlBrooklyn, NY 11201
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Garden Place
+
+    FORMATTED_ADDRESS: 48 Garden Pl, Brooklyn, NY 11201, USA
+
+    LATITUDE: 40.6919769
+
+    LONGITUDE: -73.9967879

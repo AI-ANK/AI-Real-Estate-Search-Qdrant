@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by East Coast Realty Partners
+
+    TYPE: Co-op for sale
+
+    PRICE: 379000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 98-20 62 Dr Unit 14H
+
+    STATE: Rego Park, NY 11374
+
+    MAIN_ADDRESS: 98-20 62 Dr Unit 14HRego Park, NY 11374
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Rego Park
+
+    LONG_NAME: 9820
+
+    FORMATTED_ADDRESS: 9820 62nd Dr Apt 14l, Rego Park, NY 11374, USA
+
+    LATITUDE: 40.7334099
+
+    LONGITUDE: -73.85851

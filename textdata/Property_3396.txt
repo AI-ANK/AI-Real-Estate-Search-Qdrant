@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Edge
+
+    TYPE: House for sale
+
+    PRICE: 999000
+
+    BEDS: 7
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2000.0
+
+    ADDRESS: 33 Avenue X
+
+    STATE: Brooklyn, NY 11223
+
+    MAIN_ADDRESS: 33 Avenue XBrooklyn, NY 11223
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Avenue X
+
+    FORMATTED_ADDRESS: 33 Avenue X, Brooklyn, NY 11223, USA
+
+    LATITUDE: 40.58955
+
+    LONGITUDE: -73.9824749

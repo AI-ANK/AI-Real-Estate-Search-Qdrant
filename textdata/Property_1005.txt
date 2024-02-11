@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sweet Key Realty Group Inc
+
+    TYPE: House for sale
+
+    PRICE: 1630000
+
+    BEDS: 7
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 47-34 Glenwood St
+
+    STATE: Little Neck, NY 11362
+
+    MAIN_ADDRESS: 47-34 Glenwood StLittle Neck, NY 11362
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Glenwood Street
+
+    FORMATTED_ADDRESS: 47-34 Glenwood St, Flushing, NY 11362, USA
+
+    LATITUDE: 40.7704732
+
+    LONGITUDE: -73.7318799

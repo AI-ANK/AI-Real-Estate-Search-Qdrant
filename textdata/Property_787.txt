@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by New York Residential R E
+
+    TYPE: Co-op for sale
+
+    PRICE: 385000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 800.0
+
+    ADDRESS: 160-34 Cross Island Pkwy Unit 6-202
+
+    STATE: Whitestone, NY 11357
+
+    MAIN_ADDRESS: 160-34 Cross Island Pkwy Unit 6-202Whitestone, NY 11357
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Whitestone
+
+    LONG_NAME: 16034
+
+    FORMATTED_ADDRESS: 16034 Cross Island Pkwy 6 202, Whitestone, NY 11357, USA
+
+    LATITUDE: 40.7865407
+
+    LONGITUDE: -73.8018825

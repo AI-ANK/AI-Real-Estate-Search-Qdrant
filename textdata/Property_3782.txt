@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran West Side
+
+    TYPE: Co-op for sale
+
+    PRICE: 7500000
+
+    BEDS: 6
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 4200.0
+
+    ADDRESS: 1045 Park Ave # 10AB
+
+    STATE: New York, NY 10028
+
+    MAIN_ADDRESS: 1045 Park Ave # 10ABNew York, NY 10028
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 1045
+
+    FORMATTED_ADDRESS: 1045 Park Ave #10a, New York, NY 10028, USA
+
+    LATITUDE: 40.7802712
+
+    LONGITUDE: -73.9567847

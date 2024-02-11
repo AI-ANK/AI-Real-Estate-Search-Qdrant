@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by BESMATCH REAL ESTATE
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 999000
+
+    BEDS: 8
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 3786.0
+
+    ADDRESS: 1118 Jackson Ave
+
+    STATE: Bronx, NY 10456
+
+    MAIN_ADDRESS: 1118 Jackson AveBronx, NY 10456
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Jackson Avenue
+
+    FORMATTED_ADDRESS: 1118 Jackson Ave, Bronx, NY 10456, USA
+
+    LATITUDE: 40.8273908
+
+    LONGITUDE: -73.9031371

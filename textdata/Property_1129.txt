@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Robert DeFalco Realty, Inc.
+
+    TYPE: Contingent
+
+    PRICE: 2473888
+
+    BEDS: 4
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 5600.0
+
+    ADDRESS: 284 Vineland Ave
+
+    STATE: Staten Island, NY 10312
+
+    MAIN_ADDRESS: 284 Vineland AveStaten Island, NY 10312
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Vineland Avenue
+
+    FORMATTED_ADDRESS: 284 Vineland Ave, Staten Island, NY 10312, USA
+
+    LATITUDE: 40.5464716
+
+    LONGITUDE: -74.1880551

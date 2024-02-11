@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Chelsea/Flatiron
+
+    TYPE: Condo for sale
+
+    PRICE: 1095000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1200.0
+
+    ADDRESS: 50 Pine St Apt 12S
+
+    STATE: New York, NY 10005
+
+    MAIN_ADDRESS: 50 Pine St Apt 12SNew York, NY 10005
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 50
+
+    FORMATTED_ADDRESS: 50 Pine St #12d, New York, NY 10005, USA
+
+    LATITUDE: 40.7069308
+
+    LONGITUDE: -74.0085978

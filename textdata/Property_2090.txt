@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Fillmore Real Estate Fusion Team, INC.
+
+    TYPE: Condo for sale
+
+    PRICE: 408000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 787.0
+
+    ADDRESS: 2121 Shore Pkwy Apt 7F
+
+    STATE: Brooklyn, NY 11214
+
+    MAIN_ADDRESS: 2121 Shore Pkwy Apt 7FBrooklyn, NY 11214
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: 2121
+
+    FORMATTED_ADDRESS: 2121 Shore Pkwy #7f, Brooklyn, NY 11214, USA
+
+    LATITUDE: 40.5856282
+
+    LONGITUDE: -73.9879851

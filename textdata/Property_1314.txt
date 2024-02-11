@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brooklyn4U Rltyof DykerHeights
+
+    TYPE: Pending
+
+    PRICE: 2300000
+
+    BEDS: 6
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 4346.0
+
+    ADDRESS: 490 Jansen St
+
+    STATE: Staten Island, NY 10312
+
+    MAIN_ADDRESS: 490 Jansen StStaten Island, NY 10312
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Jansen Street
+
+    FORMATTED_ADDRESS: 490 Jansen St, Staten Island, NY 10312, USA
+
+    LATITUDE: 40.5274146
+
+    LONGITUDE: -74.179841

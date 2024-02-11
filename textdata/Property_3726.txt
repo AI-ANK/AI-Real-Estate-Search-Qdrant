@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Robert DeFalco Realty, Inc.
+
+    TYPE: House for sale
+
+    PRICE: 874900
+
+    BEDS: 3
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 1500.0
+
+    ADDRESS: 42 Greenway Ave
+
+    STATE: Staten Island, NY 10314
+
+    MAIN_ADDRESS: 42 Greenway AveStaten Island, NY 10314
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Greenway Avenue
+
+    FORMATTED_ADDRESS: 42 Greenway Ave, Staten Island, NY 10314, USA
+
+    LATITUDE: 40.5891334
+
+    LONGITUDE: -74.1468153

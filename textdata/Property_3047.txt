@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Serhant LLC
+
+    TYPE: House for sale
+
+    PRICE: 1099999
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1100.0
+
+    ADDRESS: 19-36 75th St
+
+    STATE: East Elmhurst, NY 11370
+
+    MAIN_ADDRESS: 19-36 75th StEast Elmhurst, NY 11370
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 75th Street
+
+    FORMATTED_ADDRESS: 19-36 75th St, Flushing, NY 11370, USA
+
+    LATITUDE: 40.7709973
+
+    LONGITUDE: -73.8950248

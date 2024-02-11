@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Voyage
+
+    TYPE: House for sale
+
+    PRICE: 699000
+
+    BEDS: 6
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2223.0
+
+    ADDRESS: 873 Fox St
+
+    STATE: Bronx, NY 10459
+
+    MAIN_ADDRESS: 873 Fox StBronx, NY 10459
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Fox Street
+
+    FORMATTED_ADDRESS: 873 Fox St, Bronx, NY 10459, USA
+
+    LATITUDE: 40.818678
+
+    LONGITUDE: -73.8954715

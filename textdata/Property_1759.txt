@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Fillmore Real Estate
+
+    TYPE: House for sale
+
+    PRICE: 693000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 220-19 135th Ave
+
+    STATE: Springfield Gardens, NY 11413
+
+    MAIN_ADDRESS: 220-19 135th AveSpringfield Gardens, NY 11413
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 135th Avenue
+
+    FORMATTED_ADDRESS: 220-19 135th Ave, Jamaica, NY 11413, USA
+
+    LATITUDE: 40.6775526
+
+    LONGITUDE: -73.7497393

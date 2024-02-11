@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 575 Madison Ave
+
+    TYPE: Townhouse for sale
+
+    PRICE: 24990000
+
+    BEDS: 7
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 8500.0
+
+    ADDRESS: 6 Sutton Sq
+
+    STATE: New York, NY 10022
+
+    MAIN_ADDRESS: 6 Sutton SqNew York, NY 10022
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: Sutton Square
+
+    FORMATTED_ADDRESS: 6 Sutton Square, New York, NY 10022, USA
+
+    LATITUDE: 40.7577238
+
+    LONGITUDE: -73.9597924

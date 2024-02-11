@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Edge
+
+    TYPE: Co-op for sale
+
+    PRICE: 499000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 686.0
+
+    ADDRESS: 430 W 46th St Apt 5E
+
+    STATE: Manhattan, NY 10036
+
+    MAIN_ADDRESS: 430 W 46th St Apt 5EManhattan, NY 10036
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 430
+
+    FORMATTED_ADDRESS: 430 W 46th St #5a, New York, NY 10036, USA
+
+    LATITUDE: 40.7615546
+
+    LONGITUDE: -73.9923686

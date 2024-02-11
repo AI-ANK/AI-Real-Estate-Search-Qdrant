@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Co-op for sale
+
+    PRICE: 649000
+
+    BEDS: 1
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1000.0
+
+    ADDRESS: 45 Sutton Pl S Apt 14G
+
+    STATE: Manhattan, NY 10022
+
+    MAIN_ADDRESS: 45 Sutton Pl S Apt 14GManhattan, NY 10022
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: Sutton Place South
+
+    FORMATTED_ADDRESS: 45 Sutton Pl S, New York, NY 10022, USA
+
+    LATITUDE: 40.7556274
+
+    LONGITUDE: -73.9614685

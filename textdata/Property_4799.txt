@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by E Realty International Corp
+
+    TYPE: Condo for sale
+
+    PRICE: 598125
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 655.0
+
+    ADDRESS: 91-23 Corona Ave Unit 4G
+
+    STATE: Elmhurst, NY 11373
+
+    MAIN_ADDRESS: 91-23 Corona Ave Unit 4GElmhurst, NY 11373
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 91-23
+
+    FORMATTED_ADDRESS: 91-23 Corona Ave. #4b, Flushing, NY 11373, USA
+
+    LATITUDE: 40.7427705
+
+    LONGITUDE: -73.8727516

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sotheby's International Realty, Inc.
+
+    TYPE: Townhouse for sale
+
+    PRICE: 9950000
+
+    BEDS: 10
+
+    BATH: 10.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 22 E 93rd St
+
+    STATE: New York, NY 10128
+
+    MAIN_ADDRESS: 22 E 93rd StNew York, NY 10128
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: East 93rd Street
+
+    FORMATTED_ADDRESS: 22 E 93rd St, New York, NY 10128, USA
+
+    LATITUDE: 40.7852855
+
+    LONGITUDE: -73.9560385

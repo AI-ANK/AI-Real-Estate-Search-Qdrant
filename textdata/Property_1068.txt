@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Re/Max In The City
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1999000
+
+    BEDS: 6
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 3850.0
+
+    ADDRESS: 6140 Delafield Ave
+
+    STATE: Bronx, NY 10471
+
+    MAIN_ADDRESS: 6140 Delafield AveBronx, NY 10471
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Delafield Avenue
+
+    FORMATTED_ADDRESS: 6140 Delafield Ave, Bronx, NY 10471, USA
+
+    LATITUDE: 40.9110703
+
+    LONGITUDE: -73.9017893

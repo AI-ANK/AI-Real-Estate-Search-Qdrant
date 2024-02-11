@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Serhant
+
+    TYPE: Condo for sale
+
+    PRICE: 9450000
+
+    BEDS: 2
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 3918.0
+
+    ADDRESS: 60 Greene St Apt 4
+
+    STATE: New York, NY 10012
+
+    MAIN_ADDRESS: 60 Greene St Apt 4New York, NY 10012
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 60
+
+    FORMATTED_ADDRESS: 60 Greene St APT 4, New York, NY 10012, USA
+
+    LATITUDE: 40.7228178
+
+    LONGITUDE: -74.00088

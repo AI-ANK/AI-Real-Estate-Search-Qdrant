@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by CORE Group Marketing, LLC
+
+    TYPE: Condo for sale
+
+    PRICE: 2999999
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1770.0
+
+    ADDRESS: 45 E 80th St Apt 11B
+
+    STATE: New York, NY 10075
+
+    MAIN_ADDRESS: 45 E 80th St Apt 11BNew York, NY 10075
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 45
+
+    FORMATTED_ADDRESS: 45 E 80th St #11b, New York, NY 10075, USA
+
+    LATITUDE: 40.7770031
+
+    LONGITUDE: -73.9611884

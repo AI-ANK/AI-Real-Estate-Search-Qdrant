@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Exp Realty
+
+    TYPE: Co-op for sale
+
+    PRICE: 325000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 750.0
+
+    ADDRESS: 129 E 102nd St Apt 5B
+
+    STATE: New York, NY 10029
+
+    MAIN_ADDRESS: 129 E 102nd St Apt 5BNew York, NY 10029
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 129
+
+    FORMATTED_ADDRESS: 129 E 102nd St #5b, New York, NY 10029, USA
+
+    LATITUDE: 40.78987
+
+    LONGITUDE: -73.9483335

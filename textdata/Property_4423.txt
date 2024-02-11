@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Master Associates Inc.
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1229000
+
+    BEDS: 6
+
+    BATH: 5.0
+
+    PROPERTYSQFT: 2816.0
+
+    ADDRESS: 7550 Amboy Rd
+
+    STATE: Staten Island, NY 10307
+
+    MAIN_ADDRESS: 7550 Amboy RdStaten Island, NY 10307
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Amboy Road
+
+    FORMATTED_ADDRESS: 7550 Amboy Rd, Staten Island, NY 10307, USA
+
+    LATITUDE: 40.5086315
+
+    LONGITUDE: -74.2470232

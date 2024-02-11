@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Nest Seekers International, Tribeca
+
+    TYPE: Condo for sale
+
+    PRICE: 399000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 391.0
+
+    ADDRESS: 30-38 29th St Unit 2B
+
+    STATE: Queens, NY 11102
+
+    MAIN_ADDRESS: 30-38 29th St Unit 2BQueens, NY 11102
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 29th Street
+
+    FORMATTED_ADDRESS: 30-38 29th St, Queens, NY 11102, USA
+
+    LATITUDE: 40.7668236
+
+    LONGITUDE: -73.9239725

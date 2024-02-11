@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Park Slope
+
+    TYPE: Pending
+
+    PRICE: 1500000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 95 Pierrepont St # 1CD
+
+    STATE: Brooklyn, NY 11201
+
+    MAIN_ADDRESS: 95 Pierrepont St # 1CDBrooklyn, NY 11201
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Brooklyn Heights
+
+    LONG_NAME: 95
+
+    FORMATTED_ADDRESS: 95 Pierrepont St #1c, Brooklyn, NY 11201, USA
+
+    LATITUDE: 40.6955436
+
+    LONGITUDE: -73.9936975

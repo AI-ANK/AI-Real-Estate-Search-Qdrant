@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Real Estate Professionals
+
+    TYPE: House for sale
+
+    PRICE: 999000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1900.0
+
+    ADDRESS: 1123 Bay Ridge Pkwy
+
+    STATE: Brooklyn, NY 11228
+
+    MAIN_ADDRESS: 1123 Bay Ridge PkwyBrooklyn, NY 11228
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Bay Ridge Parkway
+
+    FORMATTED_ADDRESS: 1123 Bay Ridge Pkwy, Brooklyn, NY 11228, USA
+
+    LATITUDE: 40.6228038
+
+    LONGITUDE: -74.0109676

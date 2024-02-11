@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 187 Seventh Ave
+
+    TYPE: House for sale
+
+    PRICE: 3950000
+
+    BEDS: 5
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 3528.0
+
+    ADDRESS: 591 4th St
+
+    STATE: Brooklyn, NY 11215
+
+    MAIN_ADDRESS: 591 4th StBrooklyn, NY 11215
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: 4th Street
+
+    FORMATTED_ADDRESS: 591 4th St, Brooklyn, NY 11215, USA
+
+    LATITUDE: 40.6680619
+
+    LONGITUDE: -73.9748375

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by CITI STAR REALTY
+
+    TYPE: Co-op for sale
+
+    PRICE: 258000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 650.0
+
+    ADDRESS: 601 Brightwater Ct Apt 5L
+
+    STATE: Brooklyn, NY 11235
+
+    MAIN_ADDRESS: 601 Brightwater Ct Apt 5LBrooklyn, NY 11235
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Brighton Beach
+
+    LONG_NAME: 601
+
+    FORMATTED_ADDRESS: 601 Brightwater Ct #5l, Brooklyn, NY 11235, USA
+
+    LATITUDE: 40.5759986
+
+    LONGITUDE: -73.960785

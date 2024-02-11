@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Piastro Realty LLC
+
+    TYPE: Co-op for sale
+
+    PRICE: 311000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 780.0
+
+    ADDRESS: 40 Brighton 1 Rd Unit 6B
+
+    STATE: Brooklyn, NY 11235
+
+    MAIN_ADDRESS: 40 Brighton 1 Rd Unit 6BBrooklyn, NY 11235
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Brighton Beach
+
+    LONG_NAME: 40
+
+    FORMATTED_ADDRESS: 40 Brighton 1st Rd #6b, Brooklyn, NY 11235, USA
+
+    LATITUDE: 40.5756277
+
+    LONGITUDE: -73.9667833

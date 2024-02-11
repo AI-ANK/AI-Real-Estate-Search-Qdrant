@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams NYC
+
+    TYPE: Condo for sale
+
+    PRICE: 350000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 738.0
+
+    ADDRESS: 11 Windham Loop Apt 2GG
+
+    STATE: Staten Island, NY 10314
+
+    MAIN_ADDRESS: 11 Windham Loop Apt 2GGStaten Island, NY 10314
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Richmond County
+
+    SUBLOCALITY: Staten Island
+
+    STREET_NAME: New Springville
+
+    LONG_NAME: 11
+
+    FORMATTED_ADDRESS: 11 Windham Loop #2g, Staten Island, NY 10314, USA
+
+    LATITUDE: 40.5781826
+
+    LONGITUDE: -74.1626869

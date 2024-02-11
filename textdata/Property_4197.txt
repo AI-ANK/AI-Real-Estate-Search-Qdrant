@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Hauseit LLC - Hauseit LLC
+
+    TYPE: Co-op for sale
+
+    PRICE: 2465000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1400.0
+
+    ADDRESS: 311 W 83rd St Apt 5A
+
+    STATE: New York, NY 10024
+
+    MAIN_ADDRESS: 311 W 83rd St Apt 5ANew York, NY 10024
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 311
+
+    FORMATTED_ADDRESS: 311 W 83rd St #5a, New York, NY 10024, USA
+
+    LATITUDE: 40.7873301
+
+    LONGITUDE: -73.9797201

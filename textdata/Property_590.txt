@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by BEN BAY REALTY, CO.
+
+    TYPE: House for sale
+
+    PRICE: 1150000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 1376.0
+
+    ADDRESS: 2234 62nd St
+
+    STATE: Brooklyn, NY 11204
+
+    MAIN_ADDRESS: 2234 62nd StBrooklyn, NY 11204
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: 62nd Street
+
+    FORMATTED_ADDRESS: 2234 62nd St, Brooklyn, NY 11204, USA
+
+    LATITUDE: 40.6149237
+
+    LONGITUDE: -73.9789281

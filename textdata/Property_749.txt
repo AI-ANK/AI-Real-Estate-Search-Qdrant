@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Robert DeFalco Realty, Inc.
+
+    TYPE: House for sale
+
+    PRICE: 6800000
+
+    BEDS: 7
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 5130.0
+
+    ADDRESS: 131 Cliffwood Ave
+
+    STATE: Staten Island, NY 10304
+
+    MAIN_ADDRESS: 131 Cliffwood AveStaten Island, NY 10304
+
+    ADMINISTRATIVE_AREA_LEVEL_2: 10304
+
+    LOCALITY: United States
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Richmond County
+
+    LONG_NAME: Cliffwood Avenue
+
+    FORMATTED_ADDRESS: 131 Cliffwood Ave, Staten Island, NY 10304, USA
+
+    LATITUDE: 40.5956171
+
+    LONGITUDE: -74.1144559

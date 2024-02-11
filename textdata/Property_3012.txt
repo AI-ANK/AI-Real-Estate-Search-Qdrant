@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 469000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 21-41 34th Ave Unit 5D
+
+    STATE: Astoria, NY 11106
+
+    MAIN_ADDRESS: 21-41 34th Ave Unit 5DAstoria, NY 11106
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Astoria
+
+    LONG_NAME: 21-41
+
+    FORMATTED_ADDRESS: 21-41 34th Ave #5d, Astoria, NY 11106, USA
+
+    LATITUDE: 40.7623991
+
+    LONGITUDE: -73.9321744

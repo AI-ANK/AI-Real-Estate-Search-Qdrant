@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Howard Hanna | Rand Realty
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 650000
+
+    BEDS: 6
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2310.0
+
+    ADDRESS: 936 Taylor Ave
+
+    STATE: Bronx, NY 10473
+
+    MAIN_ADDRESS: 936 Taylor AveBronx, NY 10473
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Taylor Avenue
+
+    FORMATTED_ADDRESS: 936 Taylor Ave, Bronx, NY 10473, USA
+
+    LATITUDE: 40.8244358
+
+    LONGITUDE: -73.8633737

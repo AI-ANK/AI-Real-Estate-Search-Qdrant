@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran East Side
+
+    TYPE: Co-op for sale
+
+    PRICE: 1650000
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1800.0
+
+    ADDRESS: 123 W 86th St # G
+
+    STATE: New York, NY 10024
+
+    MAIN_ADDRESS: 123 W 86th St # GNew York, NY 10024
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: West 86th Street
+
+    FORMATTED_ADDRESS: 123 W 86th St, New York, NY 10024, USA
+
+    LATITUDE: 40.7870704
+
+    LONGITUDE: -73.9729362

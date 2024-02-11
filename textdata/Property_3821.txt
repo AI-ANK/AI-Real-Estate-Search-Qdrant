@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran West Side Gallery
+
+    TYPE: Co-op for sale
+
+    PRICE: 3150000
+
+    BEDS: 4
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 101 W 81st St # 615/616
+
+    STATE: New York, NY 10024
+
+    MAIN_ADDRESS: 101 W 81st St # 615/616New York, NY 10024
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: West 81st Street
+
+    FORMATTED_ADDRESS: 101 W 81st St, New York, NY 10024, USA
+
+    LATITUDE: 40.7835147
+
+    LONGITUDE: -73.9748183

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Nest Seekers International, Midtown
+
+    TYPE: Townhouse for sale
+
+    PRICE: 8950000
+
+    BEDS: 3
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 6336.0
+
+    ADDRESS: 209 E 31st St
+
+    STATE: New York, NY 10016
+
+    MAIN_ADDRESS: 209 E 31st StNew York, NY 10016
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: East 31st Street
+
+    FORMATTED_ADDRESS: 209 E 31st St, New York, NY 10016, USA
+
+    LATITUDE: 40.7437415
+
+    LONGITUDE: -73.978774

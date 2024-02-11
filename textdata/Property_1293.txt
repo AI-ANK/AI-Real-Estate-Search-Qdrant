@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Legendary
+
+    TYPE: Condo for sale
+
+    PRICE: 472000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 700.0
+
+    ADDRESS: 85-28 Grand Ave Unit 4C
+
+    STATE: Elmhurst, NY 11373
+
+    MAIN_ADDRESS: 85-28 Grand Ave Unit 4CElmhurst, NY 11373
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Elmhurst
+
+    LONG_NAME: 85-28
+
+    FORMATTED_ADDRESS: 85-28 Grand Ave #4c, Elmhurst, NY 11373, USA
+
+    LATITUDE: 40.73531
+
+    LONGITUDE: -73.8812513

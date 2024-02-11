@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Aliano Real Estate
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 3000000
+
+    BEDS: 24
+
+    BATH: 16.0
+
+    PROPERTYSQFT: 12720.0
+
+    ADDRESS: 491 E 45th St Unit 16
+
+    STATE: Brooklyn, NY 11203
+
+    MAIN_ADDRESS: 491 E 45th St Unit 16Brooklyn, NY 11203
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Little Caribbean
+
+    LONG_NAME: 491-493
+
+    FORMATTED_ADDRESS: 491-493 E 45th St #16, Brooklyn, NY 11203, USA
+
+    LATITUDE: 40.64958
+
+    LONGITUDE: -73.934815

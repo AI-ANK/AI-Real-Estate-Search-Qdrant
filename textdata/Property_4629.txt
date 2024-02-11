@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Accomplish Realty Llc
+
+    TYPE: Co-op for sale
+
+    PRICE: 300000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 90-11 35 Ave Unit 4L
+
+    STATE: Jackson Heights, NY 11372
+
+    MAIN_ADDRESS: 90-11 35 Ave Unit 4LJackson Heights, NY 11372
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 90-11
+
+    FORMATTED_ADDRESS: 90-11 35th Ave #4l, Flushing, NY 11372, USA
+
+    LATITUDE: 40.7528037
+
+    LONGITUDE: -73.876822

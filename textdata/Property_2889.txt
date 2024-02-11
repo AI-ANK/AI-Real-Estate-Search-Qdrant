@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by REALHome Services & Solutions
+
+    TYPE: Condo for sale
+
+    PRICE: 1086300
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 780.0
+
+    ADDRESS: 203 W 81st St Apt 4E
+
+    STATE: New York, NY 10024
+
+    MAIN_ADDRESS: 203 W 81st St Apt 4ENew York, NY 10024
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 203
+
+    FORMATTED_ADDRESS: 203 W 81st St #4e, New York, NY 10024, USA
+
+    LATITUDE: 40.7847793
+
+    LONGITUDE: -73.9778528

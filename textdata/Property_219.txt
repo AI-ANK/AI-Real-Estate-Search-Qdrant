@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Robert DeFalco Realty, Inc.
+
+    TYPE: House for sale
+
+    PRICE: 519000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1480.0
+
+    ADDRESS: 62 Simmons Ln
+
+    STATE: Staten Island, NY 10314
+
+    MAIN_ADDRESS: 62 Simmons LnStaten Island, NY 10314
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Simmons Lane
+
+    FORMATTED_ADDRESS: 62 Simmons Ln, Staten Island, NY 10314, USA
+
+    LATITUDE: 40.5939378
+
+    LONGITUDE: -74.1843153

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Fort Greene
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 3900000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 366 Clermont Ave
+
+    STATE: Brooklyn, NY 11238
+
+    MAIN_ADDRESS: 366 Clermont AveBrooklyn, NY 11238
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Clermont Avenue
+
+    FORMATTED_ADDRESS: 366 Clermont Ave, Brooklyn, NY 11238, USA
+
+    LATITUDE: 40.6869395
+
+    LONGITUDE: -73.9698033

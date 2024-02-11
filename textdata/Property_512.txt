@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Exit Alliance Realty
+
+    TYPE: Co-op for sale
+
+    PRICE: 199000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 8900 170th St Apt 7D
+
+    STATE: Jamaica, NY 11432
+
+    MAIN_ADDRESS: 8900 170th St Apt 7DJamaica, NY 11432
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Jamaica
+
+    LONG_NAME: 89-00
+
+    FORMATTED_ADDRESS: 89-00 170th St #7e, Jamaica, NY 11432, USA
+
+    LATITUDE: 40.7092156
+
+    LONGITUDE: -73.7912209

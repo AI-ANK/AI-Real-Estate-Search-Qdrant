@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Connie Profaci Realty
+
+    TYPE: House for sale
+
+    PRICE: 16800000
+
+    BEDS: 8
+
+    BATH: 16.0
+
+    PROPERTYSQFT: 33000.0
+
+    ADDRESS: 177 Benedict Rd
+
+    STATE: Staten Island, NY 10304
+
+    MAIN_ADDRESS: 177 Benedict RdStaten Island, NY 10304
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Benedict Road
+
+    FORMATTED_ADDRESS: 177 Benedict Rd, Staten Island, NY 10304, USA
+
+    LATITUDE: 40.5950017
+
+    LONGITUDE: -74.1064235

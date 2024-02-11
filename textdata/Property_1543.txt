@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by BHHS New York Properties
+
+    TYPE: Co-op for sale
+
+    PRICE: 4050000
+
+    BEDS: 4
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 1060 Fifth Ave Unit 3C
+
+    STATE: New York, NY 10128
+
+    MAIN_ADDRESS: 1060 Fifth Ave Unit 3CNew York, NY 10128
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 1060
+
+    FORMATTED_ADDRESS: 1060 5th Ave #3c, New York, NY 10128, USA
+
+    LATITUDE: 40.7822029
+
+    LONGITUDE: -73.959633

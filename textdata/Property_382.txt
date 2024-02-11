@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by CENTURY 21 Kafcos Realty
+
+    TYPE: House for sale
+
+    PRICE: 769000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1728.0
+
+    ADDRESS: 4322 E Tremont Ave
+
+    STATE: Bronx, NY 10465
+
+    MAIN_ADDRESS: 4322 E Tremont AveBronx, NY 10465
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: East Tremont Avenue
+
+    FORMATTED_ADDRESS: 4322 E Tremont Ave, Bronx, NY 10465, USA
+
+    LATITUDE: 40.8152029
+
+    LONGITUDE: -73.8154969

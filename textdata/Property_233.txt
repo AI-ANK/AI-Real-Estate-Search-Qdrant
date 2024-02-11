@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by NextHome Residential
+
+    TYPE: Co-op for sale
+
+    PRICE: 265000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 700.0
+
+    ADDRESS: 23-45 Bell Blvd Unit 5K
+
+    STATE: Bayside, NY 11360
+
+    MAIN_ADDRESS: 23-45 Bell Blvd Unit 5KBayside, NY 11360
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Bayside
+
+    LONG_NAME: 2345
+
+    FORMATTED_ADDRESS: 2345 Bell Blvd Apt 5f, Bayside, NY 11360, USA
+
+    LATITUDE: 40.7824499
+
+    LONGITUDE: -73.7765099

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Exp Realty
+
+    TYPE: Co-op for sale
+
+    PRICE: 389888
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 730.0
+
+    ADDRESS: 37-30 73rd St Unit 5D
+
+    STATE: Jackson Heights, NY 11372
+
+    MAIN_ADDRESS: 37-30 73rd St Unit 5DJackson Heights, NY 11372
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 73rd Street
+
+    FORMATTED_ADDRESS: 37-30 73rd St, Flushing, NY 11372, USA
+
+    LATITUDE: 40.7479556
+
+    LONGITUDE: -73.8929488

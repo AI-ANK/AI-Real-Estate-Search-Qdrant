@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Coldwell Banker American Homes
+
+    TYPE: Co-op for sale
+
+    PRICE: 299000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 650.0
+
+    ADDRESS: 42-55 Colden St Unit 12K
+
+    STATE: Flushing, NY 11355
+
+    MAIN_ADDRESS: 42-55 Colden St Unit 12KFlushing, NY 11355
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 42-55
+
+    FORMATTED_ADDRESS: 42-55 Colden St #12k, Flushing, NY 11355, USA
+
+    LATITUDE: 40.7533589
+
+    LONGITUDE: -73.8250479

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by IZSA - Miriam Izsak Realty LLC
+
+    TYPE: Co-op for sale
+
+    PRICE: 625000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 650.0
+
+    ADDRESS: 245 E 25th St Apt 8L
+
+    STATE: New York, NY 10010
+
+    MAIN_ADDRESS: 245 E 25th St Apt 8LNew York, NY 10010
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 245
+
+    FORMATTED_ADDRESS: 245 E 25th St #8l, New York, NY 10010, USA
+
+    LATITUDE: 40.7395218
+
+    LONGITUDE: -73.9802307

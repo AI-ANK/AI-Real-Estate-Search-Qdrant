@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Weichert Realtors The Franzese Group
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 2599000
+
+    BEDS: 11
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 5088.0
+
+    ADDRESS: 2061 49th St
+
+    STATE: Astoria, NY 11105
+
+    MAIN_ADDRESS: 2061 49th StAstoria, NY 11105
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 49th Street
+
+    FORMATTED_ADDRESS: 20-61 49th St, Astoria, NY 11105, USA
+
+    LATITUDE: 40.7709381
+
+    LONGITUDE: -73.8973789

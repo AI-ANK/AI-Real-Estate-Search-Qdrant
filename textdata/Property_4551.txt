@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by American Homes Group
+
+    TYPE: House for sale
+
+    PRICE: 1396000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2444.0
+
+    ADDRESS: 49 Weed Ave
+
+    STATE: Staten Island, NY 10306
+
+    MAIN_ADDRESS: 49 Weed AveStaten Island, NY 10306
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Weed Avenue
+
+    FORMATTED_ADDRESS: 49 Weed Ave, Staten Island, NY 10306, USA
+
+    LATITUDE: 40.5664524
+
+    LONGITUDE: -74.1051158

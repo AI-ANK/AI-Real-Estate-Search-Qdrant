@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Classic Home Sales
+
+    TYPE: House for sale
+
+    PRICE: 639000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 2072 E 74th St
+
+    STATE: Brooklyn, NY 11234
+
+    MAIN_ADDRESS: 2072 E 74th StBrooklyn, NY 11234
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: East 74th Street
+
+    FORMATTED_ADDRESS: 2072 E 74th St, Brooklyn, NY 11234, USA
+
+    LATITUDE: 40.6214608
+
+    LONGITUDE: -73.905805

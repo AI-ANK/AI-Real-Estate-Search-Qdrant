@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Nest Seekers International, Long Island
+
+    TYPE: Condo for sale
+
+    PRICE: 749000
+
+    BEDS: 1
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 879.0
+
+    ADDRESS: 20-48 Steinway St Unit 1B
+
+    STATE: Queens, NY 11105
+
+    MAIN_ADDRESS: 20-48 Steinway St Unit 1BQueens, NY 11105
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Astoria
+
+    LONG_NAME: 20-48
+
+    FORMATTED_ADDRESS: 20-48 Steinway St #1b, Astoria, NY 11105, USA
+
+    LATITUDE: 40.7755682
+
+    LONGITUDE: -73.9032112

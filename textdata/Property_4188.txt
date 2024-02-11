@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by JABOUR REALTY COMPANY
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 3200000
+
+    BEDS: 3
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 3040.0
+
+    ADDRESS: 405 Sackett St
+
+    STATE: Brooklyn, NY 11231
+
+    MAIN_ADDRESS: 405 Sackett StBrooklyn, NY 11231
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Sackett Street
+
+    FORMATTED_ADDRESS: 405 Sackett St, Brooklyn, NY 11231, USA
+
+    LATITUDE: 40.6817403
+
+    LONGITUDE: -73.9916448

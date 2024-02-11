@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Nest Seekers International, Midtown
+
+    TYPE: Co-op for sale
+
+    PRICE: 545000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 445 E 86th St Apt 16C
+
+    STATE: New York, NY 10028
+
+    MAIN_ADDRESS: 445 E 86th St Apt 16CNew York, NY 10028
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 445
+
+    FORMATTED_ADDRESS: 445 East 86th St #16c, New York, NY 10028, USA
+
+    LATITUDE: 40.7763285
+
+    LONGITUDE: -73.9475088

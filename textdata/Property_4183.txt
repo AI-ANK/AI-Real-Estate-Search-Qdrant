@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sotheby's International Realty - East Side Manhattan Brokerage
+
+    TYPE: Co-op for sale
+
+    PRICE: 1999000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 969 Park Ave # 12F
+
+    STATE: New York, NY 10028
+
+    MAIN_ADDRESS: 969 Park Ave # 12FNew York, NY 10028
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 969
+
+    FORMATTED_ADDRESS: 969 Park Ave #12b, New York, NY 10028, USA
+
+    LATITUDE: 40.7776874
+
+    LONGITUDE: -73.9585526

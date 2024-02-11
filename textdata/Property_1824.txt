@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 575000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1350.0
+
+    ADDRESS: 65-10 108th St Unit 3M
+
+    STATE: Queens, NY 11375
+
+    MAIN_ADDRESS: 65-10 108th St Unit 3MQueens, NY 11375
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Forest Hills
+
+    LONG_NAME: 65-10
+
+    FORMATTED_ADDRESS: 65-10 108th St #3b, Queens, NY 11375, USA
+
+    LATITUDE: 40.7313424
+
+    LONGITUDE: -73.8489073

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Charles Rutenberg Realty Inc
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1200000
+
+    BEDS: 5
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 591 Huguenot Ave
+
+    STATE: Staten Island, NY 10312
+
+    MAIN_ADDRESS: 591 Huguenot AveStaten Island, NY 10312
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Huguenot Avenue
+
+    FORMATTED_ADDRESS: 591 Huguenot Ave, Staten Island, NY 10312, USA
+
+    LATITUDE: 40.5404111
+
+    LONGITUDE: -74.1957141

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Chelsea/Flatiron
+
+    TYPE: Condo for sale
+
+    PRICE: 31000000
+
+    BEDS: 3
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 4492.0
+
+    ADDRESS: 111 W 57th St # 50
+
+    STATE: New York, NY 10019
+
+    MAIN_ADDRESS: 111 W 57th St # 50New York, NY 10019
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 111
+
+    FORMATTED_ADDRESS: 111 W 57th St #50, New York, NY 10019, USA
+
+    LATITUDE: 40.764953
+
+    LONGITUDE: -73.977568

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran East Side
+
+    TYPE: Co-op for sale
+
+    PRICE: 48000000
+
+    BEDS: 5
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 740 Park Ave # 4 & 5B
+
+    STATE: New York, NY 10021
+
+    MAIN_ADDRESS: 740 Park Ave # 4 & 5BNew York, NY 10021
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 740
+
+    FORMATTED_ADDRESS: 740 Park Ave #5, New York, NY 10021, USA
+
+    LATITUDE: 40.7707516
+
+    LONGITUDE: -73.9645283

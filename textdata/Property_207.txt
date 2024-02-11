@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Winzone Realty Inc
+
+    TYPE: House for sale
+
+    PRICE: 1300000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 246 Newman Ave
+
+    STATE: Bronx, NY 10473
+
+    MAIN_ADDRESS: 246 Newman AveBronx, NY 10473
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Newman Avenue
+
+    FORMATTED_ADDRESS: 246 Newman Ave, Bronx, NY 10473, USA
+
+    LATITUDE: 40.8109146
+
+    LONGITUDE: -73.853921

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Spire Group Inc.- Main Office
+
+    TYPE: House for sale
+
+    PRICE: 775000
+
+    BEDS: 4
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 1400 E 98th St
+
+    STATE: Brooklyn, NY 11236
+
+    MAIN_ADDRESS: 1400 E 98th StBrooklyn, NY 11236
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: East 98th Street
+
+    FORMATTED_ADDRESS: 1400 E 98th St, Brooklyn, NY 11236, USA
+
+    LATITUDE: 40.6385513
+
+    LONGITUDE: -73.8938534

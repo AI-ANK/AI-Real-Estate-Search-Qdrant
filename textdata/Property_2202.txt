@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Ben Bay Realty Company of Staten Island LLC
+
+    TYPE: House for sale
+
+    PRICE: 1328888
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1440.0
+
+    ADDRESS: 1534 W 9th St
+
+    STATE: Brooklyn, NY 11204
+
+    MAIN_ADDRESS: 1534 W 9th StBrooklyn, NY 11204
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: West 9th Street
+
+    FORMATTED_ADDRESS: 1534 W 9th St, Brooklyn, NY 11204, USA
+
+    LATITUDE: 40.6094603
+
+    LONGITUDE: -73.9831636

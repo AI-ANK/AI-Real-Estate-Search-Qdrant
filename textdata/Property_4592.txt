@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Expert Homes Ny
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 689000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: Paulding Ave and E 228th St
+
+    STATE: Bronx, NY 10466
+
+    MAIN_ADDRESS: Paulding Ave and E 228th StBronx, NY 10466
+
+    ADMINISTRATIVE_AREA_LEVEL_2: 10466
+
+    LOCALITY: United States
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Bronx County
+
+    LONG_NAME: East Bronx
+
+    FORMATTED_ADDRESS: E 228th St & Paulding Ave, Bronx, NY 10466, USA
+
+    LATITUDE: 40.8871714
+
+    LONGITUDE: -73.8506752

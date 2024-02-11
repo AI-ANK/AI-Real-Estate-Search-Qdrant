@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 1695000
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1818.0
+
+    ADDRESS: 333 E 91st St Apt 24A
+
+    STATE: Manhattan, NY 10128
+
+    MAIN_ADDRESS: 333 E 91st St Apt 24AManhattan, NY 10128
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 333
+
+    FORMATTED_ADDRESS: 333 E 91st St #24a, New York, NY 10128, USA
+
+    LATITUDE: 40.7803429
+
+    LONGITUDE: -73.947266

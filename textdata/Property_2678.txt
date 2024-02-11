@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by DiTommaso Real Estate
+
+    TYPE: House for sale
+
+    PRICE: 599000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1120.0
+
+    ADDRESS: 45 Bogota St
+
+    STATE: Staten Island, NY 10314
+
+    MAIN_ADDRESS: 45 Bogota StStaten Island, NY 10314
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Bogota Street
+
+    FORMATTED_ADDRESS: 45 Bogota St, Staten Island, NY 10314, USA
+
+    LATITUDE: 40.5863749
+
+    LONGITUDE: -74.1470603

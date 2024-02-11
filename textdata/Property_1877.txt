@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 575 Madison Ave
+
+    TYPE: House for sale
+
+    PRICE: 12495000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 7825.0
+
+    ADDRESS: 121 E 83rd St
+
+    STATE: New York, NY 10028
+
+    MAIN_ADDRESS: 121 E 83rd StNew York, NY 10028
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: East 83rd Street
+
+    FORMATTED_ADDRESS: 121 E 83rd St, New York, NY 10028, USA
+
+    LATITUDE: 40.7780321
+
+    LONGITUDE: -73.9574506

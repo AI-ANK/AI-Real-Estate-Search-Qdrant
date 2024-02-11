@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Belle Harbor Realty
+
+    TYPE: Co-op for sale
+
+    PRICE: 349000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1017.0
+
+    ADDRESS: 13811 Beach Channel Dr Unit 8C
+
+    STATE: Brooklyn, NY 11694
+
+    MAIN_ADDRESS: 13811 Beach Channel Dr Unit 8CBrooklyn, NY 11694
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Rockaway Park
+
+    LONG_NAME: 13811
+
+    FORMATTED_ADDRESS: 13811 Beach Channel Dr #8c, Rockaway Park, NY 11694, USA
+
+    LATITUDE: 40.5781687
+
+    LONGITUDE: -73.8586706

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Milky Forst Properties Inc
+
+    TYPE: House for sale
+
+    PRICE: 3100000
+
+    BEDS: 6
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 555 Oak Dr
+
+    STATE: Far Rockaway, NY 11691
+
+    MAIN_ADDRESS: 555 Oak DrFar Rockaway, NY 11691
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Oak Drive
+
+    FORMATTED_ADDRESS: 555 Oak Dr, Far Rockaway, NY 11691, USA
+
+    LATITUDE: 40.6021451
+
+    LONGITUDE: -73.7401761

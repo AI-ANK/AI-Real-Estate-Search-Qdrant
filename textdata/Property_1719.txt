@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Pride Estates
+
+    TYPE: House for sale
+
+    PRICE: 699000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1296.0
+
+    ADDRESS: 2526 Ralph Ave
+
+    STATE: Brooklyn, NY 11234
+
+    MAIN_ADDRESS: 2526 Ralph AveBrooklyn, NY 11234
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Ralph Avenue
+
+    FORMATTED_ADDRESS: 2526 Ralph Ave, Brooklyn, NY 11234, USA
+
+    LATITUDE: 40.616513
+
+    LONGITUDE: -73.9172382

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Continental Real Estate Grp In
+
+    TYPE: House for sale
+
+    PRICE: 1649000
+
+    BEDS: 4
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1452.0
+
+    ADDRESS: 927 Hart St
+
+    STATE: Brooklyn, NY 11237
+
+    MAIN_ADDRESS: 927 Hart StBrooklyn, NY 11237
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Hart Street
+
+    FORMATTED_ADDRESS: 927 Hart St, Brooklyn, NY 11237, USA
+
+    LATITUDE: 40.7039659
+
+    LONGITUDE: -73.9210676

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Elegran Real Estate And Development
+
+    TYPE: House for sale
+
+    PRICE: 1175000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1144.0
+
+    ADDRESS: 4 78th St
+
+    STATE: Brooklyn, NY 11209
+
+    MAIN_ADDRESS: 4 78th StBrooklyn, NY 11209
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: 78th Street
+
+    FORMATTED_ADDRESS: 4 78th St, Brooklyn, NY 11209, USA
+
+    LATITUDE: 40.6314389
+
+    LONGITUDE: -74.0378384

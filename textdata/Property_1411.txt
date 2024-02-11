@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: NoBroker
+
+    TYPE: House for sale
+
+    PRICE: 2900000
+
+    BEDS: 5
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 6707.0
+
+    ADDRESS: 29 Annfield Ct
+
+    STATE: Staten Island, NY 10304
+
+    MAIN_ADDRESS: 29 Annfield CtStaten Island, NY 10304
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Annfield Court
+
+    FORMATTED_ADDRESS: 29 Annfield Ct, Staten Island, NY 10304, USA
+
+    LATITUDE: 40.6000344
+
+    LONGITUDE: -74.1064235

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Neuhaus Realty, Inc.
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1799000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 5400.0
+
+    ADDRESS: 2401-2407 Richmond Rd Unit A
+
+    STATE: Staten Island, NY 10306
+
+    MAIN_ADDRESS: 2401-2407 Richmond Rd Unit AStaten Island, NY 10306
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Richmond County
+
+    SUBLOCALITY: Staten Island
+
+    STREET_NAME: New Dorp
+
+    LONG_NAME: 2401
+
+    FORMATTED_ADDRESS: 2401 Richmond Rd #2407, Staten Island, NY 10306, USA
+
+    LATITUDE: 40.5767317
+
+    LONGITUDE: -74.1187369

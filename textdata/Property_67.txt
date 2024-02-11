@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Better Homes and Gardens Real Estate Safari Realty
+
+    TYPE: Contingent
+
+    PRICE: 619888
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1400.0
+
+    ADDRESS: 35 Center Pl
+
+    STATE: Staten Island, NY 10306
+
+    MAIN_ADDRESS: 35 Center PlStaten Island, NY 10306
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Center Place
+
+    FORMATTED_ADDRESS: 35 Center Pl, Staten Island, NY 10306, USA
+
+    LATITUDE: 40.5632116
+
+    LONGITUDE: -74.1002521

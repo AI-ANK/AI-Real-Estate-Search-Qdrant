@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sotheby's International Realty - East Side Manhattan Brokerage
+
+    TYPE: Condo for sale
+
+    PRICE: 3995000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1283.0
+
+    ADDRESS: 25 Columbus Cir # 69F
+
+    STATE: New York, NY 10019
+
+    MAIN_ADDRESS: 25 Columbus Cir # 69FNew York, NY 10019
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 25
+
+    FORMATTED_ADDRESS: 25 Columbus Cir #69, New York, NY 10019, USA
+
+    LATITUDE: 40.7680474
+
+    LONGITUDE: -73.9835169

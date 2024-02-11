@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by EXIT REALTY PRIME
+
+    TYPE: Co-op for sale
+
+    PRICE: 142500
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 155-01 90 Ave Unit 6E
+
+    STATE: Jamaica, NY 11432
+
+    MAIN_ADDRESS: 155-01 90 Ave Unit 6EJamaica, NY 11432
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Jamaica
+
+    LONG_NAME: 155-01
+
+    FORMATTED_ADDRESS: 155-01 90th Ave #6e, Jamaica, NY 11432, USA
+
+    LATITUDE: 40.7048447
+
+    LONGITUDE: -73.8022389

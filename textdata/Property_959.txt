@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Winzone Realty Inc
+
+    TYPE: House for sale
+
+    PRICE: 1295000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 47-17 39th Ave
+
+    STATE: Sunnyside, NY 11104
+
+    MAIN_ADDRESS: 47-17 39th AveSunnyside, NY 11104
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 39th Avenue
+
+    FORMATTED_ADDRESS: 47-17 39th Ave, Long Island City, NY 11104, USA
+
+    LATITUDE: 40.7493551
+
+    LONGITUDE: -73.9158547

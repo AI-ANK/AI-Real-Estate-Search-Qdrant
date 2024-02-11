@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Owner Entry.com
+
+    TYPE: Condo for sale
+
+    PRICE: 749000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1258.0
+
+    ADDRESS: 219 Constitution Pl Apt B
+
+    STATE: College Point, NY 11356
+
+    MAIN_ADDRESS: 219 Constitution Pl Apt BCollege Point, NY 11356
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Constitution Place
+
+    FORMATTED_ADDRESS: 219 Constitution Pl, College Point, NY 11356, USA
+
+    LATITUDE: 40.7945927
+
+    LONGITUDE: -73.8457338

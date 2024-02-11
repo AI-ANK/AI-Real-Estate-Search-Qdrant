@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Bedford Stuyvesant
+
+    TYPE: House for sale
+
+    PRICE: 4995000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 464 1st St
+
+    STATE: Brooklyn, NY 11215
+
+    MAIN_ADDRESS: 464 1st StBrooklyn, NY 11215
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: 1st Street
+
+    FORMATTED_ADDRESS: 464 1st St, Brooklyn, NY 11215, USA
+
+    LATITUDE: 40.6712943
+
+    LONGITUDE: -73.9771145

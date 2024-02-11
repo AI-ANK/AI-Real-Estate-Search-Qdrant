@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Winzone Realty Inc
+
+    TYPE: House for sale
+
+    PRICE: 1350000
+
+    BEDS: 5
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2082.0
+
+    ADDRESS: 80-31 188th St
+
+    STATE: Hollis, NY 11432
+
+    MAIN_ADDRESS: 80-31 188th StHollis, NY 11432
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 188th Street
+
+    FORMATTED_ADDRESS: 80-31 188th St, Hollis, NY 11423, USA
+
+    LATITUDE: 40.7284032
+
+    LONGITUDE: -73.7803984

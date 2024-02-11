@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RAIMONDO RONALD
+
+    TYPE: House for sale
+
+    PRICE: 1099000
+
+    BEDS: 5
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 3500.0
+
+    ADDRESS: 310 Jefferson Blvd
+
+    STATE: Staten Island, NY 10312
+
+    MAIN_ADDRESS: 310 Jefferson BlvdStaten Island, NY 10312
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Jefferson Boulevard
+
+    FORMATTED_ADDRESS: 310 Jefferson Blvd, Staten Island, NY 10312, USA
+
+    LATITUDE: 40.5457789
+
+    LONGITUDE: -74.1847061

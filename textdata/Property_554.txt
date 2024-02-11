@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Realty Staten Island
+
+    TYPE: House for sale
+
+    PRICE: 950000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1520.0
+
+    ADDRESS: 67-44 Kessel St
+
+    STATE: Queens, NY 11375
+
+    MAIN_ADDRESS: 67-44 Kessel StQueens, NY 11375
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Kessel Street
+
+    FORMATTED_ADDRESS: 67-44 Kessel St, Flushing, NY 11375, USA
+
+    LATITUDE: 40.7157274
+
+    LONGITUDE: -73.8563447

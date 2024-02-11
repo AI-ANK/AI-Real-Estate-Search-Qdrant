@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Elite
+
+    TYPE: House for sale
+
+    PRICE: 998000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2000.0
+
+    ADDRESS: 336 Bethel Ave
+
+    STATE: Staten Island, NY 10307
+
+    MAIN_ADDRESS: 336 Bethel AveStaten Island, NY 10307
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Bethel Avenue
+
+    FORMATTED_ADDRESS: 336 Bethel Ave, Staten Island, NY 10307, USA
+
+    LATITUDE: 40.515251
+
+    LONGITUDE: -74.235145

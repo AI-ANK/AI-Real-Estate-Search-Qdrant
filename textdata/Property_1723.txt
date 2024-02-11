@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Robert DeFalco Realty, Inc.
+
+    TYPE: House for sale
+
+    PRICE: 574999
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1040.0
+
+    ADDRESS: 190 Vanderbilt Ave
+
+    STATE: Staten Island, NY 10304
+
+    MAIN_ADDRESS: 190 Vanderbilt AveStaten Island, NY 10304
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Vanderbilt Avenue
+
+    FORMATTED_ADDRESS: 190 Vanderbilt Ave, Staten Island, NY 10304, USA
+
+    LATITUDE: 40.6194786
+
+    LONGITUDE: -74.077813

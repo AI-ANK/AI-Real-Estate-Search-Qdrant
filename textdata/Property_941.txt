@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sold By Bart R E Partners Inc
+
+    TYPE: Co-op for sale
+
+    PRICE: 330000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 83-20 98th St Unit 1U
+
+    STATE: Woodhaven, NY 11421
+
+    MAIN_ADDRESS: 83-20 98th St Unit 1UWoodhaven, NY 11421
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Woodhaven
+
+    LONG_NAME: 83-20
+
+    FORMATTED_ADDRESS: 83-20 98th St #1a, Woodhaven, NY 11421, USA
+
+    LATITUDE: 40.6994276
+
+    LONGITUDE: -73.8518226

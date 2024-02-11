@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Fillmore Real Estate Fusion Team, INC.
+
+    TYPE: Co-op for sale
+
+    PRICE: 183000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 831.0
+
+    ADDRESS: 2166 Bronx Park E Apt 5J
+
+    STATE: Bronx, NY 10462
+
+    MAIN_ADDRESS: 2166 Bronx Park E Apt 5JBronx, NY 10462
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: East Bronx
+
+    LONG_NAME: 2166
+
+    FORMATTED_ADDRESS: 2166 Bronx Pk E #5j, Bronx, NY 10462, USA
+
+    LATITUDE: 40.8552565
+
+    LONGITUDE: -73.8693804

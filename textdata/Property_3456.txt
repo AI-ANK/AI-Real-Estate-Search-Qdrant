@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Winzone Realty Inc
+
+    TYPE: Co-op for sale
+
+    PRICE: 248000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 196-30 67 Ave Unit 2FL
+
+    STATE: Fresh Meadows, NY 11365
+
+    MAIN_ADDRESS: 196-30 67 Ave Unit 2FLFresh Meadows, NY 11365
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Fresh Meadows
+
+    LONG_NAME: 196- 30
+
+    FORMATTED_ADDRESS: 196- 30 67th Ave #2fl, Fresh Meadows, NY 11365, USA
+
+    LATITUDE: 40.7383072
+
+    LONGITUDE: -73.7776864

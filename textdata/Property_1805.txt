@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 3544 Johnson Ave
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 14000000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 3641 Johnson Ave
+
+    STATE: Bronx, NY 10463
+
+    MAIN_ADDRESS: 3641 Johnson AveBronx, NY 10463
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Johnson Avenue
+
+    FORMATTED_ADDRESS: 3641 Johnson Ave, Bronx, NY 10463, USA
+
+    LATITUDE: 40.8879286
+
+    LONGITUDE: -73.9096657

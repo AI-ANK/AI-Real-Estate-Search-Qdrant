@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 1995 Broadway
+
+    TYPE: Co-op for sale
+
+    PRICE: 985000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 84-12 35th Ave Unit 4C
+
+    STATE: Queens, NY 11372
+
+    MAIN_ADDRESS: 84-12 35th Ave Unit 4CQueens, NY 11372
+
+    ADMINISTRATIVE_AREA_LEVEL_2: Queens County
+
+    LOCALITY: Queens
+
+    SUBLOCALITY: Jackson Heights
+
+    STREET_NAME: 35th Avenue
+
+    LONG_NAME: The Belvedere
+
+    FORMATTED_ADDRESS: The Belvedere, 84-12 35th Ave #4c, Jackson Heights, NY 11372, USA
+
+    LATITUDE: 40.7518439
+
+    LONGITUDE: -73.8822788

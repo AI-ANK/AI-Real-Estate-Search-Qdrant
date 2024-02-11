@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sotheby's International Realty - East Side Manhattan Brokerage
+
+    TYPE: For sale
+
+    PRICE: 815000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 310 E 46th St Apt 6S
+
+    STATE: New York, NY 10017
+
+    MAIN_ADDRESS: 310 E 46th St Apt 6SNew York, NY 10017
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 310
+
+    FORMATTED_ADDRESS: 310 E 46th St #6d, New York, NY 10017, USA
+
+    LATITUDE: 40.751918
+
+    LONGITUDE: -73.9698335

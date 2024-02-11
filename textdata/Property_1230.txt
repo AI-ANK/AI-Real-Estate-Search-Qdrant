@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Ben Bay Realty Company of Staten Island LLC
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1100000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1928.0
+
+    ADDRESS: 307 Ellis St
+
+    STATE: Staten Island, NY 10307
+
+    MAIN_ADDRESS: 307 Ellis StStaten Island, NY 10307
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Ellis Street
+
+    FORMATTED_ADDRESS: 307 Ellis St, Staten Island, NY 10307, USA
+
+    LATITUDE: 40.5142085
+
+    LONGITUDE: -74.2505102

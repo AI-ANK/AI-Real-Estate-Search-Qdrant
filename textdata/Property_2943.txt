@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 1100000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 1209 8th Ave Apt 4R
+
+    STATE: Brooklyn, NY 11215
+
+    MAIN_ADDRESS: 1209 8th Ave Apt 4RBrooklyn, NY 11215
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Park Slope
+
+    LONG_NAME: 1209
+
+    FORMATTED_ADDRESS: 1209 8th Ave #4r, Brooklyn, NY 11215, USA
+
+    LATITUDE: 40.6634878
+
+    LONGITUDE: -73.9807302

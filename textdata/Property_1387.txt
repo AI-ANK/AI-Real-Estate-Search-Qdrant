@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by JM Properties
+
+    TYPE: Condo for sale
+
+    PRICE: 255500
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 950.0
+
+    ADDRESS: 422 Maryland Ave Apt 3D
+
+    STATE: Staten Island, NY 10305
+
+    MAIN_ADDRESS: 422 Maryland Ave Apt 3DStaten Island, NY 10305
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Richmond County
+
+    SUBLOCALITY: Staten Island
+
+    STREET_NAME: Rosebank
+
+    LONG_NAME: 422
+
+    FORMATTED_ADDRESS: 422 Maryland Ave #3b, Staten Island, NY 10305, USA
+
+    LATITUDE: 40.6077498
+
+    LONGITUDE: -74.0743086

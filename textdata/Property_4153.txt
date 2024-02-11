@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran SoHo
+
+    TYPE: Condo for sale
+
+    PRICE: 610000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 923.0
+
+    ADDRESS: 55 Greene Ave Ste 2B
+
+    STATE: Brooklyn, NY 11238
+
+    MAIN_ADDRESS: 55 Greene Ave Ste 2BBrooklyn, NY 11238
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Fort Greene
+
+    LONG_NAME: 55
+
+    FORMATTED_ADDRESS: 55 Greene Ave #2b, Brooklyn, NY 11238, USA
+
+    LATITUDE: 40.6863077
+
+    LONGITUDE: -73.9709274

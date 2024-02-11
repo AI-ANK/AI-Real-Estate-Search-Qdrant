@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Exp Realty
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 600000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1728.0
+
+    ADDRESS: 4217 Seton Ave
+
+    STATE: Bronx, NY 10466
+
+    MAIN_ADDRESS: 4217 Seton AveBronx, NY 10466
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Seton Avenue
+
+    FORMATTED_ADDRESS: 4217 Seton Ave, Bronx, NY 10466, USA
+
+    LATITUDE: 40.896179
+
+    LONGITUDE: -73.839487

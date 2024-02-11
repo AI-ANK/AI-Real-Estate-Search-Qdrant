@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by EXIT REALTY PREMIER
+
+    TYPE: House for sale
+
+    PRICE: 749000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2002.0
+
+    ADDRESS: 631 Essex St
+
+    STATE: Brooklyn, NY 11208
+
+    MAIN_ADDRESS: 631 Essex StBrooklyn, NY 11208
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Essex Street
+
+    FORMATTED_ADDRESS: 631 Essex St, Brooklyn, NY 11208, USA
+
+    LATITUDE: 40.6681727
+
+    LONGITUDE: -73.8800267

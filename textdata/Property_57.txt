@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by American Homes Group
+
+    TYPE: House for sale
+
+    PRICE: 998800
+
+    BEDS: 3
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2400.0
+
+    ADDRESS: 1191 Clove Rd
+
+    STATE: Staten Island, NY 10301
+
+    MAIN_ADDRESS: 1191 Clove RdStaten Island, NY 10301
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Clove Road
+
+    FORMATTED_ADDRESS: 1191 Clove Rd, Staten Island, NY 10301, USA
+
+    LATITUDE: 40.6175
+
+    LONGITUDE: -74.103996

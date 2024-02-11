@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by E House Realty & Mgt. Inc.
+
+    TYPE: Land for sale
+
+    PRICE: 999000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 950.0
+
+    ADDRESS: 13617 Carlton Pl
+
+    STATE: Flushing, NY 11354
+
+    MAIN_ADDRESS: 13617 Carlton PlFlushing, NY 11354
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Carlton Place
+
+    FORMATTED_ADDRESS: 136-17 Carlton Pl, Flushing, NY 11354, USA
+
+    LATITUDE: 40.7644631
+
+    LONGITUDE: -73.8297531

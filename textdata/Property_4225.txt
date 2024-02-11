@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Diamond Real Inc
+
+    TYPE: Condo for sale
+
+    PRICE: 599000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 935.0
+
+    ADDRESS: 727 Ocean View Ave Apt D3
+
+    STATE: Brooklyn, NY 11235
+
+    MAIN_ADDRESS: 727 Ocean View Ave Apt D3Brooklyn, NY 11235
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Brighton Beach
+
+    LONG_NAME: 727
+
+    FORMATTED_ADDRESS: 727 Ocean View Ave APT D3, Brooklyn, NY 11235, USA
+
+    LATITUDE: 40.5801457
+
+    LONGITUDE: -73.9605103

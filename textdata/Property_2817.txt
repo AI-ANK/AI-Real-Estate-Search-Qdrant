@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Realty Greater Nassau
+
+    TYPE: House for sale
+
+    PRICE: 4500000
+
+    BEDS: 6
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 147-21 14th Ave
+
+    STATE: Whitestone, NY 11357
+
+    MAIN_ADDRESS: 147-21 14th AveWhitestone, NY 11357
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 14th Avenue
+
+    FORMATTED_ADDRESS: 147-21 14th Ave, Whitestone, NY 11357, USA
+
+    LATITUDE: 40.7880839
+
+    LONGITUDE: -73.8180817

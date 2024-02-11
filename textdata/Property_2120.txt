@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Your Home Sold Guaranteed Realty Advisor LLC
+
+    TYPE: Condo for sale
+
+    PRICE: 164999
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 400.0
+
+    ADDRESS: 36 Hamilton Ave Apt 5B
+
+    STATE: Staten Island, NY 10301
+
+    MAIN_ADDRESS: 36 Hamilton Ave Apt 5BStaten Island, NY 10301
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Richmond County
+
+    SUBLOCALITY: Staten Island
+
+    STREET_NAME: Mid Island
+
+    LONG_NAME: 36
+
+    FORMATTED_ADDRESS: 36 Hamilton Ave #5b, Staten Island, NY 10301, USA
+
+    LATITUDE: 40.6449121
+
+    LONGITUDE: -74.0787385

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by CENTURY 21 Homefront
+
+    TYPE: Co-op for sale
+
+    PRICE: 399000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 960.0
+
+    ADDRESS: 464 Neptune Ave Apt 2C
+
+    STATE: Brooklyn, NY 11224
+
+    MAIN_ADDRESS: 464 Neptune Ave Apt 2CBrooklyn, NY 11224
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Coney Island
+
+    LONG_NAME: 464
+
+    FORMATTED_ADDRESS: 464 Neptune Ave #2c, Brooklyn, NY 11224, USA
+
+    LATITUDE: 40.5792324
+
+    LONGITUDE: -73.9713245

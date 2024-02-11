@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Jamie & Connie Real Estate Grp
+
+    TYPE: Co-op for sale
+
+    PRICE: 210000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 66-04 Grand Central Pkwy Unit 1C
+
+    STATE: Forest Hills, NY 11375
+
+    MAIN_ADDRESS: 66-04 Grand Central Pkwy Unit 1CForest Hills, NY 11375
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Forest Hills
+
+    LONG_NAME: 6604
+
+    FORMATTED_ADDRESS: 6604 Grand Central Pkwy #1c, Forest Hills, NY 11375, USA
+
+    LATITUDE: 40.7315312
+
+    LONGITUDE: -73.8437204

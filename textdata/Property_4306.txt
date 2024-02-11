@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Townhouse for sale
+
+    PRICE: 1999000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2487.0
+
+    ADDRESS: 597 E 8th St
+
+    STATE: Brooklyn, NY 11218
+
+    MAIN_ADDRESS: 597 E 8th StBrooklyn, NY 11218
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: East 8th Street
+
+    FORMATTED_ADDRESS: 597 E 8th St, Brooklyn, NY 11218, USA
+
+    LATITUDE: 40.6353046
+
+    LONGITUDE: -73.9698484

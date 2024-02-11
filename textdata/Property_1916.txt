@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by E Realty International Corp
+
+    TYPE: Condo for sale
+
+    PRICE: 585000
+
+    BEDS: 1
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 869.0
+
+    ADDRESS: 63-36 99th St Unit 2G
+
+    STATE: Rego Park, NY 11374
+
+    MAIN_ADDRESS: 63-36 99th St Unit 2GRego Park, NY 11374
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 99th Street
+
+    FORMATTED_ADDRESS: 63-36 99th St, Flushing, NY 11374, USA
+
+    LATITUDE: 40.7317078
+
+    LONGITUDE: -73.856834

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: NoBroker
+
+    TYPE: Co-op for sale
+
+    PRICE: 189000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 300.0
+
+    ADDRESS: 460 Ovington Ave Apt 2H
+
+    STATE: Brooklyn, NY 11209
+
+    MAIN_ADDRESS: 460 Ovington Ave Apt 2HBrooklyn, NY 11209
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Bay Ridge
+
+    LONG_NAME: 460
+
+    FORMATTED_ADDRESS: 460 Ovington Ave #2h, Brooklyn, NY 11209, USA
+
+    LATITUDE: 40.6327714
+
+    LONGITUDE: -74.022251

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Bedford Stuyvesant
+
+    TYPE: Pending
+
+    PRICE: 349750
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 483 17th St # 2L
+
+    STATE: Brooklyn, NY 11215
+
+    MAIN_ADDRESS: 483 17th St # 2LBrooklyn, NY 11215
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Park Slope
+
+    LONG_NAME: 483
+
+    FORMATTED_ADDRESS: 483 17th St #2l, Brooklyn, NY 11215, USA
+
+    LATITUDE: 40.6585622
+
+    LONGITUDE: -73.9825211

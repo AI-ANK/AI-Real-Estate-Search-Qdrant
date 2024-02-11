@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Robert E. Hill, Inc.
+
+    TYPE: Co-op for sale
+
+    PRICE: 175849
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 850.0
+
+    ADDRESS: 60 Knolls Cres Apt 8M
+
+    STATE: Bronx, NY 10463
+
+    MAIN_ADDRESS: 60 Knolls Cres Apt 8MBronx, NY 10463
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: Spuyten Duyvil
+
+    LONG_NAME: 60
+
+    FORMATTED_ADDRESS: 60 Knolls Crescent #8m, Bronx, NY 10463, USA
+
+    LATITUDE: 40.879078
+
+    LONGITUDE: -73.9175196

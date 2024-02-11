@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens - 445 Park Avenue
+
+    TYPE: Co-op for sale
+
+    PRICE: 775000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 401 W End Ave Unit 3E
+
+    STATE: Manhattan, NY 10024
+
+    MAIN_ADDRESS: 401 W End Ave Unit 3EManhattan, NY 10024
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 401
+
+    FORMATTED_ADDRESS: 401 West End Ave # 3d, New York, NY 10024, USA
+
+    LATITUDE: 40.7845412
+
+    LONGITUDE: -73.981249

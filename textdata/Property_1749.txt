@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by BLUEPRINT EQUITIES
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 980000
+
+    BEDS: 6
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 1139 Grant Ave
+
+    STATE: Brooklyn, NY 11208
+
+    MAIN_ADDRESS: 1139 Grant AveBrooklyn, NY 11208
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Grant Avenue
+
+    FORMATTED_ADDRESS: 1139 Grant Ave, Brooklyn, NY 11208, USA
+
+    LATITUDE: 40.6615804
+
+    LONGITUDE: -73.8615475

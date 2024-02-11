@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Coldwell Banker Advantage
+
+    TYPE: Contingent
+
+    PRICE: 299998
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1200.0
+
+    ADDRESS: 412 Maryland Ave Apt 3A
+
+    STATE: Staten Island, NY 10305
+
+    MAIN_ADDRESS: 412 Maryland Ave Apt 3AStaten Island, NY 10305
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Richmond County
+
+    SUBLOCALITY: Staten Island
+
+    STREET_NAME: Rosebank
+
+    LONG_NAME: 412
+
+    FORMATTED_ADDRESS: 412 Maryland Ave #3a, Staten Island, NY 10305, USA
+
+    LATITUDE: 40.608288
+
+    LONGITUDE: -74.07426

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Industrie Residential
+
+    TYPE: Co-op for sale
+
+    PRICE: 4895000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 3594.0
+
+    ADDRESS: 35 E 12th St Unit 2AB
+
+    STATE: New York, NY 10003
+
+    MAIN_ADDRESS: 35 E 12th St Unit 2ABNew York, NY 10003
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 35
+
+    FORMATTED_ADDRESS: 35 E 12th St #2a, New York, NY 10003, USA
+
+    LATITUDE: 40.7338734
+
+    LONGITUDE: -73.9921219

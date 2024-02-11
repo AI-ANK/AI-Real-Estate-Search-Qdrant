@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by E Realty International Corp
+
+    TYPE: House for sale
+
+    PRICE: 858000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 52-37 84th St
+
+    STATE: Elmhurst, NY 11373
+
+    MAIN_ADDRESS: 52-37 84th StElmhurst, NY 11373
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 84th Street
+
+    FORMATTED_ADDRESS: 52-37 84th St, Elmhurst, NY 11373, USA
+
+    LATITUDE: 40.7329998
+
+    LONGITUDE: -73.8824499

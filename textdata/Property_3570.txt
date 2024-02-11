@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Dom Realty, Inc
+
+    TYPE: Co-op for sale
+
+    PRICE: 229000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 500.0
+
+    ADDRESS: 2727 Ocean Pkwy Apt D6
+
+    STATE: Brooklyn, NY 11235
+
+    MAIN_ADDRESS: 2727 Ocean Pkwy Apt D6Brooklyn, NY 11235
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Brighton Beach
+
+    LONG_NAME: 2727
+
+    FORMATTED_ADDRESS: 2727 Ocean Pkwy d6, Brooklyn, NY 11235, USA
+
+    LATITUDE: 40.5822648
+
+    LONGITUDE: -73.9666622

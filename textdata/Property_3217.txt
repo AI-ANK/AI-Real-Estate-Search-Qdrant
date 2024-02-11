@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Astor Brokerage Ltd
+
+    TYPE: Co-op for sale
+
+    PRICE: 288800
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 77-32 Vleigh Pl Unit 82E
+
+    STATE: Flushing, NY 11367
+
+    MAIN_ADDRESS: 77-32 Vleigh Pl Unit 82EFlushing, NY 11367
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Vleigh Place
+
+    FORMATTED_ADDRESS: 77-32 Vleigh Pl, Flushing, NY 11367, USA
+
+    LATITUDE: 40.7198854
+
+    LONGITUDE: -73.8209128

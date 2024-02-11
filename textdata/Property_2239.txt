@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran East Side
+
+    TYPE: Co-op for sale
+
+    PRICE: 2700000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 43 Fifth Ave # 8NW
+
+    STATE: New York, NY 10003
+
+    MAIN_ADDRESS: 43 Fifth Ave # 8NWNew York, NY 10003
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 43
+
+    FORMATTED_ADDRESS: 43 5th Ave #8b, New York, NY 10003, USA
+
+    LATITUDE: 40.7340159
+
+    LONGITUDE: -73.9946266

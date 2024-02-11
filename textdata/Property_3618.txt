@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by NEXT - NextStopNY
+
+    TYPE: Co-op for sale
+
+    PRICE: 318000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 450.0
+
+    ADDRESS: 200 E 36th St Apt 4J
+
+    STATE: New York, NY 10016
+
+    MAIN_ADDRESS: 200 E 36th St Apt 4JNew York, NY 10016
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 200
+
+    FORMATTED_ADDRESS: 200 E 36th St #4j, New York, NY 10016, USA
+
+    LATITUDE: 40.7467649
+
+    LONGITUDE: -73.976998

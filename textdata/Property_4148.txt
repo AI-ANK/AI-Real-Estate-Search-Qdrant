@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran East Side
+
+    TYPE: Condo for sale
+
+    PRICE: 4250000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1778.0
+
+    ADDRESS: 15 Hudson Yards Apt 34A
+
+    STATE: New York, NY 10001
+
+    MAIN_ADDRESS: 15 Hudson Yards Apt 34ANew York, NY 10001
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 15
+
+    FORMATTED_ADDRESS: 15 Hudson Yards #34a, New York, NY 10001, USA
+
+    LATITUDE: 40.7537586
+
+    LONGITUDE: -74.003221

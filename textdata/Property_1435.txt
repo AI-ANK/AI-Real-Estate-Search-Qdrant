@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sold By Bart R E Partners Inc
+
+    TYPE: Co-op for sale
+
+    PRICE: 250000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 83-55 Woodhaven Blvd Unit 6K
+
+    STATE: Woodhaven, NY 11421
+
+    MAIN_ADDRESS: 83-55 Woodhaven Blvd Unit 6KWoodhaven, NY 11421
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Woodhaven
+
+    LONG_NAME: 83-55
+
+    FORMATTED_ADDRESS: 83-55 Woodhaven Blvd #6k, Woodhaven, NY 11421, USA
+
+    LATITUDE: 40.700309
+
+    LONGITUDE: -73.8535466

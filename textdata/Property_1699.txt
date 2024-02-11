@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sowae Corp
+
+    TYPE: Condo for sale
+
+    PRICE: 369000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 720 57th St Apt 4C
+
+    STATE: Brooklyn, NY 11220
+
+    MAIN_ADDRESS: 720 57th St Apt 4CBrooklyn, NY 11220
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Sunset Park
+
+    LONG_NAME: 720
+
+    FORMATTED_ADDRESS: 720 57th St #4c, Brooklyn, NY 11220, USA
+
+    LATITUDE: 40.637981
+
+    LONGITUDE: -74.009565

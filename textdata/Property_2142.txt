@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by DiTommaso Real Estate
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1450000
+
+    BEDS: 5
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 3252.0
+
+    ADDRESS: 169 Crown Ave
+
+    STATE: Staten Island, NY 10312
+
+    MAIN_ADDRESS: 169 Crown AveStaten Island, NY 10312
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Crown Avenue
+
+    FORMATTED_ADDRESS: 169 Crown Ave, Staten Island, NY 10312, USA
+
+    LATITUDE: 40.5504262
+
+    LONGITUDE: -74.186404

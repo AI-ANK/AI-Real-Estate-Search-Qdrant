@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Ycl Real Estate Consulting
+
+    TYPE: Co-op for sale
+
+    PRICE: 217000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 700.0
+
+    ADDRESS: 123-25 82 Ave Unit 5R
+
+    STATE: Kew Gardens, NY 11415
+
+    MAIN_ADDRESS: 123-25 82 Ave Unit 5RKew Gardens, NY 11415
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Kew Gardens
+
+    LONG_NAME: 12325
+
+    FORMATTED_ADDRESS: 12325 82nd Ave #5r, Kew Gardens, NY 11415, USA
+
+    LATITUDE: 40.7126884
+
+    LONGITUDE: -73.8282495

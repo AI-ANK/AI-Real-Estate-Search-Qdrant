@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by NEXTHOME PLATINUM PROPERTIES
+
+    TYPE: Co-op for sale
+
+    PRICE: 330000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 656.0
+
+    ADDRESS: 17-85 215th St Unit 6K
+
+    STATE: Bayside, NY 11360
+
+    MAIN_ADDRESS: 17-85 215th St Unit 6KBayside, NY 11360
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 17-85
+
+    FORMATTED_ADDRESS: 17-85 215th St #6k, Flushing, NY 11360, USA
+
+    LATITUDE: 40.7843012
+
+    LONGITUDE: -73.7761962

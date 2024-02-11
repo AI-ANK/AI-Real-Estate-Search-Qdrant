@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Pantiga Group Inc.
+
+    TYPE: Co-op for sale
+
+    PRICE: 259000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 950.0
+
+    ADDRESS: 800 Grand Concourse Ave Unit Gjn
+
+    STATE: Bronx, NY 10451
+
+    MAIN_ADDRESS: 800 Grand Concourse Ave Unit GjnBronx, NY 10451
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Grand Concourse
+
+    FORMATTED_ADDRESS: 800 Grand Concourse, Bronx, NY 10451, USA
+
+    LATITUDE: 40.8248699
+
+    LONGITUDE: -73.9229829

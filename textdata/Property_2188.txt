@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Four Seasons Realty Co.
+
+    TYPE: Contingent
+
+    PRICE: 725000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 1498.0
+
+    ADDRESS: 32 Poi Ct
+
+    STATE: Staten Island, NY 10314
+
+    MAIN_ADDRESS: 32 Poi CtStaten Island, NY 10314
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Poi Court
+
+    FORMATTED_ADDRESS: 32 Poi Ct, Staten Island, NY 10314, USA
+
+    LATITUDE: 40.5887531
+
+    LONGITUDE: -74.1613951

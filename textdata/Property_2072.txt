@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Cypress Estates Realty LLC
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 999990
+
+    BEDS: 6
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 215-20 104th Ave
+
+    STATE: Queens Village, NY 11429
+
+    MAIN_ADDRESS: 215-20 104th AveQueens Village, NY 11429
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 104th Avenue
+
+    FORMATTED_ADDRESS: 215-20 104th Ave, Queens Village, NY 11429, USA
+
+    LATITUDE: 40.7118837
+
+    LONGITUDE: -73.742941

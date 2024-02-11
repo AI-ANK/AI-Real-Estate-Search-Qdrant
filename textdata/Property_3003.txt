@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by CENTURY 21 MK Realty
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1100000
+
+    BEDS: 7
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 1040.0
+
+    ADDRESS: 118 Miller Ave
+
+    STATE: Brooklyn, NY 11207
+
+    MAIN_ADDRESS: 118 Miller AveBrooklyn, NY 11207
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Miller Avenue
+
+    FORMATTED_ADDRESS: 118 Miller Ave, Brooklyn, NY 11207, USA
+
+    LATITUDE: 40.6784973
+
+    LONGITUDE: -73.892987

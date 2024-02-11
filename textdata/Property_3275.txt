@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Highline Residential - Highline Residential
+
+    TYPE: Condo for sale
+
+    PRICE: 3200000
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1820.0
+
+    ADDRESS: 675 Sackett St Apt 105
+
+    STATE: Brooklyn, NY 11217
+
+    MAIN_ADDRESS: 675 Sackett St Apt 105Brooklyn, NY 11217
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Park Slope
+
+    LONG_NAME: 675
+
+    FORMATTED_ADDRESS: 675 Sackett St APT 105, Brooklyn, NY 11217, USA
+
+    LATITUDE: 40.6779373
+
+    LONGITUDE: -73.981685

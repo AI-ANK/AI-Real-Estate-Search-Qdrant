@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by All American Realty Management
+
+    TYPE: Pending
+
+    PRICE: 184888
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 500.0
+
+    ADDRESS: 2902745 35 98th St Unit 15A
+
+    STATE: Queens, NY 11374
+
+    MAIN_ADDRESS: 2902745 35 98th St Unit 15AQueens, NY 11374
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Rego Park
+
+    LONG_NAME: 61-35
+
+    FORMATTED_ADDRESS: 61-35 98th St #15a, Rego Park, NY 11374, USA
+
+    LATITUDE: 40.7343409
+
+    LONGITUDE: -73.859014

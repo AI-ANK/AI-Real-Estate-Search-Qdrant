@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by City Advance Realty Inc
+
+    TYPE: Condo for sale
+
+    PRICE: 568000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1253.0
+
+    ADDRESS: 164 Beach 101st St Unit 15A
+
+    STATE: Rockaway Park, NY 11694
+
+    MAIN_ADDRESS: 164 Beach 101st St Unit 15ARockaway Park, NY 11694
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Rockaway Park
+
+    LONG_NAME: 164
+
+    FORMATTED_ADDRESS: 164 Beach 101st St #15a, Rockaway Park, NY 11694, USA
+
+    LATITUDE: 40.5828044
+
+    LONGITUDE: -73.8210807

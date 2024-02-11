@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Pemberley Estates Inc.
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1199000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2279.0
+
+    ADDRESS: 158 Cloverdale Ave
+
+    STATE: Staten Island, NY 10308
+
+    MAIN_ADDRESS: 158 Cloverdale AveStaten Island, NY 10308
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Cloverdale Avenue
+
+    FORMATTED_ADDRESS: 158 Cloverdale Ave, Staten Island, NY 10308, USA
+
+    LATITUDE: 40.545515
+
+    LONGITUDE: -74.156447

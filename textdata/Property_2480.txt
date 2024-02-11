@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Awaye Realty
+
+    TYPE: Condo for sale
+
+    PRICE: 2550000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2400.0
+
+    ADDRESS: 145 Huntington St Unit 147-1
+
+    STATE: Brooklyn, NY 11231
+
+    MAIN_ADDRESS: 145 Huntington St Unit 147-1Brooklyn, NY 11231
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Carroll Gardens
+
+    LONG_NAME: 145
+
+    FORMATTED_ADDRESS: 145 Huntington St 147 1, Brooklyn, NY 11231, USA
+
+    LATITUDE: 40.6763366
+
+    LONGITUDE: -74.0001966

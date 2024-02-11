@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Real Estate Professionals
+
+    TYPE: House for sale
+
+    PRICE: 1525000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1650.0
+
+    ADDRESS: 1139 72nd St
+
+    STATE: Brooklyn, NY 11228
+
+    MAIN_ADDRESS: 1139 72nd StBrooklyn, NY 11228
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: 72nd Street
+
+    FORMATTED_ADDRESS: 1139 72nd St, Brooklyn, NY 11228, USA
+
+    LATITUDE: 40.6242186
+
+    LONGITUDE: -74.0088847

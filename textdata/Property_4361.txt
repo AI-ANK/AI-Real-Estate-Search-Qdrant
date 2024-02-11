@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Rlty Landmark
+
+    TYPE: House for sale
+
+    PRICE: 1500000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 59-42/44 69 St
+
+    STATE: Maspeth, NY 11378
+
+    MAIN_ADDRESS: 59-42/44 69 StMaspeth, NY 11378
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 69th Street
+
+    FORMATTED_ADDRESS: 59-42 69th St, Flushing, NY 11378, USA
+
+    LATITUDE: 40.7220377
+
+    LONGITUDE: -73.8936918

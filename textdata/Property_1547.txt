@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Apple Realty Group Corp
+
+    TYPE: Condo for sale
+
+    PRICE: 680000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1058.0
+
+    ADDRESS: 167-09 Powell Cove Blvd Unit 26
+
+    STATE: Beechhurst, NY 11357
+
+    MAIN_ADDRESS: 167-09 Powell Cove Blvd Unit 26Beechhurst, NY 11357
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 16709
+
+    FORMATTED_ADDRESS: 16709 Powells Cove Blvd #26, Flushing, NY 11357, USA
+
+    LATITUDE: 40.7942255
+
+    LONGITUDE: -73.7950678

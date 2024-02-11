@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Real Estate Top Sales Llc
+
+    TYPE: Condo for sale
+
+    PRICE: 580000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 667.0
+
+    ADDRESS: 224 22nd St Apt 4D
+
+    STATE: Brooklyn, NY 11232
+
+    MAIN_ADDRESS: 224 22nd St Apt 4DBrooklyn, NY 11232
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Sunset Park
+
+    LONG_NAME: 224
+
+    FORMATTED_ADDRESS: 224 22nd St #4d, Brooklyn, NY 11232, USA
+
+    LATITUDE: 40.6609319
+
+    LONGITUDE: -73.9945957

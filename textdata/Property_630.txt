@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Century 21 Amiable Realty Group II, Inc.
+
+    TYPE: Co-op for sale
+
+    PRICE: 239000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 798.0
+
+    ADDRESS: 155-07 86th St Unit 102
+
+    STATE: Howard Beach, NY 11414
+
+    MAIN_ADDRESS: 155-07 86th St Unit 102Howard Beach, NY 11414
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Howard Beach
+
+    LONG_NAME: 15507
+
+    FORMATTED_ADDRESS: 15507 86th St # 102, Howard Beach, NY 11414, USA
+
+    LATITUDE: 40.6649999
+
+    LONGITUDE: -73.84857

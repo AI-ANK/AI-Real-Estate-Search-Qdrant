@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Living NY - Main Office
+
+    TYPE: Condo for sale
+
+    PRICE: 625000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 692.0
+
+    ADDRESS: 300 W 135th St Apt 4L
+
+    STATE: New York, NY 10030
+
+    MAIN_ADDRESS: 300 W 135th St Apt 4LNew York, NY 10030
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 300
+
+    FORMATTED_ADDRESS: 300 W 135th St #4l, New York, NY 10030, USA
+
+    LATITUDE: 40.8166535
+
+    LONGITUDE: -73.9473569

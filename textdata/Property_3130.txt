@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Prime Ny Inc.
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 6950000
+
+    BEDS: 6
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 32000.0
+
+    ADDRESS: 367 E 201st St
+
+    STATE: Bronx, NY 10458
+
+    MAIN_ADDRESS: 367 E 201st StBronx, NY 10458
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: East 201st Street
+
+    FORMATTED_ADDRESS: 367 E 201st St, Bronx, NY 10458, USA
+
+    LATITUDE: 40.8694599
+
+    LONGITUDE: -73.882195

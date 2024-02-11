@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens - 445 Park Avenue
+
+    TYPE: Co-op for sale
+
+    PRICE: 750000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1600.0
+
+    ADDRESS: 1070 Park Avenue Ave Units MAIS & 1A
+
+    STATE: Manhattan, NY 10128
+
+    MAIN_ADDRESS: 1070 Park Avenue Ave Units MAIS & 1AManhattan, NY 10128
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: Park Avenue
+
+    FORMATTED_ADDRESS: 1070 Park Ave, New York, NY 10128, USA
+
+    LATITUDE: 40.7813792
+
+    LONGITUDE: -73.9554399

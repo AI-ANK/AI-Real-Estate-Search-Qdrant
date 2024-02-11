@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 400000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 2025 Broadway Apt 17G
+
+    STATE: Manhattan, NY 10023
+
+    MAIN_ADDRESS: 2025 Broadway Apt 17GManhattan, NY 10023
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 2025
+
+    FORMATTED_ADDRESS: 2025 Broadway #17g, New York, NY 10023, USA
+
+    LATITUDE: 40.7770746
+
+    LONGITUDE: -73.9824749

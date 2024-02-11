@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by eXp Realty BKNY
+
+    TYPE: House for sale
+
+    PRICE: 390000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 586.0
+
+    ADDRESS: 231 Freeborn St
+
+    STATE: Staten Island, NY 10306
+
+    MAIN_ADDRESS: 231 Freeborn StStaten Island, NY 10306
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Freeborn Street
+
+    FORMATTED_ADDRESS: 231 Freeborn St, Staten Island, NY 10306, USA
+
+    LATITUDE: 40.574103
+
+    LONGITUDE: -74.0931668

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Townhouse for sale
+
+    PRICE: 1300000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 449 Convent Ave Unit Townhouse
+
+    STATE: Manhattan, NY 10031
+
+    MAIN_ADDRESS: 449 Convent Ave Unit TownhouseManhattan, NY 10031
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: Convent Avenue
+
+    FORMATTED_ADDRESS: 449 Convent Ave, New York, NY 10031, USA
+
+    LATITUDE: 40.8274367
+
+    LONGITUDE: -73.9438954

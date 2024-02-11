@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens- 3531 Johnson Avenue
+
+    TYPE: Condo for sale
+
+    PRICE: 1181000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1541.0
+
+    ADDRESS: 640 W 237th St Apt 15A
+
+    STATE: Bronx, NY 10463
+
+    MAIN_ADDRESS: 640 W 237th St Apt 15ABronx, NY 10463
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: Riverdale
+
+    LONG_NAME: 640
+
+    FORMATTED_ADDRESS: 640 W 237th St #15a, Bronx, NY 10463, USA
+
+    LATITUDE: 40.8879309
+
+    LONGITUDE: -73.9121663

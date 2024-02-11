@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Townhouse for sale
+
+    PRICE: 5000000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2569.0
+
+    ADDRESS: 165 Chrystie St Unit Th
+
+    STATE: Manhattan, NY 10002
+
+    MAIN_ADDRESS: 165 Chrystie St Unit ThManhattan, NY 10002
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: Chrystie Street
+
+    FORMATTED_ADDRESS: 165 Chrystie St, New York, NY 10002, USA
+
+    LATITUDE: 40.720727
+
+    LONGITUDE: -73.9928511

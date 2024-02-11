@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Garfield, Leslie J. & Co., Inc.
+
+    TYPE: Townhouse for sale
+
+    PRICE: 6995000
+
+    BEDS: 4
+
+    BATH: 5.0
+
+    PROPERTYSQFT: 4187.0
+
+    ADDRESS: 92 Amity St
+
+    STATE: Brooklyn, NY 11201
+
+    MAIN_ADDRESS: 92 Amity StBrooklyn, NY 11201
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Amity Street
+
+    FORMATTED_ADDRESS: 92 Amity St, Brooklyn, NY 11201, USA
+
+    LATITUDE: 40.6894191
+
+    LONGITUDE: -73.9977098

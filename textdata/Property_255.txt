@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Crifasi Real Estate Inc
+
+    TYPE: Co-op for sale
+
+    PRICE: 220000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 590.0
+
+    ADDRESS: 82-35 134th St Unit 2D
+
+    STATE: Briarwood, NY 11435
+
+    MAIN_ADDRESS: 82-35 134th St Unit 2DBriarwood, NY 11435
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Jamaica
+
+    LONG_NAME: 82-35
+
+    FORMATTED_ADDRESS: 82-35 134th St #2d, Jamaica, NY 11435, USA
+
+    LATITUDE: 40.7130136
+
+    LONGITUDE: -73.8230375

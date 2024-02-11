@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran SoHo
+
+    TYPE: Co-op for sale
+
+    PRICE: 445000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 550.0
+
+    ADDRESS: 230 E 79th St Apt 19C
+
+    STATE: New York, NY 10075
+
+    MAIN_ADDRESS: 230 E 79th St Apt 19CNew York, NY 10075
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 230
+
+    FORMATTED_ADDRESS: 230 E 79th St #19c, New York, NY 10075, USA
+
+    LATITUDE: 40.7735465
+
+    LONGITUDE: -73.9561566

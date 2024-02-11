@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Chelsea/Flatiron
+
+    TYPE: Condo for sale
+
+    PRICE: 4495000
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2012.0
+
+    ADDRESS: 252 E 57th St Apt 39C
+
+    STATE: New York, NY 10022
+
+    MAIN_ADDRESS: 252 E 57th St Apt 39CNew York, NY 10022
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 252
+
+    FORMATTED_ADDRESS: 252 E 57th St #39c, New York, NY 10022, USA
+
+    LATITUDE: 40.7590821
+
+    LONGITUDE: -73.9658765

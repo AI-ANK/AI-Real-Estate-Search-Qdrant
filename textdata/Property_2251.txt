@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Townhouse for sale
+
+    PRICE: 19995000
+
+    BEDS: 6
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 8300.0
+
+    ADDRESS: 109 Waverly Pl
+
+    STATE: Manhattan, NY 10011
+
+    MAIN_ADDRESS: 109 Waverly PlManhattan, NY 10011
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: Waverly Place
+
+    FORMATTED_ADDRESS: 109 Waverly Pl, New York, NY 10011, USA
+
+    LATITUDE: 40.7326368
+
+    LONGITUDE: -73.998918

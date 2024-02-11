@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Pending
+
+    PRICE: 360000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 425 E 78th St Apt 1C
+
+    STATE: Manhattan, NY 10075
+
+    MAIN_ADDRESS: 425 E 78th St Apt 1CManhattan, NY 10075
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 425
+
+    FORMATTED_ADDRESS: 425 E 78th St #1c, New York, NY 10075, USA
+
+    LATITUDE: 40.7711911
+
+    LONGITUDE: -73.9516646

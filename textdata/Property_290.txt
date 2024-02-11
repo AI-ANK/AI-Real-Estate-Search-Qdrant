@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by MAXIMILLION REALTY, INC.
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1350000
+
+    BEDS: 6
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 3000.0
+
+    ADDRESS: 2535 E 24th St
+
+    STATE: Brooklyn, NY 11235
+
+    MAIN_ADDRESS: 2535 E 24th StBrooklyn, NY 11235
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: East 24th Street
+
+    FORMATTED_ADDRESS: 2535 E 24th St, Brooklyn, NY 11235, USA
+
+    LATITUDE: 40.5902653
+
+    LONGITUDE: -73.9455056

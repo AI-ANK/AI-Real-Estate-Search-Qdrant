@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sotheby's International Realty - Downtown Manhattan
+
+    TYPE: Condo for sale
+
+    PRICE: 5000000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2522.0
+
+    ADDRESS: 139 Spring St Apt 3B
+
+    STATE: New York, NY 10012
+
+    MAIN_ADDRESS: 139 Spring St Apt 3BNew York, NY 10012
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 139
+
+    FORMATTED_ADDRESS: 139 Spring St #3b, New York, NY 10012, USA
+
+    LATITUDE: 40.7242452
+
+    LONGITUDE: -74.0008671

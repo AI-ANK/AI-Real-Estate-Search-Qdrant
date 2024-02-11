@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sotheby's International Realty - East Side Manhattan Brokerage
+
+    TYPE: Condo for sale
+
+    PRICE: 950000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 560.0
+
+    ADDRESS: 323 E 53rd Street Ter Ste B
+
+    STATE: New York, NY 10022
+
+    MAIN_ADDRESS: 323 E 53rd Street Ter Ste BNew York, NY 10022
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: East 53rd Street
+
+    FORMATTED_ADDRESS: 323 E 53rd St, New York, NY 10022, USA
+
+    LATITUDE: 40.7564316
+
+    LONGITUDE: -73.9660912

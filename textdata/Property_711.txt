@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Townhouse for sale
+
+    PRICE: 575000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1330.0
+
+    ADDRESS: 411 Montauk Ave
+
+    STATE: Brooklyn, NY 11208
+
+    MAIN_ADDRESS: 411 Montauk AveBrooklyn, NY 11208
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Montauk Avenue
+
+    FORMATTED_ADDRESS: 411 Montauk Ave., Brooklyn, NY 11208, USA
+
+    LATITUDE: 40.6683511
+
+    LONGITUDE: -73.8757315

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens - 43 North Moore Street
+
+    TYPE: Townhouse for sale
+
+    PRICE: 23000000
+
+    BEDS: 5
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 7058.0
+
+    ADDRESS: 334 W 20th St Unit Townhouse
+
+    STATE: Manhattan, NY 10011
+
+    MAIN_ADDRESS: 334 W 20th St Unit TownhouseManhattan, NY 10011
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: West 20th Street
+
+    FORMATTED_ADDRESS: 334 W 20th St, New York, NY 10011, USA
+
+    LATITUDE: 40.7439188
+
+    LONGITUDE: -74.0014359

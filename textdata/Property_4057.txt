@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: NoBroker
+
+    TYPE: Pending
+
+    PRICE: 895000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 365 W 20th St Apt 9C
+
+    STATE: Manhattan, NY 10011
+
+    MAIN_ADDRESS: 365 W 20th St Apt 9CManhattan, NY 10011
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 365
+
+    FORMATTED_ADDRESS: 365 W 20th St Apt 9b, New York, NY 10011, USA
+
+    LATITUDE: 40.7443407
+
+    LONGITUDE: -74.0016248

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Realty Quest New York Inc
+
+    TYPE: Co-op for sale
+
+    PRICE: 215000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 6115 97th St Apt Le
+
+    STATE: Rego Park, NY 11374
+
+    MAIN_ADDRESS: 6115 97th St Apt LeRego Park, NY 11374
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 97th Street
+
+    FORMATTED_ADDRESS: 61-15 97th St, Rego Park, NY 11374, USA
+
+    LATITUDE: 40.7337965
+
+    LONGITUDE: -73.8620837

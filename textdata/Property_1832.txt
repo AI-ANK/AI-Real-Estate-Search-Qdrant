@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Home Global Realty
+
+    TYPE: House for sale
+
+    PRICE: 780000
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1344.0
+
+    ADDRESS: 91-11 92nd St
+
+    STATE: Woodhaven, NY 11421
+
+    MAIN_ADDRESS: 91-11 92nd StWoodhaven, NY 11421
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 92nd Street
+
+    FORMATTED_ADDRESS: 91-11 92nd St, Woodhaven, NY 11421, USA
+
+    LATITUDE: 40.6891418
+
+    LONGITUDE: -73.8510191

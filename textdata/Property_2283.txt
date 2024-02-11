@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Instahomes Realty LLC
+
+    TYPE: House for sale
+
+    PRICE: 660000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 949 Schenck Ave
+
+    STATE: Brooklyn, NY 11207
+
+    MAIN_ADDRESS: 949 Schenck AveBrooklyn, NY 11207
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Schenck Avenue
+
+    FORMATTED_ADDRESS: 949 Schenck Ave, Brooklyn, NY 11207, USA
+
+    LATITUDE: 40.6574259
+
+    LONGITUDE: -73.8808077

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sotheby's International Realty, Inc.
+
+    TYPE: Townhouse for sale
+
+    PRICE: 5600000
+
+    BEDS: 6
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 4917.0
+
+    ADDRESS: 111 E 19th St
+
+    STATE: New York, NY 10003
+
+    MAIN_ADDRESS: 111 E 19th StNew York, NY 10003
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: East 19th Street
+
+    FORMATTED_ADDRESS: 111 E 19th St, New York, NY 10003, USA
+
+    LATITUDE: 40.7375348
+
+    LONGITUDE: -73.9872447

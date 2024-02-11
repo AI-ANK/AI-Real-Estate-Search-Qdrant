@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Central
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1550000
+
+    BEDS: 12
+
+    BATH: 7.0
+
+    PROPERTYSQFT: 3000.0
+
+    ADDRESS: 174-176 Camden Ave
+
+    STATE: Staten Island, NY 10309
+
+    MAIN_ADDRESS: 174-176 Camden AveStaten Island, NY 10309
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Camden Avenue
+
+    FORMATTED_ADDRESS: 174 Camden Ave, Staten Island, NY 10309, USA
+
+    LATITUDE: 40.5083446
+
+    LONGITUDE: -74.2299349

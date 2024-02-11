@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Precious Properties Corp.
+
+    TYPE: Condo for sale
+
+    PRICE: 499000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 825.0
+
+    ADDRESS: 9201 Shore Rd Apt A302
+
+    STATE: Brooklyn, NY 11209
+
+    MAIN_ADDRESS: 9201 Shore Rd Apt A302Brooklyn, NY 11209
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Fort Hamilton
+
+    LONG_NAME: 9201
+
+    FORMATTED_ADDRESS: 9201 Shore Rd #302, Brooklyn, NY 11209, USA
+
+    LATITUDE: 40.620502
+
+    LONGITUDE: -74.0396973

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Century Homes Realty Group LLC
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1599999
+
+    BEDS: 8
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 64-17 35 Ave
+
+    STATE: Woodside, NY 11377
+
+    MAIN_ADDRESS: 64-17 35 AveWoodside, NY 11377
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 35th Avenue
+
+    FORMATTED_ADDRESS: 64-17 35th Ave, Flushing, NY 11377, USA
+
+    LATITUDE: 40.7505901
+
+    LONGITUDE: -73.8980016

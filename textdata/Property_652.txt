@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by TREBACH REALTY INC
+
+    TYPE: Co-op for sale
+
+    PRICE: 1235000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 2501 Palisade Ave Apt D2
+
+    STATE: Bronx, NY 10463
+
+    MAIN_ADDRESS: 2501 Palisade Ave Apt D2Bronx, NY 10463
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: Spuyten Duyvil
+
+    LONG_NAME: 2501
+
+    FORMATTED_ADDRESS: 2501 Palisade Ave Apt D2, Bronx, NY 10463, USA
+
+    LATITUDE: 40.8799728
+
+    LONGITUDE: -73.9221419

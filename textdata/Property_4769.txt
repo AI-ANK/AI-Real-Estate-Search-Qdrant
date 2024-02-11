@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Signature Premier Properties
+
+    TYPE: Co-op for sale
+
+    PRICE: 219000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 54-44 Litttle Neck Pkwy Unit 3P
+
+    STATE: Little Neck, NY 11362
+
+    MAIN_ADDRESS: 54-44 Litttle Neck Pkwy Unit 3PLittle Neck, NY 11362
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Little Neck
+
+    LONG_NAME: 54-44
+
+    FORMATTED_ADDRESS: 54-44 Little Neck Pkwy #3, Little Neck, NY 11362, USA
+
+    LATITUDE: 40.7657774
+
+    LONGITUDE: -73.7254213

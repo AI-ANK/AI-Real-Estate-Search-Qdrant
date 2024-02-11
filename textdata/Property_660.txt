@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 575 Madison Ave
+
+    TYPE: House for sale
+
+    PRICE: 8950000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2570.0
+
+    ADDRESS: 69 Orange St
+
+    STATE: Brooklyn, NY 11201
+
+    MAIN_ADDRESS: 69 Orange StBrooklyn, NY 11201
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Orange Street
+
+    FORMATTED_ADDRESS: 69 Orange St, Brooklyn, NY 11201, USA
+
+    LATITUDE: 40.6990407
+
+    LONGITUDE: -73.9929045

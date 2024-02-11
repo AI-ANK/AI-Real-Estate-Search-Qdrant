@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Tscherne Realty Inc
+
+    TYPE: House for sale
+
+    PRICE: 1298000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2046.0
+
+    ADDRESS: 62-15 82nd Pl
+
+    STATE: Middle Village, NY 11379
+
+    MAIN_ADDRESS: 62-15 82nd PlMiddle Village, NY 11379
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 82nd Place
+
+    FORMATTED_ADDRESS: 62-15 82nd Pl, Flushing, NY 11379, USA
+
+    LATITUDE: 40.7239521
+
+    LONGITUDE: -73.8747783

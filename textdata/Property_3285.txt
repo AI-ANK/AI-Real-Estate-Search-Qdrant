@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Robert Defalco Realty, Inc.
+
+    TYPE: House for sale
+
+    PRICE: 749999
+
+    BEDS: 4
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 1063.0
+
+    ADDRESS: 4236 Richmond Ave
+
+    STATE: Staten Island, NY 10312
+
+    MAIN_ADDRESS: 4236 Richmond AveStaten Island, NY 10312
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Richmond Avenue
+
+    FORMATTED_ADDRESS: 4236 Richmond Ave, Staten Island, NY 10312, USA
+
+    LATITUDE: 40.5355078
+
+    LONGITUDE: -74.1566675

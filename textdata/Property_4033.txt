@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Momentum Real Estate Llc
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 928000
+
+    BEDS: 3
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 1640.0
+
+    ADDRESS: 223 43rd St
+
+    STATE: Brooklyn, NY 11232
+
+    MAIN_ADDRESS: 223 43rd StBrooklyn, NY 11232
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: 43rd Street
+
+    FORMATTED_ADDRESS: 223 43rd St, Brooklyn, NY 11232, USA
+
+    LATITUDE: 40.6527672
+
+    LONGITUDE: -74.0120752

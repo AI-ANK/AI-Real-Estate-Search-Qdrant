@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Neuhaus Realty, Inc.
+
+    TYPE: House for sale
+
+    PRICE: 2750000
+
+    BEDS: 6
+
+    BATH: 5.0
+
+    PROPERTYSQFT: 6300.0
+
+    ADDRESS: 79 Grandview Ter
+
+    STATE: Staten Island, NY 10308
+
+    MAIN_ADDRESS: 79 Grandview TerStaten Island, NY 10308
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Grandview Terrace
+
+    FORMATTED_ADDRESS: 79 Grandview Terrace, Staten Island, NY 10308, USA
+
+    LATITUDE: 40.5462525
+
+    LONGITUDE: -74.1481727

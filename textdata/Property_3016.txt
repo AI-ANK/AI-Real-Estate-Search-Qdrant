@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Compass Greater Ny, Llc
+
+    TYPE: Pending
+
+    PRICE: 799000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1560.0
+
+    ADDRESS: 62 Daleham St
+
+    STATE: Brooklyn, NY 10308
+
+    MAIN_ADDRESS: 62 Daleham StBrooklyn, NY 10308
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Daleham Street
+
+    FORMATTED_ADDRESS: 62 Daleham St, Staten Island, NY 10308, USA
+
+    LATITUDE: 40.5642806
+
+    LONGITUDE: -74.1530498

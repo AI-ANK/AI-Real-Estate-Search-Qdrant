@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by S Sharf Realty Inc
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1699999
+
+    BEDS: 6
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2754.0
+
+    ADDRESS: 370 Marion St
+
+    STATE: Brooklyn, NY 11233
+
+    MAIN_ADDRESS: 370 Marion StBrooklyn, NY 11233
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Marion Street
+
+    FORMATTED_ADDRESS: 370 Marion St, Brooklyn, NY 11233, USA
+
+    LATITUDE: 40.681189
+
+    LONGITUDE: -73.9146606

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 575 Madison Ave
+
+    TYPE: Condo for sale
+
+    PRICE: 655000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 803.0
+
+    ADDRESS: 1504 Jefferson Ave Unit Gardenb
+
+    STATE: Brooklyn, NY 11237
+
+    MAIN_ADDRESS: 1504 Jefferson Ave Unit GardenbBrooklyn, NY 11237
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Jefferson Avenue
+
+    FORMATTED_ADDRESS: 1504 Jefferson Ave, Brooklyn, NY 11237, USA
+
+    LATITUDE: 40.6967268
+
+    LONGITUDE: -73.9074036

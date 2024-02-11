@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by East Coast Realty Partners
+
+    TYPE: Co-op for sale
+
+    PRICE: 330000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 66-15 Wetherole St Unit A6
+
+    STATE: Rego Park, NY 11374
+
+    MAIN_ADDRESS: 66-15 Wetherole St Unit A6Rego Park, NY 11374
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Rego Park
+
+    LONG_NAME: 6615
+
+    FORMATTED_ADDRESS: 6615 Wetherole St Apt A6, Rego Park, NY 11374, USA
+
+    LATITUDE: 40.7256799
+
+    LONGITUDE: -73.85726

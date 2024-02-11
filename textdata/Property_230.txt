@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Daniel Gale Sotheby's International Realty
+
+    TYPE: Co-op for sale
+
+    PRICE: 1088000
+
+    BEDS: 5
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 20 Continental Ave Unit 5EF
+
+    STATE: Forest Hills, NY 11375
+
+    MAIN_ADDRESS: 20 Continental Ave Unit 5EFForest Hills, NY 11375
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 20
+
+    FORMATTED_ADDRESS: 20 Continental Ave #5f, Flushing, NY 11375, USA
+
+    LATITUDE: 40.7186003
+
+    LONGITUDE: -73.8453488

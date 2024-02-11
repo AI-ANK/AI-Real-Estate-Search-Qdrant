@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Park Slope
+
+    TYPE: Co-op for sale
+
+    PRICE: 400000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 21-55 34th Ave Apt 15B
+
+    STATE: Queens, NY 11106
+
+    MAIN_ADDRESS: 21-55 34th Ave Apt 15BQueens, NY 11106
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Astoria
+
+    LONG_NAME: 21-55
+
+    FORMATTED_ADDRESS: 21-55 34th Ave #15b, Astoria, NY 11106, USA
+
+    LATITUDE: 40.762146
+
+    LONGITUDE: -73.9318948

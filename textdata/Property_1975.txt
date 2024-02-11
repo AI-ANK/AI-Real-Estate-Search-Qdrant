@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Akcess24homes Inc
+
+    TYPE: House for sale
+
+    PRICE: 749000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 557 Drew St
+
+    STATE: Brooklyn, NY 11208
+
+    MAIN_ADDRESS: 557 Drew StBrooklyn, NY 11208
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Drew Street
+
+    FORMATTED_ADDRESS: 557 Drew St, Brooklyn, NY 11208, USA
+
+    LATITUDE: 40.6771904
+
+    LONGITUDE: -73.8625697

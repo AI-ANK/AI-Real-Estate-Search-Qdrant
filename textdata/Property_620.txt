@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran
+
+    TYPE: Condo for sale
+
+    PRICE: 470000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 581 Academy St Apt 1G
+
+    STATE: New York, NY 10034
+
+    MAIN_ADDRESS: 581 Academy St Apt 1GNew York, NY 10034
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 581
+
+    FORMATTED_ADDRESS: 581 Academy St #1g, New York, NY 10034, USA
+
+    LATITUDE: 40.8640024
+
+    LONGITUDE: -73.9231918

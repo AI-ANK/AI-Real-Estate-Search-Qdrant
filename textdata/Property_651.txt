@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Serhant
+
+    TYPE: Townhouse for sale
+
+    PRICE: 5990000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 3750.0
+
+    ADDRESS: 96 Bank St
+
+    STATE: New York, NY 10014
+
+    MAIN_ADDRESS: 96 Bank StNew York, NY 10014
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: Bank Street
+
+    FORMATTED_ADDRESS: 96 Bank St, New York, NY 10014, USA
+
+    LATITUDE: 40.7363228
+
+    LONGITUDE: -74.0064402

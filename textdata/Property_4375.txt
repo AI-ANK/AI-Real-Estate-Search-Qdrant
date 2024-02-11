@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Cross Country Realty
+
+    TYPE: Pending
+
+    PRICE: 825000
+
+    BEDS: 6
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2444.0
+
+    ADDRESS: 80 Kelvin Ave
+
+    STATE: Staten Island, NY 10306
+
+    MAIN_ADDRESS: 80 Kelvin AveStaten Island, NY 10306
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Kelvin Avenue
+
+    FORMATTED_ADDRESS: 80 Kelvin Ave, Staten Island, NY 10306, USA
+
+    LATITUDE: 40.5546232
+
+    LONGITUDE: -74.1349952

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Townhouse for sale
+
+    PRICE: 14995000
+
+    BEDS: 3
+
+    BATH: 0.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 50 W 86th St Unit Townhouse
+
+    STATE: Manhattan, NY 10024
+
+    MAIN_ADDRESS: 50 W 86th St Unit TownhouseManhattan, NY 10024
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: West 86th Street
+
+    FORMATTED_ADDRESS: 50 W 86th St, New York, NY 10024, USA
+
+    LATITUDE: 40.786046
+
+    LONGITUDE: -73.9718342

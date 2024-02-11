@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by LoHo Realty Inc
+
+    TYPE: Co-op for sale
+
+    PRICE: 565000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 550 Grand St Apt H11E
+
+    STATE: New York City, NY 10002
+
+    MAIN_ADDRESS: 550 Grand St Apt H11ENew York City, NY 10002
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Southside
+
+    LONG_NAME: 550
+
+    FORMATTED_ADDRESS: 550 Grand St #11e, Brooklyn, NY 11211, USA
+
+    LATITUDE: 40.7108846
+
+    LONGITUDE: -73.9496434

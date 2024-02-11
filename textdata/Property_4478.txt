@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Karl Mohan Realty Group
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 879000
+
+    BEDS: 4
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 88-01 77th St
+
+    STATE: Jamaica, NY 11421
+
+    MAIN_ADDRESS: 88-01 77th StJamaica, NY 11421
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 77th Street
+
+    FORMATTED_ADDRESS: 88-01 77th St, Jamaica, NY 11421, USA
+
+    LATITUDE: 40.6894907
+
+    LONGITUDE: -73.8640398

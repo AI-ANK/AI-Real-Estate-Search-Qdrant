@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Exp Realty
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 675000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1750.0
+
+    ADDRESS: 756 Calhoun Ave
+
+    STATE: Bronx, NY 10465
+
+    MAIN_ADDRESS: 756 Calhoun AveBronx, NY 10465
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Calhoun Avenue
+
+    FORMATTED_ADDRESS: 756 Calhoun Ave, Bronx, NY 10465, USA
+
+    LATITUDE: 40.8266591
+
+    LONGITUDE: -73.824848

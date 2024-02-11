@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by GLASHEN REALTY GROUP INC
+
+    TYPE: Pending
+
+    PRICE: 675000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 558 E 34th St
+
+    STATE: Brooklyn, NY 11203
+
+    MAIN_ADDRESS: 558 E 34th StBrooklyn, NY 11203
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: East 34th Street
+
+    FORMATTED_ADDRESS: 558 E 34th St, Brooklyn, NY 11203, USA
+
+    LATITUDE: 40.6428139
+
+    LONGITUDE: -73.9451438

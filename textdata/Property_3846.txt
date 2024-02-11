@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Realty Greater Nassau
+
+    TYPE: Co-op for sale
+
+    PRICE: 190000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 500.0
+
+    ADDRESS: 175-20 Wexford Ter Unit 8W
+
+    STATE: Jamaica, NY 11432
+
+    MAIN_ADDRESS: 175-20 Wexford Ter Unit 8WJamaica, NY 11432
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Jamaica
+
+    LONG_NAME: 17520
+
+    FORMATTED_ADDRESS: 17520 Wexford Terrace Apt 8a, Jamaica, NY 11432, USA
+
+    LATITUDE: 40.7122499
+
+    LONGITUDE: -73.78851

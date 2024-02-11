@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Serhant
+
+    TYPE: Co-op for sale
+
+    PRICE: 375000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1185.0
+
+    ADDRESS: 10 Bay Street Lndg Apt 1I
+
+    STATE: Staten Island, NY 10301
+
+    MAIN_ADDRESS: 10 Bay Street Lndg Apt 1IStaten Island, NY 10301
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Richmond County
+
+    SUBLOCALITY: Staten Island
+
+    STREET_NAME: Mid Island
+
+    LONG_NAME: 10
+
+    FORMATTED_ADDRESS: 10 Bay Street Landing #1a, Staten Island, NY 10301, USA
+
+    LATITUDE: 40.638118
+
+    LONGITUDE: -74.073964

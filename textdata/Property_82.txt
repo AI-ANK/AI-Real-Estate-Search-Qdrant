@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Townhouse for sale
+
+    PRICE: 12950000
+
+    BEDS: 5
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 3344.0
+
+    ADDRESS: 214 W 11th St
+
+    STATE: Manhattan, NY 10014
+
+    MAIN_ADDRESS: 214 W 11th StManhattan, NY 10014
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: West 11th Street
+
+    FORMATTED_ADDRESS: 214 W 11th St, New York, NY 10014, USA
+
+    LATITUDE: 40.7363219
+
+    LONGITUDE: -74.0018035

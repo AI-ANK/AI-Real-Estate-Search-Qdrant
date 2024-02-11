@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Realty Executives Today
+
+    TYPE: Co-op for sale
+
+    PRICE: 215000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 625.0
+
+    ADDRESS: 6333 98th Pl Apt 3L
+
+    STATE: Rego Park, NY 11374
+
+    MAIN_ADDRESS: 6333 98th Pl Apt 3LRego Park, NY 11374
+
+    ADMINISTRATIVE_AREA_LEVEL_2: Queens County
+
+    LOCALITY: Queens
+
+    SUBLOCALITY: Rego Park
+
+    STREET_NAME: 98th Place
+
+    LONG_NAME: Parking lot
+
+    FORMATTED_ADDRESS: Parking lot, 6333 98th Pl #3c, Rego Park, NY 11374, USA
+
+    LATITUDE: 40.7318415
+
+    LONGITUDE: -73.8574816

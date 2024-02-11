@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Opulence Properties
+
+    TYPE: Condo for sale
+
+    PRICE: 650000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 1632.0
+
+    ADDRESS: 259 Windham Loop
+
+    STATE: Staten Island, NY 10314
+
+    MAIN_ADDRESS: 259 Windham LoopStaten Island, NY 10314
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Windham Loop
+
+    FORMATTED_ADDRESS: 259 Windham Loop, Staten Island, NY 10314, USA
+
+    LATITUDE: 40.577069
+
+    LONGITUDE: -74.161888

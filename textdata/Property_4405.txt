@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams NYC
+
+    TYPE: Condo for sale
+
+    PRICE: 2395000
+
+    BEDS: 4
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2155.0
+
+    ADDRESS: 42 Saint Marks Pl Apt 1
+
+    STATE: Brooklyn, NY 11217
+
+    MAIN_ADDRESS: 42 Saint Marks Pl Apt 1Brooklyn, NY 11217
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Boerum Hill
+
+    LONG_NAME: 42
+
+    FORMATTED_ADDRESS: 42 St Marks Pl APT 1, Brooklyn, NY 11217, USA
+
+    LATITUDE: 40.6820512
+
+    LONGITUDE: -73.9811684

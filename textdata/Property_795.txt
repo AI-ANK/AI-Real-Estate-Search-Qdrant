@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Harbor Properties International LLC
+
+    TYPE: Condo for sale
+
+    PRICE: 3895000
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1884.0
+
+    ADDRESS: 70 Little West St Apt 26B
+
+    STATE: New York, NY 10004
+
+    MAIN_ADDRESS: 70 Little West St Apt 26BNew York, NY 10004
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 70
+
+    FORMATTED_ADDRESS: 70 Little W St #26b, New York, NY 10004, USA
+
+    LATITUDE: 40.7069489
+
+    LONGITUDE: -74.0169068

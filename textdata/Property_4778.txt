@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by STROFFOLINO REALTY LLC
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 2300000
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2355.0
+
+    ADDRESS: 2502 84th St
+
+    STATE: Brooklyn, NY 11214
+
+    MAIN_ADDRESS: 2502 84th StBrooklyn, NY 11214
+
+    ADMINISTRATIVE_AREA_LEVEL_2: 11214
+
+    LOCALITY: United States
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Kings County
+
+    LONG_NAME: 84th Street
+
+    FORMATTED_ADDRESS: 2502 84th St, Brooklyn, NY 11214, USA
+
+    LATITUDE: 40.5988298
+
+    LONGITUDE: -73.9859643

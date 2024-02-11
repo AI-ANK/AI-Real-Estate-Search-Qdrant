@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Rlty Landmark
+
+    TYPE: House for sale
+
+    PRICE: 799000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 25-21 Humphrey St
+
+    STATE: East Elmhurst, NY 11369
+
+    MAIN_ADDRESS: 25-21 Humphrey StEast Elmhurst, NY 11369
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Humphreys Street
+
+    FORMATTED_ADDRESS: 2521 Humphreys St, Flushing, NY 11369, USA
+
+    LATITUDE: 40.7645407
+
+    LONGITUDE: -73.8683353

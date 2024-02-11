@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by BRPI - Brooklyn Real Property
+
+    TYPE: Co-op for sale
+
+    PRICE: 399000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 2475 W 16th St Apt 12H
+
+    STATE: Brooklyn, NY 11214
+
+    MAIN_ADDRESS: 2475 W 16th St Apt 12HBrooklyn, NY 11214
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: 2475
+
+    FORMATTED_ADDRESS: 2475 W 16th St #12h, Brooklyn, NY 11214, USA
+
+    LATITUDE: 40.5866482
+
+    LONGITUDE: -73.9845156

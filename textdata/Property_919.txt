@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran East Side
+
+    TYPE: Co-op for sale
+
+    PRICE: 1275000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1000.0
+
+    ADDRESS: 521 W 47th St Apt 2B
+
+    STATE: New York, NY 10036
+
+    MAIN_ADDRESS: 521 W 47th St Apt 2BNew York, NY 10036
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 521
+
+    FORMATTED_ADDRESS: 521 W 47th St #2b, New York, NY 10036, USA
+
+    LATITUDE: 40.7635661
+
+    LONGITUDE: -73.9941366

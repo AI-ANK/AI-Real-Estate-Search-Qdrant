@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman  -111 Fifth Ave
+
+    TYPE: Co-op for sale
+
+    PRICE: 7450000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 5500.0
+
+    ADDRESS: 38 W 26th St Ph 12
+
+    STATE: New York, NY 10010
+
+    MAIN_ADDRESS: 38 W 26th St Ph 12New York, NY 10010
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 38
+
+    FORMATTED_ADDRESS: 38 W 26th St Apt 12a, New York, NY 10010, USA
+
+    LATITUDE: 40.7439988
+
+    LONGITUDE: -73.9898542

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by E Realty International Corp
+
+    TYPE: House for sale
+
+    PRICE: 849000
+
+    BEDS: 4
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 257-21 87th Ave
+
+    STATE: Floral Park, NY 11001
+
+    MAIN_ADDRESS: 257-21 87th AveFloral Park, NY 11001
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 87th Avenue
+
+    FORMATTED_ADDRESS: 257-21 87th Ave, Queens, NY 11001, USA
+
+    LATITUDE: 40.7314866
+
+    LONGITUDE: -73.7083076

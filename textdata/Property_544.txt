@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Liberty Chateau Realty Inc
+
+    TYPE: House for sale
+
+    PRICE: 314900
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1200.0
+
+    ADDRESS: 595 Glenmore Ave
+
+    STATE: Brooklyn, NY 11207
+
+    MAIN_ADDRESS: 595 Glenmore AveBrooklyn, NY 11207
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Glenmore Avenue
+
+    FORMATTED_ADDRESS: 595 Glenmore Ave, Brooklyn, NY 11207, USA
+
+    LATITUDE: 40.6744942
+
+    LONGITUDE: -73.8883757

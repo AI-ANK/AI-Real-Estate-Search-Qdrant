@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by LoHo Realty Inc
+
+    TYPE: Co-op for sale
+
+    PRICE: 1398000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 530 Grand St Unit D4C4
+
+    STATE: New York City, NY 10002
+
+    MAIN_ADDRESS: 530 Grand St Unit D4C4New York City, NY 10002
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: Grand Street
+
+    FORMATTED_ADDRESS: 530 Grand St, New York, NY 10002, USA
+
+    LATITUDE: 40.7147871
+
+    LONGITUDE: -73.9809765

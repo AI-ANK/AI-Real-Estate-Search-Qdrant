@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran East Side
+
+    TYPE: Pending
+
+    PRICE: 1075000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 955.0
+
+    ADDRESS: 313 W 118th St Apt 3D
+
+    STATE: New York, NY 10026
+
+    MAIN_ADDRESS: 313 W 118th St Apt 3DNew York, NY 10026
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 313
+
+    FORMATTED_ADDRESS: 313 W 118th St #3d, New York, NY 10026, USA
+
+    LATITUDE: 40.8061576
+
+    LONGITUDE: -73.9550949

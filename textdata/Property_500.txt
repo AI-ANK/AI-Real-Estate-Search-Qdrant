@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Tom Crimmins Realty, Ltd.
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 899000
+
+    BEDS: 7
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1980.0
+
+    ADDRESS: 1009 Forest Ave
+
+    STATE: Staten Island, NY 10310
+
+    MAIN_ADDRESS: 1009 Forest AveStaten Island, NY 10310
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Forest Avenue
+
+    FORMATTED_ADDRESS: 1009 Forest Ave, Staten Island, NY 10310, USA
+
+    LATITUDE: 40.6275175
+
+    LONGITUDE: -74.1233766

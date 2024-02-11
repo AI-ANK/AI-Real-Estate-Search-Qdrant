@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by DEBTFREESOLUTIONS LLC
+
+    TYPE: House for sale
+
+    PRICE: 529000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1650.0
+
+    ADDRESS: 401 Harding Park
+
+    STATE: Bronx, NY 10473
+
+    MAIN_ADDRESS: 401 Harding ParkBronx, NY 10473
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Harding Park
+
+    FORMATTED_ADDRESS: 401 Harding Park, Bronx, NY 10473, USA
+
+    LATITUDE: 40.8061399
+
+    LONGITUDE: -73.8579944

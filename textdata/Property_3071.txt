@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Century 21 Bay Benjamin
+
+    TYPE: Condo for sale
+
+    PRICE: 349000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 500.0
+
+    ADDRESS: 2 Bay Club Dr Apt 15Z4
+
+    STATE: Bayside, NY 11360
+
+    MAIN_ADDRESS: 2 Bay Club Dr Apt 15Z4Bayside, NY 11360
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Bayside
+
+    LONG_NAME: 2
+
+    FORMATTED_ADDRESS: 2 Bay Club Dr Apartment 15z4, Bayside, NY 11360, USA
+
+    LATITUDE: 40.778411
+
+    LONGITUDE: -73.781048

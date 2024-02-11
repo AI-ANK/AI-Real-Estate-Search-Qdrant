@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Chelsea/Flatiron
+
+    TYPE: Co-op for sale
+
+    PRICE: 290000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 301 E 63rd St Apt 8D
+
+    STATE: New York, NY 10065
+
+    MAIN_ADDRESS: 301 E 63rd St Apt 8DNew York, NY 10065
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 301
+
+    FORMATTED_ADDRESS: 301 E 63rd St #8d, New York, NY 10065, USA
+
+    LATITUDE: 40.7631466
+
+    LONGITUDE: -73.9622114

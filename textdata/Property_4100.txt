@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - Long Island City
+
+    TYPE: Condo for sale
+
+    PRICE: 880000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 713.0
+
+    ADDRESS: 44-15 Purves St Unit 14B
+
+    STATE: Queens, NY 11101
+
+    MAIN_ADDRESS: 44-15 Purves St Unit 14BQueens, NY 11101
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Purves Street
+
+    FORMATTED_ADDRESS: 44-15 Purves St, Long Island City, NY 11101, USA
+
+    LATITUDE: 40.747145
+
+    LONGITUDE: -73.9408974

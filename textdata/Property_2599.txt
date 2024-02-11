@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by DIGS - Digs Realty Group EMAIL)
+
+    TYPE: Co-op for sale
+
+    PRICE: 779000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 800.0
+
+    ADDRESS: 321 W 90th St Apt 8D
+
+    STATE: New York, NY 10024
+
+    MAIN_ADDRESS: 321 W 90th St Apt 8DNew York, NY 10024
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 321
+
+    FORMATTED_ADDRESS: 321 W 90th St #8d, New York, NY 10024, USA
+
+    LATITUDE: 40.792004
+
+    LONGITUDE: -73.9767816

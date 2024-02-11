@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Pride Estates
+
+    TYPE: Co-op for sale
+
+    PRICE: 498000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 975.0
+
+    ADDRESS: 138 71st St Apt E10
+
+    STATE: Brooklyn, NY 11209
+
+    MAIN_ADDRESS: 138 71st St Apt E10Brooklyn, NY 11209
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Bay Ridge
+
+    LONG_NAME: 138
+
+    FORMATTED_ADDRESS: 138 71st St Apt E10, Brooklyn, NY 11209, USA
+
+    LATITUDE: 40.6351164
+
+    LONGITUDE: -74.0311609

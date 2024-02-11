@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Exp Realty
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 789000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 205-23 113 Ave
+
+    STATE: Saint Albans, NY 11412
+
+    MAIN_ADDRESS: 205-23 113 AveSaint Albans, NY 11412
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 113th Avenue
+
+    FORMATTED_ADDRESS: 205-23 113th Ave, Jamaica, NY 11412, USA
+
+    LATITUDE: 40.7029196
+
+    LONGITUDE: -73.7500482

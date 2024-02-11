@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Henry Watts Real Estate Corporation
+
+    TYPE: Condo for sale
+
+    PRICE: 375000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 454 Nostrand Ave Unit B
+
+    STATE: Brooklyn, NY 11216
+
+    MAIN_ADDRESS: 454 Nostrand Ave Unit BBrooklyn, NY 11216
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Nostrand Avenue
+
+    FORMATTED_ADDRESS: 454 Nostrand Ave., Brooklyn, NY 11216, USA
+
+    LATITUDE: 40.6834585
+
+    LONGITUDE: -73.9504707

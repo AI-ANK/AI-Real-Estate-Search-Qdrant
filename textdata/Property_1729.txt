@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by De Luca Realty Group INC
+
+    TYPE: Co-op for sale
+
+    PRICE: 299999
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 863.0
+
+    ADDRESS: 120B Edgewater Park Unit 120B
+
+    STATE: Bronx, NY 10465
+
+    MAIN_ADDRESS: 120B Edgewater Park Unit 120BBronx, NY 10465
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: East Bronx
+
+    LONG_NAME: 120
+
+    FORMATTED_ADDRESS: 120 Edgewater Park #120, Bronx, NY 10465, USA
+
+    LATITUDE: 40.822441
+
+    LONGITUDE: -73.8110424

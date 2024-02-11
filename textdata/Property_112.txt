@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 3544 Johnson Ave
+
+    TYPE: House for sale
+
+    PRICE: 688888
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2846.0
+
+    ADDRESS: 761 S Oak Dr
+
+    STATE: Bronx, NY 10467
+
+    MAIN_ADDRESS: 761 S Oak DrBronx, NY 10467
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: South Oak Drive
+
+    FORMATTED_ADDRESS: 761 S Oak Dr, Bronx, NY 10467, USA
+
+    LATITUDE: 40.8726182
+
+    LONGITUDE: -73.8651768

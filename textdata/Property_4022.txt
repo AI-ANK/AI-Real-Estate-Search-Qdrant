@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 475000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 33-55 14th St Unit 4A
+
+    STATE: Astoria, NY 11106
+
+    MAIN_ADDRESS: 33-55 14th St Unit 4AAstoria, NY 11106
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Long Island City
+
+    LONG_NAME: 33-55
+
+    FORMATTED_ADDRESS: 33-55 14th St #4a, Long Island City, NY 11106, USA
+
+    LATITUDE: 40.7640468
+
+    LONGITUDE: -73.934811

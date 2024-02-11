@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by BERGEN BASIN REALTY
+
+    TYPE: Condo for sale
+
+    PRICE: 649000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1150.0
+
+    ADDRESS: 1120 Bergen Ave Unit 88
+
+    STATE: Brooklyn, NY 11234
+
+    MAIN_ADDRESS: 1120 Bergen Ave Unit 88Brooklyn, NY 11234
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Bergen Beach
+
+    LONG_NAME: 1120
+
+    FORMATTED_ADDRESS: 1120 Bergen Ave #88, Brooklyn, NY 11234, USA
+
+    LATITUDE: 40.6280068
+
+    LONGITUDE: -73.9155812

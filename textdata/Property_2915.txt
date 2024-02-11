@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 575 Madison Ave
+
+    TYPE: Condo for sale
+
+    PRICE: 2500000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1250.0
+
+    ADDRESS: 350 W 42nd St Ph D
+
+    STATE: New York, NY 10036
+
+    MAIN_ADDRESS: 350 W 42nd St Ph DNew York, NY 10036
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: West 42nd Street
+
+    FORMATTED_ADDRESS: 350 W 42nd St, New York, NY 10036, USA
+
+    LATITUDE: 40.7578531
+
+    LONGITUDE: -73.9923304

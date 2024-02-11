@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by 5 Boro Realty Corp
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1400000
+
+    BEDS: 5
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 2978 Avenue Z
+
+    STATE: Brooklyn, NY 11235
+
+    MAIN_ADDRESS: 2978 Avenue ZBrooklyn, NY 11235
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Avenue Z
+
+    FORMATTED_ADDRESS: 2978 Avenue Z, Brooklyn, NY 11235, USA
+
+    LATITUDE: 40.5895581
+
+    LONGITUDE: -73.9376469

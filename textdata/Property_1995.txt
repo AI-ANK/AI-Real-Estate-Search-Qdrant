@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams NYC
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1900000
+
+    BEDS: 6
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2565.0
+
+    ADDRESS: 794 Bergen St
+
+    STATE: Brooklyn, NY 11238
+
+    MAIN_ADDRESS: 794 Bergen StBrooklyn, NY 11238
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Bergen Street
+
+    FORMATTED_ADDRESS: 794 Bergen St, Brooklyn, NY 11238, USA
+
+    LATITUDE: 40.6778716
+
+    LONGITUDE: -73.9615757

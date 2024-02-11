@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Salmon Realty Group
+
+    TYPE: Condo for sale
+
+    PRICE: 189000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 966.0
+
+    ADDRESS: 20 Cliff St Apt 6D
+
+    STATE: Staten Island, NY 10305
+
+    MAIN_ADDRESS: 20 Cliff St Apt 6DStaten Island, NY 10305
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Richmond County
+
+    SUBLOCALITY: Staten Island
+
+    STREET_NAME: Shore Acres
+
+    LONG_NAME: 20
+
+    FORMATTED_ADDRESS: 20 Cliff St #6b, Staten Island, NY 10305, USA
+
+    LATITUDE: 40.6109595
+
+    LONGITUDE: -74.060351

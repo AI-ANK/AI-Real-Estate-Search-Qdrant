@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Condo for sale
+
+    PRICE: 848880
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 713.0
+
+    ADDRESS: 11 E 36th St Ste 404
+
+    STATE: Manhattan, NY 10016
+
+    MAIN_ADDRESS: 11 E 36th St Ste 404Manhattan, NY 10016
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 11
+
+    FORMATTED_ADDRESS: 11 E 36th St STE 404, New York, NY 10016, USA
+
+    LATITUDE: 40.7496366
+
+    LONGITUDE: -73.9825832

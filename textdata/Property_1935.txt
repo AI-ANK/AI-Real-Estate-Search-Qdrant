@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX City Square
+
+    TYPE: Co-op for sale
+
+    PRICE: 260000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 800.0
+
+    ADDRESS: 2950 Ocean Ave Apt C11
+
+    STATE: Brooklyn, NY 11235
+
+    MAIN_ADDRESS: 2950 Ocean Ave Apt C11Brooklyn, NY 11235
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Sheepshead Bay
+
+    LONG_NAME: 2950
+
+    FORMATTED_ADDRESS: 2950 Ocean Ave #11, Brooklyn, NY 11235, USA
+
+    LATITUDE: 40.5892251
+
+    LONGITUDE: -73.94999

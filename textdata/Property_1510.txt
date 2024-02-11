@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Distinguished Homes & Properties
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1299000
+
+    BEDS: 9
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 3720.0
+
+    ADDRESS: 790 Olmstead Ave
+
+    STATE: Bronx, NY 10473
+
+    MAIN_ADDRESS: 790 Olmstead AveBronx, NY 10473
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Olmstead Avenue
+
+    FORMATTED_ADDRESS: 790 Olmstead Ave, Bronx, NY 10473, USA
+
+    LATITUDE: 40.8227297
+
+    LONGITUDE: -73.8517272

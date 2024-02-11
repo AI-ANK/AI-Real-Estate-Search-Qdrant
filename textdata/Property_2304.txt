@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 839000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1120.0
+
+    ADDRESS: 447 Fort Washington Ave Apt 44
+
+    STATE: Manhattan, NY 10033
+
+    MAIN_ADDRESS: 447 Fort Washington Ave Apt 44Manhattan, NY 10033
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 447
+
+    FORMATTED_ADDRESS: 447 Fort Washington Ave Apt 44, New York, NY 10033, USA
+
+    LATITUDE: 40.8501059
+
+    LONGITUDE: -73.9387857

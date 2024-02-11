@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Landair Property Advisors, LLC
+
+    TYPE: Land for sale
+
+    PRICE: 2200000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 75-43 113th St
+
+    STATE: Forest Hills, NY 11375
+
+    MAIN_ADDRESS: 75-43 113th StForest Hills, NY 11375
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 113th Street
+
+    FORMATTED_ADDRESS: 75-43 113th St, Flushing, NY 11375, USA
+
+    LATITUDE: 40.7185125
+
+    LONGITUDE: -73.834819

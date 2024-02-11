@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens - 1926 Broadway
+
+    TYPE: Condo for sale
+
+    PRICE: 4500000
+
+    BEDS: 5
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 3180.0
+
+    ADDRESS: 377 Rector Pl Ph B
+
+    STATE: Manhattan, NY 10280
+
+    MAIN_ADDRESS: 377 Rector Pl Ph BManhattan, NY 10280
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: Rector Place
+
+    FORMATTED_ADDRESS: 377 Rector Pl, New York, NY 10280, USA
+
+    LATITUDE: 40.709894
+
+    LONGITUDE: -74.017865

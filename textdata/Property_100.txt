@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Co-op for sale
+
+    PRICE: 280000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1000.0
+
+    ADDRESS: 8015 6th Ave Apt A1
+
+    STATE: Brooklyn, NY 11209
+
+    MAIN_ADDRESS: 8015 6th Ave Apt A1Brooklyn, NY 11209
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Bay Ridge
+
+    LONG_NAME: 8015
+
+    FORMATTED_ADDRESS: 8015 6th Ave Apt A1, Brooklyn, NY 11209, USA
+
+    LATITUDE: 40.6241766
+
+    LONGITUDE: -74.0216837

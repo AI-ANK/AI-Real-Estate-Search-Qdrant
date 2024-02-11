@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Native Real Estate - Native Real Estate
+
+    TYPE: House for sale
+
+    PRICE: 3850000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 4374.0
+
+    ADDRESS: 105 Franklin St
+
+    STATE: Brooklyn, NY 11222
+
+    MAIN_ADDRESS: 105 Franklin StBrooklyn, NY 11222
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Franklin Street
+
+    FORMATTED_ADDRESS: 105 Franklin St, Brooklyn, NY 11222, USA
+
+    LATITUDE: 40.7295332
+
+    LONGITUDE: -73.957726

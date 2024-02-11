@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Redfin Real Estate
+
+    TYPE: Co-op for sale
+
+    PRICE: 400000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 34-49 81st St Unit 5Y
+
+    STATE: Jackson Heights, NY 11372
+
+    MAIN_ADDRESS: 34-49 81st St Unit 5YJackson Heights, NY 11372
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Jackson Heights
+
+    LONG_NAME: 3449
+
+    FORMATTED_ADDRESS: 3449 81st St Apt 5s, Jackson Heights, NY 11372, USA
+
+    LATITUDE: 40.7536299
+
+    LONGITUDE: -73.88596

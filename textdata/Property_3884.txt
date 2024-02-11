@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Joe Hasselt Real Estate
+
+    TYPE: Co-op for sale
+
+    PRICE: 154900
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 700.0
+
+    ADDRESS: 3 Fordham Hill Oval Apt 4A
+
+    STATE: Bronx, NY 10468
+
+    MAIN_ADDRESS: 3 Fordham Hill Oval Apt 4ABronx, NY 10468
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: Fordham Manor
+
+    LONG_NAME: 3
+
+    FORMATTED_ADDRESS: 3 Fordham Hill Oval #4a, Bronx, NY 10468, USA
+
+    LATITUDE: 40.8646563
+
+    LONGITUDE: -73.9082145

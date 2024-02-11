@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Ubiq
+
+    TYPE: Co-op for sale
+
+    PRICE: 310000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 655 Riverside Dr Apt 5A
+
+    STATE: New York, NY 10031
+
+    MAIN_ADDRESS: 655 Riverside Dr Apt 5ANew York, NY 10031
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 655
+
+    FORMATTED_ADDRESS: 655 Riverside Dr #5a, New York, NY 10031, USA
+
+    LATITUDE: 40.8255972
+
+    LONGITUDE: -73.9529963

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Legends Realty
+
+    TYPE: Co-op for sale
+
+    PRICE: 520000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 730.0
+
+    ADDRESS: 444 E 75th St Apt 7H
+
+    STATE: New York, NY 10021
+
+    MAIN_ADDRESS: 444 E 75th St Apt 7HNew York, NY 10021
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 444
+
+    FORMATTED_ADDRESS: 444 E 75th St #7h, New York, NY 10021, USA
+
+    LATITUDE: 40.7685551
+
+    LONGITUDE: -73.9522955

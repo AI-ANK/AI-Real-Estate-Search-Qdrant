@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Prince & Associates Realty Grp
+
+    TYPE: Condo for sale
+
+    PRICE: 699900
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 11-25 47th Ave Unit 1
+
+    STATE: Long Island City, NY 11101
+
+    MAIN_ADDRESS: 11-25 47th Ave Unit 1Long Island City, NY 11101
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Long Island City
+
+    LONG_NAME: 1125
+
+    FORMATTED_ADDRESS: 1125 47th Ave APT 1, Long Island City, NY 11101, USA
+
+    LATITUDE: 40.745068
+
+    LONGITUDE: -73.949763

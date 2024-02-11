@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Staten Island Premiere Properties
+
+    TYPE: House for sale
+
+    PRICE: 829888
+
+    BEDS: 4
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 1800.0
+
+    ADDRESS: 70 Savo Loop
+
+    STATE: Staten Island, NY 10309
+
+    MAIN_ADDRESS: 70 Savo LoopStaten Island, NY 10309
+
+    ADMINISTRATIVE_AREA_LEVEL_2: 10309
+
+    LOCALITY: United States
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Richmond County
+
+    LONG_NAME: Savo Loop
+
+    FORMATTED_ADDRESS: 70 Savo Loop, Staten Island, NY 10309, USA
+
+    LATITUDE: 40.521278
+
+    LONGITUDE: -74.2230351

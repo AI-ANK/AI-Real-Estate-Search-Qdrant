@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran West Side
+
+    TYPE: Condo for sale
+
+    PRICE: 4295000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2615.0
+
+    ADDRESS: 426 W 58th St Ph 3
+
+    STATE: New York, NY 10019
+
+    MAIN_ADDRESS: 426 W 58th St Ph 3New York, NY 10019
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 426
+
+    FORMATTED_ADDRESS: 426 W 58th St PH 3, New York, NY 10019, USA
+
+    LATITUDE: 40.7688045
+
+    LONGITUDE: -73.9862514

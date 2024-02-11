@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 749000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1000.0
+
+    ADDRESS: 402 E 74th St Apt 4B
+
+    STATE: Manhattan, NY 10021
+
+    MAIN_ADDRESS: 402 E 74th St Apt 4BManhattan, NY 10021
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 402
+
+    FORMATTED_ADDRESS: 402 E 74th St #4b, New York, NY 10021, USA
+
+    LATITUDE: 40.7686208
+
+    LONGITUDE: -73.9544906

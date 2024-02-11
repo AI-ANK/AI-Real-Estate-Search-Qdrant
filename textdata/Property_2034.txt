@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Rlty Landmark
+
+    TYPE: Pending
+
+    PRICE: 498888
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 750.0
+
+    ADDRESS: 12-05 Estates Ln Unit 231-1
+
+    STATE: Bayside, NY 11360
+
+    MAIN_ADDRESS: 12-05 Estates Ln Unit 231-1Bayside, NY 11360
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Bayside
+
+    LONG_NAME: 5-Dec
+
+    FORMATTED_ADDRESS: 12-5 Estates Ln #231, Bayside, NY 11360, USA
+
+    LATITUDE: 40.788818
+
+    LONGITUDE: -73.7867657

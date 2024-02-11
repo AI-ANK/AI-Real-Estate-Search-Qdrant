@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Townhouse for sale
+
+    PRICE: 1999000
+
+    BEDS: 5
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 3000.0
+
+    ADDRESS: 594 Court St
+
+    STATE: Brooklyn, NY 11231
+
+    MAIN_ADDRESS: 594 Court StBrooklyn, NY 11231
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Court Street
+
+    FORMATTED_ADDRESS: 594 Court St, Brooklyn, NY 11231, USA
+
+    LATITUDE: 40.6735597
+
+    LONGITUDE: -74.0004525

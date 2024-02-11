@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Prime Realty
+
+    TYPE: House for sale
+
+    PRICE: 625000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 64-01 Pleasantview St
+
+    STATE: Middle Village, NY 11379
+
+    MAIN_ADDRESS: 64-01 Pleasantview StMiddle Village, NY 11379
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Pleasantview Street
+
+    FORMATTED_ADDRESS: 64-01 Pleasantview St, Flushing, NY 11379, USA
+
+    LATITUDE: 40.7158932
+
+    LONGITUDE: -73.8820836

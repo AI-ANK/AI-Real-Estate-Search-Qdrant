@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Momentum Real Estate Llc
+
+    TYPE: House for sale
+
+    PRICE: 650000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1110.0
+
+    ADDRESS: 64 Baltic Ave
+
+    STATE: Staten Island, NY 10304
+
+    MAIN_ADDRESS: 64 Baltic AveStaten Island, NY 10304
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Baltic Avenue
+
+    FORMATTED_ADDRESS: 64 Baltic Ave, Staten Island, NY 10304, USA
+
+    LATITUDE: 40.6057728
+
+    LONGITUDE: -74.0906176

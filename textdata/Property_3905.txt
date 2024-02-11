@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by UbiQ NY Ltd
+
+    TYPE: Condo for sale
+
+    PRICE: 1990000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1309.0
+
+    ADDRESS: 124 W 24th St Apt 2D
+
+    STATE: New York, NY 10011
+
+    MAIN_ADDRESS: 124 W 24th St Apt 2DNew York, NY 10011
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 124
+
+    FORMATTED_ADDRESS: 124 W 24th St #2d, New York, NY 10011, USA
+
+    LATITUDE: 40.7439229
+
+    LONGITUDE: -73.9937052

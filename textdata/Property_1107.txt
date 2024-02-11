@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Staten Island Premiere Properties
+
+    TYPE: House for sale
+
+    PRICE: 2898555
+
+    BEDS: 5
+
+    BATH: 5.0
+
+    PROPERTYSQFT: 7200.0
+
+    ADDRESS: 545 Arbutus Ave
+
+    STATE: Staten Island, NY 10312
+
+    MAIN_ADDRESS: 545 Arbutus AveStaten Island, NY 10312
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Arbutus Avenue
+
+    FORMATTED_ADDRESS: 545 Arbutus Ave, Staten Island, NY 10312, USA
+
+    LATITUDE: 40.5203019
+
+    LONGITUDE: -74.1780566

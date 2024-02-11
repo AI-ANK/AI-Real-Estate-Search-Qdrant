@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 975000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 360 W 22nd St Apt 9J
+
+    STATE: Manhattan, NY 10011
+
+    MAIN_ADDRESS: 360 W 22nd St Apt 9JManhattan, NY 10011
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 360
+
+    FORMATTED_ADDRESS: 360 W 22nd St #9j, New York, NY 10011, USA
+
+    LATITUDE: 40.7455051
+
+    LONGITUDE: -74.0016003

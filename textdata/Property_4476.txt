@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Highline Residential - Highline Residential
+
+    TYPE: House for sale
+
+    PRICE: 2300000
+
+    BEDS: 6
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 3850.0
+
+    ADDRESS: 762 Greene Ave
+
+    STATE: Brooklyn, NY 11221
+
+    MAIN_ADDRESS: 762 Greene AveBrooklyn, NY 11221
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Greene Avenue
+
+    FORMATTED_ADDRESS: 762 Greene Ave, Brooklyn, NY 11221, USA
+
+    LATITUDE: 40.6897465
+
+    LONGITUDE: -73.9379631

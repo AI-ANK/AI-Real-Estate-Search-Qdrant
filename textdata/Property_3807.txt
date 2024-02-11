@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 2750000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 200 Central Park S Apt 20J
+
+    STATE: Manhattan, NY 10019
+
+    MAIN_ADDRESS: 200 Central Park S Apt 20JManhattan, NY 10019
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 200
+
+    FORMATTED_ADDRESS: 200 Central Park S #20j, New York, NY 10019, USA
+
+    LATITUDE: 40.7666667
+
+    LONGITUDE: -73.9797008

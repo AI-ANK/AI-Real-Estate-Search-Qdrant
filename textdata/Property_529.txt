@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sell Your Home NY Inc
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 699000
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 114-48 127th St
+
+    STATE: South Ozone Park, NY 11420
+
+    MAIN_ADDRESS: 114-48 127th StSouth Ozone Park, NY 11420
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 127th Street
+
+    FORMATTED_ADDRESS: 11448 127th St, Jamaica, NY 11420, USA
+
+    LATITUDE: 40.6793322
+
+    LONGITUDE: -73.8130504

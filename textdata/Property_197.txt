@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by EXP Realty
+
+    TYPE: House for sale
+
+    PRICE: 669000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 864.0
+
+    ADDRESS: 74 Holly St
+
+    STATE: Staten Island, NY 10304
+
+    MAIN_ADDRESS: 74 Holly StStaten Island, NY 10304
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Holly Street
+
+    FORMATTED_ADDRESS: 74 Holly St, Staten Island, NY 10304, USA
+
+    LATITUDE: 40.5993523
+
+    LONGITUDE: -74.0953882

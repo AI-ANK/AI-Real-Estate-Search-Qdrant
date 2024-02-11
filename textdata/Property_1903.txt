@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Momentum Real Estate Llc
+
+    TYPE: Pending
+
+    PRICE: 699000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 864.0
+
+    ADDRESS: 319 Montreal Ave
+
+    STATE: Staten Island, NY 10306
+
+    MAIN_ADDRESS: 319 Montreal AveStaten Island, NY 10306
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Montreal Avenue
+
+    FORMATTED_ADDRESS: 319 Montreal Ave, Staten Island, NY 10306, USA
+
+    LATITUDE: 40.5594124
+
+    LONGITUDE: -74.1258541

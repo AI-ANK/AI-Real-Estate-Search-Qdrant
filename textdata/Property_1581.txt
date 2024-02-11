@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Mont Sky Real Estate Hudson
+
+    TYPE: Townhouse for sale
+
+    PRICE: 899000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1400.0
+
+    ADDRESS: 50-07 63rd St
+
+    STATE: Woodside, NY 11377
+
+    MAIN_ADDRESS: 50-07 63rd StWoodside, NY 11377
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 63rd Street
+
+    FORMATTED_ADDRESS: 50-07 63rd St, Flushing, NY 11377, USA
+
+    LATITUDE: 40.7368055
+
+    LONGITUDE: -73.9026152

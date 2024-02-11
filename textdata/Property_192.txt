@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by EXP Realty
+
+    TYPE: House for sale
+
+    PRICE: 2499000
+
+    BEDS: 5
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 4100.0
+
+    ADDRESS: 152 Whitson St
+
+    STATE: Forest Hills, NY 11375
+
+    MAIN_ADDRESS: 152 Whitson StForest Hills, NY 11375
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Whitson Street
+
+    FORMATTED_ADDRESS: 152 Whitson St, Forest Hills, NY 11375, USA
+
+    LATITUDE: 40.7107701
+
+    LONGITUDE: -73.8406935

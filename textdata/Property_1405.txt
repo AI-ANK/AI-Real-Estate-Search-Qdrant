@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - Bayside
+
+    TYPE: Co-op for sale
+
+    PRICE: 560000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 110-20 71 Ave Unit 330
+
+    STATE: Forest Hills, NY 11375
+
+    MAIN_ADDRESS: 110-20 71 Ave Unit 330Forest Hills, NY 11375
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Forest Hills
+
+    LONG_NAME: 11020
+
+    FORMATTED_ADDRESS: 11020 71st Ave Apt 330, Forest Hills, NY 11375, USA
+
+    LATITUDE: 40.7223099
+
+    LONGITUDE: -73.84153

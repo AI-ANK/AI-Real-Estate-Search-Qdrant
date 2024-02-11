@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Berkshire Hathaway HomeServices New York Properties - Eastchester
+
+    TYPE: Co-op for sale
+
+    PRICE: 215000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 747.0
+
+    ADDRESS: 127C Edgewater Park Unit C
+
+    STATE: Bronx, NY 10465
+
+    MAIN_ADDRESS: 127C Edgewater Park Unit CBronx, NY 10465
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Edgewater Park
+
+    FORMATTED_ADDRESS: 127 D Edgewater Park, Bronx, NY 10465, USA
+
+    LATITUDE: 40.8233271
+
+    LONGITUDE: -73.8110122

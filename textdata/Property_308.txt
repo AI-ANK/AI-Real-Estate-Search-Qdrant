@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Robert DeFalco Realty, Inc.
+
+    TYPE: House for sale
+
+    PRICE: 1299900
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2755.0
+
+    ADDRESS: 346 George St
+
+    STATE: Staten Island, NY 10307
+
+    MAIN_ADDRESS: 346 George StStaten Island, NY 10307
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: George Street
+
+    FORMATTED_ADDRESS: 346 George St, Staten Island, NY 10307, USA
+
+    LATITUDE: 40.5065922
+
+    LONGITUDE: -74.2393503

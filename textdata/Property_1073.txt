@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Condo for sale
+
+    PRICE: 2200000
+
+    BEDS: 3
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 1779.0
+
+    ADDRESS: 530 E 76th St Unit 27CD
+
+    STATE: Manhattan, NY 10021
+
+    MAIN_ADDRESS: 530 E 76th St Unit 27CDManhattan, NY 10021
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 530
+
+    FORMATTED_ADDRESS: 530 E 76th St #27c, New York, NY 10021, USA
+
+    LATITUDE: 40.7685084
+
+    LONGITUDE: -73.9499965

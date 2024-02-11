@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Nyc Realty Brokers Llc
+
+    TYPE: Co-op for sale
+
+    PRICE: 619000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1200.0
+
+    ADDRESS: 200 Corbin Pl Apt 5N
+
+    STATE: Brooklyn, NY 11235
+
+    MAIN_ADDRESS: 200 Corbin Pl Apt 5NBrooklyn, NY 11235
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Brighton Beach
+
+    LONG_NAME: 200
+
+    FORMATTED_ADDRESS: 200 Corbin Pl #5n, Brooklyn, NY 11235, USA
+
+    LATITUDE: 40.5768871
+
+    LONGITUDE: -73.9542132

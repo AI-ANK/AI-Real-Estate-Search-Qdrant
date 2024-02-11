@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Real Broker NY LLC
+
+    TYPE: House for sale
+
+    PRICE: 949000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2476.0
+
+    ADDRESS: 61 Park Dr N
+
+    STATE: Staten Island, NY 10314
+
+    MAIN_ADDRESS: 61 Park Dr NStaten Island, NY 10314
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Park Drive North
+
+    FORMATTED_ADDRESS: 61 Park Dr N, Staten Island, NY 10314, USA
+
+    LATITUDE: 40.6006101
+
+    LONGITUDE: -74.1671861

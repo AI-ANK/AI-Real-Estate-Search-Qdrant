@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Gillani Homes Inc.
+
+    TYPE: House for sale
+
+    PRICE: 799999
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1596.0
+
+    ADDRESS: 364 Mosely Ave
+
+    STATE: Staten Island, NY 10312
+
+    MAIN_ADDRESS: 364 Mosely AveStaten Island, NY 10312
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Mosely Avenue
+
+    FORMATTED_ADDRESS: 364 Mosely Ave, Staten Island, NY 10312, USA
+
+    LATITUDE: 40.5419604
+
+    LONGITUDE: -74.1682869

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Citywide Deals
+
+    TYPE: Condo for sale
+
+    PRICE: 1899000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1900.0
+
+    ADDRESS: 105 Oceana Dr E Ph 1D
+
+    STATE: Brooklyn, NY 11235
+
+    MAIN_ADDRESS: 105 Oceana Dr E Ph 1DBrooklyn, NY 11235
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Brighton Beach
+
+    LONG_NAME: 105
+
+    FORMATTED_ADDRESS: 105 Oceana Dr E Ph 1D, Brooklyn, NY 11235, USA
+
+    LATITUDE: 40.5763957
+
+    LONGITUDE: -73.9575654

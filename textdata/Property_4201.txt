@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Real Street Inc.
+
+    TYPE: Townhouse for sale
+
+    PRICE: 1499000
+
+    BEDS: 6
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 114 Patchen Ave
+
+    STATE: Brooklyn, NY 11221
+
+    MAIN_ADDRESS: 114 Patchen AveBrooklyn, NY 11221
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Patchen Avenue
+
+    FORMATTED_ADDRESS: 114 Patchen Ave, Brooklyn, NY 11221, USA
+
+    LATITUDE: 40.6878701
+
+    LONGITUDE: -73.9272448

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Apaus, Inc
+
+    TYPE: Co-op for sale
+
+    PRICE: 259000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 590.0
+
+    ADDRESS: 35-35 75th St Unit 225
+
+    STATE: Jackson Heights, NY 11372
+
+    MAIN_ADDRESS: 35-35 75th St Unit 225Jackson Heights, NY 11372
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Jackson Heights
+
+    LONG_NAME: 3535
+
+    FORMATTED_ADDRESS: 3535 75th St Apt 225, Jackson Heights, NY 11372, USA
+
+    LATITUDE: 40.7510999
+
+    LONGITUDE: -73.89118

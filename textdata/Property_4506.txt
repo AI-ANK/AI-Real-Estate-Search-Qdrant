@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran East Side
+
+    TYPE: Co-op for sale
+
+    PRICE: 885000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 225 E 57th St Apt 11M
+
+    STATE: New York, NY 10022
+
+    MAIN_ADDRESS: 225 E 57th St Apt 11MNew York, NY 10022
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 225
+
+    FORMATTED_ADDRESS: 225 E 57th St #11m, New York, NY 10022, USA
+
+    LATITUDE: 40.7600656
+
+    LONGITUDE: -73.9664566

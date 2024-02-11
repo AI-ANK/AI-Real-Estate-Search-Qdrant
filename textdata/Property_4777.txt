@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Geo Real Estate Group Inc
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 799000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 8324 Glenwood Rd
+
+    STATE: Brooklyn, NY 11236
+
+    MAIN_ADDRESS: 8324 Glenwood RdBrooklyn, NY 11236
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Glenwood Road
+
+    FORMATTED_ADDRESS: 8324 Glenwood Rd, Brooklyn, NY 11236, USA
+
+    LATITUDE: 40.638624
+
+    LONGITUDE: -73.911936

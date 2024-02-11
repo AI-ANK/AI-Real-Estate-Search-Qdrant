@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Wonica REALTORS & Appraisers
+
+    TYPE: House for sale
+
+    PRICE: 728900
+
+    BEDS: 4
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 960.0
+
+    ADDRESS: 305 S Greenleaf Ave
+
+    STATE: Staten Island, NY 10314
+
+    MAIN_ADDRESS: 305 S Greenleaf AveStaten Island, NY 10314
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: South Greenleaf Avenue
+
+    FORMATTED_ADDRESS: 305 S Greenleaf Ave, Staten Island, NY 10314, USA
+
+    LATITUDE: 40.6163157
+
+    LONGITUDE: -74.1248333

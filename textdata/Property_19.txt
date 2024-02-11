@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Rlty Landmark
+
+    TYPE: Condo for sale
+
+    PRICE: 599000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 974.0
+
+    ADDRESS: 92-29 Queens Blvd Unit 3H
+
+    STATE: Rego Park, NY 11374
+
+    MAIN_ADDRESS: 92-29 Queens Blvd Unit 3HRego Park, NY 11374
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Rego Park
+
+    LONG_NAME: 92-29
+
+    FORMATTED_ADDRESS: 92-29 Queens Blvd #3h, Rego Park, NY 11374, USA
+
+    LATITUDE: 40.7324713
+
+    LONGITUDE: -73.8670804

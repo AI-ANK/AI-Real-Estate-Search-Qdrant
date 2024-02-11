@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by qvtopservice
+
+    TYPE: Co-op for sale
+
+    PRICE: 100000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 512.0
+
+    ADDRESS: 1040 Neilson St Apt 3A
+
+    STATE: Far Rockaway, NY 11691
+
+    MAIN_ADDRESS: 1040 Neilson St Apt 3AFar Rockaway, NY 11691
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Far Rockaway
+
+    LONG_NAME: Oct-40
+
+    FORMATTED_ADDRESS: 10-40 Neilson St #3a, Far Rockaway, NY 11691, USA
+
+    LATITUDE: 40.6042895
+
+    LONGITUDE: -73.7478287

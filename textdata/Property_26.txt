@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Nest Seekers International, Long Island
+
+    TYPE: Co-op for sale
+
+    PRICE: 325000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 35-45 81st St Unit E1
+
+    STATE: Queens, NY 11372
+
+    MAIN_ADDRESS: 35-45 81st St Unit E1Queens, NY 11372
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Jackson Heights
+
+    LONG_NAME: 35-45
+
+    FORMATTED_ADDRESS: 35-45 81st St e1, Jackson Heights, NY 11372, USA
+
+    LATITUDE: 40.7505078
+
+    LONGITUDE: -73.8851355

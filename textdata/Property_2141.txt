@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 575 Madison Ave
+
+    TYPE: House for sale
+
+    PRICE: 26995000
+
+    BEDS: 8
+
+    BATH: 10.0
+
+    PROPERTYSQFT: 8360.0
+
+    ADDRESS: 995 Fifth Ave Unit 16
+
+    STATE: New York, NY 10028
+
+    MAIN_ADDRESS: 995 Fifth Ave Unit 16New York, NY 10028
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 995
+
+    FORMATTED_ADDRESS: 995 5th Ave Fl 16, New York, NY 10028, USA
+
+    LATITUDE: 40.7780041
+
+    LONGITUDE: -73.9625466

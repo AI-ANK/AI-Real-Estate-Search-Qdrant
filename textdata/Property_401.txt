@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Countrywide Real Estate Inc
+
+    TYPE: Land for sale
+
+    PRICE: 289000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 633 Mead St
+
+    STATE: Bronx, NY 10460
+
+    MAIN_ADDRESS: 633 Mead StBronx, NY 10460
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Mead Street
+
+    FORMATTED_ADDRESS: 633 Mead St, Bronx, NY 10460, USA
+
+    LATITUDE: 40.842629
+
+    LONGITUDE: -73.8665973

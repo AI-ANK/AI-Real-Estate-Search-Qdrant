@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Halstead Property - 160 7th Avenue
+
+    TYPE: Townhouse for sale
+
+    PRICE: 2550000
+
+    BEDS: 8
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 3900.0
+
+    ADDRESS: 489 7th Ave Unit Townhouse
+
+    STATE: Brooklyn, NY 11215
+
+    MAIN_ADDRESS: 489 7th Ave Unit TownhouseBrooklyn, NY 11215
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: 7th Avenue
+
+    FORMATTED_ADDRESS: 489 7th Ave, Brooklyn, NY 11215, USA
+
+    LATITUDE: 40.6616741
+
+    LONGITUDE: -73.985673

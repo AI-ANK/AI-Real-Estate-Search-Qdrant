@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Brooklyn Heights
+
+    TYPE: Condo for sale
+
+    PRICE: 1075000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1144.0
+
+    ADDRESS: 1222 Putnam Ave # 4A
+
+    STATE: Brooklyn, NY 11221
+
+    MAIN_ADDRESS: 1222 Putnam Ave # 4ABrooklyn, NY 11221
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Bushwick
+
+    LONG_NAME: 1222
+
+    FORMATTED_ADDRESS: 1222 Putnam Ave #4a, Brooklyn, NY 11221, USA
+
+    LATITUDE: 40.6912454
+
+    LONGITUDE: -73.9154184

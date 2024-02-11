@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Garfield, Leslie J. & Co., Inc.
+
+    TYPE: Townhouse for sale
+
+    PRICE: 27000000
+
+    BEDS: 5
+
+    BATH: 7.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 64-66 Bedford St
+
+    STATE: New York, NY 10014
+
+    MAIN_ADDRESS: 64-66 Bedford StNew York, NY 10014
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: Bedford Street
+
+    FORMATTED_ADDRESS: 64 Bedford St, New York, NY 10014, USA
+
+    LATITUDE: 40.7312282
+
+    LONGITUDE: -74.0046153

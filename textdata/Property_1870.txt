@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Elite Real Estate Group 1 Llc
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 875000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2034.0
+
+    ADDRESS: 2740 Seymour Ave
+
+    STATE: Bronx, NY 10469
+
+    MAIN_ADDRESS: 2740 Seymour AveBronx, NY 10469
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Seymour Avenue
+
+    FORMATTED_ADDRESS: 2740 Seymour Ave, Bronx, NY 10469, USA
+
+    LATITUDE: 40.8664714
+
+    LONGITUDE: -73.845984

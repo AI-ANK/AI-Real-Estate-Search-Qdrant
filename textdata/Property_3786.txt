@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens - 1926 Broadway
+
+    TYPE: Co-op for sale
+
+    PRICE: 4995000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 5500.0
+
+    ADDRESS: 485 Park Avenue Ave Unit 11FLR
+
+    STATE: Manhattan, NY 10022
+
+    MAIN_ADDRESS: 485 Park Avenue Ave Unit 11FLRManhattan, NY 10022
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: Park Avenue
+
+    FORMATTED_ADDRESS: 485 Park Ave, New York, NY 10022, USA
+
+    LATITUDE: 40.7622996
+
+    LONGITUDE: -73.9698344

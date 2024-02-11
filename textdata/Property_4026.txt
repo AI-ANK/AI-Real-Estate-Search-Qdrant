@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Aida Home Realty
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 995000
+
+    BEDS: 7
+
+    BATH: 5.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 153-41 Sapphire St
+
+    STATE: Howard Beach, NY 11414
+
+    MAIN_ADDRESS: 153-41 Sapphire StHoward Beach, NY 11414
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Sapphire Street
+
+    FORMATTED_ADDRESS: 153-41 Sapphire St, Jamaica, NY 11414, USA
+
+    LATITUDE: 40.6642913
+
+    LONGITUDE: -73.8554975

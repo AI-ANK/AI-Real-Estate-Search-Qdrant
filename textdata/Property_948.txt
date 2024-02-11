@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens - 129 Montague Street
+
+    TYPE: Co-op for sale
+
+    PRICE: 800000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 3442 80th St Apt 32
+
+    STATE: Queens, NY 11372
+
+    MAIN_ADDRESS: 3442 80th St Apt 32Queens, NY 11372
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Jackson Heights
+
+    LONG_NAME: 3442
+
+    FORMATTED_ADDRESS: 3442 80th St Apt 32, Jackson Heights, NY 11372, USA
+
+    LATITUDE: 40.7535399
+
+    LONGITUDE: -73.8868899

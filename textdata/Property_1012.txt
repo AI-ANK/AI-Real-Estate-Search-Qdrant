@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by East Coast REALTORS Inc
+
+    TYPE: Co-op for sale
+
+    PRICE: 195000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 44-20 Douglaston Pkwy Unit 2G
+
+    STATE: Douglaston, NY 11363
+
+    MAIN_ADDRESS: 44-20 Douglaston Pkwy Unit 2GDouglaston, NY 11363
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 44-20
+
+    FORMATTED_ADDRESS: 44-20 Douglaston Pkwy #2a, Flushing, NY 11363, USA
+
+    LATITUDE: 40.7659255
+
+    LONGITUDE: -73.7453922

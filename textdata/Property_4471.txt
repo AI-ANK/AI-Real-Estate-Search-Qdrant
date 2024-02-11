@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 575 Madison Ave
+
+    TYPE: Co-op for sale
+
+    PRICE: 3250000
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2610.0
+
+    ADDRESS: 563 Park Ave Apt 10E
+
+    STATE: New York, NY 10065
+
+    MAIN_ADDRESS: 563 Park Ave Apt 10ENew York, NY 10065
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 563
+
+    FORMATTED_ADDRESS: 563 Park Ave #10e, New York, NY 10065, USA
+
+    LATITUDE: 40.7647756
+
+    LONGITUDE: -73.9679827

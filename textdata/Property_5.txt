@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sowae Corp
+
+    TYPE: House for sale
+
+    PRICE: 690000
+
+    BEDS: 5
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 4004.0
+
+    ADDRESS: 584 Park Pl
+
+    STATE: Brooklyn, NY 11238
+
+    MAIN_ADDRESS: 584 Park PlBrooklyn, NY 11238
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Park Place
+
+    FORMATTED_ADDRESS: 584 Park Pl, Brooklyn, NY 11238, USA
+
+    LATITUDE: 40.6743632
+
+    LONGITUDE: -73.9587248

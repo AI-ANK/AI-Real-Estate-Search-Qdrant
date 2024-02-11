@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Truhomes Realty Group
+
+    TYPE: Land for sale
+
+    PRICE: 150000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 40 Cedarcliff Rd
+
+    STATE: Staten Island, NY 10301
+
+    MAIN_ADDRESS: 40 Cedarcliff RdStaten Island, NY 10301
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Cedarcliff Road
+
+    FORMATTED_ADDRESS: 40 Cedarcliff Rd, Staten Island, NY 10301, USA
+
+    LATITUDE: 40.6171535
+
+    LONGITUDE: -74.0890497

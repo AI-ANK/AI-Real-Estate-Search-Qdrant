@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Prodigy Real Estate Inc.
+
+    TYPE: House for sale
+
+    PRICE: 669999
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1196.0
+
+    ADDRESS: 416 Colon Ave
+
+    STATE: Staten Island, NY 10308
+
+    MAIN_ADDRESS: 416 Colon AveStaten Island, NY 10308
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Colon Avenue
+
+    FORMATTED_ADDRESS: 416 Colon Ave, Staten Island, NY 10308, USA
+
+    LATITUDE: 40.5598117
+
+    LONGITUDE: -74.1585168

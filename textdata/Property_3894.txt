@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by New Group Realty Inc
+
+    TYPE: Co-op for sale
+
+    PRICE: 258000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 500.0
+
+    ADDRESS: 149-43 35th Ave Unit 2J
+
+    STATE: Flushing, NY 11354
+
+    MAIN_ADDRESS: 149-43 35th Ave Unit 2JFlushing, NY 11354
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 149-43
+
+    FORMATTED_ADDRESS: 149-43 35th Ave #2j, Flushing, NY 11354, USA
+
+    LATITUDE: 40.7666016
+
+    LONGITUDE: -73.8157611

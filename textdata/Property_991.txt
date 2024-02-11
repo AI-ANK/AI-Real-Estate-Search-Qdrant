@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by YourHomeSold Guarantee Realty
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 749999
+
+    BEDS: 6
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 3150.0
+
+    ADDRESS: 1817 Amethyst St
+
+    STATE: Bronx, NY 10462
+
+    MAIN_ADDRESS: 1817 Amethyst StBronx, NY 10462
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Amethyst Street
+
+    FORMATTED_ADDRESS: 1817 Amethyst St, Bronx, NY 10462, USA
+
+    LATITUDE: 40.8453955
+
+    LONGITUDE: -73.868163

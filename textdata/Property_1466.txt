@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by CHIN - Re/Max in The City
+
+    TYPE: Pending
+
+    PRICE: 324900
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1100.0
+
+    ADDRESS: 5715 Mosholu Ave Apt 6B
+
+    STATE: Bronx, NY 10471
+
+    MAIN_ADDRESS: 5715 Mosholu Ave Apt 6BBronx, NY 10471
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: North Riverdale
+
+    LONG_NAME: 5715
+
+    FORMATTED_ADDRESS: 5715 Mosholu Ave #6b, Bronx, NY 10471, USA
+
+    LATITUDE: 40.9057959
+
+    LONGITUDE: -73.90002

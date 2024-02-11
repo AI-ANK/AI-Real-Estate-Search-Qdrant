@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Robert Defalco Realty, Inc.
+
+    TYPE: Contingent
+
+    PRICE: 1099000
+
+    BEDS: 6
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 3219.0
+
+    ADDRESS: 111 Highland Rd
+
+    STATE: Staten Island, NY 10308
+
+    MAIN_ADDRESS: 111 Highland RdStaten Island, NY 10308
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Highland Road
+
+    FORMATTED_ADDRESS: 111 Highland Rd, Staten Island, NY 10308, USA
+
+    LATITUDE: 40.549134
+
+    LONGITUDE: -74.142459

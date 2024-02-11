@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Realty Elite
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 915999
+
+    BEDS: 5
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 26-39 93rd St
+
+    STATE: East Elmhurst, NY 11369
+
+    MAIN_ADDRESS: 26-39 93rd StEast Elmhurst, NY 11369
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 93rd Street
+
+    FORMATTED_ADDRESS: 26-39 93rd St, Flushing, NY 11369, USA
+
+    LATITUDE: 40.7618985
+
+    LONGITUDE: -73.8758538

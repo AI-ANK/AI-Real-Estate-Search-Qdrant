@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by BROOKLYN`S 4 U REALTY
+
+    TYPE: House for sale
+
+    PRICE: 1899000
+
+    BEDS: 7
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2800.0
+
+    ADDRESS: 2719 Whitman Dr
+
+    STATE: Brooklyn, NY 11234
+
+    MAIN_ADDRESS: 2719 Whitman DrBrooklyn, NY 11234
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Whitman Drive
+
+    FORMATTED_ADDRESS: 2719 Whitman Dr, Brooklyn, NY 11234, USA
+
+    LATITUDE: 40.6049921
+
+    LONGITUDE: -73.9106532

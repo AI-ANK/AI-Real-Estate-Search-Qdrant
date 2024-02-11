@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Voro Llc
+
+    TYPE: Co-op for sale
+
+    PRICE: 328000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 800.0
+
+    ADDRESS: 83-30 Vietor Ave Unit 414
+
+    STATE: Elmhurst, NY 11373
+
+    MAIN_ADDRESS: 83-30 Vietor Ave Unit 414Elmhurst, NY 11373
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 8330
+
+    FORMATTED_ADDRESS: 8330 Vietor Ave Apartment 414, Flushing, NY 11373, USA
+
+    LATITUDE: 40.743059
+
+    LONGITUDE: -73.880983

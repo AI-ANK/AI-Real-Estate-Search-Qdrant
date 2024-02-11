@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Exp Realty
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1249999
+
+    BEDS: 6
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 3491.0
+
+    ADDRESS: 5112 Post Rd
+
+    STATE: Bronx, NY 10471
+
+    MAIN_ADDRESS: 5112 Post RdBronx, NY 10471
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Post Road
+
+    FORMATTED_ADDRESS: 5112 Post Rd, Bronx, NY 10471, USA
+
+    LATITUDE: 40.8961697
+
+    LONGITUDE: -73.8978853

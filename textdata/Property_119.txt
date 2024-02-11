@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran East Side
+
+    TYPE: Townhouse for sale
+
+    PRICE: 24800000
+
+    BEDS: 6
+
+    BATH: 8.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 45 E 74th St
+
+    STATE: New York, NY 10021
+
+    MAIN_ADDRESS: 45 E 74th StNew York, NY 10021
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: East 74th Street
+
+    FORMATTED_ADDRESS: 45 E 74th St, New York, NY 10021, USA
+
+    LATITUDE: 40.772929
+
+    LONGITUDE: -73.9635462

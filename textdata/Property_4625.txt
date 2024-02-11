@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sany Realty Group Llc
+
+    TYPE: Condo for sale
+
+    PRICE: 399000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 771.0
+
+    ADDRESS: 152-72 Melbourne Ave Unit Le
+
+    STATE: Flushing, NY 11367
+
+    MAIN_ADDRESS: 152-72 Melbourne Ave Unit LeFlushing, NY 11367
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Melbourne Avenue
+
+    FORMATTED_ADDRESS: 152-72 Melbourne Ave, Flushing, NY 11367, USA
+
+    LATITUDE: 40.7335145
+
+    LONGITUDE: -73.8153016

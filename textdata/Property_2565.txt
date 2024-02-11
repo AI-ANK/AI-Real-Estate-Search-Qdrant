@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Williamsburg Bedford
+
+    TYPE: Pending
+
+    PRICE: 2100000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1902.0
+
+    ADDRESS: 76 Powers St
+
+    STATE: Brooklyn, NY 11211
+
+    MAIN_ADDRESS: 76 Powers StBrooklyn, NY 11211
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Powers Street
+
+    FORMATTED_ADDRESS: 76 Powers St, Brooklyn, NY 11211, USA
+
+    LATITUDE: 40.7118832
+
+    LONGITUDE: -73.947991

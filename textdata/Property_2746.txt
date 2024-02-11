@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: NoBroker
+
+    TYPE: House for sale
+
+    PRICE: 1275000
+
+    BEDS: 4
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 87-66 257th St
+
+    STATE: Floral Park, NY 11001
+
+    MAIN_ADDRESS: 87-66 257th StFloral Park, NY 11001
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 257th Street
+
+    FORMATTED_ADDRESS: 87-66 257th St, Queens, NY 11001, USA
+
+    LATITUDE: 40.7289806
+
+    LONGITUDE: -73.7083891

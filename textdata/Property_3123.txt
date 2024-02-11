@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by PRIMEROCK REAL ESTATE GROUP INC
+
+    TYPE: Co-op for sale
+
+    PRICE: 349000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 800.0
+
+    ADDRESS: 89-22 155th Ave
+
+    STATE: Howard Beach, NY 11414
+
+    MAIN_ADDRESS: 89-22 155th AveHoward Beach, NY 11414
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 155th Avenue
+
+    FORMATTED_ADDRESS: 89-22 155th Ave, Howard Beach, NY 11414, USA
+
+    LATITUDE: 40.6662726
+
+    LONGITUDE: -73.8457131

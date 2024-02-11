@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by ROYAL YORK REALTY, INC.
+
+    TYPE: House for sale
+
+    PRICE: 1680000
+
+    BEDS: 5
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1584.0
+
+    ADDRESS: 1045 E 29th St
+
+    STATE: Brooklyn, NY 11210
+
+    MAIN_ADDRESS: 1045 E 29th StBrooklyn, NY 11210
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: East 29th Street
+
+    FORMATTED_ADDRESS: 1045 E 29th St, Brooklyn, NY 11210, USA
+
+    LATITUDE: 40.6255895
+
+    LONGITUDE: -73.9474055

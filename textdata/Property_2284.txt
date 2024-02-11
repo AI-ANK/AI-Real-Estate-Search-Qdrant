@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Edge
+
+    TYPE: Co-op for sale
+
+    PRICE: 349000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 800.0
+
+    ADDRESS: 3235 Emmons Ave Apt 625
+
+    STATE: Brooklyn, NY 11235
+
+    MAIN_ADDRESS: 3235 Emmons Ave Apt 625Brooklyn, NY 11235
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Sheepshead Bay
+
+    LONG_NAME: 3235
+
+    FORMATTED_ADDRESS: 3235 Emmons Ave Apt 625, Brooklyn, NY 11235, USA
+
+    LATITUDE: 40.5844399
+
+    LONGITUDE: -73.9316116

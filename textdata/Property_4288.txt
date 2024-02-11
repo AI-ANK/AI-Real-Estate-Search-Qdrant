@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by MNS
+
+    TYPE: Contingent
+
+    PRICE: 725000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 710 Metropolitan Ave Apt 2H
+
+    STATE: Brooklyn, NY 11211
+
+    MAIN_ADDRESS: 710 Metropolitan Ave Apt 2HBrooklyn, NY 11211
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Williamsburg
+
+    LONG_NAME: 710
+
+    FORMATTED_ADDRESS: 710 Metropolitan Ave #2h, Brooklyn, NY 11211, USA
+
+    LATITUDE: 40.714184
+
+    LONGITUDE: -73.945191

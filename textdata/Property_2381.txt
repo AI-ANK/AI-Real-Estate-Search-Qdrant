@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 450000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 152 E 83rd St Apt 3D
+
+    STATE: Manhattan, NY 10028
+
+    MAIN_ADDRESS: 152 E 83rd St Apt 3DManhattan, NY 10028
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 152
+
+    FORMATTED_ADDRESS: 152 E 83rd St #3d, New York, NY 10028, USA
+
+    LATITUDE: 40.777093
+
+    LONGITUDE: -73.956552

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Hauseit LLC
+
+    TYPE: House for sale
+
+    PRICE: 995000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 159-03 83rd St
+
+    STATE: Howard Beach, NY 11414
+
+    MAIN_ADDRESS: 159-03 83rd StHoward Beach, NY 11414
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 83rd Street
+
+    FORMATTED_ADDRESS: 159-03 83rd St, Queens, NY 11414, USA
+
+    LATITUDE: 40.657686
+
+    LONGITUDE: -73.8489131

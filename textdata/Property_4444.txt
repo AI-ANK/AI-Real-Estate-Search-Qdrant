@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Rlty Landmark
+
+    TYPE: Pending
+
+    PRICE: 925000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 61-19 75th Pl
+
+    STATE: Middle Village, NY 11379
+
+    MAIN_ADDRESS: 61-19 75th PlMiddle Village, NY 11379
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 75th Place
+
+    FORMATTED_ADDRESS: 61-19 75th Pl, Flushing, NY 11379, USA
+
+    LATITUDE: 40.7223571
+
+    LONGITUDE: -73.8834031

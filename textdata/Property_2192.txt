@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Real Estate Professionals
+
+    TYPE: House for sale
+
+    PRICE: 1750000
+
+    BEDS: 4
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 3225.0
+
+    ADDRESS: 7316 Ridge Blvd
+
+    STATE: Brooklyn, NY 11209
+
+    MAIN_ADDRESS: 7316 Ridge BlvdBrooklyn, NY 11209
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Ridge Boulevard
+
+    FORMATTED_ADDRESS: 7316 Ridge Blvd, Brooklyn, NY 11209, USA
+
+    LATITUDE: 40.633166
+
+    LONGITUDE: -74.0303565

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran West Side Gallery
+
+    TYPE: Condo for sale
+
+    PRICE: 650000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 550.0
+
+    ADDRESS: 382 Central Park W Apt 14T
+
+    STATE: New York, NY 10025
+
+    MAIN_ADDRESS: 382 Central Park W Apt 14TNew York, NY 10025
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 382
+
+    FORMATTED_ADDRESS: 382 Central Park W #14b, New York, NY 10025, USA
+
+    LATITUDE: 40.7935585
+
+    LONGITUDE: -73.9656011

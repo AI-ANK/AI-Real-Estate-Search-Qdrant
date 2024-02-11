@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 599000
+
+    BEDS: 1
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1025.0
+
+    ADDRESS: 510 E 86th St Unit Off
+
+    STATE: Manhattan, NY 10028
+
+    MAIN_ADDRESS: 510 E 86th St Unit OffManhattan, NY 10028
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: East 86th Street
+
+    FORMATTED_ADDRESS: 510 East 86th St, New York, NY 10028, USA
+
+    LATITUDE: 40.7754939
+
+    LONGITUDE: -73.9466592

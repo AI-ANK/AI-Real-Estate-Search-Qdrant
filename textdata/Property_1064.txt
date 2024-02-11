@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Exp Realty
+
+    TYPE: Condo for sale
+
+    PRICE: 249000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 815.0
+
+    ADDRESS: 1718 Purdy St Apt Mb
+
+    STATE: Bronx, NY 10462
+
+    MAIN_ADDRESS: 1718 Purdy St Apt MbBronx, NY 10462
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Purdy Street
+
+    FORMATTED_ADDRESS: 1718 Purdy St, Bronx, NY 10462, USA
+
+    LATITUDE: 40.840962
+
+    LONGITUDE: -73.854142

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by New York Realty Minimax
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 2198888
+
+    BEDS: 7
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 662 Seneca Ave
+
+    STATE: Ridgewood, NY 11385
+
+    MAIN_ADDRESS: 662 Seneca AveRidgewood, NY 11385
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Seneca Avenue
+
+    FORMATTED_ADDRESS: 662 Seneca Ave, Ridgewood, NY 11385, USA
+
+    LATITUDE: 40.7032697
+
+    LONGITUDE: -73.9088462

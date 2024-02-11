@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by ALTA Real Estate
+
+    TYPE: Condo for sale
+
+    PRICE: 1650000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1493.0
+
+    ADDRESS: 150 W 51st St Apt 2116
+
+    STATE: New York, NY 10019
+
+    MAIN_ADDRESS: 150 W 51st St Apt 2116New York, NY 10019
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 150
+
+    FORMATTED_ADDRESS: 150 W 51st St APT 2116, New York, NY 10019, USA
+
+    LATITUDE: 40.7612516
+
+    LONGITUDE: -73.9826113

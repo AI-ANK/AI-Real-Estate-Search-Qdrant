@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman  -111 Fifth Ave
+
+    TYPE: Co-op for sale
+
+    PRICE: 2100000
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1968.0
+
+    ADDRESS: 285 Riverside Dr Apt 11G
+
+    STATE: New York, NY 10025
+
+    MAIN_ADDRESS: 285 Riverside Dr Apt 11GNew York, NY 10025
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 285
+
+    FORMATTED_ADDRESS: 285 Riverside Dr #11g, New York, NY 10025, USA
+
+    LATITUDE: 40.7989206
+
+    LONGITUDE: -73.9723967

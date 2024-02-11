@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keystone Realty USA Corp
+
+    TYPE: Condo for sale
+
+    PRICE: 410000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 151-35 84th St Unit 3M
+
+    STATE: Howard Beach, NY 11414
+
+    MAIN_ADDRESS: 151-35 84th St Unit 3MHoward Beach, NY 11414
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Howard Beach
+
+    LONG_NAME: 151-35
+
+    FORMATTED_ADDRESS: 151-35 84th St #3m, Howard Beach, NY 11414, USA
+
+    LATITUDE: 40.6668174
+
+    LONGITUDE: -73.8499468

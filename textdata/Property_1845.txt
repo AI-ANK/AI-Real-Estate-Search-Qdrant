@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by E Realty International Corp
+
+    TYPE: Condo for sale
+
+    PRICE: 550000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 720.0
+
+    ADDRESS: 88-30 51st Ave Unit 6A
+
+    STATE: Elmhurst, NY 11373
+
+    MAIN_ADDRESS: 88-30 51st Ave Unit 6AElmhurst, NY 11373
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Elmhurst
+
+    LONG_NAME: 88-30
+
+    FORMATTED_ADDRESS: 88-30 51st Ave #6b, Queens, NY 11373, USA
+
+    LATITUDE: 40.7392191
+
+    LONGITUDE: -73.874525

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by OneSpace Realty Group LLC
+
+    TYPE: House for sale
+
+    PRICE: 799000
+
+    BEDS: 5
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1800.0
+
+    ADDRESS: 1124 E 51st St
+
+    STATE: Brooklyn, NY 11234
+
+    MAIN_ADDRESS: 1124 E 51st StBrooklyn, NY 11234
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: East 51st Street
+
+    FORMATTED_ADDRESS: 1124 E 51st St, Brooklyn, NY 11234, USA
+
+    LATITUDE: 40.6336127
+
+    LONGITUDE: -73.9276041

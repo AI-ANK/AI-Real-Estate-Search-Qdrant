@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Hayliam Realty LLC
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 779000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 104-37 116th St
+
+    STATE: Richmond Hill, NY 11418
+
+    MAIN_ADDRESS: 104-37 116th StRichmond Hill, NY 11418
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 116th Street
+
+    FORMATTED_ADDRESS: 104-37 116th St, South Richmond Hill, NY 11419, USA
+
+    LATITUDE: 40.6847739
+
+    LONGITUDE: -73.8261116

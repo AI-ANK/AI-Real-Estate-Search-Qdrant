@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by THE BOX ADVISORY LLC
+
+    TYPE: Condo for sale
+
+    PRICE: 625000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1268.0
+
+    ADDRESS: 762 Empire Blvd Apt 4D
+
+    STATE: Brooklyn, NY 11213
+
+    MAIN_ADDRESS: 762 Empire Blvd Apt 4DBrooklyn, NY 11213
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Little Caribbean
+
+    LONG_NAME: 762
+
+    FORMATTED_ADDRESS: 762 Empire Blvd #4d, Brooklyn, NY 11213, USA
+
+    LATITUDE: 40.6634769
+
+    LONGITUDE: -73.936924

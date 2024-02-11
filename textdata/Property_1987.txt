@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Amorelli Realty LLC
+
+    TYPE: Pending
+
+    PRICE: 875000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 24-47 43rd St
+
+    STATE: Astoria, NY 11103
+
+    MAIN_ADDRESS: 24-47 43rd StAstoria, NY 11103
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 43rd Street
+
+    FORMATTED_ADDRESS: 24-47 43rd St, Astoria, NY 11103, USA
+
+    LATITUDE: 40.7671317
+
+    LONGITUDE: -73.9087817

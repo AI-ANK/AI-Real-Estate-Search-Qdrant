@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Wonica REALTORS & Appraisers
+
+    TYPE: Contingent
+
+    PRICE: 869900
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2280.0
+
+    ADDRESS: 25 Copley St
+
+    STATE: Staten Island, NY 10314
+
+    MAIN_ADDRESS: 25 Copley StStaten Island, NY 10314
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Copley Street
+
+    FORMATTED_ADDRESS: 25 Copley St, Staten Island, NY 10314, USA
+
+    LATITUDE: 40.5873346
+
+    LONGITUDE: -74.1553517

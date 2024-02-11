@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Parkside Realty Of Queens Inc
+
+    TYPE: House for sale
+
+    PRICE: 669000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 91-09 95th St
+
+    STATE: Woodhaven, NY 11421
+
+    MAIN_ADDRESS: 91-09 95th StWoodhaven, NY 11421
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 95th Street
+
+    FORMATTED_ADDRESS: 91-09 95th St, Jamaica, NY 11421, USA
+
+    LATITUDE: 40.6899622
+
+    LONGITUDE: -73.8484421

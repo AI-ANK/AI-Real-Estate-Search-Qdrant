@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Distinguished Homes & Properties
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1300000
+
+    BEDS: 14
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 5103.0
+
+    ADDRESS: 1565 Saint Peters Ave
+
+    STATE: Bronx, NY 10461
+
+    MAIN_ADDRESS: 1565 Saint Peters AveBronx, NY 10461
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Saint Peters Avenue
+
+    FORMATTED_ADDRESS: 1565 St Peters Ave, Bronx, NY 10461, USA
+
+    LATITUDE: 40.8403844
+
+    LONGITUDE: -73.8478179

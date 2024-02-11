@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Robert DeFalco Realty, Inc.
+
+    TYPE: House for sale
+
+    PRICE: 545000
+
+    BEDS: 6
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1344.0
+
+    ADDRESS: 46 Lincoln Ave
+
+    STATE: Staten Island, NY 10306
+
+    MAIN_ADDRESS: 46 Lincoln AveStaten Island, NY 10306
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Lincoln Avenue
+
+    FORMATTED_ADDRESS: 46 Lincoln Ave, Staten Island, NY 10306, USA
+
+    LATITUDE: 40.5804254
+
+    LONGITUDE: -74.1110462

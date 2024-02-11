@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Coldwell Banker Reliable Real Estate
+
+    TYPE: House for sale
+
+    PRICE: 699999
+
+    BEDS: 5
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2218.0
+
+    ADDRESS: 2318 Holland Ave
+
+    STATE: Bronx, NY 10467
+
+    MAIN_ADDRESS: 2318 Holland AveBronx, NY 10467
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Holland Avenue
+
+    FORMATTED_ADDRESS: 2318 Holland Ave, Bronx, NY 10467, USA
+
+    LATITUDE: 40.8602009
+
+    LONGITUDE: -73.8653147

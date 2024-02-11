@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Welcome Home Realty Network
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 859000
+
+    BEDS: 6
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 1266 Findlay Ave
+
+    STATE: Bronx, NY 10456
+
+    MAIN_ADDRESS: 1266 Findlay AveBronx, NY 10456
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Findlay Avenue
+
+    FORMATTED_ADDRESS: 1266 Findlay Ave, Bronx, NY 10456, USA
+
+    LATITUDE: 40.8340749
+
+    LONGITUDE: -73.9113421

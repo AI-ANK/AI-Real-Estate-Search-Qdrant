@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Williamsburg Bedford
+
+    TYPE: House for sale
+
+    PRICE: 5500000
+
+    BEDS: 8
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 9000.0
+
+    ADDRESS: 5041 Goodridge Ave
+
+    STATE: Bronx, NY 10471
+
+    MAIN_ADDRESS: 5041 Goodridge AveBronx, NY 10471
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Goodridge Avenue
+
+    FORMATTED_ADDRESS: 5041 Goodridge Ave, Bronx, NY 10471, USA
+
+    LATITUDE: 40.8985084
+
+    LONGITUDE: -73.902753

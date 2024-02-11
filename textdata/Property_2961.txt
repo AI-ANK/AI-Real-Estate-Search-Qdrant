@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by EXIT REALTY TOP PROPERTIES
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 938000
+
+    BEDS: 5
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1890.0
+
+    ADDRESS: 1838 Brown St
+
+    STATE: Brooklyn, NY 11229
+
+    MAIN_ADDRESS: 1838 Brown StBrooklyn, NY 11229
+
+    ADMINISTRATIVE_AREA_LEVEL_2: 11229
+
+    LOCALITY: United States
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Kings County
+
+    LONG_NAME: Brown Street
+
+    FORMATTED_ADDRESS: 1838 Brown St, Brooklyn, NY 11229, USA
+
+    LATITUDE: 40.6065668
+
+    LONGITUDE: -73.9413437

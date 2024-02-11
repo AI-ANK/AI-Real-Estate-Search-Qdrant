@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Home Sweet Homes Real Prop Inc
+
+    TYPE: House for sale
+
+    PRICE: 850000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 49-12 167th St
+
+    STATE: Fresh Meadows, NY 11365
+
+    MAIN_ADDRESS: 49-12 167th StFresh Meadows, NY 11365
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 167th Street
+
+    FORMATTED_ADDRESS: 49-12 167th St, Flushing, NY 11365, USA
+
+    LATITUDE: 40.7485831
+
+    LONGITUDE: -73.8010787

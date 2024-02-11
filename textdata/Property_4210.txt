@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Townhouse for sale
+
+    PRICE: 2980000
+
+    BEDS: 6
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 3210.0
+
+    ADDRESS: 253 Windsor Pl Unit Townhouse
+
+    STATE: Brooklyn, NY 11215
+
+    MAIN_ADDRESS: 253 Windsor Pl Unit TownhouseBrooklyn, NY 11215
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Windsor Place
+
+    FORMATTED_ADDRESS: 253 Windsor Pl, Brooklyn, NY 11215, USA
+
+    LATITUDE: 40.6577712
+
+    LONGITUDE: -73.9762759

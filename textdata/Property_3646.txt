@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran East Side
+
+    TYPE: Co-op for sale
+
+    PRICE: 695000
+
+    BEDS: 1
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 955 Lexington Ave # 11A
+
+    STATE: New York, NY 10021
+
+    MAIN_ADDRESS: 955 Lexington Ave # 11ANew York, NY 10021
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 955
+
+    FORMATTED_ADDRESS: 955 Lexington Ave #11a, New York, NY 10021, USA
+
+    LATITUDE: 40.7687538
+
+    LONGITUDE: -73.9631311

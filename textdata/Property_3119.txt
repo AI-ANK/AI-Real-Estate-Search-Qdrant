@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE/MAX Team
+
+    TYPE: House for sale
+
+    PRICE: 15000000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 89-02 171st St
+
+    STATE: Jamaica, NY 11432
+
+    MAIN_ADDRESS: 89-02 171st StJamaica, NY 11432
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 171st Street
+
+    FORMATTED_ADDRESS: 89-02 171st St, Jamaica, NY 11432, USA
+
+    LATITUDE: 40.70971
+
+    LONGITUDE: -73.790302

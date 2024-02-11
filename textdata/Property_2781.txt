@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Townhouse for sale
+
+    PRICE: 600000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 40 Somers St Unit 2
+
+    STATE: Brooklyn, NY 11233
+
+    MAIN_ADDRESS: 40 Somers St Unit 2Brooklyn, NY 11233
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Ocean Hill
+
+    LONG_NAME: 40
+
+    FORMATTED_ADDRESS: 40 Somers St # 2, Brooklyn, NY 11233, USA
+
+    LATITUDE: 40.6786381
+
+    LONGITUDE: -73.910662

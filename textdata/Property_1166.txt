@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Real Broker Llc
+
+    TYPE: Condo for sale
+
+    PRICE: 425000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 800.0
+
+    ADDRESS: 3240 Netherland Ave Apt 6A
+
+    STATE: Bronx, NY 10463
+
+    MAIN_ADDRESS: 3240 Netherland Ave Apt 6ABronx, NY 10463
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: Riverdale
+
+    LONG_NAME: 3240
+
+    FORMATTED_ADDRESS: 3240 Netherland Ave #6a, Bronx, NY 10463, USA
+
+    LATITUDE: 40.8848915
+
+    LONGITUDE: -73.9110436

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 789000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 400 E 77th St Apt 4E
+
+    STATE: Manhattan, NY 10075
+
+    MAIN_ADDRESS: 400 E 77th St Apt 4EManhattan, NY 10075
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 400
+
+    FORMATTED_ADDRESS: 400 E 77th St #4a, New York, NY 10075, USA
+
+    LATITUDE: 40.7707244
+
+    LONGITUDE: -73.9533267

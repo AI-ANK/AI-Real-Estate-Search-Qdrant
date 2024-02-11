@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Century Homes Realty Group LLC
+
+    TYPE: House for sale
+
+    PRICE: 1398000
+
+    BEDS: 4
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 28-26 160th St
+
+    STATE: Flushing, NY 11358
+
+    MAIN_ADDRESS: 28-26 160th StFlushing, NY 11358
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 160th Street
+
+    FORMATTED_ADDRESS: 28-26 160th St, Flushing, NY 11358, USA
+
+    LATITUDE: 40.771268
+
+    LONGITUDE: -73.8046173

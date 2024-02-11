@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Carina Realty Inc
+
+    TYPE: House for sale
+
+    PRICE: 2795000
+
+    BEDS: 6
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 3600.0
+
+    ADDRESS: 14 St Marks Pl
+
+    STATE: Brooklyn, NY 11217
+
+    MAIN_ADDRESS: 14 St Marks PlBrooklyn, NY 11217
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Saint Marks Place
+
+    FORMATTED_ADDRESS: 14 St Marks Pl, Brooklyn, NY 11217, USA
+
+    LATITUDE: 40.6824096
+
+    LONGITUDE: -73.9820791

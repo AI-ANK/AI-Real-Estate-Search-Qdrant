@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Momentum Real Estate Llc
+
+    TYPE: House for sale
+
+    PRICE: 1380000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2520.0
+
+    ADDRESS: 8903 Ridge Blvd
+
+    STATE: Brooklyn, NY 11209
+
+    MAIN_ADDRESS: 8903 Ridge BlvdBrooklyn, NY 11209
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Ridge Boulevard
+
+    FORMATTED_ADDRESS: 8903 Ridge Blvd, Brooklyn, NY 11209, USA
+
+    LATITUDE: 40.6217919
+
+    LONGITUDE: -74.0343844

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Metro Net Realty Llc
+
+    TYPE: House for sale
+
+    PRICE: 705000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 76-22 57th Rd
+
+    STATE: Middle Village, NY 11379
+
+    MAIN_ADDRESS: 76-22 57th RdMiddle Village, NY 11379
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 57th Road
+
+    FORMATTED_ADDRESS: 76-22 57th Rd, Flushing, NY 11379, USA
+
+    LATITUDE: 40.727192
+
+    LONGITUDE: -73.883684

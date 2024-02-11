@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by NEUHAUS REALTY, INC.
+
+    TYPE: Condo for sale
+
+    PRICE: 420000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 840.0
+
+    ADDRESS: 1286 Rockland Ave Unit 2HH
+
+    STATE: Staten Island, NY 10314
+
+    MAIN_ADDRESS: 1286 Rockland Ave Unit 2HHStaten Island, NY 10314
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Richmond County
+
+    SUBLOCALITY: Staten Island
+
+    STREET_NAME: New Springville
+
+    LONG_NAME: 1286
+
+    FORMATTED_ADDRESS: 1286 Rockland Ave #2h, Staten Island, NY 10314, USA
+
+    LATITUDE: 40.5945609
+
+    LONGITUDE: -74.1596635

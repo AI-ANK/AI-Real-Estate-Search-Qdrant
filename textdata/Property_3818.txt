@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Serhant
+
+    TYPE: Townhouse for sale
+
+    PRICE: 19995000
+
+    BEDS: 6
+
+    BATH: 8.0
+
+    PROPERTYSQFT: 8757.0
+
+    ADDRESS: 80 Washington Pl
+
+    STATE: New York, NY 10011
+
+    MAIN_ADDRESS: 80 Washington PlNew York, NY 10011
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: Washington Place
+
+    FORMATTED_ADDRESS: 80 Washington Pl, New York, NY 10011, USA
+
+    LATITUDE: 40.7318882
+
+    LONGITUDE: -73.9999891

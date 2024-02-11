@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by E Realty International Corp
+
+    TYPE: Condo for sale
+
+    PRICE: 630000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 5-42 115th St Unit A
+
+    STATE: College Point, NY 11356
+
+    MAIN_ADDRESS: 5-42 115th St Unit ACollege Point, NY 11356
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 115th Street
+
+    FORMATTED_ADDRESS: 5-42 115th St, College Point, NY 11356, USA
+
+    LATITUDE: 40.7903558
+
+    LONGITUDE: -73.8528872

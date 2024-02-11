@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by CHRISTIE'S INT.REAL ESTATE GROUP
+
+    TYPE: Townhouse for sale
+
+    PRICE: 4845000
+
+    BEDS: 9
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 5939.0
+
+    ADDRESS: 2099 Fifth Ave
+
+    STATE: New York, NY 10035
+
+    MAIN_ADDRESS: 2099 Fifth AveNew York, NY 10035
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: 5th Avenue
+
+    FORMATTED_ADDRESS: 2099 5th Ave, New York, NY 10035, USA
+
+    LATITUDE: 40.808933
+
+    LONGITUDE: -73.940052

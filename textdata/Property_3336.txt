@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Remax Edge - RE/MAX EDGE
+
+    TYPE: Townhouse for sale
+
+    PRICE: 1450000
+
+    BEDS: 4
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2128.0
+
+    ADDRESS: 323 Bainbridge St
+
+    STATE: Brooklyn, NY 11233
+
+    MAIN_ADDRESS: 323 Bainbridge StBrooklyn, NY 11233
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Bainbridge Street
+
+    FORMATTED_ADDRESS: 323 Bainbridge St., Brooklyn, NY 11233, USA
+
+    LATITUDE: 40.6820137
+
+    LONGITUDE: -73.9237828

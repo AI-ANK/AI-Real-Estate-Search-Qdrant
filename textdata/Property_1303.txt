@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Prime Realty
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 999000
+
+    BEDS: 5
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 7312 Avenue U
+
+    STATE: Brooklyn, NY 11234
+
+    MAIN_ADDRESS: 7312 Avenue UBrooklyn, NY 11234
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Avenue U
+
+    FORMATTED_ADDRESS: 7312 Avenue U, Brooklyn, NY 11234, USA
+
+    LATITUDE: 40.6207744
+
+    LONGITUDE: -73.9055089

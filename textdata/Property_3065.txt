@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brick & Mortar Llc
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1995000
+
+    BEDS: 9
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 3600.0
+
+    ADDRESS: 673 Knickerbocker Ave Unit Bldg
+
+    STATE: Brooklyn, NY 11221
+
+    MAIN_ADDRESS: 673 Knickerbocker Ave Unit BldgBrooklyn, NY 11221
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Knickerbocker Avenue
+
+    FORMATTED_ADDRESS: 673 Knickerbocker Ave, Brooklyn, NY 11221, USA
+
+    LATITUDE: 40.6950726
+
+    LONGITUDE: -73.9113766

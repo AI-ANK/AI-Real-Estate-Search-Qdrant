@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by E Realty International Corp
+
+    TYPE: Condo for sale
+
+    PRICE: 569000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 490.0
+
+    ADDRESS: 41-62 Bowne St Unit 11C
+
+    STATE: Flushing, NY 11355
+
+    MAIN_ADDRESS: 41-62 Bowne St Unit 11CFlushing, NY 11355
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 41-62
+
+    FORMATTED_ADDRESS: 41-62 Bowne St #11c, Flushing, NY 11355, USA
+
+    LATITUDE: 40.7576255
+
+    LONGITUDE: -73.8231097

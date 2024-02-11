@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens - 129 Montague Street
+
+    TYPE: Condo for sale
+
+    PRICE: 800000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 850.0
+
+    ADDRESS: 1240 Bedford Ave Apt 1F
+
+    STATE: Brooklyn, NY 11216
+
+    MAIN_ADDRESS: 1240 Bedford Ave Apt 1FBrooklyn, NY 11216
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Bedford-Stuyvesant
+
+    LONG_NAME: 1240
+
+    FORMATTED_ADDRESS: 1240 Bedford Ave #1f, Brooklyn, NY 11216, USA
+
+    LATITUDE: 40.6813996
+
+    LONGITUDE: -73.9537521

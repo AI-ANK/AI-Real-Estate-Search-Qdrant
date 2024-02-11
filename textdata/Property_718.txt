@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Neuhaus Realty, Inc.
+
+    TYPE: House for sale
+
+    PRICE: 825000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2230.0
+
+    ADDRESS: 263 Getz Ave
+
+    STATE: Staten Island, NY 10312
+
+    MAIN_ADDRESS: 263 Getz AveStaten Island, NY 10312
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Getz Avenue
+
+    FORMATTED_ADDRESS: 263 Getz Ave, Staten Island, NY 10312, USA
+
+    LATITUDE: 40.5532787
+
+    LONGITUDE: -74.1649844

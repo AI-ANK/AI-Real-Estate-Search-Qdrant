@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Robert Defalco Realty, Inc.
+
+    TYPE: House for sale
+
+    PRICE: 499900
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1232.0
+
+    ADDRESS: 40 Bunnell Ct Unit A
+
+    STATE: Staten Island, NY 10312
+
+    MAIN_ADDRESS: 40 Bunnell Ct Unit AStaten Island, NY 10312
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Bunnell Court
+
+    FORMATTED_ADDRESS: 40 Bunnell Ct, Staten Island, NY 10312, USA
+
+    LATITUDE: 40.5527401
+
+    LONGITUDE: -74.1995549

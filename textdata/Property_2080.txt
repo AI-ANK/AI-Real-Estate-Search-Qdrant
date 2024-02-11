@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Elite
+
+    TYPE: House for sale
+
+    PRICE: 849999
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1365.0
+
+    ADDRESS: 155 Ebbitts St
+
+    STATE: Staten Island, NY 10306
+
+    MAIN_ADDRESS: 155 Ebbitts StStaten Island, NY 10306
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Ebbitts Street
+
+    FORMATTED_ADDRESS: 155 Ebbitts St, Staten Island, NY 10306, USA
+
+    LATITUDE: 40.562056
+
+    LONGITUDE: -74.1052535

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Weichert Realtors The Franzese Group
+
+    TYPE: House for sale
+
+    PRICE: 1089000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1720.0
+
+    ADDRESS: 649 Bay Ridge Pkwy
+
+    STATE: Brooklyn, NY 11209
+
+    MAIN_ADDRESS: 649 Bay Ridge PkwyBrooklyn, NY 11209
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Bay Ridge Parkway
+
+    FORMATTED_ADDRESS: 649 Bay Ridge Pkwy, Brooklyn, NY 11209, USA
+
+    LATITUDE: 40.6275081
+
+    LONGITUDE: -74.018889

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Excellent Realty Llc
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 2350000
+
+    BEDS: 6
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2700.0
+
+    ADDRESS: 166-32 16th Rd
+
+    STATE: Whitestone, NY 11357
+
+    MAIN_ADDRESS: 166-32 16th RdWhitestone, NY 11357
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 16th Road
+
+    FORMATTED_ADDRESS: 166-32 16th Rd, Flushing, NY 11357, USA
+
+    LATITUDE: 40.7832315
+
+    LONGITUDE: -73.7958397

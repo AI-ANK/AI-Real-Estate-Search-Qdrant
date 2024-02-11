@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Liberty Chateau Realty Inc
+
+    TYPE: House for sale
+
+    PRICE: 924900
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1404.0
+
+    ADDRESS: 1559 W 4th St
+
+    STATE: Brooklyn, NY 11204
+
+    MAIN_ADDRESS: 1559 W 4th StBrooklyn, NY 11204
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: West 4th Street
+
+    FORMATTED_ADDRESS: 1559 W 4th St, Brooklyn, NY 11204, USA
+
+    LATITUDE: 40.6094348
+
+    LONGITUDE: -73.9777343

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - Huntington
+
+    TYPE: Pending
+
+    PRICE: 399000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 6939A Park Dr E Unit A
+
+    STATE: Kew Garden Hills, NY 11367
+
+    MAIN_ADDRESS: 6939A Park Dr E Unit AKew Garden Hills, NY 11367
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Park Drive East
+
+    FORMATTED_ADDRESS: 6939 Park Dr E, Flushing, NY 11367, USA
+
+    LATITUDE: 40.7231998
+
+    LONGITUDE: -73.8267722

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Winzone Realty Inc
+
+    TYPE: Co-op for sale
+
+    PRICE: 369000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 43-40 Union St Unit 3D
+
+    STATE: Flushing, NY 11355
+
+    MAIN_ADDRESS: 43-40 Union St Unit 3DFlushing, NY 11355
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 43-40
+
+    FORMATTED_ADDRESS: 43-40 Union St #3d, Flushing, NY 11355, USA
+
+    LATITUDE: 40.753455
+
+    LONGITUDE: -73.8209077

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Realty Group
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1025000
+
+    BEDS: 7
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2400.0
+
+    ADDRESS: 1091 Pierce Ave
+
+    STATE: Bronx, NY 10461
+
+    MAIN_ADDRESS: 1091 Pierce AveBronx, NY 10461
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Pierce Avenue
+
+    FORMATTED_ADDRESS: 1091 Pierce Ave, Bronx, NY 10461, USA
+
+    LATITUDE: 40.8464945
+
+    LONGITUDE: -73.850834

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Dom Realty of NY Inc
+
+    TYPE: Townhouse for sale
+
+    PRICE: 925000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1875.0
+
+    ADDRESS: 69-33 169 St
+
+    STATE: Fresh Meadows, NY 11365
+
+    MAIN_ADDRESS: 69-33 169 StFresh Meadows, NY 11365
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 169th Street
+
+    FORMATTED_ADDRESS: 69-33 169th St, Flushing, NY 11365, USA
+
+    LATITUDE: 40.7318932
+
+    LONGITUDE: -73.8001903

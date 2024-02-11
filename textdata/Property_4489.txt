@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 140 Franklin
+
+    TYPE: Co-op for sale
+
+    PRICE: 600000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 750.0
+
+    ADDRESS: 210 W 103rd St Apt 5F
+
+    STATE: New York, NY 10025
+
+    MAIN_ADDRESS: 210 W 103rd St Apt 5FNew York, NY 10025
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 210
+
+    FORMATTED_ADDRESS: 210 W 103rd St #5f, New York, NY 10025, USA
+
+    LATITUDE: 40.7986646
+
+    LONGITUDE: -73.9678976

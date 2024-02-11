@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Macaluso Realty
+
+    TYPE: Townhouse for sale
+
+    PRICE: 849000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1296.0
+
+    ADDRESS: 66-27 Gray St
+
+    STATE: Middle Village, NY 11379
+
+    MAIN_ADDRESS: 66-27 Gray StMiddle Village, NY 11379
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Gray Street
+
+    FORMATTED_ADDRESS: 66-27 Gray St, Flushing, NY 11379, USA
+
+    LATITUDE: 40.7149915
+
+    LONGITUDE: -73.8775275

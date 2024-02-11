@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman  -111 Fifth Ave
+
+    TYPE: Co-op for sale
+
+    PRICE: 1395000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 258 Broadway Apt 3D
+
+    STATE: New York, NY 10007
+
+    MAIN_ADDRESS: 258 Broadway Apt 3DNew York, NY 10007
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 258
+
+    FORMATTED_ADDRESS: 258 Broadway #3d, New York, NY 10007, USA
+
+    LATITUDE: 40.7134524
+
+    LONGITUDE: -74.0070904

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Jeskell Realty Llc
+
+    TYPE: Co-op for sale
+
+    PRICE: 133000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 630.0
+
+    ADDRESS: 3231 Barker Ave Unit Ld
+
+    STATE: Bronx, NY 10467
+
+    MAIN_ADDRESS: 3231 Barker Ave Unit LdBronx, NY 10467
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: East Bronx
+
+    LONG_NAME: 3231
+
+    FORMATTED_ADDRESS: 3231 Barker Ave # D, Bronx, NY 10467, USA
+
+    LATITUDE: 40.8720291
+
+    LONGITUDE: -73.8695302

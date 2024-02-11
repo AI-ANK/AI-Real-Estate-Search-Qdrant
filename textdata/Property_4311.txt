@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Rockaway Properties
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1290000
+
+    BEDS: 6
+
+    BATH: 5.0
+
+    PROPERTYSQFT: 2340.0
+
+    ADDRESS: 126 Beach 98th St
+
+    STATE: Rockaway Park, NY 11694
+
+    MAIN_ADDRESS: 126 Beach 98th StRockaway Park, NY 11694
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Beach 98th Street
+
+    FORMATTED_ADDRESS: 1-26 Beach 98th St, Rockaway Park, NY 11694, USA
+
+    LATITUDE: 40.5832258
+
+    LONGITUDE: -73.8184131

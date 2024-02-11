@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran West Side Gallery
+
+    TYPE: Condo for sale
+
+    PRICE: 1395000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1793.0
+
+    ADDRESS: 253 W 73rd St Apt 4F
+
+    STATE: New York, NY 10023
+
+    MAIN_ADDRESS: 253 W 73rd St Apt 4FNew York, NY 10023
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 253
+
+    FORMATTED_ADDRESS: 253 W 73rd St #4f, New York, NY 10023, USA
+
+    LATITUDE: 40.780245
+
+    LONGITUDE: -73.9827963

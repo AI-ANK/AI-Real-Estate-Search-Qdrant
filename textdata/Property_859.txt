@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Homedax Real Estate Llc
+
+    TYPE: Co-op for sale
+
+    PRICE: 350000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 414 61st St Apt 4A
+
+    STATE: Brooklyn, NY 11220
+
+    MAIN_ADDRESS: 414 61st St Apt 4ABrooklyn, NY 11220
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Sunset Park
+
+    LONG_NAME: 414
+
+    FORMATTED_ADDRESS: 414 61st St #4a, Brooklyn, NY 11220, USA
+
+    LATITUDE: 40.6397364
+
+    LONGITUDE: -74.0186847

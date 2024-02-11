@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sowae Corp
+
+    TYPE: House for sale
+
+    PRICE: 270000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2000.0
+
+    ADDRESS: 2417 Cambreleng Ave
+
+    STATE: Bronx, NY 10458
+
+    MAIN_ADDRESS: 2417 Cambreleng AveBronx, NY 10458
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Cambreleng Avenue
+
+    FORMATTED_ADDRESS: 2417 Cambreleng Ave, Bronx, NY 10458, USA
+
+    LATITUDE: 40.8550515
+
+    LONGITUDE: -73.8852304

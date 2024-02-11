@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brownstone Real Estate LLC - Carroll Gardens
+
+    TYPE: Townhouse for sale
+
+    PRICE: 5295000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 4600.0
+
+    ADDRESS: 75 2nd Pl
+
+    STATE: Brooklyn, NY 11231
+
+    MAIN_ADDRESS: 75 2nd PlBrooklyn, NY 11231
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: 2nd Place
+
+    FORMATTED_ADDRESS: 75 2nd Pl, Brooklyn, NY 11231, USA
+
+    LATITUDE: 40.6800067
+
+    LONGITUDE: -73.9982111

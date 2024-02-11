@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - Long Beach
+
+    TYPE: Co-op for sale
+
+    PRICE: 1075000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1800.0
+
+    ADDRESS: 37-30 83rd St Unit 4EF
+
+    STATE: Jackson Heights, NY 11372
+
+    MAIN_ADDRESS: 37-30 83rd St Unit 4EFJackson Heights, NY 11372
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 37-30
+
+    FORMATTED_ADDRESS: 37-30 83rd St #4e, Flushing, NY 11372, USA
+
+    LATITUDE: 40.7487647
+
+    LONGITUDE: -73.8834851

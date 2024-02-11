@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens - 1926 Broadway
+
+    TYPE: Condo for sale
+
+    PRICE: 4880000
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2130.0
+
+    ADDRESS: 400 Fifth Ave Unit 57E
+
+    STATE: Manhattan, NY 10018
+
+    MAIN_ADDRESS: 400 Fifth Ave Unit 57EManhattan, NY 10018
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 400
+
+    FORMATTED_ADDRESS: 400 5th Ave APT 57E, New York, NY 10018, USA
+
+    LATITUDE: 40.7500989
+
+    LONGITUDE: -73.9838104

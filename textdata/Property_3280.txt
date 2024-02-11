@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Robert DeFalco Realty, Inc.
+
+    TYPE: Condo for sale
+
+    PRICE: 249999
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 596.0
+
+    ADDRESS: 215 Hart Blvd Apt 3J
+
+    STATE: Staten Island, NY 10301
+
+    MAIN_ADDRESS: 215 Hart Blvd Apt 3JStaten Island, NY 10301
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Richmond County
+
+    SUBLOCALITY: Staten Island
+
+    STREET_NAME: West Brighton
+
+    LONG_NAME: 215
+
+    FORMATTED_ADDRESS: 215 Hart Blvd #3j, Staten Island, NY 10301, USA
+
+    LATITUDE: 40.6299335
+
+    LONGITUDE: -74.0999243

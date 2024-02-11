@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Century Homes Realty Group LLC
+
+    TYPE: Co-op for sale
+
+    PRICE: 385000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 35-40 82nd St Unit 2A
+
+    STATE: Jackson Heights, NY 11372
+
+    MAIN_ADDRESS: 35-40 82nd St Unit 2AJackson Heights, NY 11372
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 35-40
+
+    FORMATTED_ADDRESS: 35-40 82nd St #2a, Flushing, NY 11372, USA
+
+    LATITUDE: 40.7505242
+
+    LONGITUDE: -73.8847507

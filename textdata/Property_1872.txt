@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by EXP Realty
+
+    TYPE: Co-op for sale
+
+    PRICE: 409000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 69-60 108th St Unit 501
+
+    STATE: Forest Hills, NY 11375
+
+    MAIN_ADDRESS: 69-60 108th St Unit 501Forest Hills, NY 11375
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Forest Hills
+
+    LONG_NAME: 6960
+
+    FORMATTED_ADDRESS: 6960 108th St Apt 501, Forest Hills, NY 11375, USA
+
+    LATITUDE: 40.7236399
+
+    LONGITUDE: -73.84481

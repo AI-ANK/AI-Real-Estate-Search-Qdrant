@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by EXIT REALTY PREMIER
+
+    TYPE: House for sale
+
+    PRICE: 950000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1748.0
+
+    ADDRESS: 66-23 Alderton St
+
+    STATE: Rego Park, NY 11374
+
+    MAIN_ADDRESS: 66-23 Alderton StRego Park, NY 11374
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Alderton Street
+
+    FORMATTED_ADDRESS: 66-23 Alderton St, Flushing, NY 11374, USA
+
+    LATITUDE: 40.7188985
+
+    LONGITUDE: -73.8587988

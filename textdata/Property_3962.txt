@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: NoBroker
+
+    TYPE: Condo for sale
+
+    PRICE: 3999999
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1997.0
+
+    ADDRESS: 527 W 27th St Unit 5S
+
+    STATE: New York, NY 10001
+
+    MAIN_ADDRESS: 527 W 27th St Unit 5SNew York, NY 10001
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 527
+
+    FORMATTED_ADDRESS: 527 W 27th St #5s, New York, NY 10001, USA
+
+    LATITUDE: 40.7509451
+
+    LONGITUDE: -74.0035855

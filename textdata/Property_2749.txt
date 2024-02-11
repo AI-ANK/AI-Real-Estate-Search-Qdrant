@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Pending
+
+    PRICE: 435000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 155 Hicks St Unit 5A
+
+    STATE: Brooklyn, NY 11201
+
+    MAIN_ADDRESS: 155 Hicks St Unit 5ABrooklyn, NY 11201
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Brooklyn Heights
+
+    LONG_NAME: 155
+
+    FORMATTED_ADDRESS: 155 Hicks St #5a, Brooklyn, NY 11201, USA
+
+    LATITUDE: 40.6969047
+
+    LONGITUDE: -73.9948252

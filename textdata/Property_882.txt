@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Robert Defalco Realty, Inc.
+
+    TYPE: House for sale
+
+    PRICE: 285000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1428.0
+
+    ADDRESS: 72 Holland Ave
+
+    STATE: Staten Island, NY 10303
+
+    MAIN_ADDRESS: 72 Holland AveStaten Island, NY 10303
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Holland Avenue
+
+    FORMATTED_ADDRESS: 72 Holland Ave, Staten Island, NY 10303, USA
+
+    LATITUDE: 40.6384738
+
+    LONGITUDE: -74.1714633

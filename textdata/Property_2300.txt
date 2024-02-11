@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Mjr Real Estate Llc
+
+    TYPE: Co-op for sale
+
+    PRICE: 567000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 97-37 63 Rd Unit 3E
+
+    STATE: Rego Park, NY 11374
+
+    MAIN_ADDRESS: 97-37 63 Rd Unit 3ERego Park, NY 11374
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Rego Park
+
+    LONG_NAME: 97-37
+
+    FORMATTED_ADDRESS: 97-37 63rd Rd #3e, Rego Park, NY 11374, USA
+
+    LATITUDE: 40.7318958
+
+    LONGITUDE: -73.8599645

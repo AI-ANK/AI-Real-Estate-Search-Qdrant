@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - Bayside
+
+    TYPE: Co-op for sale
+
+    PRICE: 249000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 74-02 43rd Ave Unit 6M
+
+    STATE: Elmhurst, NY 11373
+
+    MAIN_ADDRESS: 74-02 43rd Ave Unit 6MElmhurst, NY 11373
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Elmhurst
+
+    LONG_NAME: 74-02
+
+    FORMATTED_ADDRESS: 74-02 43rd Ave #6b, Elmhurst, NY 11373, USA
+
+    LATITUDE: 40.7420053
+
+    LONGITUDE: -73.8901926

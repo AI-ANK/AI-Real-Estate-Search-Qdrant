@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by REALHome Services & Solutions
+
+    TYPE: House for sale
+
+    PRICE: 580880
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1504.0
+
+    ADDRESS: 976 Schenectady Ave
+
+    STATE: Brooklyn, NY 11203
+
+    MAIN_ADDRESS: 976 Schenectady AveBrooklyn, NY 11203
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Schenectady Avenue
+
+    FORMATTED_ADDRESS: 976 Schenectady Ave, Brooklyn, NY 11203, USA
+
+    LATITUDE: 40.6492194
+
+    LONGITUDE: -73.933307

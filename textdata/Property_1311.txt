@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Park Slope
+
+    TYPE: Pending
+
+    PRICE: 1800000
+
+    BEDS: 7
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2832.0
+
+    ADDRESS: 729 E 18th St
+
+    STATE: Brooklyn, NY 11230
+
+    MAIN_ADDRESS: 729 E 18th StBrooklyn, NY 11230
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: East 18th Street
+
+    FORMATTED_ADDRESS: 729 E 18th St, Brooklyn, NY 11230, USA
+
+    LATITUDE: 40.6331671
+
+    LONGITUDE: -73.9597006

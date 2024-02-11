@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Realty Greater Nassau
+
+    TYPE: Co-op for sale
+
+    PRICE: 419800
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1000.0
+
+    ADDRESS: 72-81 113th St Unit 5M
+
+    STATE: Forest Hills, NY 11375
+
+    MAIN_ADDRESS: 72-81 113th St Unit 5MForest Hills, NY 11375
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Forest Hills
+
+    LONG_NAME: 72-81
+
+    FORMATTED_ADDRESS: 72-81 113th St #5b, Forest Hills, NY 11375, USA
+
+    LATITUDE: 40.7199582
+
+    LONGITUDE: -73.8357232

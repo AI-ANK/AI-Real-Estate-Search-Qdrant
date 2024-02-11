@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Serhant
+
+    TYPE: Townhouse for sale
+
+    PRICE: 899000
+
+    BEDS: 4
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1960.0
+
+    ADDRESS: 88-47 247 St
+
+    STATE: Queens, NY 11426
+
+    MAIN_ADDRESS: 88-47 247 StQueens, NY 11426
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 247th Street
+
+    FORMATTED_ADDRESS: 88-47 247th St, Jamaica, NY 11426, USA
+
+    LATITUDE: 40.727846
+
+    LONGITUDE: -73.720774

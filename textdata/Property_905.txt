@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Exp Realty
+
+    TYPE: House for sale
+
+    PRICE: 639000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1224.0
+
+    ADDRESS: 2919 Greene Pl
+
+    STATE: Bronx, NY 10465
+
+    MAIN_ADDRESS: 2919 Greene PlBronx, NY 10465
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Greene Place
+
+    FORMATTED_ADDRESS: 2919 Greene Pl, Bronx, NY 10465, USA
+
+    LATITUDE: 40.832149
+
+    LONGITUDE: -73.8265941

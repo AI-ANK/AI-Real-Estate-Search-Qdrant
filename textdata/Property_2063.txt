@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Horowitz Real Estate
+
+    TYPE: Co-op for sale
+
+    PRICE: 305000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 600.0
+
+    ADDRESS: 21-15 33rd St Unit 5H
+
+    STATE: Astoria, NY 11105
+
+    MAIN_ADDRESS: 21-15 33rd St Unit 5HAstoria, NY 11105
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Astoria
+
+    LONG_NAME: 21-15
+
+    FORMATTED_ADDRESS: 21-15 33rd St #5h, Queens, NY 11105, USA
+
+    LATITUDE: 40.7767119
+
+    LONGITUDE: -73.9077637

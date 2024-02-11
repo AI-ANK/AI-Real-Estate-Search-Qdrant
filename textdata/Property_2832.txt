@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Townhouse for sale
+
+    PRICE: 2495000
+
+    BEDS: 8
+
+    BATH: 8.0
+
+    PROPERTYSQFT: 5374.0
+
+    ADDRESS: 211 W 252nd St Unit Townhouse
+
+    STATE: Bronx, NY 10471
+
+    MAIN_ADDRESS: 211 W 252nd St Unit TownhouseBronx, NY 10471
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: West 252nd Street
+
+    FORMATTED_ADDRESS: 211 W 252nd St, Bronx, NY 10471, USA
+
+    LATITUDE: 40.8980177
+
+    LONGITUDE: -73.8977004

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 3395000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1525.0
+
+    ADDRESS: 2 Charlton St Unit 1AB
+
+    STATE: Manhattan, NY 10014
+
+    MAIN_ADDRESS: 2 Charlton St Unit 1ABManhattan, NY 10014
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 2
+
+    FORMATTED_ADDRESS: 2 Charlton St #1a, New York, NY 10014, USA
+
+    LATITUDE: 40.7268776
+
+    LONGITUDE: -74.0038573

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Serhant
+
+    TYPE: Condo for sale
+
+    PRICE: 1465000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1107.0
+
+    ADDRESS: 61 N Henry St Fl 4
+
+    STATE: Brooklyn, NY 11222
+
+    MAIN_ADDRESS: 61 N Henry St Fl 4Brooklyn, NY 11222
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Greenpoint
+
+    LONG_NAME: 61
+
+    FORMATTED_ADDRESS: 61 N Henry St Fl 4, Brooklyn, NY 11222, USA
+
+    LATITUDE: 40.7213959
+
+    LONGITUDE: -73.9430921

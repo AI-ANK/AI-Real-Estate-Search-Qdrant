@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Jessica Viola
+
+    TYPE: Contingent
+
+    PRICE: 499000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1288.0
+
+    ADDRESS: 625 Goethals Rd N
+
+    STATE: Staten Island, NY 10314
+
+    MAIN_ADDRESS: 625 Goethals Rd NStaten Island, NY 10314
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Goethals Road North
+
+    FORMATTED_ADDRESS: 625 Goethals Rd N, Staten Island, NY 10314, USA
+
+    LATITUDE: 40.6166867
+
+    LONGITUDE: -74.1576647

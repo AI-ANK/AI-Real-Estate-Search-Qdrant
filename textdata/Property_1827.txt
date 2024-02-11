@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Townhouse for sale
+
+    PRICE: 12995000
+
+    BEDS: 5
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 4100.0
+
+    ADDRESS: 25 Perry St
+
+    STATE: Manhattan, NY 10014
+
+    MAIN_ADDRESS: 25 Perry StManhattan, NY 10014
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: Perry Street
+
+    FORMATTED_ADDRESS: 25 Perry St, New York, NY 10014, USA
+
+    LATITUDE: 40.7358634
+
+    LONGITUDE: -74.0022086

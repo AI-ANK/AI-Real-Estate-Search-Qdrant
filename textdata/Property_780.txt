@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Ditommaso Real Estate
+
+    TYPE: Co-op for sale
+
+    PRICE: 225000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 789.0
+
+    ADDRESS: 1100 Clove Rd Apt 2D
+
+    STATE: Brooklyn, NY 10301
+
+    MAIN_ADDRESS: 1100 Clove Rd Apt 2DBrooklyn, NY 10301
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Richmond County
+
+    SUBLOCALITY: Staten Island
+
+    STREET_NAME: Castleton Corners
+
+    LONG_NAME: 1100
+
+    FORMATTED_ADDRESS: 1100 Clove Rd #2d, Staten Island, NY 10301, USA
+
+    LATITUDE: 40.6189484
+
+    LONGITUDE: -74.1071576

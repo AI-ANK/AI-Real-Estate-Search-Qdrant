@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Westside Columbus
+
+    TYPE: Condo for sale
+
+    PRICE: 3300000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1652.0
+
+    ADDRESS: 303 E 77th St Ph C
+
+    STATE: New York, NY 10075
+
+    MAIN_ADDRESS: 303 E 77th St Ph CNew York, NY 10075
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: East 77th Street
+
+    FORMATTED_ADDRESS: 303 E 77th St, New York, NY 10075, USA
+
+    LATITUDE: 40.7720149
+
+    LONGITUDE: -73.9555341

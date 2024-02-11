@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran East Side
+
+    TYPE: House for sale
+
+    PRICE: 19500000
+
+    BEDS: 5
+
+    BATH: 7.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 118 E 83rd St
+
+    STATE: New York, NY 10028
+
+    MAIN_ADDRESS: 118 E 83rd StNew York, NY 10028
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: East 83rd Street
+
+    FORMATTED_ADDRESS: 118 E 83rd St, New York, NY 10028, USA
+
+    LATITUDE: 40.7776535
+
+    LONGITUDE: -73.957772

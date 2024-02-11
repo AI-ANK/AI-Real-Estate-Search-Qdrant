@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Top Nest Inc
+
+    TYPE: House for sale
+
+    PRICE: 549000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1148.0
+
+    ADDRESS: 609 Thomas S Boyland St
+
+    STATE: Brooklyn, NY 11212
+
+    MAIN_ADDRESS: 609 Thomas S Boyland StBrooklyn, NY 11212
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Thomas S Boyland Street
+
+    FORMATTED_ADDRESS: 609 Thomas S Boyland St, Brooklyn, NY 11212, USA
+
+    LATITUDE: 40.6658988
+
+    LONGITUDE: -73.9124097

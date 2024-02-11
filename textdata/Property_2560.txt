@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Brooklyn Heights
+
+    TYPE: House for sale
+
+    PRICE: 695000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1926.0
+
+    ADDRESS: 696 Autumn Ave
+
+    STATE: Brooklyn, NY 11208
+
+    MAIN_ADDRESS: 696 Autumn AveBrooklyn, NY 11208
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Autumn Avenue
+
+    FORMATTED_ADDRESS: 696 Autumn Ave, Brooklyn, NY 11208, USA
+
+    LATITUDE: 40.6713641
+
+    LONGITUDE: -73.8673475

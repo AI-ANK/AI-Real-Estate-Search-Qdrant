@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Co-op for sale
+
+    PRICE: 1950000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1265.0
+
+    ADDRESS: 1270 Fifth Ave Unit 2T
+
+    STATE: Manhattan, NY 10029
+
+    MAIN_ADDRESS: 1270 Fifth Ave Unit 2TManhattan, NY 10029
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 1270
+
+    FORMATTED_ADDRESS: 1270 5th Ave Apt 2s, New York, NY 10029, USA
+
+    LATITUDE: 40.7957847
+
+    LONGITUDE: -73.9498024

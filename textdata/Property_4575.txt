@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Winzone Realty Inc
+
+    TYPE: Condo for sale
+
+    PRICE: 550000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 712.0
+
+    ADDRESS: 61-05 39th Ave Unit G3
+
+    STATE: Woodside, NY 11377
+
+    MAIN_ADDRESS: 61-05 39th Ave Unit G3Woodside, NY 11377
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 6105
+
+    FORMATTED_ADDRESS: 6105 39th Ave Apt G3, Flushing, NY 11377, USA
+
+    LATITUDE: 40.7472923
+
+    LONGITUDE: -73.902194

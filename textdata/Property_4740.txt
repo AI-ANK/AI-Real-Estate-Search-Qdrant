@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by ACG REALTY NY LLC
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 699000
+
+    BEDS: 5
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2090.0
+
+    ADDRESS: 723 E 211th St
+
+    STATE: Bronx, NY 10467
+
+    MAIN_ADDRESS: 723 E 211th StBronx, NY 10467
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: East 211th Street
+
+    FORMATTED_ADDRESS: 723 E 211th St, Bronx, NY 10467, USA
+
+    LATITUDE: 40.8777409
+
+    LONGITUDE: -73.8647117

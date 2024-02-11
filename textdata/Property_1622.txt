@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Anthony T Crews Real Estate LLC
+
+    TYPE: House for sale
+
+    PRICE: 575000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1604.0
+
+    ADDRESS: 190 Crystal St
+
+    STATE: Brooklyn, NY 11208
+
+    MAIN_ADDRESS: 190 Crystal StBrooklyn, NY 11208
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Crystal Street
+
+    FORMATTED_ADDRESS: 190 Crystal St, Brooklyn, NY 11208, USA
+
+    LATITUDE: 40.6740009
+
+    LONGITUDE: -73.8743074

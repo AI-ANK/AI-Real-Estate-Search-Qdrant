@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: House for sale
+
+    PRICE: 950000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1308.0
+
+    ADDRESS: 133 W 195th St
+
+    STATE: Bronx, NY 10468
+
+    MAIN_ADDRESS: 133 W 195th StBronx, NY 10468
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: West 195th Street
+
+    FORMATTED_ADDRESS: 133 W 195th St, Bronx, NY 10468, USA
+
+    LATITUDE: 40.8704967
+
+    LONGITUDE: -73.9011805

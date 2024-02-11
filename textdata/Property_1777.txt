@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by E-House Realty of Avenue U Inc
+
+    TYPE: House for sale
+
+    PRICE: 850000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1152.0
+
+    ADDRESS: 51 Shiloh St
+
+    STATE: Staten Island, NY 10314
+
+    MAIN_ADDRESS: 51 Shiloh StStaten Island, NY 10314
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Shiloh Street
+
+    FORMATTED_ADDRESS: 51 Shiloh St, Staten Island, NY 10314, USA
+
+    LATITUDE: 40.5903464
+
+    LONGITUDE: -74.1630923

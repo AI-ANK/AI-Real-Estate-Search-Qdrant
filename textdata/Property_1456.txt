@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 575 Madison Ave
+
+    TYPE: House for sale
+
+    PRICE: 999999
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1198.0
+
+    ADDRESS: 333 E 91st St Apt 10B
+
+    STATE: New York, NY 10128
+
+    MAIN_ADDRESS: 333 E 91st St Apt 10BNew York, NY 10128
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 333
+
+    FORMATTED_ADDRESS: 333 E 91st St #10b, New York, NY 10128, USA
+
+    LATITUDE: 40.7803429
+
+    LONGITUDE: -73.947266

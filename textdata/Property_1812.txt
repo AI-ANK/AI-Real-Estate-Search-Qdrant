@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Nest Seekers International, Midtown
+
+    TYPE: Condo for sale
+
+    PRICE: 1479000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 36 Gramercy Park E Apt 5S
+
+    STATE: New York, NY 10003
+
+    MAIN_ADDRESS: 36 Gramercy Park E Apt 5SNew York, NY 10003
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 36
+
+    FORMATTED_ADDRESS: 36 Gramercy Park E #5s, New York, NY 10003, USA
+
+    LATITUDE: 40.7375223
+
+    LONGITUDE: -73.9849542

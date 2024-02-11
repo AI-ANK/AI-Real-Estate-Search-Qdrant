@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Michael A. Kaufman, Licensed Real Estate Broker
+
+    TYPE: Condo for sale
+
+    PRICE: 1250000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 855.0
+
+    ADDRESS: 389 E 89th St Apt 15A
+
+    STATE: New York, NY 10128
+
+    MAIN_ADDRESS: 389 E 89th St Apt 15ANew York, NY 10128
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 389
+
+    FORMATTED_ADDRESS: 389 E 89th St #15a, New York, NY 10128, USA
+
+    LATITUDE: 40.7791164
+
+    LONGITUDE: -73.9482901

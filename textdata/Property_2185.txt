@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 3544 Johnson Ave
+
+    TYPE: Co-op for sale
+
+    PRICE: 250000
+
+    BEDS: 1
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 740.0
+
+    ADDRESS: 6300 Riverdale Ave Apt 5K
+
+    STATE: Bronx, NY 10471
+
+    MAIN_ADDRESS: 6300 Riverdale Ave Apt 5KBronx, NY 10471
+
+    ADMINISTRATIVE_AREA_LEVEL_2: 10471
+
+    LOCALITY: United States
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: 6300
+
+    FORMATTED_ADDRESS: 6300 Riverdale Ave #5k, Bronx, NY 10471, USA
+
+    LATITUDE: 40.9127295
+
+    LONGITUDE: -73.9022248

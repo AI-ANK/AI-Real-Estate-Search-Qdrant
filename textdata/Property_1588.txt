@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX 1st Choice
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1630000
+
+    BEDS: 11
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 42-32 81st St
+
+    STATE: Elmhurst, NY 11373
+
+    MAIN_ADDRESS: 42-32 81st StElmhurst, NY 11373
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 81st Street
+
+    FORMATTED_ADDRESS: 42-32 81st St, Elmhurst, NY 11373, USA
+
+    LATITUDE: 40.7424172
+
+    LONGITUDE: -73.8842849

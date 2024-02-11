@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stvns Forest Hill
+
+    TYPE: Co-op for sale
+
+    PRICE: 695000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 35-25 77th St Unit A16
+
+    STATE: Jackson Heights, NY 11372
+
+    MAIN_ADDRESS: 35-25 77th St Unit A16Jackson Heights, NY 11372
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 35-25
+
+    FORMATTED_ADDRESS: Berkeley Apartments, 35-25 77th St, Flushing, NY 11372, USA
+
+    LATITUDE: 40.7507718
+
+    LONGITUDE: -73.8890157

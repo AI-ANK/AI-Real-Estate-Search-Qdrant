@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by BHHS New York Properties
+
+    TYPE: Co-op for sale
+
+    PRICE: 1075000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1250.0
+
+    ADDRESS: 310 Lexington Ave Unit 10FG
+
+    STATE: New York, NY 10016
+
+    MAIN_ADDRESS: 310 Lexington Ave Unit 10FGNew York, NY 10016
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 310
+
+    FORMATTED_ADDRESS: 310 Lexington Ave #10f, New York, NY 10016, USA
+
+    LATITUDE: 40.7487581
+
+    LONGITUDE: -73.9782786

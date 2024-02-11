@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Silverside Realty LLC
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 799000
+
+    BEDS: 6
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2000.0
+
+    ADDRESS: 4568 Carpenter Ave
+
+    STATE: Bronx, NY 10470
+
+    MAIN_ADDRESS: 4568 Carpenter AveBronx, NY 10470
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Carpenter Avenue
+
+    FORMATTED_ADDRESS: 4568 Carpenter Ave, Bronx, NY 10470, USA
+
+    LATITUDE: 40.9027802
+
+    LONGITUDE: -73.8540588

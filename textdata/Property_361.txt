@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Liberty Chateau Realty Inc
+
+    TYPE: Foreclosure
+
+    PRICE: 479000
+
+    BEDS: 6
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 3100.0
+
+    ADDRESS: 16 Renfrew Pl
+
+    STATE: Staten Island, NY 10303
+
+    MAIN_ADDRESS: 16 Renfrew PlStaten Island, NY 10303
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Renfrew Place
+
+    FORMATTED_ADDRESS: 16 Renfrew Pl, Staten Island, NY 10303, USA
+
+    LATITUDE: 40.6268305
+
+    LONGITUDE: -74.1471405

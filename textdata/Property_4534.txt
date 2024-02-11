@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens - 445 Park Avenue
+
+    TYPE: Condo for sale
+
+    PRICE: 15900000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 3698.0
+
+    ADDRESS: 1 Central Park S Unit 1901
+
+    STATE: Manhattan, NY 10019
+
+    MAIN_ADDRESS: 1 Central Park S Unit 1901Manhattan, NY 10019
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 1
+
+    FORMATTED_ADDRESS: 1 Central Park S #1901, New York, NY 10019, USA
+
+    LATITUDE: 40.7646573
+
+    LONGITUDE: -73.9744439

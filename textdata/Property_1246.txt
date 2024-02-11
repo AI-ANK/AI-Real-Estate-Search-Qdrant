@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Prestige Homes Ny Inc
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1399000
+
+    BEDS: 6
+
+    BATH: 5.0
+
+    PROPERTYSQFT: 2500.0
+
+    ADDRESS: 128-17 143rd St
+
+    STATE: Jamaica, NY 11436
+
+    MAIN_ADDRESS: 128-17 143rd StJamaica, NY 11436
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 143rd Street
+
+    FORMATTED_ADDRESS: 128-17 143rd St, Jamaica, NY 11436, USA
+
+    LATITUDE: 40.6717866
+
+    LONGITUDE: -73.7955639

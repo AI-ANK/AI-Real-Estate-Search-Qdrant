@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Arash Real Estate & Mgmt
+
+    TYPE: Pending
+
+    PRICE: 749000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 7 Van Nostrand Ct
+
+    STATE: Little Neck, NY 11362
+
+    MAIN_ADDRESS: 7 Van Nostrand CtLittle Neck, NY 11362
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Van Nostrand Court
+
+    FORMATTED_ADDRESS: 7 Van Nostrand Ct, Little Neck, NY 11362, USA
+
+    LATITUDE: 40.7714035
+
+    LONGITUDE: -73.733393

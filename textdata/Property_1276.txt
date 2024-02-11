@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 575 Madison Ave
+
+    TYPE: Co-op for sale
+
+    PRICE: 300000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 315 E 77th St Apt 4D
+
+    STATE: New York, NY 10075
+
+    MAIN_ADDRESS: 315 E 77th St Apt 4DNew York, NY 10075
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 315
+
+    FORMATTED_ADDRESS: 315 E 77th St #4d, New York, NY 10075, USA
+
+    LATITUDE: 40.7719231
+
+    LONGITUDE: -73.955157

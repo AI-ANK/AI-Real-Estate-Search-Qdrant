@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 549000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 60 E 9th St Apt 214
+
+    STATE: Manhattan, NY 10003
+
+    MAIN_ADDRESS: 60 E 9th St Apt 214Manhattan, NY 10003
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 60
+
+    FORMATTED_ADDRESS: 60 E 9th St Apt 214, New York, NY 10003, USA
+
+    LATITUDE: 40.7310966
+
+    LONGITUDE: -73.9926682

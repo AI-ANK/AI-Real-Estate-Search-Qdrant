@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Edge
+
+    TYPE: Pending
+
+    PRICE: 675000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1444.0
+
+    ADDRESS: 46 Coddington Ave
+
+    STATE: Staten Island, NY 10306
+
+    MAIN_ADDRESS: 46 Coddington AveStaten Island, NY 10306
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Coddington Avenue
+
+    FORMATTED_ADDRESS: 46 Coddington Ave, Staten Island, NY 10306, USA
+
+    LATITUDE: 40.5712145
+
+    LONGITUDE: -74.1132944

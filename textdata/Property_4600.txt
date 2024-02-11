@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Block & Lot Real Estate SVC
+
+    TYPE: Co-op for sale
+
+    PRICE: 488888
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 42-65 Kissena Blvd Unit 131
+
+    STATE: Flushing, NY 11355
+
+    MAIN_ADDRESS: 42-65 Kissena Blvd Unit 131Flushing, NY 11355
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 4265
+
+    FORMATTED_ADDRESS: 4265 Kissena Blvd Apt 131, Flushing, NY 11355, USA
+
+    LATITUDE: 40.7560103
+
+    LONGITUDE: -73.8249483

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - Bayside
+
+    TYPE: Pending
+
+    PRICE: 970000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 47-08 248th St
+
+    STATE: Little Neck, NY 11362
+
+    MAIN_ADDRESS: 47-08 248th StLittle Neck, NY 11362
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 248th Street
+
+    FORMATTED_ADDRESS: 47-08 248th St, Flushing, NY 11362, USA
+
+    LATITUDE: 40.764944
+
+    LONGITUDE: -73.738236

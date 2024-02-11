@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Bergen Basin Realty Llc
+
+    TYPE: Pending
+
+    PRICE: 699000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 1619.0
+
+    ADDRESS: 1379 E 93rd St
+
+    STATE: Brooklyn, NY 11236
+
+    MAIN_ADDRESS: 1379 E 93rd StBrooklyn, NY 11236
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: East 93rd Street
+
+    FORMATTED_ADDRESS: 1379 E 93rd St, Brooklyn, NY 11236, USA
+
+    LATITUDE: 40.6376197
+
+    LONGITUDE: -73.898975

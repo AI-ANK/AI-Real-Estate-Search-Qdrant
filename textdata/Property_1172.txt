@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 550000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1250.0
+
+    ADDRESS: 2041 5th Ave Apt 2B
+
+    STATE: Manhattan, NY 10035
+
+    MAIN_ADDRESS: 2041 5th Ave Apt 2BManhattan, NY 10035
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 2041
+
+    FORMATTED_ADDRESS: 2041 5th Ave #2b, New York, NY 10027, USA
+
+    LATITUDE: 40.8071957
+
+    LONGITUDE: -73.941821

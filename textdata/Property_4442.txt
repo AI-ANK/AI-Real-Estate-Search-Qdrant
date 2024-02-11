@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 575 Madison Ave
+
+    TYPE: Condo for sale
+
+    PRICE: 5250000
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2950.0
+
+    ADDRESS: 60 E 55th St Ph 3
+
+    STATE: New York, NY 10022
+
+    MAIN_ADDRESS: 60 E 55th St Ph 3New York, NY 10022
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 60
+
+    FORMATTED_ADDRESS: 60 E 55th St #3, New York, NY 10022, USA
+
+    LATITUDE: 40.760525
+
+    LONGITUDE: -73.972787

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Serhant
+
+    TYPE: Co-op for sale
+
+    PRICE: 8995000
+
+    BEDS: 5
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 5500.0
+
+    ADDRESS: 38 W 26th St Unit 9TH
+
+    STATE: New York, NY 10010
+
+    MAIN_ADDRESS: 38 W 26th St Unit 9THNew York, NY 10010
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 38
+
+    FORMATTED_ADDRESS: 38 W 26th St #9d, New York, NY 10010, USA
+
+    LATITUDE: 40.7442721
+
+    LONGITUDE: -73.9907621

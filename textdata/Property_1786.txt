@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by CENTURY 21 MK Realty
+
+    TYPE: Condo for sale
+
+    PRICE: 699000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1779.0
+
+    ADDRESS: 1515 W 4th St Apt 1R
+
+    STATE: Brooklyn, NY 11204
+
+    MAIN_ADDRESS: 1515 W 4th St Apt 1RBrooklyn, NY 11204
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Bensonhurst
+
+    LONG_NAME: 1515
+
+    FORMATTED_ADDRESS: 1515 W 4th St #1r, Brooklyn, NY 11204, USA
+
+    LATITUDE: 40.6104361
+
+    LONGITUDE: -73.9779065

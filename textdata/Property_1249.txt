@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Realty Greater Nassau
+
+    TYPE: Co-op for sale
+
+    PRICE: 719000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1440.0
+
+    ADDRESS: 110-11 72nd Ave Unit 4B
+
+    STATE: Forest Hills, NY 11375
+
+    MAIN_ADDRESS: 110-11 72nd Ave Unit 4BForest Hills, NY 11375
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Forest Hills
+
+    LONG_NAME: 110-11
+
+    FORMATTED_ADDRESS: 110-11 72nd Ave #4b, Forest Hills, NY 11375, USA
+
+    LATITUDE: 40.721289
+
+    LONGITUDE: -73.8403901

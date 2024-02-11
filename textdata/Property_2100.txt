@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by ISLA - Island Advantage Realty LLC
+
+    TYPE: Townhouse for sale
+
+    PRICE: 1299900
+
+    BEDS: 6
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2504.0
+
+    ADDRESS: 13 Lake Ave
+
+    STATE: Staten Island, NY 10303
+
+    MAIN_ADDRESS: 13 Lake AveStaten Island, NY 10303
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Lake Avenue
+
+    FORMATTED_ADDRESS: 13 Lake Ave, Staten Island, NY 10303, USA
+
+    LATITUDE: 40.636611
+
+    LONGITUDE: -74.150256

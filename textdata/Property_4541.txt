@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran East Side
+
+    TYPE: Condo for sale
+
+    PRICE: 5400000
+
+    BEDS: 3
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2515.0
+
+    ADDRESS: 300 E 55th St Ph B
+
+    STATE: New York, NY 10022
+
+    MAIN_ADDRESS: 300 E 55th St Ph BNew York, NY 10022
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: East 55th Street
+
+    FORMATTED_ADDRESS: 300 E 55th St, New York, NY 10022, USA
+
+    LATITUDE: 40.7577445
+
+    LONGITUDE: -73.9660563

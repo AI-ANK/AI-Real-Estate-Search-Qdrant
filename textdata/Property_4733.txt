@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran SoHo
+
+    TYPE: House for sale
+
+    PRICE: 21000000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 93 Grand St
+
+    STATE: New York, NY 10013
+
+    MAIN_ADDRESS: 93 Grand StNew York, NY 10013
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: Grand Street
+
+    FORMATTED_ADDRESS: 93 Grand St, New York, NY 10013, USA
+
+    LATITUDE: 40.7213862
+
+    LONGITUDE: -74.0021063

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Winzone Realty Inc
+
+    TYPE: Condo for sale
+
+    PRICE: 1175000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 168-46 Powells Cove Blvd Unit 21
+
+    STATE: Whitestone, NY 11357
+
+    MAIN_ADDRESS: 168-46 Powells Cove Blvd Unit 21Whitestone, NY 11357
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 16846
+
+    FORMATTED_ADDRESS: 16846 Powells Cove Blvd #21, Flushing, NY 11357, USA
+
+    LATITUDE: 40.7932921
+
+    LONGITUDE: -73.7951779

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 3544 Johnson Ave
+
+    TYPE: House for sale
+
+    PRICE: 879000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1000.0
+
+    ADDRESS: 1175 York Ave Apt 7B
+
+    STATE: New York, NY 10065
+
+    MAIN_ADDRESS: 1175 York Ave Apt 7BNew York, NY 10065
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 1175
+
+    FORMATTED_ADDRESS: 1175 York Ave #7b, New York, NY 10065, USA
+
+    LATITUDE: 40.7615369
+
+    LONGITUDE: -73.9579786

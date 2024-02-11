@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Gotham Properties R E Llc
+
+    TYPE: Co-op for sale
+
+    PRICE: 200000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 700.0
+
+    ADDRESS: 1200 E 53rd St Apt 7V
+
+    STATE: Brooklyn, NY 11234
+
+    MAIN_ADDRESS: 1200 E 53rd St Apt 7VBrooklyn, NY 11234
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Flatlands
+
+    LONG_NAME: 1200
+
+    FORMATTED_ADDRESS: 1200 E 53rd St #7b, Brooklyn, NY 11234, USA
+
+    LATITUDE: 40.6297036
+
+    LONGITUDE: -73.9255951

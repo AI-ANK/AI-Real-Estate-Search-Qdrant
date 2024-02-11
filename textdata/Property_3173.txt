@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by KELLER WILLIAMS REALTY LANDMARK II
+
+    TYPE: Townhouse for sale
+
+    PRICE: 399985
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1148.0
+
+    ADDRESS: 923 Rockaway Ave
+
+    STATE: Brownville, NY 11212
+
+    MAIN_ADDRESS: 923 Rockaway AveBrownville, NY 11212
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Rockaway Avenue
+
+    FORMATTED_ADDRESS: 923 Rockaway Ave, Brooklyn, NY 11212, USA
+
+    LATITUDE: 40.6570214
+
+    LONGITUDE: -73.9072202

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by E Realty International Corp
+
+    TYPE: House for sale
+
+    PRICE: 899000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1200.0
+
+    ADDRESS: 22-15 Whitestone Expy
+
+    STATE: Whitestone, NY 11357
+
+    MAIN_ADDRESS: 22-15 Whitestone ExpyWhitestone, NY 11357
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Whitestone Expressway
+
+    FORMATTED_ADDRESS: 22-15 Whitestone Expy, Whitestone, NY 11357, USA
+
+    LATITUDE: 40.7791608
+
+    LONGITUDE: -73.8257555

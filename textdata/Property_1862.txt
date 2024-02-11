@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Geo Real Estate Group Inc
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 999000
+
+    BEDS: 3
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 590 Maple St
+
+    STATE: Brooklyn, NY 11203
+
+    MAIN_ADDRESS: 590 Maple StBrooklyn, NY 11203
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Maple Street
+
+    FORMATTED_ADDRESS: 590 Maple St, Brooklyn, NY 11203, USA
+
+    LATITUDE: 40.661217
+
+    LONGITUDE: -73.9412284

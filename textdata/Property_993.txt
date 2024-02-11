@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Yoreevo
+
+    TYPE: Co-op for sale
+
+    PRICE: 999000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 139 W 85th St Apt 3
+
+    STATE: New York, NY 10024
+
+    MAIN_ADDRESS: 139 W 85th St Apt 3New York, NY 10024
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 139
+
+    FORMATTED_ADDRESS: 139 W 85th St Apartment 3, New York, NY 10024, USA
+
+    LATITUDE: 40.7866659
+
+    LONGITUDE: -73.974142

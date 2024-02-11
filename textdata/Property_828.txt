@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by SIMPLON ENTERPRISES INC
+
+    TYPE: House for sale
+
+    PRICE: 560000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 815 Havemeyer Ave
+
+    STATE: Bronx, NY 10473
+
+    MAIN_ADDRESS: 815 Havemeyer AveBronx, NY 10473
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Havemeyer Avenue
+
+    FORMATTED_ADDRESS: 815 Havemeyer Ave, Bronx, NY 10473, USA
+
+    LATITUDE: 40.824234
+
+    LONGITUDE: -73.84638

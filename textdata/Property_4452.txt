@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 1995 Broadway
+
+    TYPE: Co-op for sale
+
+    PRICE: 3585000
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2237.0
+
+    ADDRESS: 344 W 72nd St Apt 609
+
+    STATE: New York, NY 10023
+
+    MAIN_ADDRESS: 344 W 72nd St Apt 609New York, NY 10023
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 344
+
+    FORMATTED_ADDRESS: 344 W 72nd St #609, New York, NY 10023, USA
+
+    LATITUDE: 40.7803967
+
+    LONGITUDE: -73.9864464

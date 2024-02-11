@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 3544 Johnson Ave
+
+    TYPE: House for sale
+
+    PRICE: 968000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2550.0
+
+    ADDRESS: 1705 Hone Ave
+
+    STATE: Bronx, NY 10461
+
+    MAIN_ADDRESS: 1705 Hone AveBronx, NY 10461
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Hone Avenue
+
+    FORMATTED_ADDRESS: 1705 Hone Ave, Bronx, NY 10461, USA
+
+    LATITUDE: 40.8475868
+
+    LONGITUDE: -73.853875

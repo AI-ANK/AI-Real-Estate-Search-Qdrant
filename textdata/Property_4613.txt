@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Charles H. Greenthal Property
+
+    TYPE: Co-op for sale
+
+    PRICE: 329000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 681.0
+
+    ADDRESS: 27110 Grand Central Pkwy Apt 6J
+
+    STATE: Floral Park, NY 11005
+
+    MAIN_ADDRESS: 27110 Grand Central Pkwy Apt 6JFloral Park, NY 11005
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Queens Village
+
+    LONG_NAME: 27110
+
+    FORMATTED_ADDRESS: 27110 Grand Central Pkwy #6j, Queens Village, NY 11005, USA
+
+    LATITUDE: 40.7564761
+
+    LONGITUDE: -73.7212008

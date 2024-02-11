@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Edge
+
+    TYPE: House for sale
+
+    PRICE: 2800000
+
+    BEDS: 4
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 8333.0
+
+    ADDRESS: 25 Copperleaf Ter
+
+    STATE: Staten Island, NY 10304
+
+    MAIN_ADDRESS: 25 Copperleaf TerStaten Island, NY 10304
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Copperleaf Terrace
+
+    FORMATTED_ADDRESS: 25 Copperleaf Terrace, Staten Island, NY 10304, USA
+
+    LATITUDE: 40.5861193
+
+    LONGITUDE: -74.1075476

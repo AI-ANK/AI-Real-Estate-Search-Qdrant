@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Homefinders of SI Inc.
+
+    TYPE: House for sale
+
+    PRICE: 699000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1008.0
+
+    ADDRESS: 402 Grandview Ave
+
+    STATE: Staten Island, NY 10303
+
+    MAIN_ADDRESS: 402 Grandview AveStaten Island, NY 10303
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Grandview Avenue
+
+    FORMATTED_ADDRESS: 402 Grandview Ave, Staten Island, NY 10303, USA
+
+    LATITUDE: 40.6306551
+
+    LONGITUDE: -74.1655807

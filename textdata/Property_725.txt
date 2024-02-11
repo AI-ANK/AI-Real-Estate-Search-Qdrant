@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Park Slope
+
+    TYPE: Condo for sale
+
+    PRICE: 699000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1766.0
+
+    ADDRESS: 124-11 Rockaway Beach Blvd # 1C
+
+    STATE: Queens, NY 11694
+
+    MAIN_ADDRESS: 124-11 Rockaway Beach Blvd # 1CQueens, NY 11694
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Rockaway Park
+
+    LONG_NAME: 124- 15
+
+    FORMATTED_ADDRESS: 124- 15 Rockaway Beach Blvd #1B, Rockaway Park, NY 11694, USA
+
+    LATITUDE: 40.5771307
+
+    LONGITUDE: -73.8443159

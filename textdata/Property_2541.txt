@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by TOP NEST INC
+
+    TYPE: Co-op for sale
+
+    PRICE: 564900
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 769.0
+
+    ADDRESS: 215 Adams St Apt 10B
+
+    STATE: Brooklyn, NY 11201
+
+    MAIN_ADDRESS: 215 Adams St Apt 10BBrooklyn, NY 11201
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Downtown Brooklyn
+
+    LONG_NAME: 215
+
+    FORMATTED_ADDRESS: 215 Adams St #10b, Brooklyn, NY 11201, USA
+
+    LATITUDE: 40.697478
+
+    LONGITUDE: -73.988335

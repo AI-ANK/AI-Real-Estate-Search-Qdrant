@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Realty Staten Island
+
+    TYPE: Townhouse for sale
+
+    PRICE: 495000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1280.0
+
+    ADDRESS: 75 N Burgher Ave
+
+    STATE: Staten Island, NY 10310
+
+    MAIN_ADDRESS: 75 N Burgher AveStaten Island, NY 10310
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: North Burgher Avenue
+
+    FORMATTED_ADDRESS: 75 N Burgher Ave, Staten Island, NY 10310, USA
+
+    LATITUDE: 40.6396483
+
+    LONGITUDE: -74.1151985

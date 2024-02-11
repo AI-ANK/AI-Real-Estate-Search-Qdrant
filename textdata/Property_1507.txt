@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by NEUHAUS REALTY INC.
+
+    TYPE: House for sale
+
+    PRICE: 675000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1222.0
+
+    ADDRESS: 7 Norwood Ct
+
+    STATE: Staten Island, NY 10304
+
+    MAIN_ADDRESS: 7 Norwood CtStaten Island, NY 10304
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Norwood Court
+
+    FORMATTED_ADDRESS: 7 Norwood Ct, Staten Island, NY 10304, USA
+
+    LATITUDE: 40.6277171
+
+    LONGITUDE: -74.0860272

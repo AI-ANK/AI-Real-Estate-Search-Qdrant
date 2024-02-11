@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens - 43 North Moore Street
+
+    TYPE: Co-op for sale
+
+    PRICE: 639000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 42-22 Ketcham St Unit B8B9
+
+    STATE: Queens, NY 11373
+
+    MAIN_ADDRESS: 42-22 Ketcham St Unit B8B9Queens, NY 11373
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Ketcham Street
+
+    FORMATTED_ADDRESS: 42-22 Ketcham St, Elmhurst, NY 11373, USA
+
+    LATITUDE: 40.7447145
+
+    LONGITUDE: -73.8835344

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by TRACEY REAL ESTATE
+
+    TYPE: House for sale
+
+    PRICE: 975000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1400.0
+
+    ADDRESS: 2115 Kenmore Ct
+
+    STATE: Brooklyn, NY 11235
+
+    MAIN_ADDRESS: 2115 Kenmore CtBrooklyn, NY 11235
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Kenmore Court
+
+    FORMATTED_ADDRESS: 2115 Kenmore Ct, Brooklyn, NY 11235, USA
+
+    LATITUDE: 40.5856655
+
+    LONGITUDE: -73.9472452

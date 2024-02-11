@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by ProBase Real Estate
+
+    TYPE: Pending
+
+    PRICE: 958000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2259.0
+
+    ADDRESS: 50 Tyndale St
+
+    STATE: Staten Island, NY 10312
+
+    MAIN_ADDRESS: 50 Tyndale StStaten Island, NY 10312
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Tyndale Street
+
+    FORMATTED_ADDRESS: 50 Tyndale St, Staten Island, NY 10312, USA
+
+    LATITUDE: 40.5292852
+
+    LONGITUDE: -74.1685622

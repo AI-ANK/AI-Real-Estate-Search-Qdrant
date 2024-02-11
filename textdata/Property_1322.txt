@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by 5 Boro Realty Corp
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1299999
+
+    BEDS: 8
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 3448.0
+
+    ADDRESS: 1210 E 72nd St
+
+    STATE: Brooklyn, NY 11234
+
+    MAIN_ADDRESS: 1210 E 72nd StBrooklyn, NY 11234
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: East 72nd Street
+
+    FORMATTED_ADDRESS: 1210 E 72nd St, Brooklyn, NY 11234, USA
+
+    LATITUDE: 40.6259736
+
+    LONGITUDE: -73.9141206

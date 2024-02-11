@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Park Slope
+
+    TYPE: Condo for sale
+
+    PRICE: 450000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 494.0
+
+    ADDRESS: 4907 4th Ave Apt 3C
+
+    STATE: Brooklyn, NY 11220
+
+    MAIN_ADDRESS: 4907 4th Ave Apt 3CBrooklyn, NY 11220
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Sunset Park
+
+    LONG_NAME: 4907
+
+    FORMATTED_ADDRESS: 4907 4th Ave #3c, Brooklyn, NY 11220, USA
+
+    LATITUDE: 40.646643
+
+    LONGITUDE: -74.011966

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Real Broker NY LLC
+
+    TYPE: Contingent
+
+    PRICE: 614900
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1495.0
+
+    ADDRESS: 30 Cunard Ave
+
+    STATE: Staten Island, NY 10304
+
+    MAIN_ADDRESS: 30 Cunard AveStaten Island, NY 10304
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Cunard Avenue
+
+    FORMATTED_ADDRESS: 30 Cunard Ave, Staten Island, NY 10304, USA
+
+    LATITUDE: 40.6142391
+
+    LONGITUDE: -74.0884134

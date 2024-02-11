@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sotheby's International Realty - Downtown Manhattan
+
+    TYPE: Condo for sale
+
+    PRICE: 1599000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1094.0
+
+    ADDRESS: 135 E 54th St Apt 14M
+
+    STATE: New York, NY 10022
+
+    MAIN_ADDRESS: 135 E 54th St Apt 14MNew York, NY 10022
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 135
+
+    FORMATTED_ADDRESS: 135 E 54th St #14b, New York, NY 10022, USA
+
+    LATITUDE: 40.7592821
+
+    LONGITUDE: -73.9707592

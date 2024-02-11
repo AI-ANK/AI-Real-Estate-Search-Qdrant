@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: NoBroker
+
+    TYPE: Co-op for sale
+
+    PRICE: 430000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 2 Tudor City Pl Apt 4OS
+
+    STATE: New York, NY 10017
+
+    MAIN_ADDRESS: 2 Tudor City Pl Apt 4OSNew York, NY 10017
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 2
+
+    FORMATTED_ADDRESS: 2 Tudor City Pl #4d, New York, NY 10017, USA
+
+    LATITUDE: 40.7482797
+
+    LONGITUDE: -73.9715473

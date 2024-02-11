@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams NYC
+
+    TYPE: Condo for sale
+
+    PRICE: 495000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 766.0
+
+    ADDRESS: 69 Bennett Ave Apt 509
+
+    STATE: New York, NY 10033
+
+    MAIN_ADDRESS: 69 Bennett Ave Apt 509New York, NY 10033
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 69
+
+    FORMATTED_ADDRESS: 69 Bennett Ave Apt 509, New York, NY 10033, USA
+
+    LATITUDE: 40.8525968
+
+    LONGITUDE: -73.9352912

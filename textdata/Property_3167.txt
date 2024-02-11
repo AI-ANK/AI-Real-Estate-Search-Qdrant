@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams NYC
+
+    TYPE: Co-op for sale
+
+    PRICE: 150000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 98-34 63rd Dr Unit 6GG
+
+    STATE: Queens, NY 11374
+
+    MAIN_ADDRESS: 98-34 63rd Dr Unit 6GGQueens, NY 11374
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Rego Park
+
+    LONG_NAME: 98-34
+
+    FORMATTED_ADDRESS: 98-34 63rd Dr #6g, Rego Park, NY 11374, USA
+
+    LATITUDE: 40.731183
+
+    LONGITUDE: -73.857622

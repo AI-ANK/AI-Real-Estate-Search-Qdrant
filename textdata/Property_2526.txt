@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by E Realty International Corp
+
+    TYPE: Condo for sale
+
+    PRICE: 579000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 750.0
+
+    ADDRESS: 140-31 Cherry Ave Unit 9A
+
+    STATE: Flushing, NY 11355
+
+    MAIN_ADDRESS: 140-31 Cherry Ave Unit 9AFlushing, NY 11355
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 140-31
+
+    FORMATTED_ADDRESS: 140-31 Cherry Ave #9a, Flushing, NY 11355, USA
+
+    LATITUDE: 40.75467
+
+    LONGITUDE: -73.821996

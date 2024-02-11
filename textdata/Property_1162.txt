@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 2250000
+
+    BEDS: 4
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 225 Central Park W Unit 422423
+
+    STATE: Manhattan, NY 10024
+
+    MAIN_ADDRESS: 225 Central Park W Unit 422423Manhattan, NY 10024
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: Central Park West
+
+    FORMATTED_ADDRESS: 225 Central Park W, New York, NY 10024, USA
+
+    LATITUDE: 40.7830893
+
+    LONGITUDE: -73.9713177

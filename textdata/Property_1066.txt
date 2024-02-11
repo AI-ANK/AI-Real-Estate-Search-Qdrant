@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Red Door Realty Group
+
+    TYPE: Townhouse for sale
+
+    PRICE: 549000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1150.0
+
+    ADDRESS: 51 Forest Ln
+
+    STATE: Staten Island, NY 10307
+
+    MAIN_ADDRESS: 51 Forest LnStaten Island, NY 10307
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Forest Lane
+
+    FORMATTED_ADDRESS: 51 Forest Ln, Staten Island, NY 10307, USA
+
+    LATITUDE: 40.5032035
+
+    LONGITUDE: -74.2388518

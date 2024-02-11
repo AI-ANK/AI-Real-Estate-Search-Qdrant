@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Robert Defalco Realty, Inc.
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 778000
+
+    BEDS: 4
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1300.0
+
+    ADDRESS: 131 Darnell Ln
+
+    STATE: Staten Island, NY 10309
+
+    MAIN_ADDRESS: 131 Darnell LnStaten Island, NY 10309
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Darnell Lane
+
+    FORMATTED_ADDRESS: 131 Darnell Ln, Staten Island, NY 10309, USA
+
+    LATITUDE: 40.5358271
+
+    LONGITUDE: -74.2226504

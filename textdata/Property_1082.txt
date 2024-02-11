@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 169999
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 112-30 Northern Blvd Unit 4G
+
+    STATE: Corona, NY 11368
+
+    MAIN_ADDRESS: 112-30 Northern Blvd Unit 4GCorona, NY 11368
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Corona
+
+    LONG_NAME: 112-30
+
+    FORMATTED_ADDRESS: 112-30 Northern Blvd #4b, Corona, NY 11368, USA
+
+    LATITUDE: 40.7579027
+
+    LONGITUDE: -73.8562374

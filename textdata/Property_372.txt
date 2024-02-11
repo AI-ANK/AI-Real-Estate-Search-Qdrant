@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Berkshire Hathaway HomeServices Cangiano Estates
+
+    TYPE: Condo for sale
+
+    PRICE: 235000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 860.0
+
+    ADDRESS: 162 Arlo Rd Unit A
+
+    STATE: Staten Island, NY 10301
+
+    MAIN_ADDRESS: 162 Arlo Rd Unit AStaten Island, NY 10301
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Richmond County
+
+    SUBLOCALITY: Staten Island
+
+    STREET_NAME: Mid Island
+
+    LONG_NAME: 162
+
+    FORMATTED_ADDRESS: 162 Arlo Rd # A, Staten Island, NY 10301, USA
+
+    LATITUDE: 40.6192765
+
+    LONGITUDE: -74.09515

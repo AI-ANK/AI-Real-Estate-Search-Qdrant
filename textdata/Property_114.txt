@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sowae Corp
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 346000
+
+    BEDS: 5
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 103-12 104th St
+
+    STATE: Ozone Park, NY 11417
+
+    MAIN_ADDRESS: 103-12 104th StOzone Park, NY 11417
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 104th Street
+
+    FORMATTED_ADDRESS: 103-12 104th St, Jamaica, NY 11417, USA
+
+    LATITUDE: 40.6837891
+
+    LONGITUDE: -73.8381042

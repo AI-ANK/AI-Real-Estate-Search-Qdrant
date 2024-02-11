@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 575000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 850.0
+
+    ADDRESS: 118 E 60th St Apt 4B
+
+    STATE: Manhattan, NY 10022
+
+    MAIN_ADDRESS: 118 E 60th St Apt 4BManhattan, NY 10022
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 118
+
+    FORMATTED_ADDRESS: 118 E 60th St #4b, New York, NY 10022, USA
+
+    LATITUDE: 40.7630774
+
+    LONGITUDE: -73.9685002

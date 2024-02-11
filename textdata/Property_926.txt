@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Home Global Realty
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 799000
+
+    BEDS: 4
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1344.0
+
+    ADDRESS: 8519 Glenwood Rd
+
+    STATE: Brooklyn, NY 11236
+
+    MAIN_ADDRESS: 8519 Glenwood RdBrooklyn, NY 11236
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Glenwood Road
+
+    FORMATTED_ADDRESS: 8519 Glenwood Rd, Brooklyn, NY 11236, USA
+
+    LATITUDE: 40.6398093
+
+    LONGITUDE: -73.9109383

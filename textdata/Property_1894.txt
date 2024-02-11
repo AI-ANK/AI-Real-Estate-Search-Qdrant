@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Chelsea/Flatiron
+
+    TYPE: Condo for sale
+
+    PRICE: 5000000
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2162.0
+
+    ADDRESS: 71 Park Ave # 10AB
+
+    STATE: New York, NY 10016
+
+    MAIN_ADDRESS: 71 Park Ave # 10ABNew York, NY 10016
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 71
+
+    FORMATTED_ADDRESS: 71 Park Ave #10a-B, New York, NY 10016, USA
+
+    LATITUDE: 40.749728
+
+    LONGITUDE: -73.978916

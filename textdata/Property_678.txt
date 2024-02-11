@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by New Heights Realty
+
+    TYPE: Co-op for sale
+
+    PRICE: 279000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 550.0
+
+    ADDRESS: 57 Park Terrace Ter W Unit 3F
+
+    STATE: New York, NY 10034
+
+    MAIN_ADDRESS: 57 Park Terrace Ter W Unit 3FNew York, NY 10034
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 57
+
+    FORMATTED_ADDRESS: 57 Park Terrace W #3f, New York, NY 10034, USA
+
+    LATITUDE: 40.8712698
+
+    LONGITUDE: -73.9178529

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Century 21 Awaye Realty
+
+    TYPE: Contingent
+
+    PRICE: 748000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1592.0
+
+    ADDRESS: 476 Darlington Ave
+
+    STATE: Staten Island, NY 10309
+
+    MAIN_ADDRESS: 476 Darlington AveStaten Island, NY 10309
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Darlington Avenue
+
+    FORMATTED_ADDRESS: 476 Darlington Ave, Staten Island, NY 10309, USA
+
+    LATITUDE: 40.5342218
+
+    LONGITUDE: -74.2016301

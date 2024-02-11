@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - Port Washington
+
+    TYPE: Co-op for sale
+
+    PRICE: 299000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 193-15 37 Ave Unit 177
+
+    STATE: Flushing, NY 11358
+
+    MAIN_ADDRESS: 193-15 37 Ave Unit 177Flushing, NY 11358
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 19315
+
+    FORMATTED_ADDRESS: 19315 37th Ave # 177, Flushing, NY 11358, USA
+
+    LATITUDE: 40.7626299
+
+    LONGITUDE: -73.78916

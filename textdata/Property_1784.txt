@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Bedford Stuyvesant
+
+    TYPE: Condo for sale
+
+    PRICE: 695000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 845.0
+
+    ADDRESS: 508A Lexington Ave # 2
+
+    STATE: Brooklyn, NY 11221
+
+    MAIN_ADDRESS: 508A Lexington Ave # 2Brooklyn, NY 11221
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Bedford-Stuyvesant
+
+    LONG_NAME: 508
+
+    FORMATTED_ADDRESS: 508 Lexington Ave #2, Brooklyn, NY 11221, USA
+
+    LATITUDE: 40.6886854
+
+    LONGITUDE: -73.9402301

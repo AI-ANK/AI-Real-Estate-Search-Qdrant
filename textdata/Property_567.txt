@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Nest Seekers International, Midtown
+
+    TYPE: House for sale
+
+    PRICE: 1250000
+
+    BEDS: 5
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 3427.0
+
+    ADDRESS: 148 Claypit Rd
+
+    STATE: Staten Island, NY 10309
+
+    MAIN_ADDRESS: 148 Claypit RdStaten Island, NY 10309
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Clay Pit Road
+
+    FORMATTED_ADDRESS: 148 Clay Pit Rd, Staten Island, NY 10309, USA
+
+    LATITUDE: 40.5395581
+
+    LONGITUDE: -74.2229079

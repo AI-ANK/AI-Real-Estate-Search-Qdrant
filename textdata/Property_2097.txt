@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: House for sale
+
+    PRICE: 3999500
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 1800 Grand Concourse
+
+    STATE: Bronx, NY 10457
+
+    MAIN_ADDRESS: 1800 Grand ConcourseBronx, NY 10457
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Grand Concourse
+
+    FORMATTED_ADDRESS: 1800 Grand Concourse, Bronx, NY 10457, USA
+
+    LATITUDE: 40.847049
+
+    LONGITUDE: -73.9080117

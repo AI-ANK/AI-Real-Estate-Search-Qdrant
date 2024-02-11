@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RITZ REALTY NY CORP.
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1850000
+
+    BEDS: 3
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 6704 21st Ave
+
+    STATE: Brooklyn, NY 11204
+
+    MAIN_ADDRESS: 6704 21st AveBrooklyn, NY 11204
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: 21st Avenue
+
+    FORMATTED_ADDRESS: 6704 21st Ave, Brooklyn, NY 11204, USA
+
+    LATITUDE: 40.6140608
+
+    LONGITUDE: -73.9853215

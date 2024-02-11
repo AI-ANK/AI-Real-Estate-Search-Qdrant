@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens - 100 Seventh Avenue
+
+    TYPE: Townhouse for sale
+
+    PRICE: 2050000
+
+    BEDS: 5
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 3000.0
+
+    ADDRESS: 26 Rutland Rd Unit Townhouse
+
+    STATE: Brooklyn, NY 11225
+
+    MAIN_ADDRESS: 26 Rutland Rd Unit TownhouseBrooklyn, NY 11225
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Rutland Road
+
+    FORMATTED_ADDRESS: 26 Rutland Rd, Brooklyn, NY 11225, USA
+
+    LATITUDE: 40.6586603
+
+    LONGITUDE: -73.9595973

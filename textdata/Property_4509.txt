@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Nest Seekers International, Long Island
+
+    TYPE: Condo for sale
+
+    PRICE: 580000
+
+    BEDS: 1
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 109-9 15th Ave
+
+    STATE: Queens, NY 11356
+
+    MAIN_ADDRESS: 109-9 15th AveQueens, NY 11356
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 15th Avenue
+
+    FORMATTED_ADDRESS: 109-9 15th Ave, College Point, NY 11356, USA
+
+    LATITUDE: 40.7841619
+
+    LONGITUDE: -73.8570221

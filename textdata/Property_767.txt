@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Han Tang Realty Inc.
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 879000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1998.0
+
+    ADDRESS: 2026 Mayflower Ave
+
+    STATE: Bronx, NY 10461
+
+    MAIN_ADDRESS: 2026 Mayflower AveBronx, NY 10461
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Mayflower Avenue
+
+    FORMATTED_ADDRESS: 2026 Mayflower Ave, Bronx, NY 10461, USA
+
+    LATITUDE: 40.8527278
+
+    LONGITUDE: -73.833506

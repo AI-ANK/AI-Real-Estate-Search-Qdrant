@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX City Square
+
+    TYPE: House for sale
+
+    PRICE: 1500000
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2100.0
+
+    ADDRESS: 182 Kensington St
+
+    STATE: Brooklyn, NY 11235
+
+    MAIN_ADDRESS: 182 Kensington StBrooklyn, NY 11235
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Kensington Street
+
+    FORMATTED_ADDRESS: 182 Kensington St, Brooklyn, NY 11235, USA
+
+    LATITUDE: 40.5786182
+
+    LONGITUDE: -73.9420211

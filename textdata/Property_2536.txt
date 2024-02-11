@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Park Avenue South
+
+    TYPE: Townhouse for sale
+
+    PRICE: 25000000
+
+    BEDS: 6
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 29 E 63rd St
+
+    STATE: New York, NY 10065
+
+    MAIN_ADDRESS: 29 E 63rd StNew York, NY 10065
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: East 63rd Street
+
+    FORMATTED_ADDRESS: 29 E 63rd St, New York, NY 10065, USA
+
+    LATITUDE: 40.7659809
+
+    LONGITUDE: -73.9689839

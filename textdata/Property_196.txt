@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Martino Realty Group
+
+    TYPE: House for sale
+
+    PRICE: 649999
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1440.0
+
+    ADDRESS: 219 Slater Blvd
+
+    STATE: Staten Island, NY 10305
+
+    MAIN_ADDRESS: 219 Slater BlvdStaten Island, NY 10305
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Slater Boulevard
+
+    FORMATTED_ADDRESS: 219 Slater Blvd, Staten Island, NY 10305, USA
+
+    LATITUDE: 40.5803331
+
+    LONGITUDE: -74.0885167

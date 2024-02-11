@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Tom Crimmins Realty, Ltd.
+
+    TYPE: Condo for sale
+
+    PRICE: 239500
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 864.0
+
+    ADDRESS: 50 Fort Pl Unit 2G
+
+    STATE: Staten Island, NY 10301
+
+    MAIN_ADDRESS: 50 Fort Pl Unit 2GStaten Island, NY 10301
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Richmond County
+
+    SUBLOCALITY: Staten Island
+
+    STREET_NAME: Mid Island
+
+    LONG_NAME: 50
+
+    FORMATTED_ADDRESS: 50 Fort Pl #2, Staten Island, NY 10301, USA
+
+    LATITUDE: 40.6414367
+
+    LONGITUDE: -74.0802253

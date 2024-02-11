@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Neuhaus Realty, Inc.
+
+    TYPE: Contingent
+
+    PRICE: 639000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1360.0
+
+    ADDRESS: 521 Leverett Ave
+
+    STATE: Staten Island, NY 10308
+
+    MAIN_ADDRESS: 521 Leverett AveStaten Island, NY 10308
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Leverett Avenue
+
+    FORMATTED_ADDRESS: 521 Leverett Ave, Staten Island, NY 10308, USA
+
+    LATITUDE: 40.5557386
+
+    LONGITUDE: -74.1635281

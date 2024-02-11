@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Realty Connect USA LLC
+
+    TYPE: Co-op for sale
+
+    PRICE: 318000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 748.0
+
+    ADDRESS: 40-40 203rd St Unit 5B
+
+    STATE: Bayside, NY 11361
+
+    MAIN_ADDRESS: 40-40 203rd St Unit 5BBayside, NY 11361
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 40-40
+
+    FORMATTED_ADDRESS: 40-40 203rd St #5b, Flushing, NY 11361, USA
+
+    LATITUDE: 40.7604949
+
+    LONGITUDE: -73.7815883

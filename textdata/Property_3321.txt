@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sotheby's International Realty - East Side Manhattan Brokerage
+
+    TYPE: Co-op for sale
+
+    PRICE: 1995000
+
+    BEDS: 5
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2400.0
+
+    ADDRESS: 520 E 90th St # 2GLM
+
+    STATE: New York, NY 10128
+
+    MAIN_ADDRESS: 520 E 90th St # 2GLMNew York, NY 10128
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: East 90th Street
+
+    FORMATTED_ADDRESS: 520 E 90th St, New York, NY 10128, USA
+
+    LATITUDE: 40.7779975
+
+    LONGITUDE: -73.9445342

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Homefinders of SI Inc.
+
+    TYPE: House for sale
+
+    PRICE: 749000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1332.0
+
+    ADDRESS: 206 Watchogue Rd
+
+    STATE: Staten Island, NY 10314
+
+    MAIN_ADDRESS: 206 Watchogue RdStaten Island, NY 10314
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Watchogue Road
+
+    FORMATTED_ADDRESS: 206 Watchogue Rd, Staten Island, NY 10314, USA
+
+    LATITUDE: 40.6155772
+
+    LONGITUDE: -74.1364517

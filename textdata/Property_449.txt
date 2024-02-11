@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Robert Defalco Realty, Inc.
+
+    TYPE: Contingent
+
+    PRICE: 589000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2310.0
+
+    ADDRESS: 68 Davis Ave
+
+    STATE: Staten Island, NY 10310
+
+    MAIN_ADDRESS: 68 Davis AveStaten Island, NY 10310
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Davis Avenue
+
+    FORMATTED_ADDRESS: 68 Davis Ave, Staten Island, NY 10310, USA
+
+    LATITUDE: 40.6426635
+
+    LONGITUDE: -74.1108512

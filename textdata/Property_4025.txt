@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Hometown Properties
+
+    TYPE: House for sale
+
+    PRICE: 1049000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1683.0
+
+    ADDRESS: 467 82nd St
+
+    STATE: Brooklyn, NY 11209
+
+    MAIN_ADDRESS: 467 82nd StBrooklyn, NY 11209
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: 82nd Street
+
+    FORMATTED_ADDRESS: 467 82nd St, Brooklyn, NY 11209, USA
+
+    LATITUDE: 40.6249039
+
+    LONGITUDE: -74.0253417

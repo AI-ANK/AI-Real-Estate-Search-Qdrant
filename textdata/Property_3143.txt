@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - Bayside
+
+    TYPE: Pending
+
+    PRICE: 995000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 45-53 169 St
+
+    STATE: Flushing, NY 11358
+
+    MAIN_ADDRESS: 45-53 169 StFlushing, NY 11358
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 169th Street
+
+    FORMATTED_ADDRESS: 45-53 169th St, Flushing, NY 11358, USA
+
+    LATITUDE: 40.7543498
+
+    LONGITUDE: -73.797977

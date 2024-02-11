@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Weichert Realtors Evolution Group
+
+    TYPE: House for sale
+
+    PRICE: 640000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1110.0
+
+    ADDRESS: 58 Elmwood Ave
+
+    STATE: Staten Island, NY 10308
+
+    MAIN_ADDRESS: 58 Elmwood AveStaten Island, NY 10308
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Elmwood Avenue
+
+    FORMATTED_ADDRESS: 58 Elmwood Ave, Staten Island, NY 10308, USA
+
+    LATITUDE: 40.542861
+
+    LONGITUDE: -74.154978

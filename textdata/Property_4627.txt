@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran East Side
+
+    TYPE: Condo for sale
+
+    PRICE: 14950000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 4017.0
+
+    ADDRESS: 180 E 88th St Apt 46
+
+    STATE: New York, NY 10128
+
+    MAIN_ADDRESS: 180 E 88th St Apt 46New York, NY 10128
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 180
+
+    FORMATTED_ADDRESS: 180 E 88th St Apt 46, New York, NY 10128, USA
+
+    LATITUDE: 40.780024
+
+    LONGITUDE: -73.9535283

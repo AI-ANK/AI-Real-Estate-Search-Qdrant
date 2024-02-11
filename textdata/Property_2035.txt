@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Coldwell Banker American Homes
+
+    TYPE: Co-op for sale
+
+    PRICE: 199000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 150-14 Village Rd Unit 93GC
+
+    STATE: Jamaica, NY 11432
+
+    MAIN_ADDRESS: 150-14 Village Rd Unit 93GCJamaica, NY 11432
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Jamaica
+
+    LONG_NAME: 150-14
+
+    FORMATTED_ADDRESS: 150-14 Village Rd #93, Queens, NY 11435, USA
+
+    LATITUDE: 40.7166575
+
+    LONGITUDE: -73.8111887

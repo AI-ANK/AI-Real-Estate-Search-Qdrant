@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sowae Corp
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 560000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 819 E 22nd St
+
+    STATE: Brooklyn, NY 11210
+
+    MAIN_ADDRESS: 819 E 22nd StBrooklyn, NY 11210
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: East 22nd Street
+
+    FORMATTED_ADDRESS: 819 E 22nd St, Brooklyn, NY 11210, USA
+
+    LATITUDE: 40.632221
+
+    LONGITUDE: -73.955309

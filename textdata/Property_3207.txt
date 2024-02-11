@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Park Slope
+
+    TYPE: Condo for sale
+
+    PRICE: 2250000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 353 3rd St Apt 5B
+
+    STATE: Brooklyn, NY 11215
+
+    MAIN_ADDRESS: 353 3rd St Apt 5BBrooklyn, NY 11215
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Park Slope
+
+    LONG_NAME: 353
+
+    FORMATTED_ADDRESS: 353 3rd St. #5b, Brooklyn, NY 11215, USA
+
+    LATITUDE: 40.6731905
+
+    LONGITUDE: -73.9835999

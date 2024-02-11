@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by La Rosa Realty New York Llc
+
+    TYPE: Pending
+
+    PRICE: 119000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 86-16 60th Ave Unit 1C
+
+    STATE: Elmhurst, NY 11373
+
+    MAIN_ADDRESS: 86-16 60th Ave Unit 1CElmhurst, NY 11373
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Elmhurst
+
+    LONG_NAME: 86-16
+
+    FORMATTED_ADDRESS: 86-16 60th Ave #1c, Elmhurst, NY 11373, USA
+
+    LATITUDE: 40.7306154
+
+    LONGITUDE: -73.8731934

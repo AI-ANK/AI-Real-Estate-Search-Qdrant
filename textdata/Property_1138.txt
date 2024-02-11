@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Link Ny Realty
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1699000
+
+    BEDS: 9
+
+    BATH: 5.0
+
+    PROPERTYSQFT: 5500.0
+
+    ADDRESS: 3179 Rochambeau Ave
+
+    STATE: Bronx, NY 10467
+
+    MAIN_ADDRESS: 3179 Rochambeau AveBronx, NY 10467
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Rochambeau Avenue
+
+    FORMATTED_ADDRESS: 3179 Rochambeau Ave, Bronx, NY 10467, USA
+
+    LATITUDE: 40.8754624
+
+    LONGITUDE: -73.8807502

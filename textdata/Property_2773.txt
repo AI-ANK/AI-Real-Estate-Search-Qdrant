@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by G G Caleca Realty
+
+    TYPE: House for sale
+
+    PRICE: 650000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 1218.0
+
+    ADDRESS: 23 Jackson St
+
+    STATE: Staten Island, NY 10304
+
+    MAIN_ADDRESS: 23 Jackson StStaten Island, NY 10304
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Jackson Street
+
+    FORMATTED_ADDRESS: 23 Jackson St, Staten Island, NY 10304, USA
+
+    LATITUDE: 40.6306934
+
+    LONGITUDE: -74.0794192

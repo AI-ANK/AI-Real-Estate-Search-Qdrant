@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Kremer Realty Ii, Inc
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 650000
+
+    BEDS: 6
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 3106 Mickle Ave
+
+    STATE: Bronx, NY 10469
+
+    MAIN_ADDRESS: 3106 Mickle AveBronx, NY 10469
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Mickle Avenue
+
+    FORMATTED_ADDRESS: 3106 Mickle Ave, Bronx, NY 10469, USA
+
+    LATITUDE: 40.8719262
+
+    LONGITUDE: -73.8423808

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Morris Park Realty Group
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1215000
+
+    BEDS: 13
+
+    BATH: 7.0
+
+    PROPERTYSQFT: 5250.0
+
+    ADDRESS: 941 Croes Ave
+
+    STATE: Bronx, NY 10473
+
+    MAIN_ADDRESS: 941 Croes AveBronx, NY 10473
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Croes Avenue
+
+    FORMATTED_ADDRESS: 941 Croes Ave, Bronx, NY 10473, USA
+
+    LATITUDE: 40.823763
+
+    LONGITUDE: -73.8695469

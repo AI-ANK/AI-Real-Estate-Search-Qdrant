@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by E House Realty & Mgt. Inc.
+
+    TYPE: House for sale
+
+    PRICE: 629900
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1332.0
+
+    ADDRESS: 184 Cannon Ave
+
+    STATE: Staten Island, NY 10314
+
+    MAIN_ADDRESS: 184 Cannon AveStaten Island, NY 10314
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Cannon Avenue
+
+    FORMATTED_ADDRESS: 184 Cannon Ave, Staten Island, NY 10314, USA
+
+    LATITUDE: 40.5939996
+
+    LONGITUDE: -74.1910619

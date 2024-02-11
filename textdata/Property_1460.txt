@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Townhouse for sale
+
+    PRICE: 7950000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 3397.0
+
+    ADDRESS: 20 Jones St
+
+    STATE: Manhattan, NY 10014
+
+    MAIN_ADDRESS: 20 Jones StManhattan, NY 10014
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: Jones Street
+
+    FORMATTED_ADDRESS: 20 Jones St, New York, NY 10014, USA
+
+    LATITUDE: 40.7319485
+
+    LONGITUDE: -74.0025061

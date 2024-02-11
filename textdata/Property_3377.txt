@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sotheby's International Realty - East Side Manhattan Brokerage
+
+    TYPE: Co-op for sale
+
+    PRICE: 4650000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 980 Fifth Ave Apt 8B
+
+    STATE: New York, NY 10075
+
+    MAIN_ADDRESS: 980 Fifth Ave Apt 8BNew York, NY 10075
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 980
+
+    FORMATTED_ADDRESS: 980 5th Ave #8b, New York, NY 10075, USA
+
+    LATITUDE: 40.7770753
+
+    LONGITUDE: -73.963133

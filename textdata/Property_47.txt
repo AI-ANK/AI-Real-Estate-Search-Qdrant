@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Weichert Realtors TMT Group
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 825000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 32-39 Jordan St
+
+    STATE: Flushing, NY 11358
+
+    MAIN_ADDRESS: 32-39 Jordan StFlushing, NY 11358
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Jordan Street
+
+    FORMATTED_ADDRESS: 32-39 Jordan St, Flushing, NY 11358, USA
+
+    LATITUDE: 40.768457
+
+    LONGITUDE: -73.789417

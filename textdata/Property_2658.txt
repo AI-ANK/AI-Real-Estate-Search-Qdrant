@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: NoBroker
+
+    TYPE: Condo for sale
+
+    PRICE: 999000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1187.0
+
+    ADDRESS: 133-38 Sanford Ave Unit 16D
+
+    STATE: Flushing, NY 11355
+
+    MAIN_ADDRESS: 133-38 Sanford Ave Unit 16DFlushing, NY 11355
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 13338
+
+    FORMATTED_ADDRESS: 13338 Sanford Ave # 16b, Flushing, NY 11355, USA
+
+    LATITUDE: 40.7560001
+
+    LONGITUDE: -73.8293002

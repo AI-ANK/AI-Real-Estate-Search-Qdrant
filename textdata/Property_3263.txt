@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by EXIT REALTY PROFESSIONALS
+
+    TYPE: House for sale
+
+    PRICE: 729000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1854.0
+
+    ADDRESS: 3126 Mermaid Ave
+
+    STATE: Brooklyn, NY 11224
+
+    MAIN_ADDRESS: 3126 Mermaid AveBrooklyn, NY 11224
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Mermaid Avenue
+
+    FORMATTED_ADDRESS: 3126 Mermaid Ave, Brooklyn, NY 11224, USA
+
+    LATITUDE: 40.5749619
+
+    LONGITUDE: -73.9982799

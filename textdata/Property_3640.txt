@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Co-op for sale
+
+    PRICE: 499000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1200.0
+
+    ADDRESS: 1100 Grand Concourse Apt 2F
+
+    STATE: Bronx, NY 10456
+
+    MAIN_ADDRESS: 1100 Grand Concourse Apt 2FBronx, NY 10456
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: 3G
+
+    LONG_NAME: 1100
+
+    FORMATTED_ADDRESS: 1100 Grand Concourse #2f, Bronx, NY 10456, USA
+
+    LATITUDE: 40.831991
+
+    LONGITUDE: -73.919124

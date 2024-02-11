@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 1995 Broadway
+
+    TYPE: Condo for sale
+
+    PRICE: 499500
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 401 E 60th St Apt 5P
+
+    STATE: New York, NY 10022
+
+    MAIN_ADDRESS: 401 E 60th St Apt 5PNew York, NY 10022
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 401
+
+    FORMATTED_ADDRESS: 401 E 60th St #5b, New York, NY 10022, USA
+
+    LATITUDE: 40.7603031
+
+    LONGITUDE: -73.9610497

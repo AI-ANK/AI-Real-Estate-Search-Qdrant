@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Townhouse for sale
+
+    PRICE: 1195000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2625.0
+
+    ADDRESS: 449 Classon Ave
+
+    STATE: Brooklyn, NY 11238
+
+    MAIN_ADDRESS: 449 Classon AveBrooklyn, NY 11238
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Classon Avenue
+
+    FORMATTED_ADDRESS: 449 Classon Ave, Brooklyn, NY 11238, USA
+
+    LATITUDE: 40.685396
+
+    LONGITUDE: -73.959061

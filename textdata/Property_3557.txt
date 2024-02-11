@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Jamie & Connie Real Estate Grp
+
+    TYPE: Co-op for sale
+
+    PRICE: 416000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 950.0
+
+    ADDRESS: 38-15 149th St Unit 2J
+
+    STATE: Flushing, NY 11354
+
+    MAIN_ADDRESS: 38-15 149th St Unit 2JFlushing, NY 11354
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 38-15
+
+    FORMATTED_ADDRESS: 38-15 149th St #2j, Flushing, NY 11354, USA
+
+    LATITUDE: 40.763716
+
+    LONGITUDE: -73.816271

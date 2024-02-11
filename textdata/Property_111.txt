@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Compass Realty Central Inc.
+
+    TYPE: House for sale
+
+    PRICE: 694000
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1360.0
+
+    ADDRESS: 364 Armstrong Ave
+
+    STATE: Staten Island, NY 10308
+
+    MAIN_ADDRESS: 364 Armstrong AveStaten Island, NY 10308
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Armstrong Avenue
+
+    FORMATTED_ADDRESS: 364 Armstrong Ave, Staten Island, NY 10308, USA
+
+    LATITUDE: 40.5423126
+
+    LONGITUDE: -74.1555672

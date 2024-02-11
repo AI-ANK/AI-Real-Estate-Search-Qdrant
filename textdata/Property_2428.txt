@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Coldwell Banker Warburg
+
+    TYPE: Condo for sale
+
+    PRICE: 7750000
+
+    BEDS: 3
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2855.0
+
+    ADDRESS: 279 Central Park W Units 3 & 4B
+
+    STATE: New York, NY 10024
+
+    MAIN_ADDRESS: 279 Central Park W Units 3 & 4BNew York, NY 10024
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: Central Park West
+
+    FORMATTED_ADDRESS: 279 Central Park W, New York, NY 10024, USA
+
+    LATITUDE: 40.7868701
+
+    LONGITUDE: -73.9686086

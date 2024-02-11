@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Doreen Greenwood Inc.
+
+    TYPE: House for sale
+
+    PRICE: 699000
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1280.0
+
+    ADDRESS: 20 Keen Ct
+
+    STATE: Brooklyn, NY 11229
+
+    MAIN_ADDRESS: 20 Keen CtBrooklyn, NY 11229
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Keen Court
+
+    FORMATTED_ADDRESS: 20 Keen Ct, Brooklyn, NY 11229, USA
+
+    LATITUDE: 40.5877725
+
+    LONGITUDE: -73.9253044

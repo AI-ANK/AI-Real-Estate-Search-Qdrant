@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Momentum Real Estate Llc
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 750000
+
+    BEDS: 2
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1530.0
+
+    ADDRESS: 90 Coale Ave
+
+    STATE: Staten Island, NY 10314
+
+    MAIN_ADDRESS: 90 Coale AveStaten Island, NY 10314
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Coale Avenue
+
+    FORMATTED_ADDRESS: 90 Coale Ave, Staten Island, NY 10314, USA
+
+    LATITUDE: 40.6132884
+
+    LONGITUDE: -74.128148

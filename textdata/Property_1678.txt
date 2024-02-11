@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Park Slope
+
+    TYPE: Condo for sale
+
+    PRICE: 649000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 804.0
+
+    ADDRESS: 326 Melrose St Apt 1A
+
+    STATE: Brooklyn, NY 11237
+
+    MAIN_ADDRESS: 326 Melrose St Apt 1ABrooklyn, NY 11237
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Bushwick
+
+    LONG_NAME: 326
+
+    FORMATTED_ADDRESS: 326 Melrose St #1a, Brooklyn, NY 11237, USA
+
+    LATITUDE: 40.7031635
+
+    LONGITUDE: -73.9282437

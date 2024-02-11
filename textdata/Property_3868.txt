@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Coldwell Banker Warburg
+
+    TYPE: Co-op for sale
+
+    PRICE: 995000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 164 E 72nd St Apt 13C
+
+    STATE: New York, NY 10021
+
+    MAIN_ADDRESS: 164 E 72nd St Apt 13CNew York, NY 10021
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 164
+
+    FORMATTED_ADDRESS: 164 E 72nd St #13c, New York, NY 10021, USA
+
+    LATITUDE: 40.7699248
+
+    LONGITUDE: -73.9617134

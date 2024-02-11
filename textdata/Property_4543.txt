@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Winzone Realty Inc
+
+    TYPE: Co-op for sale
+
+    PRICE: 240000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 750.0
+
+    ADDRESS: 102-17 64th Rd Unit 4F
+
+    STATE: Forest Hills, NY 11375
+
+    MAIN_ADDRESS: 102-17 64th Rd Unit 4FForest Hills, NY 11375
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Forest Hills
+
+    LONG_NAME: 102-17
+
+    FORMATTED_ADDRESS: 102-17 64th Rd #4f, Forest Hills, NY 11375, USA
+
+    LATITUDE: 40.7314663
+
+    LONGITUDE: -73.8527035

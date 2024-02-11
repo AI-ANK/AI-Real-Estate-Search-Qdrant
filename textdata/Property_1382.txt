@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens- 3531 Johnson Avenue
+
+    TYPE: Co-op for sale
+
+    PRICE: 429000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1450.0
+
+    ADDRESS: 3515 Henry Hudson Pkwy Apt 3D
+
+    STATE: Bronx, NY 10463
+
+    MAIN_ADDRESS: 3515 Henry Hudson Pkwy Apt 3DBronx, NY 10463
+
+    ADMINISTRATIVE_AREA_LEVEL_2: Bronx County
+
+    LOCALITY: The Bronx
+
+    SUBLOCALITY: Riverdale
+
+    STREET_NAME: Henry Hudson Parkway
+
+    LONG_NAME: The Briarcliff
+
+    FORMATTED_ADDRESS: The Briarcliff, 3515 Henry Hudson Pkwy #3d, Bronx, NY 10463, USA
+
+    LATITUDE: 40.8868607
+
+    LONGITUDE: -73.9129726

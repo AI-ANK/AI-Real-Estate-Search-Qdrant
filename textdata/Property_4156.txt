@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman  -111 Fifth Ave
+
+    TYPE: Co-op for sale
+
+    PRICE: 2395000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 3600.0
+
+    ADDRESS: 870 United Nations Plz Units 31 & 32F
+
+    STATE: New York, NY 10017
+
+    MAIN_ADDRESS: 870 United Nations Plz Units 31 & 32FNew York, NY 10017
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 870
+
+    FORMATTED_ADDRESS: 870 United Nations Plaza Apt 31b, New York, NY 10017, USA
+
+    LATITUDE: 40.7491926
+
+    LONGITUDE: -73.9695417

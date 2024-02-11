@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Rlty Landmark
+
+    TYPE: Pending
+
+    PRICE: 249000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 700.0
+
+    ADDRESS: 57-07 246th Cres Unit 2
+
+    STATE: Douglaston, NY 11362
+
+    MAIN_ADDRESS: 57-07 246th Cres Unit 2Douglaston, NY 11362
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Douglaston
+
+    LONG_NAME: 57-7
+
+    FORMATTED_ADDRESS: 57-7 246th Crescent #2, Douglaston, NY 11362, USA
+
+    LATITUDE: 40.7576008
+
+    LONGITUDE: -73.7355418

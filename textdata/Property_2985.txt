@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Edge
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1590000
+
+    BEDS: 7
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 1739.0
+
+    ADDRESS: 144 Bay 50th St
+
+    STATE: Brooklyn, NY 11214
+
+    MAIN_ADDRESS: 144 Bay 50th StBrooklyn, NY 11214
+
+    ADMINISTRATIVE_AREA_LEVEL_2: 11214
+
+    LOCALITY: United States
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Kings County
+
+    LONG_NAME: Bay 50th Street
+
+    FORMATTED_ADDRESS: 144 Bay 50th St, Brooklyn, NY 11214, USA
+
+    LATITUDE: 40.5859774
+
+    LONGITUDE: -73.9869629

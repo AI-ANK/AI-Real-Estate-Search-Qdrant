@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Distinguished Homes & Properties
+
+    TYPE: Condo for sale
+
+    PRICE: 200000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 613.0
+
+    ADDRESS: 1700 Metropolitan Ave Apt Mh
+
+    STATE: Bronx, NY 10462
+
+    MAIN_ADDRESS: 1700 Metropolitan Ave Apt MhBronx, NY 10462
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Metropolitan Avenue
+
+    FORMATTED_ADDRESS: 1700 Metropolitan Ave, Bronx, NY 10462, USA
+
+    LATITUDE: 40.840459
+
+    LONGITUDE: -73.8542045

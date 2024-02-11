@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Homefinders of SI Inc.
+
+    TYPE: Townhouse for sale
+
+    PRICE: 695000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 1793.0
+
+    ADDRESS: 370 Windham Loop
+
+    STATE: Staten Island, NY 10314
+
+    MAIN_ADDRESS: 370 Windham LoopStaten Island, NY 10314
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Windham Loop
+
+    FORMATTED_ADDRESS: 370 Windham Loop, Staten Island, NY 10314, USA
+
+    LATITUDE: 40.5763909
+
+    LONGITUDE: -74.1631382

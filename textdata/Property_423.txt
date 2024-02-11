@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by BKNY TROY AVENUE REALTY CORP
+
+    TYPE: House for sale
+
+    PRICE: 299000
+
+    BEDS: 5
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 219 Beach 44 St
+
+    STATE: Far Rockaway, NY 11691
+
+    MAIN_ADDRESS: 219 Beach 44 StFar Rockaway, NY 11691
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Beach 44th Street
+
+    FORMATTED_ADDRESS: 219 Beach 44th St, Far Rockaway, NY 11691, USA
+
+    LATITUDE: 40.593404
+
+    LONGITUDE: -73.775651

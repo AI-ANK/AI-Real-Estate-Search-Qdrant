@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Century Homes Realty Group LLC
+
+    TYPE: House for sale
+
+    PRICE: 1288000
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1696.0
+
+    ADDRESS: 9-22 119th St
+
+    STATE: College Point, NY 11356
+
+    MAIN_ADDRESS: 9-22 119th StCollege Point, NY 11356
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 119th Street
+
+    FORMATTED_ADDRESS: 9-22 119th St, Flushing, NY 11356, USA
+
+    LATITUDE: 40.788704
+
+    LONGITUDE: -73.84908

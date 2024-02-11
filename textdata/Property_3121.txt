@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by John Edwards Real Estate, Inc.
+
+    TYPE: Co-op for sale
+
+    PRICE: 185000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 500.0
+
+    ADDRESS: 4705 Henry Hudson Pkwy W Apt 4A
+
+    STATE: Bronx, NY 10471
+
+    MAIN_ADDRESS: 4705 Henry Hudson Pkwy W Apt 4ABronx, NY 10471
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: Hudson Hill
+
+    LONG_NAME: 4705
+
+    FORMATTED_ADDRESS: 4705 Henry Hudson Pkwy W #4a, Bronx, NY 10471, USA
+
+    LATITUDE: 40.8952914
+
+    LONGITUDE: -73.9089308

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Charles H. Greenthal Property
+
+    TYPE: Co-op for sale
+
+    PRICE: 1399000
+
+    BEDS: 3
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 1993.0
+
+    ADDRESS: 269-10 Grand Central Pkwy Unit 21W
+
+    STATE: Floral Park, NY 11005
+
+    MAIN_ADDRESS: 269-10 Grand Central Pkwy Unit 21WFloral Park, NY 11005
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Glen Oaks
+
+    LONG_NAME: 26910
+
+    FORMATTED_ADDRESS: 26910 Grand Central Pkwy Apt 21n, Queens, NY 11005, USA
+
+    LATITUDE: 40.7566899
+
+    LONGITUDE: -73.72075

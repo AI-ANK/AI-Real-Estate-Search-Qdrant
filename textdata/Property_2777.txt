@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran East Side
+
+    TYPE: House for sale
+
+    PRICE: 4900000
+
+    BEDS: 4
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 3100.0
+
+    ADDRESS: 157 E 78th St
+
+    STATE: New York, NY 10075
+
+    MAIN_ADDRESS: 157 E 78th StNew York, NY 10075
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: East 78th Street
+
+    FORMATTED_ADDRESS: 157 E 78th St, New York, NY 10075, USA
+
+    LATITUDE: 40.7742274
+
+    LONGITUDE: -73.9588396

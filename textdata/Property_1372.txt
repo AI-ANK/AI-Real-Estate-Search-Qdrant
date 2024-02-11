@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Metro Real Estate Inc
+
+    TYPE: Condo for sale
+
+    PRICE: 719000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 154-11 Riverside Dr Unit 17B
+
+    STATE: Whitestone, NY 11357
+
+    MAIN_ADDRESS: 154-11 Riverside Dr Unit 17BWhitestone, NY 11357
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Beechhurst
+
+    LONG_NAME: 15411
+
+    FORMATTED_ADDRESS: 15411 Riverside Dr # 17b, Beechhurst, NY 11357, USA
+
+    LATITUDE: 40.7964178
+
+    LONGITUDE: -73.8058096

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by CORE Group Marketing, LLC
+
+    TYPE: Condo for sale
+
+    PRICE: 2990000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1721.0
+
+    ADDRESS: 77 Greenwich St Apt 16A
+
+    STATE: New York, NY 10006
+
+    MAIN_ADDRESS: 77 Greenwich St Apt 16ANew York, NY 10006
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 77
+
+    FORMATTED_ADDRESS: 77 Greenwich St #16a, New York, NY 10006, USA
+
+    LATITUDE: 40.7074175
+
+    LONGITUDE: -74.0135328

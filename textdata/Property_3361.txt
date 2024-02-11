@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Serhant
+
+    TYPE: Co-op for sale
+
+    PRICE: 2950000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 1133 Park Ave Unit 12W
+
+    STATE: New York, NY 10128
+
+    MAIN_ADDRESS: 1133 Park Ave Unit 12WNew York, NY 10128
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 1133
+
+    FORMATTED_ADDRESS: 1133 Park Ave #12b, New York, NY 10128, USA
+
+    LATITUDE: 40.7831046
+
+    LONGITUDE: -73.9546035

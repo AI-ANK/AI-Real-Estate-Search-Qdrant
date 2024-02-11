@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Halo Realty Properties LLC
+
+    TYPE: Co-op for sale
+
+    PRICE: 210000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 550.0
+
+    ADDRESS: 9710 62nd Dr Apt 2N
+
+    STATE: Rego Park, NY 11374
+
+    MAIN_ADDRESS: 9710 62nd Dr Apt 2NRego Park, NY 11374
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Rego Park
+
+    LONG_NAME: 97-10
+
+    FORMATTED_ADDRESS: 97-10 62nd Dr #2b, Rego Park, NY 11374, USA
+
+    LATITUDE: 40.7323502
+
+    LONGITUDE: -73.8611654

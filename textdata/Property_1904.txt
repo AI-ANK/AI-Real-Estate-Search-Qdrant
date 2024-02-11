@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Motivated Access Realty Corp.
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 949000
+
+    BEDS: 7
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2745.0
+
+    ADDRESS: 431 Saint Lawrence Ave
+
+    STATE: Bronx, NY 10473
+
+    MAIN_ADDRESS: 431 Saint Lawrence AveBronx, NY 10473
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Saint Lawrence Avenue
+
+    FORMATTED_ADDRESS: 431 St Lawrence Ave, Bronx, NY 10473, USA
+
+    LATITUDE: 40.8136198
+
+    LONGITUDE: -73.8633277

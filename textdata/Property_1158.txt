@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Voro Llc
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 948000
+
+    BEDS: 7
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 194-08 116th Ave
+
+    STATE: Saint Albans, NY 11412
+
+    MAIN_ADDRESS: 194-08 116th AveSaint Albans, NY 11412
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 116th Avenue
+
+    FORMATTED_ADDRESS: 194-08 116th Ave, Jamaica, NY 11412, USA
+
+    LATITUDE: 40.694328
+
+    LONGITUDE: -73.7581979

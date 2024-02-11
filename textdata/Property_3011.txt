@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Voro Llc
+
+    TYPE: Co-op for sale
+
+    PRICE: 278000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 39-82 65th Pl Unit 4F
+
+    STATE: Woodside, NY 11377
+
+    MAIN_ADDRESS: 39-82 65th Pl Unit 4FWoodside, NY 11377
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 39-82
+
+    FORMATTED_ADDRESS: 39-82 65th Pl #4f, Queens, NY 11377, USA
+
+    LATITUDE: 40.7439196
+
+    LONGITUDE: -73.8992843

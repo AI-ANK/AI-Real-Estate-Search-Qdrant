@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Berkshire Hathaway
+
+    TYPE: Pending
+
+    PRICE: 1188000
+
+    BEDS: 7
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 86-17 105th St
+
+    STATE: Richmond Hill, NY 11418
+
+    MAIN_ADDRESS: 86-17 105th StRichmond Hill, NY 11418
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 105th Street
+
+    FORMATTED_ADDRESS: 86-17 105th St, Jamaica, NY 11418, USA
+
+    LATITUDE: 40.696809
+
+    LONGITUDE: -73.842496

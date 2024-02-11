@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran West Side Gallery
+
+    TYPE: For sale
+
+    PRICE: 2400000
+
+    BEDS: 6
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 6688.0
+
+    ADDRESS: 726 Nostrand Ave
+
+    STATE: Brooklyn, NY 11216
+
+    MAIN_ADDRESS: 726 Nostrand AveBrooklyn, NY 11216
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Nostrand Avenue
+
+    FORMATTED_ADDRESS: 726 Nostrand Ave., Brooklyn, NY 11216, USA
+
+    LATITUDE: 40.6738566
+
+    LONGITUDE: -73.9506085

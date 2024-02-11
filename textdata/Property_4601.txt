@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens - 445 Park Avenue
+
+    TYPE: Co-op for sale
+
+    PRICE: 600000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 1825 Madison Ave Apt 5F
+
+    STATE: Manhattan, NY 10035
+
+    MAIN_ADDRESS: 1825 Madison Ave Apt 5FManhattan, NY 10035
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 1825
+
+    FORMATTED_ADDRESS: 1825 Madison Ave #5b, New York, NY 10035, USA
+
+    LATITUDE: 40.8014385
+
+    LONGITUDE: -73.9434676

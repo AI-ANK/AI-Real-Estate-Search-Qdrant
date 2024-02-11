@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Drop Key Realty LLC
+
+    TYPE: House for sale
+
+    PRICE: 599000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1682.0
+
+    ADDRESS: 114-36 Sutter Ave
+
+    STATE: South Ozone Park, NY 11420
+
+    MAIN_ADDRESS: 114-36 Sutter AveSouth Ozone Park, NY 11420
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Sutter Avenue
+
+    FORMATTED_ADDRESS: 114-36 Sutter Ave, Jamaica, NY 11420, USA
+
+    LATITUDE: 40.6747343
+
+    LONGITUDE: -73.8239749

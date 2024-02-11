@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brooklyn Residential Real Estate Services Llc
+
+    TYPE: House for sale
+
+    PRICE: 897000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1664.0
+
+    ADDRESS: 1611 E 31st St
+
+    STATE: Brooklyn, NY 11234
+
+    MAIN_ADDRESS: 1611 E 31st StBrooklyn, NY 11234
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: East 31st Street
+
+    FORMATTED_ADDRESS: 1611 E 31st St, Brooklyn, NY 11234, USA
+
+    LATITUDE: 40.6137691
+
+    LONGITUDE: -73.9416652

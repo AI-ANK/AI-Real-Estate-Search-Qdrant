@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Reony.Com Ltd
+
+    TYPE: Condo for sale
+
+    PRICE: 329900
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 993.0
+
+    ADDRESS: 149-30 88 St Unit 4D
+
+    STATE: Howard Beach, NY 11414
+
+    MAIN_ADDRESS: 149-30 88 St Unit 4DHoward Beach, NY 11414
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Howard Beach
+
+    LONG_NAME: 149-30
+
+    FORMATTED_ADDRESS: 149-30 88th St #4d, Howard Beach, NY 11414, USA
+
+    LATITUDE: 40.6689793
+
+    LONGITUDE: -73.8476549

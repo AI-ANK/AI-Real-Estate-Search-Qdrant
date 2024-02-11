@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Park Slope
+
+    TYPE: Co-op for sale
+
+    PRICE: 2250000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2000.0
+
+    ADDRESS: 120 Prospect Park W # 2
+
+    STATE: Brooklyn, NY 11215
+
+    MAIN_ADDRESS: 120 Prospect Park W # 2Brooklyn, NY 11215
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Prospect Park West
+
+    FORMATTED_ADDRESS: 120 Prospect Park W, Brooklyn, NY 11215, USA
+
+    LATITUDE: 40.665708
+
+    LONGITUDE: -73.976288

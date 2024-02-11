@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by BEN BAY REALTY CO OF BAY RIDGE, LLC
+
+    TYPE: Co-op for sale
+
+    PRICE: 599000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 780.0
+
+    ADDRESS: 8901 Shore Rd Apt 7E
+
+    STATE: Brooklyn, NY 11209
+
+    MAIN_ADDRESS: 8901 Shore Rd Apt 7EBrooklyn, NY 11209
+
+    ADMINISTRATIVE_AREA_LEVEL_2: Kings County
+
+    LOCALITY: Brooklyn
+
+    SUBLOCALITY: Fort Hamilton
+
+    STREET_NAME: Shore Road
+
+    LONG_NAME: Harbor View Towers
+
+    FORMATTED_ADDRESS: Harbor View Towers, 8901 Shore Rd #7e, Brooklyn, NY 11209, USA
+
+    LATITUDE: 40.6230753
+
+    LONGITUDE: -74.0403471

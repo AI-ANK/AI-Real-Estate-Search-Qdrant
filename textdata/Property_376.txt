@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Better Homes and Gardens Real Estate Safari Realty
+
+    TYPE: House for sale
+
+    PRICE: 1250000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 3300.0
+
+    ADDRESS: 24 Gianna Ct
+
+    STATE: Staten Island, NY 10306
+
+    MAIN_ADDRESS: 24 Gianna CtStaten Island, NY 10306
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Gianna Court
+
+    FORMATTED_ADDRESS: 24 Gianna Ct, Staten Island, NY 10306, USA
+
+    LATITUDE: 40.5675492
+
+    LONGITUDE: -74.140764

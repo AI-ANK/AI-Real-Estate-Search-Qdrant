@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Real Broker NY LLC
+
+    TYPE: House for sale
+
+    PRICE: 1449999
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 21-89 47th St
+
+    STATE: Long Island City, NY 11105
+
+    MAIN_ADDRESS: 21-89 47th StLong Island City, NY 11105
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 47th Street
+
+    FORMATTED_ADDRESS: 21-89 47th St, Astoria, NY 11105, USA
+
+    LATITUDE: 40.7697773
+
+    LONGITUDE: -73.9014478

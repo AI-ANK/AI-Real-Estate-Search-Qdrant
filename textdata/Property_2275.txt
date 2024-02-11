@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Real Estate Professionals
+
+    TYPE: House for sale
+
+    PRICE: 995000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 800.0
+
+    ADDRESS: 1809 W 3rd St
+
+    STATE: Brooklyn, NY 11223
+
+    MAIN_ADDRESS: 1809 W 3rd StBrooklyn, NY 11223
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: West 3rd Street
+
+    FORMATTED_ADDRESS: 1809 W 3rd St, Brooklyn, NY 11223, USA
+
+    LATITUDE: 40.603454
+
+    LONGITUDE: -73.9756682

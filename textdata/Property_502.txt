@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 235000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 133 Beach 120th St Apt 2E
+
+    STATE: Queens, NY 11694
+
+    MAIN_ADDRESS: 133 Beach 120th St Apt 2EQueens, NY 11694
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Rockaway Park
+
+    LONG_NAME: 133
+
+    FORMATTED_ADDRESS: 133 Beach 120th St #2e, Rockaway Park, NY 11694, USA
+
+    LATITUDE: 40.576751
+
+    LONGITUDE: -73.8398387

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Ilite Realty Inc
+
+    TYPE: Condo for sale
+
+    PRICE: 789000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1230.0
+
+    ADDRESS: 40 Oceana Dr W Unit 1C
+
+    STATE: Brooklyn, NY 11235
+
+    MAIN_ADDRESS: 40 Oceana Dr W Unit 1CBrooklyn, NY 11235
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Brighton Beach
+
+    LONG_NAME: 40
+
+    FORMATTED_ADDRESS: 40 Oceana Dr W #1c, Brooklyn, NY 11235, USA
+
+    LATITUDE: 40.577533
+
+    LONGITUDE: -73.958513

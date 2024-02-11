@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Nexthome All Island
+
+    TYPE: House for sale
+
+    PRICE: 1300000
+
+    BEDS: 6
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2112.0
+
+    ADDRESS: 222-44 41st Rd
+
+    STATE: Bayside, NY 11361
+
+    MAIN_ADDRESS: 222-44 41st RdBayside, NY 11361
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 41st Road
+
+    FORMATTED_ADDRESS: 222-44 41st Rd, Flushing, NY 11361, USA
+
+    LATITUDE: 40.7645123
+
+    LONGITUDE: -73.7595302

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Condo for sale
+
+    PRICE: 1995000
+
+    BEDS: 2
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1838.0
+
+    ADDRESS: 298 E 2nd St Apt 4
+
+    STATE: Manhattan, NY 10009
+
+    MAIN_ADDRESS: 298 E 2nd St Apt 4Manhattan, NY 10009
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 298
+
+    FORMATTED_ADDRESS: 298 E 2nd St Apartment 4, New York, NY 10009, USA
+
+    LATITUDE: 40.720539
+
+    LONGITUDE: -73.979335

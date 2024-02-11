@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by EXP Realty
+
+    TYPE: Co-op for sale
+
+    PRICE: 459000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 950.0
+
+    ADDRESS: 142-05 Roosevelt Ave Unit 435
+
+    STATE: Flushing, NY 11354
+
+    MAIN_ADDRESS: 142-05 Roosevelt Ave Unit 435Flushing, NY 11354
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 14205
+
+    FORMATTED_ADDRESS: 14205 Roosevelt Ave Apt 435, Flushing, NY 11354, USA
+
+    LATITUDE: 40.7607942
+
+    LONGITUDE: -73.8258766

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Winzone Realty Inc
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 899000
+
+    BEDS: 4
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 104-40 Alstyne Ave
+
+    STATE: Corona, NY 11368
+
+    MAIN_ADDRESS: 104-40 Alstyne AveCorona, NY 11368
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Alstyne Avenue
+
+    FORMATTED_ADDRESS: 104-40 Alstyne Ave, Flushing, NY 11368, USA
+
+    LATITUDE: 40.7431111
+
+    LONGITUDE: -73.8574241

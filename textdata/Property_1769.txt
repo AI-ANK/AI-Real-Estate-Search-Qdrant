@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by BERGEN BASIN REALTY
+
+    TYPE: House for sale
+
+    PRICE: 1099000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2700.0
+
+    ADDRESS: 2164 E 72nd St
+
+    STATE: Brooklyn, NY 11234
+
+    MAIN_ADDRESS: 2164 E 72nd StBrooklyn, NY 11234
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: East 72nd Street
+
+    FORMATTED_ADDRESS: 2164 E 72nd St, Brooklyn, NY 11234, USA
+
+    LATITUDE: 40.6190264
+
+    LONGITUDE: -73.9056582

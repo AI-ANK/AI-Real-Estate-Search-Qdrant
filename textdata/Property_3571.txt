@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sotheby's International Realty - East Side Manhattan Brokerage
+
+    TYPE: Co-op for sale
+
+    PRICE: 44500000
+
+    BEDS: 5
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 2 E 67th St Fl 9
+
+    STATE: New York, NY 10065
+
+    MAIN_ADDRESS: 2 E 67th St Fl 9New York, NY 10065
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 2
+
+    FORMATTED_ADDRESS: 2 E 67th St Fl 9, New York, NY 10065, USA
+
+    LATITUDE: 40.768973
+
+    LONGITUDE: -73.969136

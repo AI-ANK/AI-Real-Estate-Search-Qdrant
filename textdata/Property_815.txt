@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by 5 Boro Realty Corp
+
+    TYPE: House for sale
+
+    PRICE: 835000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 4408 Flatlands Ave
+
+    STATE: Brooklyn, NY 11234
+
+    MAIN_ADDRESS: 4408 Flatlands AveBrooklyn, NY 11234
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Flatlands Avenue
+
+    FORMATTED_ADDRESS: 4408 Flatlands Ave, Brooklyn, NY 11234, USA
+
+    LATITUDE: 40.6226706
+
+    LONGITUDE: -73.9327329

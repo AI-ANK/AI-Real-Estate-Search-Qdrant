@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Ny Realty
+
+    TYPE: House for sale
+
+    PRICE: 710000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2250.0
+
+    ADDRESS: 4067 Murdock Ave
+
+    STATE: Bronx, NY 10466
+
+    MAIN_ADDRESS: 4067 Murdock AveBronx, NY 10466
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Murdock Avenue
+
+    FORMATTED_ADDRESS: 4067 Murdock Ave, Bronx, NY 10466, USA
+
+    LATITUDE: 40.8926424
+
+    LONGITUDE: -73.8409541

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Co-op for sale
+
+    PRICE: 399000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 12 E 132nd St Apt 2A
+
+    STATE: Manhattan, NY 10037
+
+    MAIN_ADDRESS: 12 E 132nd St Apt 2AManhattan, NY 10037
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 12
+
+    FORMATTED_ADDRESS: 12 E 132nd St #2a, New York, NY 10037, USA
+
+    LATITUDE: 40.8102659
+
+    LONGITUDE: -73.9382868

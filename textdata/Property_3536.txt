@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Great Success Realty Inc
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1800000
+
+    BEDS: 5
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 455 Irving Ave
+
+    STATE: Brooklyn, NY 11237
+
+    MAIN_ADDRESS: 455 Irving AveBrooklyn, NY 11237
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Irving Avenue
+
+    FORMATTED_ADDRESS: 455 Irving Ave, Brooklyn, NY 11237, USA
+
+    LATITUDE: 40.6958927
+
+    LONGITUDE: -73.9084857

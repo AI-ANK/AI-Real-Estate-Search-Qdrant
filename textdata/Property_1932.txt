@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by R New York
+
+    TYPE: Townhouse for sale
+
+    PRICE: 2150000
+
+    BEDS: 5
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2940.0
+
+    ADDRESS: 134 Rutland Rd
+
+    STATE: Brooklyn, NY 11225
+
+    MAIN_ADDRESS: 134 Rutland RdBrooklyn, NY 11225
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Rutland Road
+
+    FORMATTED_ADDRESS: 134 Rutland Rd, Brooklyn, NY 11225, USA
+
+    LATITUDE: 40.6588649
+
+    LONGITUDE: -73.956073

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by All American Realty Management
+
+    TYPE: For sale
+
+    PRICE: 65000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 230.0
+
+    ADDRESS: 1287266 45 Madison St Unit 1
+
+    STATE: Manhattan, NY 10038
+
+    MAIN_ADDRESS: 1287266 45 Madison St Unit 1Manhattan, NY 10038
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 45
+
+    FORMATTED_ADDRESS: 45 Madison St #1, New York, NY 10038, USA
+
+    LATITUDE: 40.7120703
+
+    LONGITUDE: -73.9983258

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Serhant
+
+    TYPE: Condo for sale
+
+    PRICE: 1595000
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1413.0
+
+    ADDRESS: 924 Lafayette Ave Unit Ph
+
+    STATE: Brooklyn, NY 11221
+
+    MAIN_ADDRESS: 924 Lafayette Ave Unit PhBrooklyn, NY 11221
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Lafayette Avenue
+
+    FORMATTED_ADDRESS: 924 Lafayette Ave, Brooklyn, NY 11221, USA
+
+    LATITUDE: 40.6915139
+
+    LONGITUDE: -73.935444

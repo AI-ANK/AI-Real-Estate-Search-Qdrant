@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Chelsea/Flatiron
+
+    TYPE: Condo for sale
+
+    PRICE: 549000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 247 MT Hope Pl Apt 1
+
+    STATE: Bronx, NY 10457
+
+    MAIN_ADDRESS: 247 MT Hope Pl Apt 1Bronx, NY 10457
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: West Bronx
+
+    LONG_NAME: 247
+
+    FORMATTED_ADDRESS: 247 Mt Hope Pl #1, Bronx, NY 10457, USA
+
+    LATITUDE: 40.848222
+
+    LONGITUDE: -73.9043179

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sotheby's International Realty - Downtown Manhattan
+
+    TYPE: Co-op for sale
+
+    PRICE: 3200000
+
+    BEDS: 3
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 1825.0
+
+    ADDRESS: 24 Central Park S # 5W
+
+    STATE: New York, NY 10019
+
+    MAIN_ADDRESS: 24 Central Park S # 5WNew York, NY 10019
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 24
+
+    FORMATTED_ADDRESS: 24 Central Park S # 5e, New York, NY 10019, USA
+
+    LATITUDE: 40.7703005
+
+    LONGITUDE: -73.9804715

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by EXP Realty
+
+    TYPE: Condo for sale
+
+    PRICE: 469000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 780.0
+
+    ADDRESS: 104-33 39th Ave Unit 3D-A
+
+    STATE: Corona, NY 11368
+
+    MAIN_ADDRESS: 104-33 39th Ave Unit 3D-ACorona, NY 11368
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 104-33
+
+    FORMATTED_ADDRESS: 104-33 39th Ave #3d, Flushing, NY 11368, USA
+
+    LATITUDE: 40.751236
+
+    LONGITUDE: -73.8610379

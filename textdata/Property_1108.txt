@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Exit All Seasons Realty
+
+    TYPE: House for sale
+
+    PRICE: 611999
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 115-33 227th St
+
+    STATE: Cambria Heights, NY 11411
+
+    MAIN_ADDRESS: 115-33 227th StCambria Heights, NY 11411
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 227th Street
+
+    FORMATTED_ADDRESS: 115-33 227th St, Cambria Heights, NY 11411, USA
+
+    LATITUDE: 40.6973209
+
+    LONGITUDE: -73.7315945

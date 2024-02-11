@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Great Riches Realty
+
+    TYPE: Condo for sale
+
+    PRICE: 665000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1120.0
+
+    ADDRESS: 80-09 35th Ave Unit A8
+
+    STATE: Jackson Heights, NY 11372
+
+    MAIN_ADDRESS: 80-09 35th Ave Unit A8Jackson Heights, NY 11372
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 8009
+
+    FORMATTED_ADDRESS: 8009 35th Ave APT A8, Flushing, NY 11372, USA
+
+    LATITUDE: 40.7519149
+
+    LONGITUDE: -73.8861292

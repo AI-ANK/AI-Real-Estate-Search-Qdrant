@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Co-op for sale
+
+    PRICE: 300000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 209 W 118th St Apt 2F
+
+    STATE: Manhattan, NY 10026
+
+    MAIN_ADDRESS: 209 W 118th St Apt 2FManhattan, NY 10026
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 209
+
+    FORMATTED_ADDRESS: 209 W 118th St #2f, New York, NY 10026, USA
+
+    LATITUDE: 40.8050658
+
+    LONGITUDE: -73.9524985

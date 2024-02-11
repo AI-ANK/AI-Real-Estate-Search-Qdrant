@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - Bayside
+
+    TYPE: Pending
+
+    PRICE: 1199000
+
+    BEDS: 5
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 116 Audley St
+
+    STATE: Kew Gardens, NY 11415
+
+    MAIN_ADDRESS: 116 Audley StKew Gardens, NY 11415
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Audley Street
+
+    FORMATTED_ADDRESS: 116 Audley St, Kew Gardens, NY 11415, USA
+
+    LATITUDE: 40.7090268
+
+    LONGITUDE: -73.8335998

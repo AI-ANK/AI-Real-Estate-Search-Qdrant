@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 280 Metropolitan
+
+    TYPE: Pending
+
+    PRICE: 799000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 850.0
+
+    ADDRESS: 622 Madison St Unit Townhouse
+
+    STATE: Brooklyn, NY 11221
+
+    MAIN_ADDRESS: 622 Madison St Unit TownhouseBrooklyn, NY 11221
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Madison Street
+
+    FORMATTED_ADDRESS: 622 Madison St, Brooklyn, NY 11221, USA
+
+    LATITUDE: 40.6864817
+
+    LONGITUDE: -73.9334333

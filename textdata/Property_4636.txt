@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Rlty Landmark
+
+    TYPE: House for sale
+
+    PRICE: 970000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2185.0
+
+    ADDRESS: 116-20 132nd St
+
+    STATE: South Ozone Park, NY 11420
+
+    MAIN_ADDRESS: 116-20 132nd StSouth Ozone Park, NY 11420
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 132nd Street
+
+    FORMATTED_ADDRESS: 11620 132nd St, Jamaica, NY 11420, USA
+
+    LATITUDE: 40.6776259
+
+    LONGITUDE: -73.808058

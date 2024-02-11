@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Co-op for sale
+
+    PRICE: 1995000
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1800.0
+
+    ADDRESS: 418 E 59th St Apt 31B
+
+    STATE: Manhattan, NY 10022
+
+    MAIN_ADDRESS: 418 E 59th St Apt 31BManhattan, NY 10022
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 418
+
+    FORMATTED_ADDRESS: 418 E 59th St #31b, New York, NY 10022, USA
+
+    LATITUDE: 40.7590132
+
+    LONGITUDE: -73.9612618

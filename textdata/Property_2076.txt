@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 4295000
+
+    BEDS: 9
+
+    BATH: 11.0
+
+    PROPERTYSQFT: 6270.0
+
+    ADDRESS: 18A Bleecker St
+
+    STATE: Brooklyn, NY 11221
+
+    MAIN_ADDRESS: 18A Bleecker StBrooklyn, NY 11221
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Bleecker Street
+
+    FORMATTED_ADDRESS: 18A Bleecker St, Brooklyn, NY 11221, USA
+
+    LATITUDE: 40.6931027
+
+    LONGITUDE: -73.9229621

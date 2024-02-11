@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Edge
+
+    TYPE: Co-op for sale
+
+    PRICE: 399000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 750.0
+
+    ADDRESS: 9707 4th Ave Apt 5R
+
+    STATE: Brooklyn, NY 11209
+
+    MAIN_ADDRESS: 9707 4th Ave Apt 5RBrooklyn, NY 11209
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Fort Hamilton
+
+    LONG_NAME: 9707
+
+    FORMATTED_ADDRESS: 9707 4th Ave #5r, Brooklyn, NY 11209, USA
+
+    LATITUDE: 40.614285
+
+    LONGITUDE: -74.0315729

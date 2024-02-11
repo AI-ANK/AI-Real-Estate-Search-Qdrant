@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Homefinders of SI Inc.
+
+    TYPE: Land for sale
+
+    PRICE: 225000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 229 Mosely Ave
+
+    STATE: Staten Island, NY 10312
+
+    MAIN_ADDRESS: 229 Mosely AveStaten Island, NY 10312
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Mosely Avenue
+
+    FORMATTED_ADDRESS: 229 Mosely Ave, Staten Island, NY 10312, USA
+
+    LATITUDE: 40.541076
+
+    LONGITUDE: -74.1706195

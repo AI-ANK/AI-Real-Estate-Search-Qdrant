@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Red Door Realty Group
+
+    TYPE: Townhouse for sale
+
+    PRICE: 478888
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1159.0
+
+    ADDRESS: 119 Richmond Hill Rd
+
+    STATE: Staten Island, NY 10314
+
+    MAIN_ADDRESS: 119 Richmond Hill RdStaten Island, NY 10314
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Richmond Hill Road
+
+    FORMATTED_ADDRESS: 119 Richmond Hill Rd, Staten Island, NY 10314, USA
+
+    LATITUDE: 40.5872305
+
+    LONGITUDE: -74.1641299

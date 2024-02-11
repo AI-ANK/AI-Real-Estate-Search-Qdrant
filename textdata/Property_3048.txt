@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by REALHome Services & Solutions
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 906300
+
+    BEDS: 8
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 3116.0
+
+    ADDRESS: 1017 Dumont Ave
+
+    STATE: Brooklyn, NY 11208
+
+    MAIN_ADDRESS: 1017 Dumont AveBrooklyn, NY 11208
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Dumont Avenue
+
+    FORMATTED_ADDRESS: 1017 Dumont Ave, Brooklyn, NY 11208, USA
+
+    LATITUDE: 40.668499
+
+    LONGITUDE: -73.8810259

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Olam Realty Group
+
+    TYPE: Co-op for sale
+
+    PRICE: 499000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 67-66 108th St Unit B47
+
+    STATE: Forest Hills, NY 11375
+
+    MAIN_ADDRESS: 67-66 108th St Unit B47Forest Hills, NY 11375
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 108th Street
+
+    FORMATTED_ADDRESS: 67-66 108th St, Forest Hills, NY 11375, USA
+
+    LATITUDE: 40.7272034
+
+    LONGITUDE: -73.8471901

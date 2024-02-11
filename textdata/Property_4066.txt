@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - Franklin Square
+
+    TYPE: Co-op for sale
+
+    PRICE: 259000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 89-20 55 Ave Unit 1L
+
+    STATE: Elmhurst, NY 11373
+
+    MAIN_ADDRESS: 89-20 55 Ave Unit 1LElmhurst, NY 11373
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Elmhurst
+
+    LONG_NAME: 89-20
+
+    FORMATTED_ADDRESS: 89-20 55th Ave Apt 1U, Elmhurst, NY 11373, USA
+
+    LATITUDE: 40.7365072
+
+    LONGITUDE: -73.8733466

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Serhant
+
+    TYPE: Condo for sale
+
+    PRICE: 7990000
+
+    BEDS: 5
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 5202.0
+
+    ADDRESS: 46 Laight St Unit Maisonette
+
+    STATE: New York, NY 10013
+
+    MAIN_ADDRESS: 46 Laight St Unit MaisonetteNew York, NY 10013
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: Laight Street
+
+    FORMATTED_ADDRESS: 46 Laight St, New York, NY 10013, USA
+
+    LATITUDE: 40.7221603
+
+    LONGITUDE: -74.0078633

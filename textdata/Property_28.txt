@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Du Chris Realty
+
+    TYPE: Co-op for sale
+
+    PRICE: 230000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 33-24 Junction Blvd Unit 6R
+
+    STATE: Jackson Heights, NY 11372
+
+    MAIN_ADDRESS: 33-24 Junction Blvd Unit 6RJackson Heights, NY 11372
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Junction Boulevard
+
+    FORMATTED_ADDRESS: 33-24 Junction Blvd, Jackson Heights, NY 11372, USA
+
+    LATITUDE: 40.7557689
+
+    LONGITUDE: -73.8734231

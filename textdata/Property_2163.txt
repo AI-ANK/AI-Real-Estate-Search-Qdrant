@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by DiTommaso Real Estate
+
+    TYPE: House for sale
+
+    PRICE: 589000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1808.0
+
+    ADDRESS: 18 Harbour Ct
+
+    STATE: Staten Island, NY 10308
+
+    MAIN_ADDRESS: 18 Harbour CtStaten Island, NY 10308
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Harbour Court
+
+    FORMATTED_ADDRESS: 18 Harbour Ct, Staten Island, NY 10308, USA
+
+    LATITUDE: 40.5383835
+
+    LONGITUDE: -74.1433088

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Nest Seekers International, Long Island
+
+    TYPE: Condo for sale
+
+    PRICE: 1745000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1574.0
+
+    ADDRESS: 27-28 Thomson Ave Unit 422
+
+    STATE: Queens, NY 11101
+
+    MAIN_ADDRESS: 27-28 Thomson Ave Unit 422Queens, NY 11101
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Long Island City
+
+    LONG_NAME: 2728
+
+    FORMATTED_ADDRESS: 2728 Thomson Ave UNIT 422, Long Island City, NY 11101, USA
+
+    LATITUDE: 40.7457551
+
+    LONGITUDE: -73.9417456

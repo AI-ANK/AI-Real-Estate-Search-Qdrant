@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Real Estate Trade Co Inc
+
+    TYPE: Land for sale
+
+    PRICE: 2500000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 238 Ocean View Ave
+
+    STATE: Brooklyn, NY 11235
+
+    MAIN_ADDRESS: 238 Ocean View AveBrooklyn, NY 11235
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Ocean View Avenue
+
+    FORMATTED_ADDRESS: 238 Ocean View Ave, Brooklyn, NY 11235, USA
+
+    LATITUDE: 40.578639
+
+    LONGITUDE: -73.965449

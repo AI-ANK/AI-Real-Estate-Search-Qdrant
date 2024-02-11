@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Charles Rutenberg Realty Inc
+
+    TYPE: Condo for sale
+
+    PRICE: 825000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 63-14 Queens Blvd Unit 3L
+
+    STATE: Woodside, NY 11377
+
+    MAIN_ADDRESS: 63-14 Queens Blvd Unit 3LWoodside, NY 11377
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 6314
+
+    FORMATTED_ADDRESS: 6314 Queens Blvd STE 3E, Flushing, NY 11377, USA
+
+    LATITUDE: 40.7407971
+
+    LONGITUDE: -73.9021337

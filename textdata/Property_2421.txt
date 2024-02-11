@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Robert DeFalco Realty, Inc.
+
+    TYPE: Townhouse for sale
+
+    PRICE: 530000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1280.0
+
+    ADDRESS: 14 Long Pond Ln
+
+    STATE: Staten Island, NY 10304
+
+    MAIN_ADDRESS: 14 Long Pond LnStaten Island, NY 10304
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Long Pond Lane
+
+    FORMATTED_ADDRESS: 14 Long Pond Ln, Staten Island, NY 10304, USA
+
+    LATITUDE: 40.6155659
+
+    LONGITUDE: -74.0802854

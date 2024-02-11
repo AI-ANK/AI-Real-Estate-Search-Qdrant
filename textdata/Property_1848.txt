@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Townhouse for sale
+
+    PRICE: 2295000
+
+    BEDS: 5
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 4043.0
+
+    ADDRESS: 238 Decatur St
+
+    STATE: Brooklyn, NY 11233
+
+    MAIN_ADDRESS: 238 Decatur StBrooklyn, NY 11233
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Decatur Street
+
+    FORMATTED_ADDRESS: 238 Decatur St, Brooklyn, NY 11233, USA
+
+    LATITUDE: 40.6812265
+
+    LONGITUDE: -73.9337663

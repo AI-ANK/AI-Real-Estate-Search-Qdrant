@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Real Estate Professionals
+
+    TYPE: House for sale
+
+    PRICE: 549000
+
+    BEDS: 5
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1716.0
+
+    ADDRESS: 921 Nugent Ave
+
+    STATE: Staten Island, NY 10306
+
+    MAIN_ADDRESS: 921 Nugent AveStaten Island, NY 10306
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Nugent Avenue
+
+    FORMATTED_ADDRESS: 921 Nugent Ave, Staten Island, NY 10306, USA
+
+    LATITUDE: 40.5721728
+
+    LONGITUDE: -74.0972787

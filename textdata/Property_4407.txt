@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Elegran LLC
+
+    TYPE: Co-op for sale
+
+    PRICE: 745000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 2500 Johnson Ave Apt 14H
+
+    STATE: Bronx, NY 10463
+
+    MAIN_ADDRESS: 2500 Johnson Ave Apt 14HBronx, NY 10463
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: Spuyten Duyvil
+
+    LONG_NAME: 2500
+
+    FORMATTED_ADDRESS: 2500 Johnson Ave #14h, Bronx, NY 10463, USA
+
+    LATITUDE: 40.876794
+
+    LONGITUDE: -73.9177034

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Doreen Greenwood Inc.
+
+    TYPE: House for sale
+
+    PRICE: 588000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1080.0
+
+    ADDRESS: 2956 Gerritsen Ave
+
+    STATE: Brooklyn, NY 11229
+
+    MAIN_ADDRESS: 2956 Gerritsen AveBrooklyn, NY 11229
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Gerritsen Avenue
+
+    FORMATTED_ADDRESS: 2956 Gerritsen Ave, Brooklyn, NY 11229, USA
+
+    LATITUDE: 40.5887247
+
+    LONGITUDE: -73.9208494

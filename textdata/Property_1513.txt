@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens - 1926 Broadway
+
+    TYPE: Townhouse for sale
+
+    PRICE: 10995000
+
+    BEDS: 7
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 9000.0
+
+    ADDRESS: 318 W 81st St Unit Townhouse
+
+    STATE: Manhattan, NY 10024
+
+    MAIN_ADDRESS: 318 W 81st St Unit TownhouseManhattan, NY 10024
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: West 81st Street
+
+    FORMATTED_ADDRESS: 318 W 81st St, New York, NY 10024, USA
+
+    LATITUDE: 40.7858802
+
+    LONGITUDE: -73.9811894

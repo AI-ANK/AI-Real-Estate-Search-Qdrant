@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by SBRW - SBROWNRE,LLC
+
+    TYPE: Pending
+
+    PRICE: 850000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 775.0
+
+    ADDRESS: 236 E 6th St Apt 3W
+
+    STATE: New York, NY 10003
+
+    MAIN_ADDRESS: 236 E 6th St Apt 3WNew York, NY 10003
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 236
+
+    FORMATTED_ADDRESS: 236 E 6th St #3w, New York, NY 10003, USA
+
+    LATITUDE: 40.7274335
+
+    LONGITUDE: -73.9892241

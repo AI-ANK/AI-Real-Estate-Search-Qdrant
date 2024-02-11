@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 550000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 611 41st St Apt L
+
+    STATE: Brooklyn, NY 11232
+
+    MAIN_ADDRESS: 611 41st St Apt LBrooklyn, NY 11232
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: 41st Street
+
+    FORMATTED_ADDRESS: 611 41st St, Brooklyn, NY 11232, USA
+
+    LATITUDE: 40.6487997
+
+    LONGITUDE: -74.0024232

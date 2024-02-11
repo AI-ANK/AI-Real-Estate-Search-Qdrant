@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by AMERIHOMES REALTY OF NY, INC.
+
+    TYPE: Co-op for sale
+
+    PRICE: 385000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 779.0
+
+    ADDRESS: 1625 Emmons Ave Apt 4Y
+
+    STATE: Brooklyn, NY 11235
+
+    MAIN_ADDRESS: 1625 Emmons Ave Apt 4YBrooklyn, NY 11235
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Sheepshead Bay
+
+    LONG_NAME: 1625
+
+    FORMATTED_ADDRESS: 1625 Emmons Ave Apt 4b, Brooklyn, NY 11235, USA
+
+    LATITUDE: 40.5834583
+
+    LONGITUDE: -73.9522667

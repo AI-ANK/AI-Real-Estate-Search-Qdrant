@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Chelsea/Flatiron
+
+    TYPE: House for sale
+
+    PRICE: 4195000
+
+    BEDS: 6
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 9 Clinton St
+
+    STATE: New York, NY 10002
+
+    MAIN_ADDRESS: 9 Clinton StNew York, NY 10002
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: Clinton Street
+
+    FORMATTED_ADDRESS: 9 Clinton St, New York, NY 10002, USA
+
+    LATITUDE: 40.7210845
+
+    LONGITUDE: -73.9842397

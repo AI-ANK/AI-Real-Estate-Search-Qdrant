@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 695000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 575 Park Ave Unit 1101
+
+    STATE: Manhattan, NY 10065
+
+    MAIN_ADDRESS: 575 Park Ave Unit 1101Manhattan, NY 10065
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 575
+
+    FORMATTED_ADDRESS: 575 Park Ave # 1101, New York, NY 10065, USA
+
+    LATITUDE: 40.7651716
+
+    LONGITUDE: -73.9678719

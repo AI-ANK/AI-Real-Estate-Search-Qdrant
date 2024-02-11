@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by East Coast REALTORS Inc
+
+    TYPE: Co-op for sale
+
+    PRICE: 450500
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1200.0
+
+    ADDRESS: 162-41 Powells Cove Blvd Unit 2O
+
+    STATE: Beechhurst, NY 11357
+
+    MAIN_ADDRESS: 162-41 Powells Cove Blvd Unit 2OBeechhurst, NY 11357
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Whitestone
+
+    LONG_NAME: 16241
+
+    FORMATTED_ADDRESS: 16241 Powells Cove Blvd Apt 2m, Whitestone, NY 11357, USA
+
+    LATITUDE: 40.7941499
+
+    LONGITUDE: -73.79959

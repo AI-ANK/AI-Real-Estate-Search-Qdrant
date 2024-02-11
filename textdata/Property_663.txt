@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens - 100 Seventh Avenue
+
+    TYPE: Co-op for sale
+
+    PRICE: 185000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 789 Macdonough St Apt 4G
+
+    STATE: Brooklyn, NY 11233
+
+    MAIN_ADDRESS: 789 Macdonough St Apt 4GBrooklyn, NY 11233
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Ocean Hill
+
+    LONG_NAME: 789
+
+    FORMATTED_ADDRESS: 789 MacDonough St #4g, Brooklyn, NY 11233, USA
+
+    LATITUDE: 40.684563
+
+    LONGITUDE: -73.914482

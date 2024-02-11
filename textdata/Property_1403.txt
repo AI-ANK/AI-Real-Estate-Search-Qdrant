@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Robert DeFalco Realty, Inc.
+
+    TYPE: Contingent
+
+    PRICE: 750000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 1240.0
+
+    ADDRESS: 114 McArthur Ave
+
+    STATE: Staten Island, NY 10312
+
+    MAIN_ADDRESS: 114 McArthur AveStaten Island, NY 10312
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Mcarthur Avenue
+
+    FORMATTED_ADDRESS: 114 Mc Arthur Ave, Staten Island, NY 10312, USA
+
+    LATITUDE: 40.5546832
+
+    LONGITUDE: -74.1780566

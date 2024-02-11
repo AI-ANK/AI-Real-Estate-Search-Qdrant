@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by DEGI - Douglas Elliman Real Estate
+
+    TYPE: For sale
+
+    PRICE: 3150000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1952.0
+
+    ADDRESS: 184 Lincoln Pl Unit 2
+
+    STATE: Brooklyn, NY 11217
+
+    MAIN_ADDRESS: 184 Lincoln Pl Unit 2Brooklyn, NY 11217
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Park Slope
+
+    LONG_NAME: 184
+
+    FORMATTED_ADDRESS: 184 Lincoln Pl #2, Brooklyn, NY 11217, USA
+
+    LATITUDE: 40.6754035
+
+    LONGITUDE: -73.9742051

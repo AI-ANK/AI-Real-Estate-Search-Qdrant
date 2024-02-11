@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Encore Real Estate LLC
+
+    TYPE: House for sale
+
+    PRICE: 989000
+
+    BEDS: 6
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2720.0
+
+    ADDRESS: 153 Johnson Ave
+
+    STATE: Staten Island, NY 10307
+
+    MAIN_ADDRESS: 153 Johnson AveStaten Island, NY 10307
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Johnson Avenue
+
+    FORMATTED_ADDRESS: 153 Johnson Ave, Staten Island, NY 10307, USA
+
+    LATITUDE: 40.5119454
+
+    LONGITUDE: -74.2470716

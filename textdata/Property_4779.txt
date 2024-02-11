@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Fine Choice Realty Inc
+
+    TYPE: House for sale
+
+    PRICE: 799000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1989.0
+
+    ADDRESS: 217 Remsen Ave
+
+    STATE: Brooklyn, NY 11212
+
+    MAIN_ADDRESS: 217 Remsen AveBrooklyn, NY 11212
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Remsen Avenue
+
+    FORMATTED_ADDRESS: 217 Remsen Ave, Brooklyn, NY 11212, USA
+
+    LATITUDE: 40.6592604
+
+    LONGITUDE: -73.9267735

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Winzone Realty Inc
+
+    TYPE: Co-op for sale
+
+    PRICE: 538888
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1500.0
+
+    ADDRESS: 23-55 Bell Blvd Unit 6G
+
+    STATE: Bayside, NY 11360
+
+    MAIN_ADDRESS: 23-55 Bell Blvd Unit 6GBayside, NY 11360
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Bayside
+
+    LONG_NAME: 23-55
+
+    FORMATTED_ADDRESS: 23-55 Bell Blvd #6f, Bayside, NY 11360, USA
+
+    LATITUDE: 40.7807824
+
+    LONGITUDE: -73.7743544

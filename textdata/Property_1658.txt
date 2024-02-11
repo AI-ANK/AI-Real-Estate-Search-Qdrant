@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 1650000
+
+    BEDS: 1
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1000.0
+
+    ADDRESS: 92 Horatio St Apt 1L
+
+    STATE: Manhattan, NY 10014
+
+    MAIN_ADDRESS: 92 Horatio St Apt 1LManhattan, NY 10014
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 92
+
+    FORMATTED_ADDRESS: 92 Horatio St #1b, New York, NY 10014, USA
+
+    LATITUDE: 40.7385868
+
+    LONGITUDE: -74.0078404

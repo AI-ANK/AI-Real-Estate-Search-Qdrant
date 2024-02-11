@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sowae Corp
+
+    TYPE: House for sale
+
+    PRICE: 399000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 1350.0
+
+    ADDRESS: 117-02 111th Ave
+
+    STATE: South Ozone Park, NY 11420
+
+    MAIN_ADDRESS: 117-02 111th AveSouth Ozone Park, NY 11420
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 111th Avenue
+
+    FORMATTED_ADDRESS: 117-02 111th Ave, Jamaica, NY 11420, USA
+
+    LATITUDE: 40.6798316
+
+    LONGITUDE: -73.82277

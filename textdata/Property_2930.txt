@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Real Estate Professionals
+
+    TYPE: Pending
+
+    PRICE: 485000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1200.0
+
+    ADDRESS: 2652 Cropsey Ave Apt 14H
+
+    STATE: Brooklyn, NY 11214
+
+    MAIN_ADDRESS: 2652 Cropsey Ave Apt 14HBrooklyn, NY 11214
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: 2652
+
+    FORMATTED_ADDRESS: 2652 Cropsey Ave #14h, Brooklyn, NY 11214, USA
+
+    LATITUDE: 40.5883839
+
+    LONGITUDE: -73.9910376

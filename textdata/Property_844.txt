@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Ardebili Michael
+
+    TYPE: Pending
+
+    PRICE: 599000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1348.0
+
+    ADDRESS: 1527 Gillespie Ave Unit 1A
+
+    STATE: Bronx, NY 10461
+
+    MAIN_ADDRESS: 1527 Gillespie Ave Unit 1ABronx, NY 10461
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: Pelham Bay
+
+    LONG_NAME: 1527
+
+    FORMATTED_ADDRESS: 1527 Gillespie Ave #1a, Bronx, NY 10461, USA
+
+    LATITUDE: 40.84296
+
+    LONGITUDE: -73.8312695

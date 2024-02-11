@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Peter Ashe Real Estate- Peter Ashe Real Estate
+
+    TYPE: Co-op for sale
+
+    PRICE: 8250000
+
+    BEDS: 2
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 3000.0
+
+    ADDRESS: 128 Central Park S Unit 10A
+
+    STATE: New York, NY 10019
+
+    MAIN_ADDRESS: 128 Central Park S Unit 10ANew York, NY 10019
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 128
+
+    FORMATTED_ADDRESS: 128 Central Park S #10a, New York, NY 10019, USA
+
+    LATITUDE: 40.7660187
+
+    LONGITUDE: -73.9775473

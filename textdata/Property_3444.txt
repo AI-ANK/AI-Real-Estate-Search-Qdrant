@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 575 Madison Ave
+
+    TYPE: Condo for sale
+
+    PRICE: 2980000
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1756.0
+
+    ADDRESS: 1280 Fifth Ave Ph B
+
+    STATE: New York, NY 10029
+
+    MAIN_ADDRESS: 1280 Fifth Ave Ph BNew York, NY 10029
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: 5th Avenue
+
+    FORMATTED_ADDRESS: 1280 5th Ave, New York, NY 10029, USA
+
+    LATITUDE: 40.7961886
+
+    LONGITUDE: -73.949116

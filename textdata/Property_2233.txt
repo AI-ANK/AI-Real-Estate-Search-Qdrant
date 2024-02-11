@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Exp Realty
+
+    TYPE: Condo for sale
+
+    PRICE: 639999
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1180.0
+
+    ADDRESS: 3816 Waldo Ave Apt 3B
+
+    STATE: Bronx, NY 10463
+
+    MAIN_ADDRESS: 3816 Waldo Ave Apt 3BBronx, NY 10463
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: Kingsbridge
+
+    LONG_NAME: 3816
+
+    FORMATTED_ADDRESS: 3816 Waldo Ave #3b, Bronx, NY 10463, USA
+
+    LATITUDE: 40.8874214
+
+    LONGITUDE: -73.9034179

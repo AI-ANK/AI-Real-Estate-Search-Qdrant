@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sotheby's International Realty - East Side Manhattan Brokerage
+
+    TYPE: Co-op for sale
+
+    PRICE: 1050000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 205 E 63rd St Apt 19E
+
+    STATE: New York, NY 10065
+
+    MAIN_ADDRESS: 205 E 63rd St Apt 19ENew York, NY 10065
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 205
+
+    FORMATTED_ADDRESS: 205 E 63rd St #19e, New York, NY 10065, USA
+
+    LATITUDE: 40.7640501
+
+    LONGITUDE: -73.964336

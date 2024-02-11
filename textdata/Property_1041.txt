@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Avenues - Headquarters
+
+    TYPE: Condo for sale
+
+    PRICE: 275000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 850.0
+
+    ADDRESS: 3202 Nostrand Ave Apt 6E
+
+    STATE: Brooklyn, NY 11229
+
+    MAIN_ADDRESS: 3202 Nostrand Ave Apt 6EBrooklyn, NY 11229
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Madison
+
+    LONG_NAME: 3202
+
+    FORMATTED_ADDRESS: 3202 Nostrand Ave. #6e, Brooklyn, NY 11229, USA
+
+    LATITUDE: 40.6056272
+
+    LONGITUDE: -73.943238

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 575 Madison Ave
+
+    TYPE: Condo for sale
+
+    PRICE: 4995000
+
+    BEDS: 3
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 1960.0
+
+    ADDRESS: 100 Central Park S Unit 3AD
+
+    STATE: New York, NY 10019
+
+    MAIN_ADDRESS: 100 Central Park S Unit 3ADNew York, NY 10019
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 100
+
+    FORMATTED_ADDRESS: 100 Central Park S #3a, New York, NY 10019, USA
+
+    LATITUDE: 40.7655919
+
+    LONGITUDE: -73.9766034

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Park Avenue South
+
+    TYPE: Co-op for sale
+
+    PRICE: 715000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 983.0
+
+    ADDRESS: 229 E 14th St Apt 3E
+
+    STATE: New York, NY 10003
+
+    MAIN_ADDRESS: 229 E 14th St Apt 3ENew York, NY 10003
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 229
+
+    FORMATTED_ADDRESS: 229 E 14th St #3e, New York, NY 10003, USA
+
+    LATITUDE: 40.7329326
+
+    LONGITUDE: -73.9858654

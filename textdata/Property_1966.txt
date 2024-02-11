@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran SoHo
+
+    TYPE: House for sale
+
+    PRICE: 4200000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2560.0
+
+    ADDRESS: 35 Stuyvesant St
+
+    STATE: New York, NY 10003
+
+    MAIN_ADDRESS: 35 Stuyvesant StNew York, NY 10003
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: Stuyvesant Street
+
+    FORMATTED_ADDRESS: 35 Stuyvesant St, New York, NY 10003, USA
+
+    LATITUDE: 40.7300715
+
+    LONGITUDE: -73.9880189

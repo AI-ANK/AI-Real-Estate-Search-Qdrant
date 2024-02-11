@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 575 Madison Ave
+
+    TYPE: House for sale
+
+    PRICE: 56000000
+
+    BEDS: 11
+
+    BATH: 10.0
+
+    PROPERTYSQFT: 24000.0
+
+    ADDRESS: 9 W 54th St
+
+    STATE: New York, NY 10019
+
+    MAIN_ADDRESS: 9 W 54th StNew York, NY 10019
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: West 54th Street
+
+    FORMATTED_ADDRESS: 9 W 54th St, New York, NY 10019, USA
+
+    LATITUDE: 40.7616
+
+    LONGITUDE: -73.9761913

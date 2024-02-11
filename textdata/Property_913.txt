@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Real Estate Professionals
+
+    TYPE: Pending
+
+    PRICE: 2288000
+
+    BEDS: 4
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1788.0
+
+    ADDRESS: 1024 82nd St
+
+    STATE: Brooklyn, NY 11228
+
+    MAIN_ADDRESS: 1024 82nd StBrooklyn, NY 11228
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: 82nd Street
+
+    FORMATTED_ADDRESS: 1024 82nd St, Brooklyn, NY 11228, USA
+
+    LATITUDE: 40.6197363
+
+    LONGITUDE: -74.0177331

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran East Side
+
+    TYPE: Condo for sale
+
+    PRICE: 1295000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1160.0
+
+    ADDRESS: 1641 Third Ave Apt 3H
+
+    STATE: New York, NY 10128
+
+    MAIN_ADDRESS: 1641 Third Ave Apt 3HNew York, NY 10128
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 1641
+
+    FORMATTED_ADDRESS: 1641 3rd Ave #3h, New York, NY 10128, USA
+
+    LATITUDE: 40.7822235
+
+    LONGITUDE: -73.9509367

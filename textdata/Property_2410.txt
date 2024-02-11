@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Modern Spaces
+
+    TYPE: Townhouse for sale
+
+    PRICE: 2495000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 4125.0
+
+    ADDRESS: 16 Morgan Ave
+
+    STATE: Brooklyn, NY 11237
+
+    MAIN_ADDRESS: 16 Morgan AveBrooklyn, NY 11237
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Morgan Avenue
+
+    FORMATTED_ADDRESS: 16 Morgan Ave, Brooklyn, NY 11237, USA
+
+    LATITUDE: 40.7043492
+
+    LONGITUDE: -73.9310947

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 285000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 45 Tudor City Pl Apt 708
+
+    STATE: Manhattan, NY 10017
+
+    MAIN_ADDRESS: 45 Tudor City Pl Apt 708Manhattan, NY 10017
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 45
+
+    FORMATTED_ADDRESS: 45 Tudor City Pl Apt 708, New York, NY 10017, USA
+
+    LATITUDE: 40.7489931
+
+    LONGITUDE: -73.97025

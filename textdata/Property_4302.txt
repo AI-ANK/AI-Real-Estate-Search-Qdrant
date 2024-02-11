@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Hauseit LLC - Hauseit LLC
+
+    TYPE: Co-op for sale
+
+    PRICE: 750000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 750.0
+
+    ADDRESS: 170 W 81st St Apt 5B
+
+    STATE: New York, NY 10024
+
+    MAIN_ADDRESS: 170 W 81st St Apt 5BNew York, NY 10024
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 170
+
+    FORMATTED_ADDRESS: 170 W 81st St #5b, New York, NY 10024, USA
+
+    LATITUDE: 40.7840294
+
+    LONGITUDE: -73.9767127

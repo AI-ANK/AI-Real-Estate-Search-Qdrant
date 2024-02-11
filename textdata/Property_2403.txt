@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by PULLINI REALTY CORP.
+
+    TYPE: Condo for sale
+
+    PRICE: 618000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 2805 E 28th St Apt 1B
+
+    STATE: Brooklyn, NY 11235
+
+    MAIN_ADDRESS: 2805 E 28th St Apt 1BBrooklyn, NY 11235
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Sheepshead Bay
+
+    LONG_NAME: 2805
+
+    FORMATTED_ADDRESS: 2805 E 28th St #1b, Brooklyn, NY 11235, USA
+
+    LATITUDE: 40.5846429
+
+    LONGITUDE: -73.9407155

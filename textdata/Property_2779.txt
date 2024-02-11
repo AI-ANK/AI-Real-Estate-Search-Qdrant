@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by EXIT REALTY FIRST CHOICE
+
+    TYPE: House for sale
+
+    PRICE: 1578000
+
+    BEDS: 5
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2152.0
+
+    ADDRESS: 67-27 181st St
+
+    STATE: Fresh Meadows, NY 11365
+
+    MAIN_ADDRESS: 67-27 181st StFresh Meadows, NY 11365
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 181st Street
+
+    FORMATTED_ADDRESS: 67-27 181st St, Flushing, NY 11365, USA
+
+    LATITUDE: 40.7346802
+
+    LONGITUDE: -73.7905086

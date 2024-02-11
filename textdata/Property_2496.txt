@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Realty Connect Usa L I Inc
+
+    TYPE: Pending
+
+    PRICE: 669000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1080.0
+
+    ADDRESS: 42-39 248th St
+
+    STATE: Little Neck, NY 11363
+
+    MAIN_ADDRESS: 42-39 248th StLittle Neck, NY 11363
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 248th Street
+
+    FORMATTED_ADDRESS: 42-39 248th St, Flushing, NY 11363, USA
+
+    LATITUDE: 40.7696159
+
+    LONGITUDE: -73.7403605

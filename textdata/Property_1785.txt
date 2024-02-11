@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keystone Realty USA Corp
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 848000
+
+    BEDS: 5
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 156 Beach 26th St
+
+    STATE: Far Rockaway, NY 11691
+
+    MAIN_ADDRESS: 156 Beach 26th StFar Rockaway, NY 11691
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Beach 26th Street
+
+    FORMATTED_ADDRESS: 156 B 26th St, Far Rockaway, NY 11691, USA
+
+    LATITUDE: 40.5939687
+
+    LONGITUDE: -73.7588867

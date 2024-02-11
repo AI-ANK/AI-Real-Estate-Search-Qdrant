@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by eXp Realty BKNY
+
+    TYPE: Co-op for sale
+
+    PRICE: 265000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 650.0
+
+    ADDRESS: 3101 Ocean Pkwy Apt 6T
+
+    STATE: Brooklyn, NY 11235
+
+    MAIN_ADDRESS: 3101 Ocean Pkwy Apt 6TBrooklyn, NY 11235
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Brighton Beach
+
+    LONG_NAME: 3101
+
+    FORMATTED_ADDRESS: 3101 Ocean Pkwy #6c, Brooklyn, NY 11235, USA
+
+    LATITUDE: 40.5757325
+
+    LONGITUDE: -73.9679335

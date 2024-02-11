@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Real Estate Professionals
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1795000
+
+    BEDS: 5
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1800.0
+
+    ADDRESS: 166 12th St
+
+    STATE: Brooklyn, NY 11215
+
+    MAIN_ADDRESS: 166 12th StBrooklyn, NY 11215
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: 12th Street
+
+    FORMATTED_ADDRESS: 166 12th St, Brooklyn, NY 11215, USA
+
+    LATITUDE: 40.6691888
+
+    LONGITUDE: -73.9919673

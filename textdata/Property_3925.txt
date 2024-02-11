@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Century 21 Realty First
+
+    TYPE: House for sale
+
+    PRICE: 2570000
+
+    BEDS: 5
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2000.0
+
+    ADDRESS: 9223 Ridge Blvd
+
+    STATE: Brooklyn, NY 11209
+
+    MAIN_ADDRESS: 9223 Ridge BlvdBrooklyn, NY 11209
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Ridge Boulevard
+
+    FORMATTED_ADDRESS: 9223 Ridge Blvd, Brooklyn, NY 11209, USA
+
+    LATITUDE: 40.6193875
+
+    LONGITUDE: -74.0353364

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by NEUHAUS REALTY, INC.
+
+    TYPE: House for sale
+
+    PRICE: 1600000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 3150.0
+
+    ADDRESS: 782 Ionia Ave
+
+    STATE: Staten Island, NY 10312
+
+    MAIN_ADDRESS: 782 Ionia AveStaten Island, NY 10312
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Ionia Avenue
+
+    FORMATTED_ADDRESS: 782 Ionia Ave, Staten Island, NY 10312, USA
+
+    LATITUDE: 40.5365056
+
+    LONGITUDE: -74.1988326

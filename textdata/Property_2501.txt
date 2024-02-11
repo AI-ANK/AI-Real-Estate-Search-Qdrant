@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by EXIT REALTY TOP PROPERTIES
+
+    TYPE: House for sale
+
+    PRICE: 699000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1538.0
+
+    ADDRESS: 38 Jones St
+
+    STATE: New York, NY 10314
+
+    MAIN_ADDRESS: 38 Jones StNew York, NY 10314
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Jones Street
+
+    FORMATTED_ADDRESS: 38 Jones St, Staten Island, NY 10314, USA
+
+    LATITUDE: 40.6059609
+
+    LONGITUDE: -74.1644799

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman  -111 Fifth Ave
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 5975000
+
+    BEDS: 12
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 24 Fiske Pl
+
+    STATE: Brooklyn, NY 11215
+
+    MAIN_ADDRESS: 24 Fiske PlBrooklyn, NY 11215
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Fiske Place
+
+    FORMATTED_ADDRESS: 24 Fiske Pl, Brooklyn, NY 11215, USA
+
+    LATITUDE: 40.6719889
+
+    LONGITUDE: -73.9755419

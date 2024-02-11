@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Rlty Landmark
+
+    TYPE: Co-op for sale
+
+    PRICE: 575000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 46-01 39 Ave Unit 514
+
+    STATE: Sunnyside, NY 11104
+
+    MAIN_ADDRESS: 46-01 39 Ave Unit 514Sunnyside, NY 11104
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Sunnyside
+
+    LONG_NAME: 4601
+
+    FORMATTED_ADDRESS: 4601 39th Ave Apt 514, Sunnyside, NY 11104, USA
+
+    LATITUDE: 40.7493599
+
+    LONGITUDE: -73.91745

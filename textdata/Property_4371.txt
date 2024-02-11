@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 575 Madison Ave
+
+    TYPE: Condo for sale
+
+    PRICE: 4075000
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2150.0
+
+    ADDRESS: 240 Riverside Blvd Apt 19B
+
+    STATE: New York, NY 10069
+
+    MAIN_ADDRESS: 240 Riverside Blvd Apt 19BNew York, NY 10069
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 240
+
+    FORMATTED_ADDRESS: 240 Riverside Blvd #19b, New York, NY 10023, USA
+
+    LATITUDE: 40.7804721
+
+    LONGITUDE: -73.9871434

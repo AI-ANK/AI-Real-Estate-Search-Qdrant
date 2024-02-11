@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Joachim Realty Llc
+
+    TYPE: Co-op for sale
+
+    PRICE: 169999
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 750.0
+
+    ADDRESS: 87-46 Chelsea St Unit 6E
+
+    STATE: Jamaica, NY 11432
+
+    MAIN_ADDRESS: 87-46 Chelsea St Unit 6EJamaica, NY 11432
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Jamaica
+
+    LONG_NAME: 87-46
+
+    FORMATTED_ADDRESS: 87-46 Chelsea St #6c, Queens, NY 11432, USA
+
+    LATITUDE: 40.714763
+
+    LONGITUDE: -73.776178

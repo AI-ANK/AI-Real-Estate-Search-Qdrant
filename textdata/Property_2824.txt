@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by DiTommaso Real Estate
+
+    TYPE: Contingent
+
+    PRICE: 789888
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1865.0
+
+    ADDRESS: 600 Annadale Rd
+
+    STATE: Staten Island, NY 10312
+
+    MAIN_ADDRESS: 600 Annadale RdStaten Island, NY 10312
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Annadale Road
+
+    FORMATTED_ADDRESS: 600 Annadale Rd, Staten Island, NY 10312, USA
+
+    LATITUDE: 40.5476973
+
+    LONGITUDE: -74.1752129

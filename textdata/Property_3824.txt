@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - Bayside
+
+    TYPE: Pending
+
+    PRICE: 825000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 33-11 73rd St
+
+    STATE: Jackson Heights, NY 11372
+
+    MAIN_ADDRESS: 33-11 73rd StJackson Heights, NY 11372
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 73rd Street
+
+    FORMATTED_ADDRESS: 33-11 73rd St, Flushing, NY 11372, USA
+
+    LATITUDE: 40.7542784
+
+    LONGITUDE: -73.8933876

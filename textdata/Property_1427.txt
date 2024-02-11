@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Winzone Realty Inc
+
+    TYPE: House for sale
+
+    PRICE: 3900000
+
+    BEDS: 5
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 7723.0
+
+    ADDRESS: 14458 Boulevard
+
+    STATE: Malba, NY 11357
+
+    MAIN_ADDRESS: 14458 BoulevardMalba, NY 11357
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Boulevard
+
+    FORMATTED_ADDRESS: 144-58 Boulevard, Malba, NY 11357, USA
+
+    LATITUDE: 40.7924353
+
+    LONGITUDE: -73.8258362

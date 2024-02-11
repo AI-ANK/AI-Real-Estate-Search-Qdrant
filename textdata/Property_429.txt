@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams NYC
+
+    TYPE: Townhouse for sale
+
+    PRICE: 2850000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 4080.0
+
+    ADDRESS: 30-53 35th St
+
+    STATE: Queens, NY 11103
+
+    MAIN_ADDRESS: 30-53 35th StQueens, NY 11103
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 35th Street
+
+    FORMATTED_ADDRESS: 30-53 35th St, Long Island City, NY 11103, USA
+
+    LATITUDE: 40.7639241
+
+    LONGITUDE: -73.9190583

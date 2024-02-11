@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Townhouse for sale
+
+    PRICE: 4200000
+
+    BEDS: 5
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 4480.0
+
+    ADDRESS: 164 W 88th St Unit Townhouse
+
+    STATE: Manhattan, NY 10024
+
+    MAIN_ADDRESS: 164 W 88th St Unit TownhouseManhattan, NY 10024
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: West 88th Street
+
+    FORMATTED_ADDRESS: 164 W 88th St, New York, NY 10024, USA
+
+    LATITUDE: 40.788437
+
+    LONGITUDE: -73.9731887

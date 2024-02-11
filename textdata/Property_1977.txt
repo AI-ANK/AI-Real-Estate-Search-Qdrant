@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Weichert Realtors Evolution Group
+
+    TYPE: House for sale
+
+    PRICE: 855000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1383.0
+
+    ADDRESS: 306 Oldfield St
+
+    STATE: Staten Island, NY 10306
+
+    MAIN_ADDRESS: 306 Oldfield StStaten Island, NY 10306
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Oldfield Street
+
+    FORMATTED_ADDRESS: 306 Oldfield St, Staten Island, NY 10306, USA
+
+    LATITUDE: 40.5725396
+
+    LONGITUDE: -74.1007568

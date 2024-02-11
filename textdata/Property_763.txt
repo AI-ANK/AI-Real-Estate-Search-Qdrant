@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Ashford Homes
+
+    TYPE: House for sale
+
+    PRICE: 1088888
+
+    BEDS: 5
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2452.0
+
+    ADDRESS: 75 Four Corners Rd
+
+    STATE: Staten Island, NY 10304
+
+    MAIN_ADDRESS: 75 Four Corners RdStaten Island, NY 10304
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: 4 Corners Road
+
+    FORMATTED_ADDRESS: 75 4 Corners Rd, Staten Island, NY 10304, USA
+
+    LATITUDE: 40.5908557
+
+    LONGITUDE: -74.1037852

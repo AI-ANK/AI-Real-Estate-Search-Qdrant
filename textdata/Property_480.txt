@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sowae Corp
+
+    TYPE: House for sale
+
+    PRICE: 250000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1376.0
+
+    ADDRESS: 4413 Avenue M
+
+    STATE: Brooklyn, NY 11234
+
+    MAIN_ADDRESS: 4413 Avenue MBrooklyn, NY 11234
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Avenue M
+
+    FORMATTED_ADDRESS: 4413 Avenue M, Brooklyn, NY 11234, USA
+
+    LATITUDE: 40.6212165
+
+    LONGITUDE: -73.9324344

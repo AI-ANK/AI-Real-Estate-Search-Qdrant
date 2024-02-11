@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Bedford Stuyvesant
+
+    TYPE: Co-op for sale
+
+    PRICE: 549000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 56 Jane St Apt 1B
+
+    STATE: New York, NY 10014
+
+    MAIN_ADDRESS: 56 Jane St Apt 1BNew York, NY 10014
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 56
+
+    FORMATTED_ADDRESS: 56 Jane St #1b, New York, NY 10014, USA
+
+    LATITUDE: 40.7380264
+
+    LONGITUDE: -74.0053843

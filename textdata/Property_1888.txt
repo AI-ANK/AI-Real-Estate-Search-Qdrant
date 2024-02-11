@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by The Bouklis Group - The Bouklis Group
+
+    TYPE: Condo for sale
+
+    PRICE: 649000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 705.0
+
+    ADDRESS: 14-43 28th Ave Unit BB1
+
+    STATE: Astoria, NY 11102
+
+    MAIN_ADDRESS: 14-43 28th Ave Unit BB1Astoria, NY 11102
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Astoria
+
+    LONG_NAME: 14-43
+
+    FORMATTED_ADDRESS: 14-43 28th Ave bb1, Astoria, NY 11102, USA
+
+    LATITUDE: 40.7715328
+
+    LONGITUDE: -73.9273805

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Townhouse for sale
+
+    PRICE: 1999000
+
+    BEDS: 5
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 3100.0
+
+    ADDRESS: 468 Marion St
+
+    STATE: Brooklyn, NY 11233
+
+    MAIN_ADDRESS: 468 Marion StBrooklyn, NY 11233
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Marion Street
+
+    FORMATTED_ADDRESS: 468 Marion St, Brooklyn, NY 11233, USA
+
+    LATITUDE: 40.6816466
+
+    LONGITUDE: -73.9105641

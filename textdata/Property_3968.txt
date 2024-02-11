@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by KELLER WILLIAMS REALTY LANDMARK II
+
+    TYPE: Co-op for sale
+
+    PRICE: 250000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 5128 30th Ave Apt 5H
+
+    STATE: Woodside, NY 11377
+
+    MAIN_ADDRESS: 5128 30th Ave Apt 5HWoodside, NY 11377
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Woodside
+
+    LONG_NAME: 5128
+
+    FORMATTED_ADDRESS: 5128 30th Ave. #5b, Woodside, NY 11377, USA
+
+    LATITUDE: 40.7593913
+
+    LONGITUDE: -73.9054195

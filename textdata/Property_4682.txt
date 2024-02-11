@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 559000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 4523 Broadway Apt 7C
+
+    STATE: Manhattan, NY 10040
+
+    MAIN_ADDRESS: 4523 Broadway Apt 7CManhattan, NY 10040
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 4523
+
+    FORMATTED_ADDRESS: 4523 Broadway Apt 7b, New York, NY 10040, USA
+
+    LATITUDE: 40.8589654
+
+    LONGITUDE: -73.9316673

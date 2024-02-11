@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Daniel Gale Sotheby's International Realty
+
+    TYPE: Co-op for sale
+
+    PRICE: 225000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 269-10 Grand Central Pkwy Unit 9P
+
+    STATE: Floral Park, NY 11005
+
+    MAIN_ADDRESS: 269-10 Grand Central Pkwy Unit 9PFloral Park, NY 11005
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Grand Central Parkway
+
+    FORMATTED_ADDRESS: 269-10 Grand Central Pkwy, Queens, NY 11005, USA
+
+    LATITUDE: 40.7577974
+
+    LONGITUDE: -73.7159601

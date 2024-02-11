@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Fillmore Real Estate
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 900500
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 10716 Avenue J
+
+    STATE: Brooklyn, NY 11236
+
+    MAIN_ADDRESS: 10716 Avenue JBrooklyn, NY 11236
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Avenue J
+
+    FORMATTED_ADDRESS: 10716 Avenue J, Brooklyn, NY 11236, USA
+
+    LATITUDE: 40.6468871
+
+    LONGITUDE: -73.8907758

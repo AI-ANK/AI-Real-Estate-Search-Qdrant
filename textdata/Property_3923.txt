@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE/MAX Team
+
+    TYPE: Co-op for sale
+
+    PRICE: 398800
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 3540 82nd St Apt 4D
+
+    STATE: Jackson Heights, NY 11372
+
+    MAIN_ADDRESS: 3540 82nd St Apt 4DJackson Heights, NY 11372
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Jackson Heights
+
+    LONG_NAME: 3540
+
+    FORMATTED_ADDRESS: 3540 82nd St #4d, Queens, NY 113725105, USA
+
+    LATITUDE: 40.7505816
+
+    LONGITUDE: -73.8847602

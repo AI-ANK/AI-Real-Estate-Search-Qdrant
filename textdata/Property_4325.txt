@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens - 445 Park Avenue
+
+    TYPE: Co-op for sale
+
+    PRICE: 2500000
+
+    BEDS: 3
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 333 E 57th St Apt 12A
+
+    STATE: Manhattan, NY 10022
+
+    MAIN_ADDRESS: 333 E 57th St Apt 12AManhattan, NY 10022
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 333
+
+    FORMATTED_ADDRESS: 333 E 57th St # 12A, New York, NY 10022, USA
+
+    LATITUDE: 40.75896
+
+    LONGITUDE: -73.9637319

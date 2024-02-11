@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by REAL NEW YORK - Remote Brooklyn
+
+    TYPE: Condo for sale
+
+    PRICE: 499000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 472.0
+
+    ADDRESS: 127 W 112th St Apt 1B
+
+    STATE: New York, NY 10026
+
+    MAIN_ADDRESS: 127 W 112th St Apt 1BNew York, NY 10026
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 127
+
+    FORMATTED_ADDRESS: 127 W 112th St #1b, New York, NY 10026, USA
+
+    LATITUDE: 40.800382
+
+    LONGITUDE: -73.953136

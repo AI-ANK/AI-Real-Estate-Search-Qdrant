@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Top Nest Inc
+
+    TYPE: House for sale
+
+    PRICE: 594900
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1224.0
+
+    ADDRESS: 939 E 87th St
+
+    STATE: Brooklyn, NY 11236
+
+    MAIN_ADDRESS: 939 E 87th StBrooklyn, NY 11236
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: East 87th Street
+
+    FORMATTED_ADDRESS: 939 E 87th St, Brooklyn, NY 11236, USA
+
+    LATITUDE: 40.63818
+
+    LONGITUDE: -73.9071525

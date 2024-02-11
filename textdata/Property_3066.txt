@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Classic Service Realty Inc
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1250000
+
+    BEDS: 5
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2376.0
+
+    ADDRESS: 2337 Foster Ave
+
+    STATE: Ditmas Park, NY 11226
+
+    MAIN_ADDRESS: 2337 Foster AveDitmas Park, NY 11226
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Foster Avenue
+
+    FORMATTED_ADDRESS: 2337 Foster Ave, Brooklyn, NY 11210, USA
+
+    LATITUDE: 40.6383413
+
+    LONGITUDE: -73.9547608

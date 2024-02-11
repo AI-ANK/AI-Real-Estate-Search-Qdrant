@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Coldwell Banker Reliable
+
+    TYPE: Contingent
+
+    PRICE: 990000
+
+    BEDS: 11
+
+    BATH: 9.0
+
+    PROPERTYSQFT: 6240.0
+
+    ADDRESS: 269 Grafton St
+
+    STATE: Brooklyn, NY 11212
+
+    MAIN_ADDRESS: 269 Grafton StBrooklyn, NY 11212
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Grafton Street
+
+    FORMATTED_ADDRESS: 269 Grafton St, Brooklyn, NY 11212, USA
+
+    LATITUDE: 40.6616708
+
+    LONGITUDE: -73.9171293

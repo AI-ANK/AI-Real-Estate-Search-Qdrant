@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sotheby's International Realty - East Side Manhattan Brokerage
+
+    TYPE: Condo for sale
+
+    PRICE: 3995000
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1856.0
+
+    ADDRESS: 230 W 56th St Apt 65B
+
+    STATE: New York, NY 10019
+
+    MAIN_ADDRESS: 230 W 56th St Apt 65BNew York, NY 10019
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York County
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Manhattan
+
+    STREET_NAME: West 56th Street
+
+    LONG_NAME: Random House Tower
+
+    FORMATTED_ADDRESS: Random House Tower, 230 W 56th St APT 65B, New York, NY 10019, USA
+
+    LATITUDE: 40.7652485
+
+    LONGITUDE: -73.9824857

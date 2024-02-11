@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by The Agency
+
+    TYPE: Townhouse for sale
+
+    PRICE: 6900000
+
+    BEDS: 10
+
+    BATH: 10.0
+
+    PROPERTYSQFT: 6060.0
+
+    ADDRESS: 53 W 94th St
+
+    STATE: New York, NY 10025
+
+    MAIN_ADDRESS: 53 W 94th StNew York, NY 10025
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: West 94th Street
+
+    FORMATTED_ADDRESS: 53 W 94th St, New York, NY 10025, USA
+
+    LATITUDE: 40.7912137
+
+    LONGITUDE: -73.9671974

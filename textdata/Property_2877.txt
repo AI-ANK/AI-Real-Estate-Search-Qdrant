@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Homes R Us Realty of NY, Inc.
+
+    TYPE: Townhouse for sale
+
+    PRICE: 950000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1800.0
+
+    ADDRESS: 219 26th St
+
+    STATE: Brooklyn, NY 11232
+
+    MAIN_ADDRESS: 219 26th StBrooklyn, NY 11232
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: 26th Street
+
+    FORMATTED_ADDRESS: 219 26th St, Brooklyn, NY 11232, USA
+
+    LATITUDE: 40.6594527
+
+    LONGITUDE: -73.9975913

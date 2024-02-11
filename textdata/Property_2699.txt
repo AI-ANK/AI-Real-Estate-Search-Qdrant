@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Pending
+
+    PRICE: 675000
+
+    BEDS: 3
+
+    BATH: 0.0
+
+    PROPERTYSQFT: 2780.0
+
+    ADDRESS: 41 Warren St Unit Subc
+
+    STATE: Manhattan, NY 10007
+
+    MAIN_ADDRESS: 41 Warren St Unit SubcManhattan, NY 10007
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 41
+
+    FORMATTED_ADDRESS: 41 Warren St b, New York, NY 10007, USA
+
+    LATITUDE: 40.7143933
+
+    LONGITUDE: -74.0088774

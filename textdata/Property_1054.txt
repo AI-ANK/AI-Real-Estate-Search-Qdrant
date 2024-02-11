@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Realty Trends Corp
+
+    TYPE: House for sale
+
+    PRICE: 599000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2100.0
+
+    ADDRESS: 22-63 Nameoke Ave
+
+    STATE: Far Rockaway, NY 11691
+
+    MAIN_ADDRESS: 22-63 Nameoke AveFar Rockaway, NY 11691
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Nameoke Avenue
+
+    FORMATTED_ADDRESS: 22-63 Nameoke Ave, Far Rockaway, NY 11691, USA
+
+    LATITUDE: 40.6083635
+
+    LONGITUDE: -73.7565424

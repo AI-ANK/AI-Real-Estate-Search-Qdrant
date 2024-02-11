@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Ozana Realty Group
+
+    TYPE: House for sale
+
+    PRICE: 698888
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1440.0
+
+    ADDRESS: 160 New Dorp Plz
+
+    STATE: Staten Island, NY 10306
+
+    MAIN_ADDRESS: 160 New Dorp PlzStaten Island, NY 10306
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: New Dorp Plaza
+
+    FORMATTED_ADDRESS: 160 New Dorp Plaza, Staten Island, NY 10306, USA
+
+    LATITUDE: 40.571472
+
+    LONGITUDE: -74.1193966

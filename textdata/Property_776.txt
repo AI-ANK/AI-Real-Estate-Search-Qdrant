@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sotheby's International Realty - Downtown Manhattan
+
+    TYPE: Townhouse for sale
+
+    PRICE: 25500000
+
+    BEDS: 5
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 763 Greenwich St
+
+    STATE: New York, NY 10014
+
+    MAIN_ADDRESS: 763 Greenwich StNew York, NY 10014
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: Greenwich Street
+
+    FORMATTED_ADDRESS: 763 Greenwich St, New York, NY 10014, USA
+
+    LATITUDE: 40.7361176
+
+    LONGITUDE: -74.0064866

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Ditommaso Real Estate
+
+    TYPE: Condo for sale
+
+    PRICE: 479000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1008.0
+
+    ADDRESS: 57 Stone Ln Unit 2
+
+    STATE: Staten Island, NY 10314
+
+    MAIN_ADDRESS: 57 Stone Ln Unit 2Staten Island, NY 10314
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Richmond County
+
+    SUBLOCALITY: Staten Island
+
+    STREET_NAME: New Springville
+
+    LONG_NAME: 57
+
+    FORMATTED_ADDRESS: 57 Stone Ln #2, Staten Island, NY 10314, USA
+
+    LATITUDE: 40.5782884
+
+    LONGITUDE: -74.1583011

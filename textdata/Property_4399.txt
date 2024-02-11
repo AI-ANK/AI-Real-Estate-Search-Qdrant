@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Toll Brothers, Inc
+
+    TYPE: Condo for sale
+
+    PRICE: 1125000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 743.0
+
+    ADDRESS: 218 W 103rd St Unit 4F
+
+    STATE: New York, NY 10025
+
+    MAIN_ADDRESS: 218 W 103rd St Unit 4FNew York, NY 10025
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: West 103rd Street
+
+    FORMATTED_ADDRESS: 4 W 103rd St, New York, NY 10025, USA
+
+    LATITUDE: 40.7961762
+
+    LONGITUDE: -73.962094

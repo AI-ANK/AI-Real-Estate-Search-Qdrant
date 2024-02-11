@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Canaan Realty International
+
+    TYPE: Condo for sale
+
+    PRICE: 1450000
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1855.0
+
+    ADDRESS: 40-26 College Point Blvd Unit 18F
+
+    STATE: Flushing, NY 11354
+
+    MAIN_ADDRESS: 40-26 College Point Blvd Unit 18FFlushing, NY 11354
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 40-26
+
+    FORMATTED_ADDRESS: 40-26 College Point Blvd #18d, Flushing, NY 11354, USA
+
+    LATITUDE: 40.7573108
+
+    LONGITUDE: -73.8341865

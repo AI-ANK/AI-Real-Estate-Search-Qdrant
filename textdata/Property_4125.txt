@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Pending
+
+    PRICE: 550000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1520.0
+
+    ADDRESS: 9 Zoe St
+
+    STATE: Staten Island, NY 10305
+
+    MAIN_ADDRESS: 9 Zoe StStaten Island, NY 10305
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Zoe Street
+
+    FORMATTED_ADDRESS: 9 Zoe St, Staten Island, NY 10305, USA
+
+    LATITUDE: 40.5878221
+
+    LONGITUDE: -74.097086

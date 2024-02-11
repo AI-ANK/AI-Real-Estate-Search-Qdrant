@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Elite
+
+    TYPE: House for sale
+
+    PRICE: 1088888
+
+    BEDS: 3
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 1320.0
+
+    ADDRESS: 1568 W 2nd St
+
+    STATE: Brooklyn, NY 11204
+
+    MAIN_ADDRESS: 1568 W 2nd StBrooklyn, NY 11204
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: West 2nd Street
+
+    FORMATTED_ADDRESS: 1568 W 2nd St, Brooklyn, NY 11204, USA
+
+    LATITUDE: 40.6090909
+
+    LONGITUDE: -73.9762651

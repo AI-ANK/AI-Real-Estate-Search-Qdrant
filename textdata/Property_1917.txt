@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brooklyn Real Property, Inc
+
+    TYPE: House for sale
+
+    PRICE: 720000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 936.0
+
+    ADDRESS: 1217 E 101st St
+
+    STATE: Brooklyn, NY 11236
+
+    MAIN_ADDRESS: 1217 E 101st StBrooklyn, NY 11236
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: East 101st Street
+
+    FORMATTED_ADDRESS: 1217 E 101st St, Brooklyn, NY 11236, USA
+
+    LATITUDE: 40.6404818
+
+    LONGITUDE: -73.8915337

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Avenues - Headquarters
+
+    TYPE: Condo for sale
+
+    PRICE: 555000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 186 W 80th St Apt 3E
+
+    STATE: New York, NY 10024
+
+    MAIN_ADDRESS: 186 W 80th St Apt 3ENew York, NY 10024
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 186
+
+    FORMATTED_ADDRESS: 186 W 80th St #3e, New York, NY 10024, USA
+
+    LATITUDE: 40.7835114
+
+    LONGITUDE: -73.9776775

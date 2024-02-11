@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by KELLER WILLIAMS REALTY EMPIRE
+
+    TYPE: Co-op for sale
+
+    PRICE: 545000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1050.0
+
+    ADDRESS: 9411 Shore Rd Apt 4K
+
+    STATE: Brooklyn, NY 11209
+
+    MAIN_ADDRESS: 9411 Shore Rd Apt 4KBrooklyn, NY 11209
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Fort Hamilton
+
+    LONG_NAME: 9411
+
+    FORMATTED_ADDRESS: 9411 Shore Rd #4k, Brooklyn, NY 11209, USA
+
+    LATITUDE: 40.617623
+
+    LONGITUDE: -74.038637

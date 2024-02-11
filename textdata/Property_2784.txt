@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by NEUHAUS REALTY, INC.
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1599999
+
+    BEDS: 5
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 3773.0
+
+    ADDRESS: 160 Rathbun Ave Unit A
+
+    STATE: Staten Island, NY 10312
+
+    MAIN_ADDRESS: 160 Rathbun Ave Unit AStaten Island, NY 10312
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Rathbun Avenue
+
+    FORMATTED_ADDRESS: 160 Rathbun Ave, Staten Island, NY 10312, USA
+
+    LATITUDE: 40.5461245
+
+    LONGITUDE: -74.1826661

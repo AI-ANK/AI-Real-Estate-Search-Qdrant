@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 940000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 33-39 80th St Unit 1
+
+    STATE: Queens, NY 11372
+
+    MAIN_ADDRESS: 33-39 80th St Unit 1Queens, NY 11372
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Jackson Heights
+
+    LONG_NAME: 3339
+
+    FORMATTED_ADDRESS: 3339 80th St Apt 1, Jackson Heights, NY 11372, USA
+
+    LATITUDE: 40.7553599
+
+    LONGITUDE: -73.88722

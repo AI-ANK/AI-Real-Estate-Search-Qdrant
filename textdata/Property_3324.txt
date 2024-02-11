@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by BOTTON REALTY GROUP
+
+    TYPE: House for sale
+
+    PRICE: 998000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1232.0
+
+    ADDRESS: 2247 Coney Island Ave
+
+    STATE: Brooklyn, NY 11223
+
+    MAIN_ADDRESS: 2247 Coney Island AveBrooklyn, NY 11223
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Coney Island Avenue
+
+    FORMATTED_ADDRESS: 2247 Coney Island Ave, Brooklyn, NY 11223, USA
+
+    LATITUDE: 40.6022677
+
+    LONGITUDE: -73.9611815

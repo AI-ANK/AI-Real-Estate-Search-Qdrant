@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Stone Hill Real Estate
+
+    TYPE: House for sale
+
+    PRICE: 850000
+
+    BEDS: 6
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2280.0
+
+    ADDRESS: 62 15th St Unit 15TH
+
+    STATE: Brooklyn, NY 11215
+
+    MAIN_ADDRESS: 62 15th St Unit 15THBrooklyn, NY 11215
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Gowanus
+
+    LONG_NAME: 62
+
+    FORMATTED_ADDRESS: 62 15th St #15th, Brooklyn, NY 11215, USA
+
+    LATITUDE: 40.6681319
+
+    LONGITUDE: -73.9948468

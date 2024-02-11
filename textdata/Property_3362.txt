@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Landseair Real Estate Group
+
+    TYPE: Co-op for sale
+
+    PRICE: 130000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 422.0
+
+    ADDRESS: 164-20 Highland Ave Unit 8W
+
+    STATE: Jamaica, NY 11432
+
+    MAIN_ADDRESS: 164-20 Highland Ave Unit 8WJamaica, NY 11432
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Jamaica
+
+    LONG_NAME: 16420
+
+    FORMATTED_ADDRESS: 16420 Highland Ave Apt 8u, Jamaica, NY 11432, USA
+
+    LATITUDE: 40.7102499
+
+    LONGITUDE: -73.79985

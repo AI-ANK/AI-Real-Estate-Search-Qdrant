@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Realty Empire
+
+    TYPE: House for sale
+
+    PRICE: 585000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1100.0
+
+    ADDRESS: 192 Colfax Ave
+
+    STATE: Staten Island, NY 10306
+
+    MAIN_ADDRESS: 192 Colfax AveStaten Island, NY 10306
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Colfax Avenue
+
+    FORMATTED_ADDRESS: 192 Colfax Ave, Staten Island, NY 10306, USA
+
+    LATITUDE: 40.5784263
+
+    LONGITUDE: -74.105437

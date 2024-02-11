@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Robert Defalco Realty, Inc.
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1459000
+
+    BEDS: 5
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 3500.0
+
+    ADDRESS: 11 Torrice Loop
+
+    STATE: Staten Island, NY 10309
+
+    MAIN_ADDRESS: 11 Torrice LoopStaten Island, NY 10309
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Torrice Loop
+
+    FORMATTED_ADDRESS: 11 Torrice Lp, Staten Island, NY 10309, USA
+
+    LATITUDE: 40.521212
+
+    LONGITUDE: -74.230732

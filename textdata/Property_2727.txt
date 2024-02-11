@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Tapestry Real Estate of Queens
+
+    TYPE: Co-op for sale
+
+    PRICE: 270000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 700.0
+
+    ADDRESS: 21-78 35 St Unit 5F
+
+    STATE: Astoria, NY 11101
+
+    MAIN_ADDRESS: 21-78 35 St Unit 5FAstoria, NY 11101
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Astoria
+
+    LONG_NAME: 21-78
+
+    FORMATTED_ADDRESS: 21-78 35th St #5f, Astoria, NY 11105, USA
+
+    LATITUDE: 40.7751901
+
+    LONGITUDE: -73.9090015

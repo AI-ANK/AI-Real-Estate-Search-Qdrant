@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Co-op for sale
+
+    PRICE: 165000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 550.0
+
+    ADDRESS: 555 Kappock St Apt 5M
+
+    STATE: Bronx, NY 10463
+
+    MAIN_ADDRESS: 555 Kappock St Apt 5MBronx, NY 10463
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: Spuyten Duyvil
+
+    LONG_NAME: 555
+
+    FORMATTED_ADDRESS: 555 Kappock St #5m, Bronx, NY 10463, USA
+
+    LATITUDE: 40.878087
+
+    LONGITUDE: -73.9170513

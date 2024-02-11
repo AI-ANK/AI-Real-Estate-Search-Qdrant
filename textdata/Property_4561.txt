@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by CRM Real Estate
+
+    TYPE: Contingent
+
+    PRICE: 469000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1352.0
+
+    ADDRESS: 28 Monsey Pl
+
+    STATE: Staten Island, NY 10303
+
+    MAIN_ADDRESS: 28 Monsey PlStaten Island, NY 10303
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Monsey Place
+
+    FORMATTED_ADDRESS: 28 Monsey Pl, Staten Island, NY 10303, USA
+
+    LATITUDE: 40.6241938
+
+    LONGITUDE: -74.1500827

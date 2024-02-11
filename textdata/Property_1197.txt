@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Wonica REALTORS & Appraisers
+
+    TYPE: Contingent
+
+    PRICE: 675000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1316.0
+
+    ADDRESS: 192 Hart Blvd
+
+    STATE: Staten Island, NY 10301
+
+    MAIN_ADDRESS: 192 Hart BlvdStaten Island, NY 10301
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Hart Boulevard
+
+    FORMATTED_ADDRESS: 192 Hart Blvd, Staten Island, NY 10301, USA
+
+    LATITUDE: 40.630475
+
+    LONGITUDE: -74.100665

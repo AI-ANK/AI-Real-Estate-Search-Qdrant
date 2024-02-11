@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Co-op for sale
+
+    PRICE: 309000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 3935 Blackstone Ave Apt 3F
+
+    STATE: Bronx, NY 10471
+
+    MAIN_ADDRESS: 3935 Blackstone Ave Apt 3FBronx, NY 10471
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: Riverdale
+
+    LONG_NAME: 3935
+
+    FORMATTED_ADDRESS: 3935 Blackstone Ave #3f, Bronx, NY 10471, USA
+
+    LATITUDE: 40.890384
+
+    LONGITUDE: -73.9117878

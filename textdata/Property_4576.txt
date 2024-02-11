@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by BROOKLYN`S 4 U REALTY
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 2599000
+
+    BEDS: 3
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 4662.0
+
+    ADDRESS: 102 Patchen Ave
+
+    STATE: Brooklyn, NY 11221
+
+    MAIN_ADDRESS: 102 Patchen AveBrooklyn, NY 11221
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Patchen Avenue
+
+    FORMATTED_ADDRESS: 102 Patchen Ave, Brooklyn, NY 11221, USA
+
+    LATITUDE: 40.6883929
+
+    LONGITUDE: -73.9273243

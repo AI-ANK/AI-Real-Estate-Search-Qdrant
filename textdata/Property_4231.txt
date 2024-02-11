@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by EXP Realty
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1750000
+
+    BEDS: 6
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2146.0
+
+    ADDRESS: 767 47th St
+
+    STATE: Brooklyn, NY 11220
+
+    MAIN_ADDRESS: 767 47th StBrooklyn, NY 11220
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: 47th Street
+
+    FORMATTED_ADDRESS: 767 47th St, Brooklyn, NY 11220, USA
+
+    LATITUDE: 40.6432486
+
+    LONGITUDE: -74.0023432

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Trademarko Realty Inc
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1090000
+
+    BEDS: 12
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 4875.0
+
+    ADDRESS: 17-25 Menahan St
+
+    STATE: Ridgewood, NY 11385
+
+    MAIN_ADDRESS: 17-25 Menahan StRidgewood, NY 11385
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Menahan Street
+
+    FORMATTED_ADDRESS: 17-25 Menahan St, Flushing, NY 11385, USA
+
+    LATITUDE: 40.7042392
+
+    LONGITUDE: -73.9113817

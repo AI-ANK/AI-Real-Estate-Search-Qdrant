@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 575 Madison Ave
+
+    TYPE: Co-op for sale
+
+    PRICE: 550000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 225 E 74th St Apt 5M
+
+    STATE: New York, NY 10021
+
+    MAIN_ADDRESS: 225 E 74th St Apt 5MNew York, NY 10021
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 225
+
+    FORMATTED_ADDRESS: 225 E 74th St #5m, New York, NY 10021, USA
+
+    LATITUDE: 40.7706605
+
+    LONGITUDE: -73.9580748

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by ATLANTIC PROPERTIES REALTY INC
+
+    TYPE: House for sale
+
+    PRICE: 1175000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 3026 Brighton 7th St
+
+    STATE: Brooklyn, NY 11235
+
+    MAIN_ADDRESS: 3026 Brighton 7th StBrooklyn, NY 11235
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Brighton 7th Street
+
+    FORMATTED_ADDRESS: 3026 Brighton 7th St., Brooklyn, NY 11235, USA
+
+    LATITUDE: 40.5791234
+
+    LONGITUDE: -73.9613152

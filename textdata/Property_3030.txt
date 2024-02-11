@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Edge
+
+    TYPE: Condo for sale
+
+    PRICE: 799000
+
+    BEDS: 5
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1500.0
+
+    ADDRESS: 1025 45th St Unit 4
+
+    STATE: Brooklyn, NY 11219
+
+    MAIN_ADDRESS: 1025 45th St Unit 4Brooklyn, NY 11219
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Borough Park
+
+    LONG_NAME: 1025
+
+    FORMATTED_ADDRESS: 1025 45th St APT 4D, Brooklyn, NY 11219, USA
+
+    LATITUDE: 40.6409434
+
+    LONGITUDE: -73.9953527

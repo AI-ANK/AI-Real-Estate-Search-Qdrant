@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Brooklyn Heights
+
+    TYPE: Co-op for sale
+
+    PRICE: 699000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1400.0
+
+    ADDRESS: 70 Lenox Rd Apt D2
+
+    STATE: Brooklyn, NY 11226
+
+    MAIN_ADDRESS: 70 Lenox Rd Apt D2Brooklyn, NY 11226
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Flatbush
+
+    LONG_NAME: 70
+
+    FORMATTED_ADDRESS: 70 Lenox Rd Apt D2, Brooklyn, NY 11226, USA
+
+    LATITUDE: 40.6535119
+
+    LONGITUDE: -73.9571389

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams NYC
+
+    TYPE: Co-op for sale
+
+    PRICE: 300000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 205 E 77th St Apt 11H
+
+    STATE: New York, NY 10075
+
+    MAIN_ADDRESS: 205 E 77th St Apt 11HNew York, NY 10075
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 205
+
+    FORMATTED_ADDRESS: 205 E 77th St #11h, New York, NY 10075, USA
+
+    LATITUDE: 40.7728867
+
+    LONGITUDE: -73.9575288

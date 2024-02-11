@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by The Agency
+
+    TYPE: Condo for sale
+
+    PRICE: 15250000
+
+    BEDS: 4
+
+    BATH: 5.0
+
+    PROPERTYSQFT: 4264.0
+
+    ADDRESS: 551 W 21st St Apt 15A
+
+    STATE: New York, NY 10011
+
+    MAIN_ADDRESS: 551 W 21st St Apt 15ANew York, NY 10011
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 551
+
+    FORMATTED_ADDRESS: 551 W 21st St #15a, New York, NY 10011, USA
+
+    LATITUDE: 40.7474926
+
+    LONGITUDE: -74.0072666

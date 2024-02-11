@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Elite
+
+    TYPE: House for sale
+
+    PRICE: 674999
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1440.0
+
+    ADDRESS: 107 Salamander Ct
+
+    STATE: Staten Island, NY 10309
+
+    MAIN_ADDRESS: 107 Salamander CtStaten Island, NY 10309
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Salamander Court
+
+    FORMATTED_ADDRESS: 107 Salamander Ct, Staten Island, NY 10309, USA
+
+    LATITUDE: 40.5394128
+
+    LONGITUDE: -74.2228391

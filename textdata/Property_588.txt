@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Chase Global Realty Corp
+
+    TYPE: House for sale
+
+    PRICE: 930000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 32-16 61st St
+
+    STATE: Woodside, NY 11377
+
+    MAIN_ADDRESS: 32-16 61st StWoodside, NY 11377
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 61st Street
+
+    FORMATTED_ADDRESS: 32-16 61st St, Flushing, NY 11377, USA
+
+    LATITUDE: 40.7555333
+
+    LONGITUDE: -73.9016851

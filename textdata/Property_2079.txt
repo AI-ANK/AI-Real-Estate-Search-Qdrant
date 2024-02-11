@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sotheby's International Realty - East Side Manhattan Brokerage
+
+    TYPE: Townhouse for sale
+
+    PRICE: 1335000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 551 Lexington Ave
+
+    STATE: Brooklyn, NY 11221
+
+    MAIN_ADDRESS: 551 Lexington AveBrooklyn, NY 11221
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Lexington Avenue
+
+    FORMATTED_ADDRESS: 551 Lexington Ave, Brooklyn, NY 11221, USA
+
+    LATITUDE: 40.689193
+
+    LONGITUDE: -73.9397249

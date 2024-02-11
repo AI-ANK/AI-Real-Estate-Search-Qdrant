@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 1995 Broadway
+
+    TYPE: Pending
+
+    PRICE: 729000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 193 Bleecker St Apt 12B
+
+    STATE: New York, NY 10012
+
+    MAIN_ADDRESS: 193 Bleecker St Apt 12BNew York, NY 10012
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 193
+
+    FORMATTED_ADDRESS: 193 Bleecker St #12b, New York, NY 10012, USA
+
+    LATITUDE: 40.7293904
+
+    LONGITUDE: -74.0013331

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by TRACEY REAL ESTATE
+
+    TYPE: Co-op for sale
+
+    PRICE: 699000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1100.0
+
+    ADDRESS: 125 Ocean Ave Apt 1J
+
+    STATE: Brooklyn, NY 11225
+
+    MAIN_ADDRESS: 125 Ocean Ave Apt 1JBrooklyn, NY 11225
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Little Caribbean
+
+    LONG_NAME: 125
+
+    FORMATTED_ADDRESS: 125 Ocean Ave #1j, Brooklyn, NY 11225, USA
+
+    LATITUDE: 40.6599761
+
+    LONGITUDE: -73.9622977

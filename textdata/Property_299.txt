@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Century 21 Amiable Realty Group II, Inc.
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1199000
+
+    BEDS: 6
+
+    BATH: 5.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 151-42 82nd St
+
+    STATE: Howard Beach, NY 11414
+
+    MAIN_ADDRESS: 151-42 82nd StHoward Beach, NY 11414
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 82nd Street
+
+    FORMATTED_ADDRESS: 151-42 82nd St, Jamaica, NY 11414, USA
+
+    LATITUDE: 40.6662035
+
+    LONGITUDE: -73.8525027

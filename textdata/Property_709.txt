@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Elegran Real Estate And Development
+
+    TYPE: Condo for sale
+
+    PRICE: 2245000
+
+    BEDS: 2
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1724.0
+
+    ADDRESS: 171 E 84th St Apt 3B
+
+    STATE: New York, NY 10028
+
+    MAIN_ADDRESS: 171 E 84th St Apt 3BNew York, NY 10028
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 171
+
+    FORMATTED_ADDRESS: 171 E 84th St #3b, New York, NY 10028, USA
+
+    LATITUDE: 40.7779756
+
+    LONGITUDE: -73.9551546

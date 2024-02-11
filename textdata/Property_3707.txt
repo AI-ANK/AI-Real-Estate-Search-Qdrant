@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Properties Logan Inc
+
+    TYPE: Co-op for sale
+
+    PRICE: 458000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 35-21 81st St Unit 1C
+
+    STATE: Jackson Heights, NY 11372
+
+    MAIN_ADDRESS: 35-21 81st St Unit 1CJackson Heights, NY 11372
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 35-21
+
+    FORMATTED_ADDRESS: 35-21 81st St #1c, Flushing, NY 11372, USA
+
+    LATITUDE: 40.750966
+
+    LONGITUDE: -73.885177

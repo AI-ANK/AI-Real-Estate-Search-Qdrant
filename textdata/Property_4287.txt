@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Henry Watts Real Estate Corporation
+
+    TYPE: House for sale
+
+    PRICE: 1400000
+
+    BEDS: 12
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 1115 Putman Ave
+
+    STATE: Brooklyn, NY 11221
+
+    MAIN_ADDRESS: 1115 Putman AveBrooklyn, NY 11221
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Putnam Avenue
+
+    FORMATTED_ADDRESS: 1115 Putnam Ave, Brooklyn, NY 11221, USA
+
+    LATITUDE: 40.6887595
+
+    LONGITUDE: -73.9184086

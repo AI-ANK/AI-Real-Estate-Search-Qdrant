@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Momentum Real Estate LLC
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 898000
+
+    BEDS: 6
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2100.0
+
+    ADDRESS: 15 Spratt Ave
+
+    STATE: Staten Island, NY 10306
+
+    MAIN_ADDRESS: 15 Spratt AveStaten Island, NY 10306
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Spratt Avenue
+
+    FORMATTED_ADDRESS: 15 Spratt Ave, Staten Island, NY 10306, USA
+
+    LATITUDE: 40.5586967
+
+    LONGITUDE: -74.1351001

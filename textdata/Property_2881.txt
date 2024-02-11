@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran East Side
+
+    TYPE: Co-op for sale
+
+    PRICE: 3370000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 20 E 9th St # 14J
+
+    STATE: New York, NY 10003
+
+    MAIN_ADDRESS: 20 E 9th St # 14JNew York, NY 10003
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 20
+
+    FORMATTED_ADDRESS: 20 E 9th St #14j, New York, NY 10003, USA
+
+    LATITUDE: 40.7321377
+
+    LONGITUDE: -73.9947952

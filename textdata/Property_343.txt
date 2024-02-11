@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Hand In Hand Real Estate
+
+    TYPE: House for sale
+
+    PRICE: 699900
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1470.0
+
+    ADDRESS: 102 Lamberts Ln
+
+    STATE: Staten Island, NY 10314
+
+    MAIN_ADDRESS: 102 Lamberts LnStaten Island, NY 10314
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Lamberts Lane
+
+    FORMATTED_ADDRESS: 102 Lamberts Ln, Staten Island, NY 10314, USA
+
+    LATITUDE: 40.6153952
+
+    LONGITUDE: -74.1610855

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Park Slope
+
+    TYPE: Townhouse for sale
+
+    PRICE: 1288000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 1114 78th St
+
+    STATE: Brooklyn, NY 11228
+
+    MAIN_ADDRESS: 1114 78th StBrooklyn, NY 11228
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: 78th Street
+
+    FORMATTED_ADDRESS: 1114 78th St, Brooklyn, NY 11228, USA
+
+    LATITUDE: 40.6208518
+
+    LONGITUDE: -74.0133836

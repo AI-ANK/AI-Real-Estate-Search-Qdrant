@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Edge
+
+    TYPE: House for sale
+
+    PRICE: 438000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1354.0
+
+    ADDRESS: 123 Jamie Ln
+
+    STATE: Staten Island, NY 10312
+
+    MAIN_ADDRESS: 123 Jamie LnStaten Island, NY 10312
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Jamie Lane
+
+    FORMATTED_ADDRESS: 123 Jamie Ln, Staten Island, NY 10312, USA
+
+    LATITUDE: 40.5628043
+
+    LONGITUDE: -74.1853825

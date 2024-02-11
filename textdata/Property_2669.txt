@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 749000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 57 Thompson St Apt 2B
+
+    STATE: Manhattan, NY 10012
+
+    MAIN_ADDRESS: 57 Thompson St Apt 2BManhattan, NY 10012
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 57
+
+    FORMATTED_ADDRESS: 57 Thompson St #2b, New York, NY 10012, USA
+
+    LATITUDE: 40.7241044
+
+    LONGITUDE: -74.0035529

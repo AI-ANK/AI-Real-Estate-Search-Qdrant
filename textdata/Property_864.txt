@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by SkyLimit Realty Group
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 918000
+
+    BEDS: 4
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 88-04 69th Rd
+
+    STATE: Forest Hills, NY 11375
+
+    MAIN_ADDRESS: 88-04 69th RdForest Hills, NY 11375
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 69th Road
+
+    FORMATTED_ADDRESS: 88-04 69th Rd, Forest Hills, NY 11375, USA
+
+    LATITUDE: 40.7093093
+
+    LONGITUDE: -73.8548324

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sotheby's International Realty - Downtown Manhattan
+
+    TYPE: Co-op for sale
+
+    PRICE: 299000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 579 W 215th St Apt 9D
+
+    STATE: New York, NY 10034
+
+    MAIN_ADDRESS: 579 W 215th St Apt 9DNew York, NY 10034
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 579
+
+    FORMATTED_ADDRESS: 579 W 215th St #9d, New York, NY 10034, USA
+
+    LATITUDE: 40.8718895
+
+    LONGITUDE: -73.9188667

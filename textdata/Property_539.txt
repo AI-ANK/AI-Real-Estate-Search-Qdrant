@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: House for sale
+
+    PRICE: 900000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2700.0
+
+    ADDRESS: 12-14 W 5th Rd
+
+    STATE: Queens, NY 11693
+
+    MAIN_ADDRESS: 12-14 W 5th RdQueens, NY 11693
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: West 5th Road
+
+    FORMATTED_ADDRESS: 12 W 5th Rd, Broad Channel, NY 11693, USA
+
+    LATITUDE: 40.6110299
+
+    LONGITUDE: -73.8195062

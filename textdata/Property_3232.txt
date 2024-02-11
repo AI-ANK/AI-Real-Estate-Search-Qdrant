@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by KORR REALTY
+
+    TYPE: House for sale
+
+    PRICE: 799000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1000.0
+
+    ADDRESS: 2455 E 13th St
+
+    STATE: Brooklyn, NY 11235
+
+    MAIN_ADDRESS: 2455 E 13th StBrooklyn, NY 11235
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: East 13th Street
+
+    FORMATTED_ADDRESS: 2455 E 13th St, Brooklyn, NY 11235, USA
+
+    LATITUDE: 40.5907198
+
+    LONGITUDE: -73.956552

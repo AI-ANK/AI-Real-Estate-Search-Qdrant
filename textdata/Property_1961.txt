@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens - 129 Montague Street
+
+    TYPE: Townhouse for sale
+
+    PRICE: 25000000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 60-66 Clark St Unit Townhouse
+
+    STATE: Brooklyn, NY 11201
+
+    MAIN_ADDRESS: 60-66 Clark St Unit TownhouseBrooklyn, NY 11201
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Clark Street
+
+    FORMATTED_ADDRESS: 60 Clark St, Brooklyn, NY 11201, USA
+
+    LATITUDE: 40.6975406
+
+    LONGITUDE: -73.9938611

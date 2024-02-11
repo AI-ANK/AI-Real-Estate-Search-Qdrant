@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Rock Realty Inc
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 2150000
+
+    BEDS: 6
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 12-11 Jackson Ave
+
+    STATE: Long Island City, NY 11101
+
+    MAIN_ADDRESS: 12-11 Jackson AveLong Island City, NY 11101
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Jackson Avenue
+
+    FORMATTED_ADDRESS: 12-11 Jackson Ave, Long Island City, NY 11101, USA
+
+    LATITUDE: 40.7438369
+
+    LONGITUDE: -73.9505652

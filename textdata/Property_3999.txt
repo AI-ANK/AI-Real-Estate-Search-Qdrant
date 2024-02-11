@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 575 Madison Ave
+
+    TYPE: Condo for sale
+
+    PRICE: 1400000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1625.0
+
+    ADDRESS: 133 Beach 116th St # F
+
+    STATE: Queens, NY 11694
+
+    MAIN_ADDRESS: 133 Beach 116th St # FQueens, NY 11694
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Beach 116th Street
+
+    FORMATTED_ADDRESS: 133 Beach 116th St, Rockaway Park, NY 11694, USA
+
+    LATITUDE: 40.5783596
+
+    LONGITUDE: -73.8365039

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Bright Horizons Realty Inc
+
+    TYPE: House for sale
+
+    PRICE: 1699000
+
+    BEDS: 5
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2488.0
+
+    ADDRESS: 134 Beaumont St
+
+    STATE: Brooklyn, NY 11235
+
+    MAIN_ADDRESS: 134 Beaumont StBrooklyn, NY 11235
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Beaumont Street
+
+    FORMATTED_ADDRESS: 134 Beaumont St, Brooklyn, NY 11235, USA
+
+    LATITUDE: 40.5786214
+
+    LONGITUDE: -73.9515728

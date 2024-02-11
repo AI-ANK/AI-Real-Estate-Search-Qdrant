@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Edge
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1550000
+
+    BEDS: 7
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2024.0
+
+    ADDRESS: 6741 Colonial Rd
+
+    STATE: Brooklyn, NY 11220
+
+    MAIN_ADDRESS: 6741 Colonial RdBrooklyn, NY 11220
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Colonial Road
+
+    FORMATTED_ADDRESS: 6741 Colonial Rd, Brooklyn, NY 11220, USA
+
+    LATITUDE: 40.6384136
+
+    LONGITUDE: -74.0305401

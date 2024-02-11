@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by American Homes Group
+
+    TYPE: House for sale
+
+    PRICE: 529000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1150.0
+
+    ADDRESS: 1524 Castleton Ave
+
+    STATE: Staten Island, NY 10302
+
+    MAIN_ADDRESS: 1524 Castleton AveStaten Island, NY 10302
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Castleton Avenue
+
+    FORMATTED_ADDRESS: 1524 Castleton Ave, Staten Island, NY 10302, USA
+
+    LATITUDE: 40.635324
+
+    LONGITUDE: -74.133679

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 3544 Johnson Ave
+
+    TYPE: Co-op for sale
+
+    PRICE: 1295000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1995.0
+
+    ADDRESS: 2501 Palisade Ave Apt H2
+
+    STATE: Bronx, NY 10463
+
+    MAIN_ADDRESS: 2501 Palisade Ave Apt H2Bronx, NY 10463
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: Spuyten Duyvil
+
+    LONG_NAME: 2501
+
+    FORMATTED_ADDRESS: 2501 Palisade Ave #2, Bronx, NY 10463, USA
+
+    LATITUDE: 40.8809873
+
+    LONGITUDE: -73.9224337

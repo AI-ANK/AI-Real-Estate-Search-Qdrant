@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Momentum Real Estate Llc
+
+    TYPE: House for sale
+
+    PRICE: 999000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 3570.0
+
+    ADDRESS: 18 Kelly Blvd
+
+    STATE: Staten Island, NY 10314
+
+    MAIN_ADDRESS: 18 Kelly BlvdStaten Island, NY 10314
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Kelly Boulevard
+
+    FORMATTED_ADDRESS: 18 Kelly Blvd, Staten Island, NY 10314, USA
+
+    LATITUDE: 40.5898663
+
+    LONGITUDE: -74.1515902

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Trademarko Realty Inc
+
+    TYPE: House for sale
+
+    PRICE: 969000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1776.0
+
+    ADDRESS: 63-44 72nd St
+
+    STATE: Middle Village, NY 11379
+
+    MAIN_ADDRESS: 63-44 72nd StMiddle Village, NY 11379
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 72nd Street
+
+    FORMATTED_ADDRESS: 63-44 72nd St, Flushing, NY 11379, USA
+
+    LATITUDE: 40.7165988
+
+    LONGITUDE: -73.883495

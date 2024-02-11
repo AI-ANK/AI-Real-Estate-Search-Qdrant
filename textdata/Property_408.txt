@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by TREBACH REALTY INC
+
+    TYPE: Land for sale
+
+    PRICE: 450000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 9 Alderbrook Rd
+
+    STATE: Bronx, NY 10471
+
+    MAIN_ADDRESS: 9 Alderbrook RdBronx, NY 10471
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Alderbrook Road
+
+    FORMATTED_ADDRESS: 9 Alderbrook Rd, Bronx, NY 10471, USA
+
+    LATITUDE: 40.89582
+
+    LONGITUDE: -73.9110766

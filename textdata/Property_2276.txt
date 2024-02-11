@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Williamsburg Driggs
+
+    TYPE: Condo for sale
+
+    PRICE: 1595000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1375.0
+
+    ADDRESS: 149 Dupont St Apt 3
+
+    STATE: Brooklyn, NY 11222
+
+    MAIN_ADDRESS: 149 Dupont St Apt 3Brooklyn, NY 11222
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Greenpoint
+
+    LONG_NAME: 149
+
+    FORMATTED_ADDRESS: 149 Dupont St #3, Brooklyn, NY 11222, USA
+
+    LATITUDE: 40.7361991
+
+    LONGITUDE: -73.9538716

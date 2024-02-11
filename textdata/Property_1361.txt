@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Townhouse for sale
+
+    PRICE: 5800000
+
+    BEDS: 7
+
+    BATH: 5.0
+
+    PROPERTYSQFT: 6360.0
+
+    ADDRESS: 39 S Portland Ave
+
+    STATE: Brooklyn, NY 11217
+
+    MAIN_ADDRESS: 39 S Portland AveBrooklyn, NY 11217
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: South Portland Avenue
+
+    FORMATTED_ADDRESS: 39 S Portland Ave, Brooklyn, NY 11217, USA
+
+    LATITUDE: 40.6884736
+
+    LONGITUDE: -73.9747288

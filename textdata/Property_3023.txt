@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Co-op for sale
+
+    PRICE: 3295000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 11 E 92nd St Apt 1
+
+    STATE: Manhattan, NY 10128
+
+    MAIN_ADDRESS: 11 E 92nd St Apt 1Manhattan, NY 10128
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 11
+
+    FORMATTED_ADDRESS: 11 E 92nd St Apt 1f, New York, NY 10128, USA
+
+    LATITUDE: 40.7852991
+
+    LONGITUDE: -73.9571579

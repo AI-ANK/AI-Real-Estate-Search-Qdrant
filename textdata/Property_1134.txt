@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by New York Residential R E
+
+    TYPE: Co-op for sale
+
+    PRICE: 208000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 610.0
+
+    ADDRESS: 159-04 16th Ave Unit 6-68
+
+    STATE: Whitestone, NY 11357
+
+    MAIN_ADDRESS: 159-04 16th Ave Unit 6-68Whitestone, NY 11357
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 159
+
+    FORMATTED_ADDRESS: 159 W 16th St 6 68, New York, NY 10011, USA
+
+    LATITUDE: 40.7398044
+
+    LONGITUDE: -73.9980373

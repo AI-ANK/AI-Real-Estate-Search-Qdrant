@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman  -111 Fifth Ave
+
+    TYPE: Co-op for sale
+
+    PRICE: 1500000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1600.0
+
+    ADDRESS: 33 W 67th St Unit 4RW
+
+    STATE: New York, NY 10023
+
+    MAIN_ADDRESS: 33 W 67th St Unit 4RWNew York, NY 10023
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 33
+
+    FORMATTED_ADDRESS: 33 W 67th St #4r, New York, NY 10023, USA
+
+    LATITUDE: 40.7739157
+
+    LONGITUDE: -73.9799267

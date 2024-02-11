@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Lombardo Homes & Estates
+
+    TYPE: House for sale
+
+    PRICE: 948888
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 950.0
+
+    ADDRESS: 1611 Oriental Blvd
+
+    STATE: Brooklyn, NY 11235
+
+    MAIN_ADDRESS: 1611 Oriental BlvdBrooklyn, NY 11235
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Oriental Boulevard
+
+    FORMATTED_ADDRESS: 1611 Oriental Blvd, Brooklyn, NY 11235, USA
+
+    LATITUDE: 40.5786958
+
+    LONGITUDE: -73.938485

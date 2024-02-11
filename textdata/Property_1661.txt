@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Daniel Gale of Brooklyn LLC
+
+    TYPE: Townhouse for sale
+
+    PRICE: 700000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2266.0
+
+    ADDRESS: 5473 Kings Hwy
+
+    STATE: Brooklyn, NY 11203
+
+    MAIN_ADDRESS: 5473 Kings HwyBrooklyn, NY 11203
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Kings Highway
+
+    FORMATTED_ADDRESS: 5473 Kings Hwy, Brooklyn, NY 11203, USA
+
+    LATITUDE: 40.6430292
+
+    LONGITUDE: -73.9248566

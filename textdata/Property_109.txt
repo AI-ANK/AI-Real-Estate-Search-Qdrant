@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sotheby's International Realty - East Side Manhattan Brokerage
+
+    TYPE: Townhouse for sale
+
+    PRICE: 2695000
+
+    BEDS: 6
+
+    BATH: 5.0
+
+    PROPERTYSQFT: 4720.0
+
+    ADDRESS: 327 Convent Ave
+
+    STATE: New York, NY 10031
+
+    MAIN_ADDRESS: 327 Convent AveNew York, NY 10031
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: Convent Avenue
+
+    FORMATTED_ADDRESS: 327 Convent Ave, New York, NY 10031, USA
+
+    LATITUDE: 40.8235127
+
+    LONGITUDE: -73.9467514

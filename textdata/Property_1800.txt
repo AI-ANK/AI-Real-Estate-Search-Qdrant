@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Prime Realty
+
+    TYPE: House for sale
+
+    PRICE: 1448000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 155-11 14th Ave
+
+    STATE: Beechhurst, NY 11357
+
+    MAIN_ADDRESS: 155-11 14th AveBeechhurst, NY 11357
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 14th Avenue
+
+    FORMATTED_ADDRESS: 155-11 14th Ave, Flushing, NY 11357, USA
+
+    LATITUDE: 40.7895173
+
+    LONGITUDE: -73.8063176

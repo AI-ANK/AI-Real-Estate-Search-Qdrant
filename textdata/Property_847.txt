@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by REALHome Services & Solutions
+
+    TYPE: House for sale
+
+    PRICE: 764600
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1884.0
+
+    ADDRESS: 187 Greencroft Ave
+
+    STATE: Staten Island, NY 10308
+
+    MAIN_ADDRESS: 187 Greencroft AveStaten Island, NY 10308
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Greencroft Avenue
+
+    FORMATTED_ADDRESS: 187 Greencroft Ave, Staten Island, NY 10308, USA
+
+    LATITUDE: 40.5496155
+
+    LONGITUDE: -74.1391082

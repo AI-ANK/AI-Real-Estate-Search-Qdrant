@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by BERGEN BASIN REALTY
+
+    TYPE: Condo for sale
+
+    PRICE: 715000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1021.0
+
+    ADDRESS: 2805 E 26th St Apt 1A
+
+    STATE: Brooklyn, NY 11235
+
+    MAIN_ADDRESS: 2805 E 26th St Apt 1ABrooklyn, NY 11235
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Sheepshead Bay
+
+    LONG_NAME: 2805
+
+    FORMATTED_ADDRESS: 2805 E 26th St #1a, Brooklyn, NY 11235, USA
+
+    LATITUDE: 40.5846063
+
+    LONGITUDE: -73.9426052

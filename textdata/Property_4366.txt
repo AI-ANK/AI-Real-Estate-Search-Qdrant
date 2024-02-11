@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by EXIT REALTY PRIME
+
+    TYPE: Co-op for sale
+
+    PRICE: 339999
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 825.0
+
+    ADDRESS: 78-06 46th Ave Unit 4G
+
+    STATE: Elmhurst, NY 11373
+
+    MAIN_ADDRESS: 78-06 46th Ave Unit 4GElmhurst, NY 11373
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Elmhurst
+
+    LONG_NAME: 78-06
+
+    FORMATTED_ADDRESS: 78-06 46th Ave #4b, Elmhurst, NY 11373, USA
+
+    LATITUDE: 40.7402133
+
+    LONGITUDE: -73.8868828

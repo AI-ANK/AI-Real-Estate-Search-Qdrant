@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Edge
+
+    TYPE: Co-op for sale
+
+    PRICE: 285000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 900.0
+
+    ADDRESS: 2815 Ocean Pkwy Apt 3F
+
+    STATE: Brooklyn, NY 11235
+
+    MAIN_ADDRESS: 2815 Ocean Pkwy Apt 3FBrooklyn, NY 11235
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Brighton Beach
+
+    LONG_NAME: 2815
+
+    FORMATTED_ADDRESS: 2815 Ocean Pkwy #3f, Brooklyn, NY 11235, USA
+
+    LATITUDE: 40.5811062
+
+    LONGITUDE: -73.966749

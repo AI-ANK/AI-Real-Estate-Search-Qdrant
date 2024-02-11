@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Westside Columbus
+
+    TYPE: Co-op for sale
+
+    PRICE: 260000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 515 W 135th St Apt 4C
+
+    STATE: New York, NY 10031
+
+    MAIN_ADDRESS: 515 W 135th St Apt 4CNew York, NY 10031
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 515
+
+    FORMATTED_ADDRESS: 515 W 135th St #4c, New York, NY 10031, USA
+
+    LATITUDE: 40.8196151
+
+    LONGITUDE: -73.9532441

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Garfield, Leslie J. & Co., Inc.
+
+    TYPE: Townhouse for sale
+
+    PRICE: 6495000
+
+    BEDS: 6
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 5232.0
+
+    ADDRESS: 117 W 85th St
+
+    STATE: New York, NY 10024
+
+    MAIN_ADDRESS: 117 W 85th StNew York, NY 10024
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: West 85th Street
+
+    FORMATTED_ADDRESS: 117 W 85th St, New York, NY 10024, USA
+
+    LATITUDE: 40.7863645
+
+    LONGITUDE: -73.9735331

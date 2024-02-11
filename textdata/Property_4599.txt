@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by United Real Estate Fortune
+
+    TYPE: Townhouse for sale
+
+    PRICE: 599999
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1800.0
+
+    ADDRESS: 23 Tony Ct
+
+    STATE: Staten Island, NY 10305
+
+    MAIN_ADDRESS: 23 Tony CtStaten Island, NY 10305
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Tony Court
+
+    FORMATTED_ADDRESS: 23 Tony Ct, Staten Island, NY 10305, USA
+
+    LATITUDE: 40.5916853
+
+    LONGITUDE: -74.0778219

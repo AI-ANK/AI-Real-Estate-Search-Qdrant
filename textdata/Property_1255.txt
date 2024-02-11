@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Elite Real Estate Group 1 Llc
+
+    TYPE: House for sale
+
+    PRICE: 1350000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2948.0
+
+    ADDRESS: 1932 Narragansett Ave
+
+    STATE: Bronx, NY 10461
+
+    MAIN_ADDRESS: 1932 Narragansett AveBronx, NY 10461
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Narragansett Avenue
+
+    FORMATTED_ADDRESS: 1932 Narragansett Ave, Bronx, NY 10461, USA
+
+    LATITUDE: 40.8548137
+
+    LONGITUDE: -73.8500157

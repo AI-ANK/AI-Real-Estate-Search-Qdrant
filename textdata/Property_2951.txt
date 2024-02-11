@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Century Homes Realty Group LLC
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 749000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 154-12 65th Ave
+
+    STATE: Flushing, NY 11367
+
+    MAIN_ADDRESS: 154-12 65th AveFlushing, NY 11367
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 65th Avenue
+
+    FORMATTED_ADDRESS: 154-12 65th Ave, Flushing, NY 11367, USA
+
+    LATITUDE: 40.7369795
+
+    LONGITUDE: -73.8140379

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by FOXR - Fox Residential Group
+
+    TYPE: Co-op for sale
+
+    PRICE: 620000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 80 Central Park W Apt 4G
+
+    STATE: New York, NY 10023
+
+    MAIN_ADDRESS: 80 Central Park W Apt 4GNew York, NY 10023
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 80
+
+    FORMATTED_ADDRESS: 80 Central Park W #4g, New York, NY 10023, USA
+
+    LATITUDE: 40.7740567
+
+    LONGITUDE: -73.9780672

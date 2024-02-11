@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Winzone Realty Inc
+
+    TYPE: House for sale
+
+    PRICE: 1350000
+
+    BEDS: 4
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1760.0
+
+    ADDRESS: 75-57 186th St
+
+    STATE: Fresh Meadows, NY 11366
+
+    MAIN_ADDRESS: 75-57 186th StFresh Meadows, NY 11366
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 186th Street
+
+    FORMATTED_ADDRESS: 75-57 186th St, Flushing, NY 11366, USA
+
+    LATITUDE: 40.7293576
+
+    LONGITUDE: -73.7830175

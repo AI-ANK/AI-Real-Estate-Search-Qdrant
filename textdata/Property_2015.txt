@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by City House Realty Inc.
+
+    TYPE: House for sale
+
+    PRICE: 649000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1152.0
+
+    ADDRESS: 471 Beach Rd
+
+    STATE: Staten Island, NY 10312
+
+    MAIN_ADDRESS: 471 Beach RdStaten Island, NY 10312
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Beach Road
+
+    FORMATTED_ADDRESS: 471 Beach Rd, Staten Island, NY 10312, USA
+
+    LATITUDE: 40.544553
+
+    LONGITUDE: -74.159323

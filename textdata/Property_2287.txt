@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Nest Seekers International, Midtown
+
+    TYPE: Condo for sale
+
+    PRICE: 12500000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 3550.0
+
+    ADDRESS: 100 Vandam St Apt 6A
+
+    STATE: New York, NY 10013
+
+    MAIN_ADDRESS: 100 Vandam St Apt 6ANew York, NY 10013
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 100
+
+    FORMATTED_ADDRESS: 100 Vandam St #6a, New York, NY 10013, USA
+
+    LATITUDE: 40.7266327
+
+    LONGITUDE: -74.0088321

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sotheby's International Realty - Downtown Manhattan
+
+    TYPE: Townhouse for sale
+
+    PRICE: 11900000
+
+    BEDS: 6
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 9075.0
+
+    ADDRESS: 328 W 108th St
+
+    STATE: New York, NY 10025
+
+    MAIN_ADDRESS: 328 W 108th StNew York, NY 10025
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: West 108th Street
+
+    FORMATTED_ADDRESS: 328 W 108th St, New York, NY 10025, USA
+
+    LATITUDE: 40.8032028
+
+    LONGITUDE: -73.9687464

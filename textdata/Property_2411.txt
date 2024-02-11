@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens - 445 Park Avenue
+
+    TYPE: Townhouse for sale
+
+    PRICE: 3695000
+
+    BEDS: 10
+
+    BATH: 8.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 315 E 51st St Unit Townhouse
+
+    STATE: Manhattan, NY 10022
+
+    MAIN_ADDRESS: 315 E 51st St Unit TownhouseManhattan, NY 10022
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: East 51st Street
+
+    FORMATTED_ADDRESS: 315 E 51st St, New York, NY 10022, USA
+
+    LATITUDE: 40.7553475
+
+    LONGITUDE: -73.9673212

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Piastro Realty LLC
+
+    TYPE: Co-op for sale
+
+    PRICE: 525000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1300.0
+
+    ADDRESS: 50 Brighton 1 Rd Unit 2D
+
+    STATE: Brooklyn, NY 11235
+
+    MAIN_ADDRESS: 50 Brighton 1 Rd Unit 2DBrooklyn, NY 11235
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Brighton Beach
+
+    LONG_NAME: 50
+
+    FORMATTED_ADDRESS: 50 Brighton 1st Rd #2d, Brooklyn, NY 11235, USA
+
+    LATITUDE: 40.5751942
+
+    LONGITUDE: -73.9669983

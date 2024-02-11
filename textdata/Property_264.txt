@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by C J Robin's Real Estate
+
+    TYPE: Condo for sale
+
+    PRICE: 320000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 936.0
+
+    ADDRESS: 1860 Story Ave Unit 36C
+
+    STATE: Bronx, NY 10473
+
+    MAIN_ADDRESS: 1860 Story Ave Unit 36CBronx, NY 10473
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: East Bronx
+
+    LONG_NAME: 1860
+
+    FORMATTED_ADDRESS: 1860 Story Ave # 36-B, Bronx, NY 10473, USA
+
+    LATITUDE: 40.8236857
+
+    LONGITUDE: -73.8611313

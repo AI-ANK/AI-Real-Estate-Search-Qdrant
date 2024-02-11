@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Ashford Homes
+
+    TYPE: Land for sale
+
+    PRICE: 348000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 952 Olympia Blvd
+
+    STATE: Staten Island, NY 10306
+
+    MAIN_ADDRESS: 952 Olympia BlvdStaten Island, NY 10306
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Olympia Boulevard
+
+    FORMATTED_ADDRESS: 952 Olympia Blvd, Staten Island, NY 10306, USA
+
+    LATITUDE: 40.575138
+
+    LONGITUDE: -74.090531

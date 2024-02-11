@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by NextHome Prestige
+
+    TYPE: Townhouse for sale
+
+    PRICE: 760000
+
+    BEDS: 2
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2337.0
+
+    ADDRESS: 142 Commodore Dr
+
+    STATE: Staten Island, NY 10309
+
+    MAIN_ADDRESS: 142 Commodore DrStaten Island, NY 10309
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Commodore Drive
+
+    FORMATTED_ADDRESS: 142 Commodore Dr, Staten Island, NY 10309, USA
+
+    LATITUDE: 40.5148559
+
+    LONGITUDE: -74.2032529

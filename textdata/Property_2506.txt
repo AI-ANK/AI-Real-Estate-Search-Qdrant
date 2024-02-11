@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 156 Montague
+
+    TYPE: Co-op for sale
+
+    PRICE: 799000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1043.0
+
+    ADDRESS: 175 Adams St Apt 3G
+
+    STATE: Brooklyn, NY 11201
+
+    MAIN_ADDRESS: 175 Adams St Apt 3GBrooklyn, NY 11201
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Downtown Brooklyn
+
+    LONG_NAME: 175
+
+    FORMATTED_ADDRESS: 175 Adams St #3g, Brooklyn, NY 11201, USA
+
+    LATITUDE: 40.6985714
+
+    LONGITUDE: -73.9881911

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Voro Llc
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 999999
+
+    BEDS: 8
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 3023.0
+
+    ADDRESS: 895 E 37th St
+
+    STATE: Brooklyn, NY 11210
+
+    MAIN_ADDRESS: 895 E 37th StBrooklyn, NY 11210
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: East 37th Street
+
+    FORMATTED_ADDRESS: 895 E 37th St, Brooklyn, NY 11210, USA
+
+    LATITUDE: 40.6350854
+
+    LONGITUDE: -73.9408271

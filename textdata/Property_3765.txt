@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by qvtopservice
+
+    TYPE: House for sale
+
+    PRICE: 699000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 4000.0
+
+    ADDRESS: 188-28 114th Dr
+
+    STATE: Saint Albans, NY 11412
+
+    MAIN_ADDRESS: 188-28 114th DrSaint Albans, NY 11412
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 114th Drive
+
+    FORMATTED_ADDRESS: 188-28 114th Dr, Jamaica, NY 11412, USA
+
+    LATITUDE: 40.6969277
+
+    LONGITUDE: -73.7655056

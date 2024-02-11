@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Listed New York Elite Inc
+
+    TYPE: House for sale
+
+    PRICE: 709999
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 116-40 148th St
+
+    STATE: Jamaica, NY 11436
+
+    MAIN_ADDRESS: 116-40 148th StJamaica, NY 11436
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 148th Street
+
+    FORMATTED_ADDRESS: 116-40 148th St, Jamaica, NY 11436, USA
+
+    LATITUDE: 40.6811881
+
+    LONGITUDE: -73.793438

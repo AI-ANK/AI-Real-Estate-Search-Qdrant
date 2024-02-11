@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Awaye Realty
+
+    TYPE: Condo for sale
+
+    PRICE: 549000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1000.0
+
+    ADDRESS: 4654 Amboy Rd Unit 2B
+
+    STATE: Staten Island, NY 10312
+
+    MAIN_ADDRESS: 4654 Amboy Rd Unit 2BStaten Island, NY 10312
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Richmond County
+
+    SUBLOCALITY: Staten Island
+
+    STREET_NAME: Annadale
+
+    LONG_NAME: 4654
+
+    FORMATTED_ADDRESS: 4654 Amboy Rd #2b, Staten Island, NY 10312, USA
+
+    LATITUDE: 40.5406209
+
+    LONGITUDE: -74.1671632

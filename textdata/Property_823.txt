@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Andrew Lichtenstein Inc
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 7200000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 48000.0
+
+    ADDRESS: 3650 Bronx Blvd
+
+    STATE: Bronx, NY 10467
+
+    MAIN_ADDRESS: 3650 Bronx BlvdBronx, NY 10467
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Bronx Boulevard
+
+    FORMATTED_ADDRESS: 3650 Bronx Blvd, Bronx, NY 10467, USA
+
+    LATITUDE: 40.8814635
+
+    LONGITUDE: -73.8671293

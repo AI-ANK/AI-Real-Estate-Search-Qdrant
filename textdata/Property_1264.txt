@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Floral Homes Inc
+
+    TYPE: Co-op for sale
+
+    PRICE: 325000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 268-25 82nd Ave Unit 279B
+
+    STATE: New Hyde Park, NY 11040
+
+    MAIN_ADDRESS: 268-25 82nd Ave Unit 279BNew Hyde Park, NY 11040
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Floral Park
+
+    LONG_NAME: 26825
+
+    FORMATTED_ADDRESS: 26825 82nd Ave # 279b, Queens, NY 11040, USA
+
+    LATITUDE: 40.7427699
+
+    LONGITUDE: -73.70245

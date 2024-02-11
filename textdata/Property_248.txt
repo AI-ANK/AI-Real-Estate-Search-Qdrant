@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Prime Properties Long Island
+
+    TYPE: Co-op for sale
+
+    PRICE: 299000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 118-18 Union Tpke Unit 17G
+
+    STATE: Kew Gardens, NY 11415
+
+    MAIN_ADDRESS: 118-18 Union Tpke Unit 17GKew Gardens, NY 11415
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Kew Gardens
+
+    LONG_NAME: 118-18
+
+    FORMATTED_ADDRESS: 118-18 Union Tpke #17g, Kew Gardens, NY 11415, USA
+
+    LATITUDE: 40.7123992
+
+    LONGITUDE: -73.8339305

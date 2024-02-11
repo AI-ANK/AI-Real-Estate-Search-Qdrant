@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 3544 Johnson Ave
+
+    TYPE: Pending
+
+    PRICE: 1780000
+
+    BEDS: 4
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 735 Ladd Rd
+
+    STATE: Bronx, NY 10471
+
+    MAIN_ADDRESS: 735 Ladd RdBronx, NY 10471
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Ladd Road
+
+    FORMATTED_ADDRESS: 735 Ladd Rd, Bronx, NY 10471, USA
+
+    LATITUDE: 40.9055018
+
+    LONGITUDE: -73.909935

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 575 Madison Ave
+
+    TYPE: Condo for sale
+
+    PRICE: 4750000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 4100.0
+
+    ADDRESS: 116 W 14th St Fl 4
+
+    STATE: New York, NY 10011
+
+    MAIN_ADDRESS: 116 W 14th St Fl 4New York, NY 10011
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 116
+
+    FORMATTED_ADDRESS: 116 W 14th St FL 4, New York, NY 10011, USA
+
+    LATITUDE: 40.7375173
+
+    LONGITUDE: -73.9979625

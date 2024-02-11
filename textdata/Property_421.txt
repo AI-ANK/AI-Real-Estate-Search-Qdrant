@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sowae Corp
+
+    TYPE: House for sale
+
+    PRICE: 215000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2000.0
+
+    ADDRESS: 408 Van Siclen Ave
+
+    STATE: Brooklyn, NY 11207
+
+    MAIN_ADDRESS: 408 Van Siclen AveBrooklyn, NY 11207
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Van Siclen Avenue
+
+    FORMATTED_ADDRESS: 408 Van Siclen Ave, Brooklyn, NY 11207, USA
+
+    LATITUDE: 40.6694978
+
+    LONGITUDE: -73.8897534

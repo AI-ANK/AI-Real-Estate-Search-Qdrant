@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by eXp Realty BKNY
+
+    TYPE: Condo for sale
+
+    PRICE: 690000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 942.0
+
+    ADDRESS: 1569 W 7th St Apt 3A
+
+    STATE: Brooklyn, NY 11204
+
+    MAIN_ADDRESS: 1569 W 7th St Apt 3ABrooklyn, NY 11204
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Bensonhurst
+
+    LONG_NAME: 1569
+
+    FORMATTED_ADDRESS: 1569 W 7th St #3a, Brooklyn, NY 11204, USA
+
+    LATITUDE: 40.6088021
+
+    LONGITUDE: -73.9805695

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Pyramid Home Realty Corp.
+
+    TYPE: Condo for sale
+
+    PRICE: 499900
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 960.0
+
+    ADDRESS: 491 Midland Ave
+
+    STATE: Staten Island, NY 10306
+
+    MAIN_ADDRESS: 491 Midland AveStaten Island, NY 10306
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Midland Avenue
+
+    FORMATTED_ADDRESS: 491 Midland Ave, Staten Island, NY 10306, USA
+
+    LATITUDE: 40.5741868
+
+    LONGITUDE: -74.0960192

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by M Holmes Realty Corp.
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 499000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1445.0
+
+    ADDRESS: 32 Barker St
+
+    STATE: Staten Island, NY 10310
+
+    MAIN_ADDRESS: 32 Barker StStaten Island, NY 10310
+
+    ADMINISTRATIVE_AREA_LEVEL_2: 10310
+
+    LOCALITY: United States
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Richmond County
+
+    LONG_NAME: Barker Street
+
+    FORMATTED_ADDRESS: 32 Barker St, Staten Island, NY 10310, USA
+
+    LATITUDE: 40.6365321
+
+    LONGITUDE: -74.1218622

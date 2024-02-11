@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens - 1926 Broadway
+
+    TYPE: Condo for sale
+
+    PRICE: 5750000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2223.0
+
+    ADDRESS: 250 E 21st St Unit 12B
+
+    STATE: Manhattan, NY 10010
+
+    MAIN_ADDRESS: 250 E 21st St Unit 12BManhattan, NY 10010
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 250
+
+    FORMATTED_ADDRESS: 250 E 21st St #12b, New York, NY 10010, USA
+
+    LATITUDE: 40.736608
+
+    LONGITUDE: -73.9822819

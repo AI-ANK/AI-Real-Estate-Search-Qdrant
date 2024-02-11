@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Park Slope
+
+    TYPE: House for sale
+
+    PRICE: 1575000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 530 4th St
+
+    STATE: Brooklyn, NY 11215
+
+    MAIN_ADDRESS: 530 4th StBrooklyn, NY 11215
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: 4th Street
+
+    FORMATTED_ADDRESS: 530 4th St, Brooklyn, NY 11215, USA
+
+    LATITUDE: 40.6683947
+
+    LONGITUDE: -73.9762195

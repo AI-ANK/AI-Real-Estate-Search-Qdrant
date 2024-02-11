@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Citadel Circle Realty
+
+    TYPE: House for sale
+
+    PRICE: 615000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 534 Powell St
+
+    STATE: Brownville, NY 11212
+
+    MAIN_ADDRESS: 534 Powell StBrownville, NY 11212
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Powell Street
+
+    FORMATTED_ADDRESS: 534 Powell St, Brooklyn, NY 11212, USA
+
+    LATITUDE: 40.6610456
+
+    LONGITUDE: -73.9019953

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Taranto Realty
+
+    TYPE: House for sale
+
+    PRICE: 749000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1644.0
+
+    ADDRESS: 668 Bard Ave
+
+    STATE: Staten Island, NY 10310
+
+    MAIN_ADDRESS: 668 Bard AveStaten Island, NY 10310
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Bard Avenue
+
+    FORMATTED_ADDRESS: 668 Bard Ave, Staten Island, NY 10310, USA
+
+    LATITUDE: 40.6267035
+
+    LONGITUDE: -74.1052076

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - Franklin Square
+
+    TYPE: Townhouse for sale
+
+    PRICE: 860000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2000.0
+
+    ADDRESS: 971 E 40th St
+
+    STATE: Brooklyn, NY 11210
+
+    MAIN_ADDRESS: 971 E 40th StBrooklyn, NY 11210
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: East 40th Street
+
+    FORMATTED_ADDRESS: 971 E 40th St, Brooklyn, NY 11210, USA
+
+    LATITUDE: 40.6315943
+
+    LONGITUDE: -73.9376928

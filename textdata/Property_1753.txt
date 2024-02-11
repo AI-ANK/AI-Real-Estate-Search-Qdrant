@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by The Agency
+
+    TYPE: Co-op for sale
+
+    PRICE: 770000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 66 W 84th St Apt 4A
+
+    STATE: New York, NY 10024
+
+    MAIN_ADDRESS: 66 W 84th St Apt 4ANew York, NY 10024
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 66
+
+    FORMATTED_ADDRESS: 66 W 84th St #4a, New York, NY 10024, USA
+
+    LATITUDE: 40.7849377
+
+    LONGITUDE: -73.9729247

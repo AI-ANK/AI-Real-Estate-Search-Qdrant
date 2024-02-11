@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by CENTURY 21 KR REALTY
+
+    TYPE: Pending
+
+    PRICE: 555000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 780 Stafford Ave
+
+    STATE: Staten Island, NY 10309
+
+    MAIN_ADDRESS: 780 Stafford AveStaten Island, NY 10309
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Stafford Avenue
+
+    FORMATTED_ADDRESS: 780 Stafford Ave, Staten Island, NY 10309, USA
+
+    LATITUDE: 40.5403437
+
+    LONGITUDE: -74.2041065

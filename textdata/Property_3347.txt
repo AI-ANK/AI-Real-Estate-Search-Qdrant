@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran West Side
+
+    TYPE: Co-op for sale
+
+    PRICE: 462900
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 159 Madison Ave Apt 7I
+
+    STATE: New York, NY 10016
+
+    MAIN_ADDRESS: 159 Madison Ave Apt 7INew York, NY 10016
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 159
+
+    FORMATTED_ADDRESS: 159 Madison Ave #7e, New York, NY 10016, USA
+
+    LATITUDE: 40.746567
+
+    LONGITUDE: -73.9835139

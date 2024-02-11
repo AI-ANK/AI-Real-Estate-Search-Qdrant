@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Renken Realty LLC
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1200000
+
+    BEDS: 9
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 12 Hancock St
+
+    STATE: Bedford Stuyvesant, NY 11216
+
+    MAIN_ADDRESS: 12 Hancock StBedford Stuyvesant, NY 11216
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Hancock Street
+
+    FORMATTED_ADDRESS: 12 Hancock St, Brooklyn, NY 11216, USA
+
+    LATITUDE: 40.681739
+
+    LONGITUDE: -73.9553364

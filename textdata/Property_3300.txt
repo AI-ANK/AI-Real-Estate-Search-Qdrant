@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Serhant
+
+    TYPE: Condo for sale
+
+    PRICE: 875000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 294.0
+
+    ADDRESS: 11 E 68th St Unit 7J
+
+    STATE: New York, NY 10065
+
+    MAIN_ADDRESS: 11 E 68th St Unit 7JNew York, NY 10065
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 11
+
+    FORMATTED_ADDRESS: 11 E 68th St #7j, New York, NY 10065, USA
+
+    LATITUDE: 40.7694824
+
+    LONGITUDE: -73.9676328

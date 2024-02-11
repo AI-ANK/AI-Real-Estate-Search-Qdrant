@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran SoHo
+
+    TYPE: Pending
+
+    PRICE: 748999
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1620.0
+
+    ADDRESS: 122 North Dr
+
+    STATE: Staten Island, NY 10305
+
+    MAIN_ADDRESS: 122 North DrStaten Island, NY 10305
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: North Drive
+
+    FORMATTED_ADDRESS: 122 North Dr, Staten Island, NY 10305, USA
+
+    LATITUDE: 40.606691
+
+    LONGITUDE: -74.0724094

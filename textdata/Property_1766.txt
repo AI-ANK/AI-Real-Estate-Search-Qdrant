@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 3544 Johnson Ave
+
+    TYPE: Co-op for sale
+
+    PRICE: 349000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 800.0
+
+    ADDRESS: 773 Eastern Pkwy Apt 2A
+
+    STATE: Crown Heights, NY 11213
+
+    MAIN_ADDRESS: 773 Eastern Pkwy Apt 2ACrown Heights, NY 11213
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Eastern Parkway
+
+    FORMATTED_ADDRESS: 773 Eastern Pkwy, Brooklyn, NY 11213, USA
+
+    LATITUDE: 40.6699639
+
+    LONGITUDE: -73.9428018

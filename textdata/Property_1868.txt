@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Ashford Homes
+
+    TYPE: Condo for sale
+
+    PRICE: 318000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 638.0
+
+    ADDRESS: 45 Francine Ct
+
+    STATE: Staten Island, NY 10306
+
+    MAIN_ADDRESS: 45 Francine CtStaten Island, NY 10306
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Francine Court
+
+    FORMATTED_ADDRESS: 45 Francine Ct, Staten Island, NY 10306, USA
+
+    LATITUDE: 40.5698778
+
+    LONGITUDE: -74.1224355

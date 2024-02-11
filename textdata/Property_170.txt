@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by KELLER WILLIAMS REALTY LANDMARK II
+
+    TYPE: House for sale
+
+    PRICE: 918888
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 30-36 88th St
+
+    STATE: East Elmhurst, NY 11369
+
+    MAIN_ADDRESS: 30-36 88th StEast Elmhurst, NY 11369
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 88th Street
+
+    FORMATTED_ADDRESS: 30-36 88th St, Flushing, NY 11369, USA
+
+    LATITUDE: 40.760703
+
+    LONGITUDE: -73.880887

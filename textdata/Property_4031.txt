@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Carollo Real Estate Inc
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1250000
+
+    BEDS: 11
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 10-41 115th St
+
+    STATE: College Point, NY 11356
+
+    MAIN_ADDRESS: 10-41 115th StCollege Point, NY 11356
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 115th Street
+
+    FORMATTED_ADDRESS: 10-41 115th St, Flushing, NY 11356, USA
+
+    LATITUDE: 40.787484
+
+    LONGITUDE: -73.8520832

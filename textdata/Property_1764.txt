@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 575 Madison Ave
+
+    TYPE: House for sale
+
+    PRICE: 6995000
+
+    BEDS: 5
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 5000.0
+
+    ADDRESS: 239 E 48th St
+
+    STATE: New York, NY 10017
+
+    MAIN_ADDRESS: 239 E 48th StNew York, NY 10017
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: East 48th Street
+
+    FORMATTED_ADDRESS: 239 E 48th St, New York, NY 10017, USA
+
+    LATITUDE: 40.7541017
+
+    LONGITUDE: -73.9701626

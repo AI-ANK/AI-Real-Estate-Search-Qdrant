@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Top Choice Realty LLC
+
+    TYPE: House for sale
+
+    PRICE: 899000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1440.0
+
+    ADDRESS: 40 Adelphi Ave
+
+    STATE: Staten Island, NY 10309
+
+    MAIN_ADDRESS: 40 Adelphi AveStaten Island, NY 10309
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Adelphi Avenue
+
+    FORMATTED_ADDRESS: 40 Adelphi Ave, Staten Island, NY 10309, USA
+
+    LATITUDE: 40.5159004
+
+    LONGITUDE: -74.2314825

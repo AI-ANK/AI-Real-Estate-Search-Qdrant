@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by CLAS - Classic Marketing, LLC
+
+    TYPE: Co-op for sale
+
+    PRICE: 399000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 220 E 73rd St Unit 8G
+
+    STATE: New York, NY 10021
+
+    MAIN_ADDRESS: 220 E 73rd St Unit 8GNew York, NY 10021
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 220
+
+    FORMATTED_ADDRESS: 220 E 73rd St #8g, New York, NY 10021, USA
+
+    LATITUDE: 40.7697297
+
+    LONGITUDE: -73.9590126

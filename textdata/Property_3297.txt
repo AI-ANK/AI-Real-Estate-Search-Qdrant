@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by eXp Realty BKNY
+
+    TYPE: Co-op for sale
+
+    PRICE: 529000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1200.0
+
+    ADDRESS: 2815 Ocean Pkwy Apt 4I
+
+    STATE: Brooklyn, NY 11235
+
+    MAIN_ADDRESS: 2815 Ocean Pkwy Apt 4IBrooklyn, NY 11235
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Brighton Beach
+
+    LONG_NAME: 2815
+
+    FORMATTED_ADDRESS: 2815 Ocean Pkwy #4i, Brooklyn, NY 11235, USA
+
+    LATITUDE: 40.5811062
+
+    LONGITUDE: -73.966749

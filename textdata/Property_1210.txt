@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by LandSeAir Real Estate Group, Inc - Bronx Little Italy Office
+
+    TYPE: Co-op for sale
+
+    PRICE: 119888
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 112-50 Northern Blvd Unit 5E
+
+    STATE: Corona, NY 11368
+
+    MAIN_ADDRESS: 112-50 Northern Blvd Unit 5ECorona, NY 11368
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Corona
+
+    LONG_NAME: 112-50
+
+    FORMATTED_ADDRESS: 112-50 Northern Blvd #5e, Corona, NY 11368, USA
+
+    LATITUDE: 40.7582228
+
+    LONGITUDE: -73.8559216

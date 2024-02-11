@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Brooklyn Heights
+
+    TYPE: Condo for sale
+
+    PRICE: 780000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 825.0
+
+    ADDRESS: 618 Avenue H # 5E
+
+    STATE: Brooklyn, NY 11230
+
+    MAIN_ADDRESS: 618 Avenue H # 5EBrooklyn, NY 11230
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Avenue H
+
+    FORMATTED_ADDRESS: 618 Avenue H, Brooklyn, NY 11230, USA
+
+    LATITUDE: 40.6288601
+
+    LONGITUDE: -73.9704912

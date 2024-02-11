@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Oxford Property Group
+
+    TYPE: Condo for sale
+
+    PRICE: 420000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 668.0
+
+    ADDRESS: 120 Ocean View Ave Unit 2C
+
+    STATE: Brooklyn, NY 11235
+
+    MAIN_ADDRESS: 120 Ocean View Ave Unit 2CBrooklyn, NY 11235
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Brighton Beach
+
+    LONG_NAME: 120
+
+    FORMATTED_ADDRESS: 120 Ocean View Ave #2c, Brooklyn, NY 11235, USA
+
+    LATITUDE: 40.5783101
+
+    LONGITUDE: -73.9670934

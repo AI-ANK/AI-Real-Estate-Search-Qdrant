@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sotheby's International Realty - Downtown Manhattan
+
+    TYPE: Condo for sale
+
+    PRICE: 2099000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1711.0
+
+    ADDRESS: 100 Jay St Apt 16A
+
+    STATE: Brooklyn, NY 11201
+
+    MAIN_ADDRESS: 100 Jay St Apt 16ABrooklyn, NY 11201
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Dumbo
+
+    LONG_NAME: 100
+
+    FORMATTED_ADDRESS: 100 Jay St #16a, Brooklyn, NY 11201, USA
+
+    LATITUDE: 40.7019735
+
+    LONGITUDE: -73.9869044

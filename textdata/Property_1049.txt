@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Nest Seekers International, Midtown
+
+    TYPE: House for sale
+
+    PRICE: 535000
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1328.0
+
+    ADDRESS: 1303 College Ave
+
+    STATE: Bronx, NY 10456
+
+    MAIN_ADDRESS: 1303 College AveBronx, NY 10456
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: College Avenue
+
+    FORMATTED_ADDRESS: 1303 College Ave, Bronx, NY 10456, USA
+
+    LATITUDE: 40.8355073
+
+    LONGITUDE: -73.9119966

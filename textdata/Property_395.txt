@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Century 21 Amiable Realty Group II, Inc.
+
+    TYPE: House for sale
+
+    PRICE: 2650000
+
+    BEDS: 6
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 87-07 158th Ave
+
+    STATE: Howard Beach, NY 11414
+
+    MAIN_ADDRESS: 87-07 158th AveHoward Beach, NY 11414
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 158th Avenue
+
+    FORMATTED_ADDRESS: 87-07 158th Ave, Jamaica, NY 11414, USA
+
+    LATITUDE: 40.660323
+
+    LONGITUDE: -73.8455929

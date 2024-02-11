@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Bond New York- Columbus Circle
+
+    TYPE: Co-op for sale
+
+    PRICE: 699000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 800.0
+
+    ADDRESS: 7 W 92nd St Apt 5G
+
+    STATE: New York, NY 10025
+
+    MAIN_ADDRESS: 7 W 92nd St Apt 5GNew York, NY 10025
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 7
+
+    FORMATTED_ADDRESS: 7 W 92nd St #5g, New York, NY 10025, USA
+
+    LATITUDE: 40.7896573
+
+    LONGITUDE: -73.9673229

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 1950000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 350 Bleecker St Unit 3WX
+
+    STATE: Manhattan, NY 10014
+
+    MAIN_ADDRESS: 350 Bleecker St Unit 3WXManhattan, NY 10014
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 350
+
+    FORMATTED_ADDRESS: 350 Bleecker St #3w, New York, NY 10014, USA
+
+    LATITUDE: 40.7341122
+
+    LONGITUDE: -74.004816

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - Bayside
+
+    TYPE: Co-op for sale
+
+    PRICE: 299000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 800.0
+
+    ADDRESS: 92-30 56th Ave Unit 3G
+
+    STATE: Elmhurst, NY 11373
+
+    MAIN_ADDRESS: 92-30 56th Ave Unit 3GElmhurst, NY 11373
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Elmhurst
+
+    LONG_NAME: 92-30
+
+    FORMATTED_ADDRESS: 92-30 56th Ave #3g, Elmhurst, NY 11373, USA
+
+    LATITUDE: 40.7365158
+
+    LONGITUDE: -73.8687964

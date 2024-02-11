@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by 5 Boro Realty Corp
+
+    TYPE: House for sale
+
+    PRICE: 1449999
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 1890.0
+
+    ADDRESS: 768 Herkimer St
+
+    STATE: Brooklyn, NY 11233
+
+    MAIN_ADDRESS: 768 Herkimer StBrooklyn, NY 11233
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Herkimer Street
+
+    FORMATTED_ADDRESS: 768 Herkimer St, Brooklyn, NY 11233, USA
+
+    LATITUDE: 40.6783124
+
+    LONGITUDE: -73.928113

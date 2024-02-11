@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by JM Properties
+
+    TYPE: House for sale
+
+    PRICE: 774900
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1335.0
+
+    ADDRESS: 226 Fingerboard Rd
+
+    STATE: Staten Island, NY 10305
+
+    MAIN_ADDRESS: 226 Fingerboard RdStaten Island, NY 10305
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Fingerboard Road
+
+    FORMATTED_ADDRESS: 226 Fingerboard Rd, Staten Island, NY 10305, USA
+
+    LATITUDE: 40.6058796
+
+    LONGITUDE: -74.0681791

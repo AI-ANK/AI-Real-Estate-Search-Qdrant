@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Akcess24homes Inc
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1059000
+
+    BEDS: 6
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 124 Norwood Ave
+
+    STATE: Brooklyn, NY 11208
+
+    MAIN_ADDRESS: 124 Norwood AveBrooklyn, NY 11208
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Norwood Avenue
+
+    FORMATTED_ADDRESS: 124 Norwood Ave, Brooklyn, NY 11208, USA
+
+    LATITUDE: 40.6830732
+
+    LONGITUDE: -73.8797396

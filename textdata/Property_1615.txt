@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keystone Realty USA Corp
+
+    TYPE: Condo for sale
+
+    PRICE: 549000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 86-02 Dumont Ave Unit 1B
+
+    STATE: Ozone Park, NY 11417
+
+    MAIN_ADDRESS: 86-02 Dumont Ave Unit 1BOzone Park, NY 11417
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Ozone Park
+
+    LONG_NAME: 86-2
+
+    FORMATTED_ADDRESS: 86-2 Dumont Ave #1b, Ozone Park, NY 11417, USA
+
+    LATITUDE: 40.6726474
+
+    LONGITUDE: -73.8499883

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by The Agency
+
+    TYPE: Co-op for sale
+
+    PRICE: 4000000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2300.0
+
+    ADDRESS: 52 Riverside Dr Apt 16A
+
+    STATE: New York, NY 10024
+
+    MAIN_ADDRESS: 52 Riverside Dr Apt 16ANew York, NY 10024
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 52
+
+    FORMATTED_ADDRESS: 52 Riverside Dr #16a, New York, NY 10024, USA
+
+    LATITUDE: 40.7840425
+
+    LONGITUDE: -73.9833243

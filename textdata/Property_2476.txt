@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Real Estate Professionals
+
+    TYPE: Condo for sale
+
+    PRICE: 539000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 821.0
+
+    ADDRESS: 1495 E 28th St Apt 3A
+
+    STATE: Brooklyn, NY 11229
+
+    MAIN_ADDRESS: 1495 E 28th St Apt 3ABrooklyn, NY 11229
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Midwood
+
+    LONG_NAME: 1495
+
+    FORMATTED_ADDRESS: 1495 E 28th St #3a, Brooklyn, NY 11229, USA
+
+    LATITUDE: 40.6145816
+
+    LONGITUDE: -73.9463149

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Coldwell Banker American Homes
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 2700000
+
+    BEDS: 24
+
+    BATH: 24.0
+
+    PROPERTYSQFT: 18936.0
+
+    ADDRESS: 3520 Newkirk Ave Unit 24
+
+    STATE: Brooklyn, NY 11203
+
+    MAIN_ADDRESS: 3520 Newkirk Ave Unit 24Brooklyn, NY 11203
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Little Haiti
+
+    LONG_NAME: 3520
+
+    FORMATTED_ADDRESS: 3520 Newkirk Ave #24, Brooklyn, NY 11203, USA
+
+    LATITUDE: 40.6401806
+
+    LONGITUDE: -73.9429395

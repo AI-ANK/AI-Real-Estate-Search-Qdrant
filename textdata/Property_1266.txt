@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by TREBACH REALTY INC
+
+    TYPE: Co-op for sale
+
+    PRICE: 325000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 3875 Waldo Ave Apt 2E
+
+    STATE: Bronx, NY 10463
+
+    MAIN_ADDRESS: 3875 Waldo Ave Apt 2EBronx, NY 10463
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: Fieldston
+
+    LONG_NAME: 3875
+
+    FORMATTED_ADDRESS: 3875 Waldo Ave #2e, Bronx, NY 10463, USA
+
+    LATITUDE: 40.8890553
+
+    LONGITUDE: -73.9033819

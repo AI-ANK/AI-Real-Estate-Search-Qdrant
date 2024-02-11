@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Joanne Costa Realty
+
+    TYPE: House for sale
+
+    PRICE: 1150000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1444.0
+
+    ADDRESS: 91 Flagg Ct
+
+    STATE: Staten Island, NY 10304
+
+    MAIN_ADDRESS: 91 Flagg CtStaten Island, NY 10304
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Flagg Court
+
+    FORMATTED_ADDRESS: 91 Flagg Ct, Staten Island, NY 10304, USA
+
+    LATITUDE: 40.5882505
+
+    LONGITUDE: -74.1087291

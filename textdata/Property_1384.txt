@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: NoBroker
+
+    TYPE: House for sale
+
+    PRICE: 499900
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1040.0
+
+    ADDRESS: 334 Harbor Rd
+
+    STATE: Staten Island, NY 10303
+
+    MAIN_ADDRESS: 334 Harbor RdStaten Island, NY 10303
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Harbor Road
+
+    FORMATTED_ADDRESS: 334 Harbor Rd, Staten Island, NY 10303, USA
+
+    LATITUDE: 40.6281869
+
+    LONGITUDE: -74.1606727

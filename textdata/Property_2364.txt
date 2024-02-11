@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 1495000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 349 6th Ave Apt 2
+
+    STATE: Brooklyn, NY 11215
+
+    MAIN_ADDRESS: 349 6th Ave Apt 2Brooklyn, NY 11215
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Park Slope
+
+    LONG_NAME: 349
+
+    FORMATTED_ADDRESS: 349 6th Ave Apartment 2, Brooklyn, NY 11215, USA
+
+    LATITUDE: 40.670754
+
+    LONGITUDE: -73.981349

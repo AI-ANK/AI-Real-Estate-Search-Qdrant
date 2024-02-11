@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by EXP Realty
+
+    TYPE: Co-op for sale
+
+    PRICE: 480000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 66-36 Yellowstone Blvd Unit 22B
+
+    STATE: Forest Hills, NY 11375
+
+    MAIN_ADDRESS: 66-36 Yellowstone Blvd Unit 22BForest Hills, NY 11375
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Forest Hills
+
+    LONG_NAME: 6636
+
+    FORMATTED_ADDRESS: 6636 Yellowstone Blvd Apt 22f, Forest Hills, NY 11375, USA
+
+    LATITUDE: 40.7291499
+
+    LONGITUDE: -73.84944

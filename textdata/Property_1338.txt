@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Winzone Realty Inc
+
+    TYPE: Condo for sale
+
+    PRICE: 625000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 995.0
+
+    ADDRESS: 2 Bay Club Rd Unit 1M
+
+    STATE: Bayside, NY 11360
+
+    MAIN_ADDRESS: 2 Bay Club Rd Unit 1MBayside, NY 11360
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Bayside
+
+    LONG_NAME: 2
+
+    FORMATTED_ADDRESS: 2 Bay Club Dr #1u, Bayside, NY 11360, USA
+
+    LATITUDE: 40.7780359
+
+    LONGITUDE: -73.7808993

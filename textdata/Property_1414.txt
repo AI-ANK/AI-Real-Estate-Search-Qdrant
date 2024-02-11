@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Points North
+
+    TYPE: House for sale
+
+    PRICE: 3200000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2950.0
+
+    ADDRESS: 70 81st St
+
+    STATE: Brooklyn, NY 11209
+
+    MAIN_ADDRESS: 70 81st StBrooklyn, NY 11209
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: 81st Street
+
+    FORMATTED_ADDRESS: 70 81st St, Brooklyn, NY 11209, USA
+
+    LATITUDE: 40.6286854
+
+    LONGITUDE: -74.0372417

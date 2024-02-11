@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Homes R Us Realty of NY, Inc.
+
+    TYPE: Townhouse for sale
+
+    PRICE: 799900
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2058.0
+
+    ADDRESS: 25 Flagship Cir
+
+    STATE: Staten Island, NY 10309
+
+    MAIN_ADDRESS: 25 Flagship CirStaten Island, NY 10309
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Flagship Circle
+
+    FORMATTED_ADDRESS: 25 Flagship Cir, Staten Island, NY 10309, USA
+
+    LATITUDE: 40.5147701
+
+    LONGITUDE: -74.2022363

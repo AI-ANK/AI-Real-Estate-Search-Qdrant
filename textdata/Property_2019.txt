@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Benjamin Realty Since 1980
+
+    TYPE: Co-op for sale
+
+    PRICE: 299000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 70-31 108th St Unit 5F
+
+    STATE: Forest Hills, NY 11375
+
+    MAIN_ADDRESS: 70-31 108th St Unit 5FForest Hills, NY 11375
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 108th Street
+
+    FORMATTED_ADDRESS: 70-31 108th St, Forest Hills, NY 11375, USA
+
+    LATITUDE: 40.7220791
+
+    LONGITUDE: -73.8436959

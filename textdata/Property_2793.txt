@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Diamond Real Inc
+
+    TYPE: Condo for sale
+
+    PRICE: 1999999
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1800.0
+
+    ADDRESS: 70 Oceana Dr W Ph 1D
+
+    STATE: Brooklyn, NY 11235
+
+    MAIN_ADDRESS: 70 Oceana Dr W Ph 1DBrooklyn, NY 11235
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Brighton Beach
+
+    LONG_NAME: 70
+
+    FORMATTED_ADDRESS: 70 Oceana Dr W Ph 1D, Brooklyn, NY 11235, USA
+
+    LATITUDE: 40.5770098
+
+    LONGITUDE: -73.958346

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by E Realty International Corp
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 2880000
+
+    BEDS: 9
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2350.0
+
+    ADDRESS: 16-33 166th St
+
+    STATE: Whitestone, NY 11357
+
+    MAIN_ADDRESS: 16-33 166th StWhitestone, NY 11357
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 166th Street
+
+    FORMATTED_ADDRESS: 16-33 166th St, Flushing, NY 11357, USA
+
+    LATITUDE: 40.7832094
+
+    LONGITUDE: -73.7967588

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Robert Defalco Realty Inc.
+
+    TYPE: Townhouse for sale
+
+    PRICE: 549999
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1677.0
+
+    ADDRESS: 339 Union Ave Unit 41
+
+    STATE: Staten Island, NY 10303
+
+    MAIN_ADDRESS: 339 Union Ave Unit 41Staten Island, NY 10303
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Richmond County
+
+    SUBLOCALITY: Staten Island
+
+    STREET_NAME: Mariners Harbor
+
+    LONG_NAME: 339
+
+    FORMATTED_ADDRESS: 339 Union Ave #41, Staten Island, NY 10303, USA
+
+    LATITUDE: 40.6280768
+
+    LONGITUDE: -74.1576108

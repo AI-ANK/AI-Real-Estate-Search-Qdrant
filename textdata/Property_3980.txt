@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by United Real Estate Fortune
+
+    TYPE: Condo for sale
+
+    PRICE: 630000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 750.0
+
+    ADDRESS: 142-25 37th Ave Unit 6B
+
+    STATE: Flushing, NY 11354
+
+    MAIN_ADDRESS: 142-25 37th Ave Unit 6BFlushing, NY 11354
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 142-25
+
+    FORMATTED_ADDRESS: 142-25 37th Ave #6b, Flushing, NY 11354, USA
+
+    LATITUDE: 40.7627502
+
+    LONGITUDE: -73.8267096

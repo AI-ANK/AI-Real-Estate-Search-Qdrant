@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by MAK Estates
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 850000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2375.0
+
+    ADDRESS: 18 Salamander Ct
+
+    STATE: Staten Island, NY 10309
+
+    MAIN_ADDRESS: 18 Salamander CtStaten Island, NY 10309
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Salamander Court
+
+    FORMATTED_ADDRESS: 18 Salamander Ct, Staten Island, NY 10309, USA
+
+    LATITUDE: 40.5382166
+
+    LONGITUDE: -74.2235176

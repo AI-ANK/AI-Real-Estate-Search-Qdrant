@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Real Estate Professionals
+
+    TYPE: House for sale
+
+    PRICE: 495000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 953.0
+
+    ADDRESS: 79 Benjamin Dr
+
+    STATE: Staten Island, NY 10303
+
+    MAIN_ADDRESS: 79 Benjamin DrStaten Island, NY 10303
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Benjamin Drive
+
+    FORMATTED_ADDRESS: 79 Benjamin Dr, Staten Island, NY 10303, USA
+
+    LATITUDE: 40.6233738
+
+    LONGITUDE: -74.1599502

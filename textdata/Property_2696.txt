@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens - 445 Park Avenue
+
+    TYPE: Condop for sale
+
+    PRICE: 1065000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 215 E 96th St Unit 25C
+
+    STATE: Manhattan, NY 10128
+
+    MAIN_ADDRESS: 215 E 96th St Unit 25CManhattan, NY 10128
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York County
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Manhattan
+
+    STREET_NAME: East 96th Street
+
+    LONG_NAME: One Carnegie Hill
+
+    FORMATTED_ADDRESS: One Carnegie Hill, 215 E 96th St #25c, New York, NY 10128, USA
+
+    LATITUDE: 40.7850141
+
+    LONGITUDE: -73.9481639

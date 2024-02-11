@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by EXCLUSIVE PROPERTIES REALTY INC
+
+    TYPE: Co-op for sale
+
+    PRICE: 179000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 2239 Troy Ave Unit C6
+
+    STATE: Brooklyn, NY 11234
+
+    MAIN_ADDRESS: 2239 Troy Ave Unit C6Brooklyn, NY 11234
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Flatlands
+
+    LONG_NAME: 2239
+
+    FORMATTED_ADDRESS: 2239 Troy Ave c6, Brooklyn, NY 11234, USA
+
+    LATITUDE: 40.6192487
+
+    LONGITUDE: -73.9324

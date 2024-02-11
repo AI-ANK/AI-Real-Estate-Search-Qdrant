@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Long Island City
+
+    TYPE: Condo for sale
+
+    PRICE: 950000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1025.0
+
+    ADDRESS: 1215 Broadway Apt 320
+
+    STATE: Queens, NY 11106
+
+    MAIN_ADDRESS: 1215 Broadway Apt 320Queens, NY 11106
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Broadway
+
+    FORMATTED_ADDRESS: 12-15 Broadway, Long Island City, NY 11106, USA
+
+    LATITUDE: 40.7669131
+
+    LONGITUDE: -73.9342893

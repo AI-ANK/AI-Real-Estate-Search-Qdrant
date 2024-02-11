@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by TDMT - The Development Marketing Team
+
+    TYPE: Pending
+
+    PRICE: 560000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 345 Bedford Ave Apt D2
+
+    STATE: Brooklyn, NY 11211
+
+    MAIN_ADDRESS: 345 Bedford Ave Apt D2Brooklyn, NY 11211
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Williamsburg
+
+    LONG_NAME: 345
+
+    FORMATTED_ADDRESS: 345 Bedford Ave d2, Brooklyn, NY 11211, USA
+
+    LATITUDE: 40.7121147
+
+    LONGITUDE: -73.9626871

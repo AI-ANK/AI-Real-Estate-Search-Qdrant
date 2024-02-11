@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Ben Bay Realty Company of Staten Island LLC
+
+    TYPE: House for sale
+
+    PRICE: 589000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1320.0
+
+    ADDRESS: 111 Abbey Ct
+
+    STATE: Brooklyn, NY 11229
+
+    MAIN_ADDRESS: 111 Abbey CtBrooklyn, NY 11229
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Abbey Court
+
+    FORMATTED_ADDRESS: 111 Abbey Ct, Brooklyn, NY 11229, USA
+
+    LATITUDE: 40.5905162
+
+    LONGITUDE: -73.9233755

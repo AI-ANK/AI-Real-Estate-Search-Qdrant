@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Prospes Real Estate Corp
+
+    TYPE: House for sale
+
+    PRICE: 650000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 827 Richmond Rd
+
+    STATE: Staten Island, NY 10304
+
+    MAIN_ADDRESS: 827 Richmond RdStaten Island, NY 10304
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Richmond Road
+
+    FORMATTED_ADDRESS: 827 Richmond Rd, Staten Island, NY 10304, USA
+
+    LATITUDE: 40.6071254
+
+    LONGITUDE: -74.0925892

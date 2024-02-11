@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by J Milo Real Estate
+
+    TYPE: Condo for sale
+
+    PRICE: 199999
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 750.0
+
+    ADDRESS: 10 E 43rd St Apt 3K
+
+    STATE: Brooklyn, NY 11203
+
+    MAIN_ADDRESS: 10 E 43rd St Apt 3KBrooklyn, NY 11203
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Little Caribbean
+
+    LONG_NAME: 10
+
+    FORMATTED_ADDRESS: 10 E 43rd St #3k, Brooklyn, NY 11203, USA
+
+    LATITUDE: 40.655858
+
+    LONGITUDE: -73.9377831

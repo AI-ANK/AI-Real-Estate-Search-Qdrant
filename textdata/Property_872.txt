@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Townhouse for sale
+
+    PRICE: 4250000
+
+    BEDS: 3
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 3376.0
+
+    ADDRESS: 189 Prospect Pl Apt 1
+
+    STATE: Brooklyn, NY 11238
+
+    MAIN_ADDRESS: 189 Prospect Pl Apt 1Brooklyn, NY 11238
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Prospect Heights
+
+    LONG_NAME: 189
+
+    FORMATTED_ADDRESS: 189 Prospect Pl #1, Brooklyn, NY 11238, USA
+
+    LATITUDE: 40.6781953
+
+    LONGITUDE: -73.9702616

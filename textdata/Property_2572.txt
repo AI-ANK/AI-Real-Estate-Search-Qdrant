@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Condo for sale
+
+    PRICE: 995000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1030.0
+
+    ADDRESS: 575 4th Ave Apt 2A
+
+    STATE: Brooklyn, NY 11215
+
+    MAIN_ADDRESS: 575 4th Ave Apt 2ABrooklyn, NY 11215
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Park Slope
+
+    LONG_NAME: 575
+
+    FORMATTED_ADDRESS: 575 4th Ave #2a, Brooklyn, NY 11215, USA
+
+    LATITUDE: 40.6655513
+
+    LONGITUDE: -73.9922171

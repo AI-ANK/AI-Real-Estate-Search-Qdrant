@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by DiTommaso Real Estate
+
+    TYPE: Foreclosure
+
+    PRICE: 475000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1204.0
+
+    ADDRESS: 57 Skyline Dr
+
+    STATE: Staten Island, NY 10304
+
+    MAIN_ADDRESS: 57 Skyline DrStaten Island, NY 10304
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Skyline Drive
+
+    FORMATTED_ADDRESS: 57 Skyline Dr, Staten Island, NY 10304, USA
+
+    LATITUDE: 40.615479
+
+    LONGITUDE: -74.079293

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Unlimited Homes Realty Inc
+
+    TYPE: House for sale
+
+    PRICE: 460000
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2256.0
+
+    ADDRESS: 26 Durland Pl
+
+    STATE: Brooklyn, NY 11236
+
+    MAIN_ADDRESS: 26 Durland PlBrooklyn, NY 11236
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Durland Place
+
+    FORMATTED_ADDRESS: 26 Durland Pl, Brooklyn, NY 11236, USA
+
+    LATITUDE: 40.641648
+
+    LONGITUDE: -73.9064568

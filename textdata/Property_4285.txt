@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by MNS
+
+    TYPE: Condo for sale
+
+    PRICE: 1750000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 710 Metropolitan Ave Apt 5E
+
+    STATE: Brooklyn, NY 11211
+
+    MAIN_ADDRESS: 710 Metropolitan Ave Apt 5EBrooklyn, NY 11211
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Williamsburg
+
+    LONG_NAME: 710
+
+    FORMATTED_ADDRESS: 710 Metropolitan Ave #5e, Brooklyn, NY 11211, USA
+
+    LATITUDE: 40.714184
+
+    LONGITUDE: -73.945191

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Serhant
+
+    TYPE: Condo for sale
+
+    PRICE: 12500000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2938.0
+
+    ADDRESS: 71 Reade St # A
+
+    STATE: New York, NY 10007
+
+    MAIN_ADDRESS: 71 Reade St # ANew York, NY 10007
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: Reade Street
+
+    FORMATTED_ADDRESS: 71 Reade St, New York, NY 10007, USA
+
+    LATITUDE: 40.714922
+
+    LONGITUDE: -74.0070262

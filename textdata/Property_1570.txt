@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Edge
+
+    TYPE: House for sale
+
+    PRICE: 688000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1344.0
+
+    ADDRESS: 2805 W 28th St
+
+    STATE: Brooklyn, NY 11224
+
+    MAIN_ADDRESS: 2805 W 28th StBrooklyn, NY 11224
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: West 28th Street
+
+    FORMATTED_ADDRESS: 2805 W 28th St, Brooklyn, NY 11224, USA
+
+    LATITUDE: 40.5773399
+
+    LONGITUDE: -73.9943294

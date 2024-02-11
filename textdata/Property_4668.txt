@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by AHS AUDIT HOME SOLUTIONS
+
+    TYPE: Pending
+
+    PRICE: 549000
+
+    BEDS: 6
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 40-45 95 St
+
+    STATE: Elmhurst, NY 11373
+
+    MAIN_ADDRESS: 40-45 95 StElmhurst, NY 11373
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 95th Street
+
+    FORMATTED_ADDRESS: 40-45 95th St, Elmhurst, NY 11373, USA
+
+    LATITUDE: 40.7478254
+
+    LONGITUDE: -73.8704979

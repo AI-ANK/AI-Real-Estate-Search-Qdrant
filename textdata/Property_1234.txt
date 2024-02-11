@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by YourHomeSold Guarantee Realty
+
+    TYPE: Condo for sale
+
+    PRICE: 319000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1102.0
+
+    ADDRESS: 135 Sunset Blvd Unit 10135
+
+    STATE: Bronx, NY 10473
+
+    MAIN_ADDRESS: 135 Sunset Blvd Unit 10135Bronx, NY 10473
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Sunset Boulevard
+
+    FORMATTED_ADDRESS: 135 Sunset Blvd, Bronx, NY 10473, USA
+
+    LATITUDE: 40.806951
+
+    LONGITUDE: -73.853401

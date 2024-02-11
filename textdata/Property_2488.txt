@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Real Estate Professionals
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 3099000
+
+    BEDS: 36
+
+    BATH: 16.0
+
+    PROPERTYSQFT: 12460.0
+
+    ADDRESS: 5206 6th Ave
+
+    STATE: Brooklyn, NY 11220
+
+    MAIN_ADDRESS: 5206 6th AveBrooklyn, NY 11220
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: 6th Avenue
+
+    FORMATTED_ADDRESS: 5206 6th Ave, Brooklyn, NY 11220, USA
+
+    LATITUDE: 40.6426522
+
+    LONGITUDE: -74.0096744

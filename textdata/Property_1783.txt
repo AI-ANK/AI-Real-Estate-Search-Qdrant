@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Distinguished Homes & Properties
+
+    TYPE: Condo for sale
+
+    PRICE: 365000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 920.0
+
+    ADDRESS: 276 Buttrick Ave Unit I3
+
+    STATE: Bronx, NY 10465
+
+    MAIN_ADDRESS: 276 Buttrick Ave Unit I3Bronx, NY 10465
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: East Bronx
+
+    LONG_NAME: 276
+
+    FORMATTED_ADDRESS: 276 Buttrick Ave #3c, Bronx, NY 10465, USA
+
+    LATITUDE: 40.815638
+
+    LONGITUDE: -73.8244344

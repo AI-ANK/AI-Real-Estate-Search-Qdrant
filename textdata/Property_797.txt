@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by J. Sikar Realty
+
+    TYPE: Condo for sale
+
+    PRICE: 615000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1165.0
+
+    ADDRESS: 501 Surf Ave Apt 18F
+
+    STATE: Brooklyn, NY 11224
+
+    MAIN_ADDRESS: 501 Surf Ave Apt 18FBrooklyn, NY 11224
+
+    ADMINISTRATIVE_AREA_LEVEL_2: Kings County
+
+    LOCALITY: Brooklyn
+
+    SUBLOCALITY: Coney Island
+
+    STREET_NAME: Surf Avenue
+
+    LONG_NAME: Brightwater Towers East
+
+    FORMATTED_ADDRESS: Brightwater Towers East, 501 Surf Ave #18f, Brooklyn, NY 11224, USA
+
+    LATITUDE: 40.5755355
+
+    LONGITUDE: -73.9735905

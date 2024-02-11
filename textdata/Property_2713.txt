@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Heisman Realty LLC
+
+    TYPE: House for sale
+
+    PRICE: 539000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 972.0
+
+    ADDRESS: 84 Nautilus St
+
+    STATE: Staten Island, NY 10305
+
+    MAIN_ADDRESS: 84 Nautilus StStaten Island, NY 10305
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Nautilus Street
+
+    FORMATTED_ADDRESS: 84 Nautilus St, Staten Island, NY 10305, USA
+
+    LATITUDE: 40.6104417
+
+    LONGITUDE: -74.0628522

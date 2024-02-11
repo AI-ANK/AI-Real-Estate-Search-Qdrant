@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Park Avenue South
+
+    TYPE: Pending
+
+    PRICE: 625000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 281 W 11th St Apt 4A
+
+    STATE: New York, NY 10014
+
+    MAIN_ADDRESS: 281 W 11th St Apt 4ANew York, NY 10014
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 281
+
+    FORMATTED_ADDRESS: 281 W 11th St #4a, New York, NY 10014, USA
+
+    LATITUDE: 40.7362044
+
+    LONGITUDE: -74.0047875

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: House for sale
+
+    PRICE: 569900
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2180.0
+
+    ADDRESS: 69 Sherman Ave
+
+    STATE: Staten Island, NY 10301
+
+    MAIN_ADDRESS: 69 Sherman AveStaten Island, NY 10301
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Sherman Avenue
+
+    FORMATTED_ADDRESS: 69 Sherman Ave, Staten Island, NY 10301, USA
+
+    LATITUDE: 40.6395577
+
+    LONGITUDE: -74.0807615

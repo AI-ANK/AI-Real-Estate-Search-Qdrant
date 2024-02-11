@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Challenger Brokers
+
+    TYPE: Pending
+
+    PRICE: 860000
+
+    BEDS: 3
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2325.0
+
+    ADDRESS: 270 Ramapo Ave
+
+    STATE: Staten Island, NY 10309
+
+    MAIN_ADDRESS: 270 Ramapo AveStaten Island, NY 10309
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Ramapo Avenue
+
+    FORMATTED_ADDRESS: 270 Ramapo Ave, Staten Island, NY 10309, USA
+
+    LATITUDE: 40.5394441
+
+    LONGITUDE: -74.2109853

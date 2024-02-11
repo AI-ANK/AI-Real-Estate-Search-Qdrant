@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Coldwell Banker Advantage
+
+    TYPE: House for sale
+
+    PRICE: 2350000
+
+    BEDS: 5
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 4270.0
+
+    ADDRESS: 144 Dunham St
+
+    STATE: Staten Island, NY 10309
+
+    MAIN_ADDRESS: 144 Dunham StStaten Island, NY 10309
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Dunham Street
+
+    FORMATTED_ADDRESS: 144 Dunham St, Staten Island, NY 10309, USA
+
+    LATITUDE: 40.5251737
+
+    LONGITUDE: -74.2176044

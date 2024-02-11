@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Century 21 Realty First
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 2250000
+
+    BEDS: 12
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 5670.0
+
+    ADDRESS: 2361 81st St
+
+    STATE: Brooklyn, NY 11214
+
+    MAIN_ADDRESS: 2361 81st StBrooklyn, NY 11214
+
+    ADMINISTRATIVE_AREA_LEVEL_2: 11214
+
+    LOCALITY: United States
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Kings County
+
+    LONG_NAME: 81st Street
+
+    FORMATTED_ADDRESS: 2361 81st St, Brooklyn, NY 11214, USA
+
+    LATITUDE: 40.602654
+
+    LONGITUDE: -73.9869399

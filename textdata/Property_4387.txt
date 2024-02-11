@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by KELLER WILLIAMS REALTY LANDMARK II
+
+    TYPE: Co-op for sale
+
+    PRICE: 450000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1115.0
+
+    ADDRESS: 111-20 73rd Ave Unit 6H
+
+    STATE: Forest Hills, NY 11375
+
+    MAIN_ADDRESS: 111-20 73rd Ave Unit 6HForest Hills, NY 11375
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Forest Hills
+
+    LONG_NAME: 11120
+
+    FORMATTED_ADDRESS: 11120 73rd Ave #6h, Forest Hills, NY 11375, USA
+
+    LATITUDE: 40.7193296
+
+    LONGITUDE: -73.8380044

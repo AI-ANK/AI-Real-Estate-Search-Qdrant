@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Nest Seekers International, Midtown
+
+    TYPE: Condo for sale
+
+    PRICE: 585000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 45-30 Pearson St
+
+    STATE: Queens, NY 11101
+
+    MAIN_ADDRESS: 45-30 Pearson StQueens, NY 11101
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Pearson Street
+
+    FORMATTED_ADDRESS: 45-30 Pearson St, Long Island City, NY 11101, USA
+
+    LATITUDE: 40.7453084
+
+    LONGITUDE: -73.9445819

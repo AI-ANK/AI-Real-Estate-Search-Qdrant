@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Ycl Real Estate Consulting
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 580000
+
+    BEDS: 5
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1780.0
+
+    ADDRESS: 49 3 Brighton Ct
+
+    STATE: Brooklyn, NY 11235
+
+    MAIN_ADDRESS: 49 3 Brighton CtBrooklyn, NY 11235
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Brighton Court
+
+    FORMATTED_ADDRESS: 3 Brighton Ct, Brooklyn, NY 11223, USA
+
+    LATITUDE: 40.5874424
+
+    LONGITUDE: -73.9675716

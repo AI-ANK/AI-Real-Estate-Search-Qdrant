@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 1950000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1350.0
+
+    ADDRESS: 246 W End Ave Apt 6A
+
+    STATE: Manhattan, NY 10023
+
+    MAIN_ADDRESS: 246 W End Ave Apt 6AManhattan, NY 10023
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 246
+
+    FORMATTED_ADDRESS: 246 West End Ave Apt 6e, New York, NY 10023, USA
+
+    LATITUDE: 40.7790487
+
+    LONGITUDE: -73.984824

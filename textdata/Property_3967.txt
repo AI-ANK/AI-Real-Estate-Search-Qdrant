@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by LoHo Realty Inc
+
+    TYPE: Co-op for sale
+
+    PRICE: 1995000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 453 Fdr Dr Unit C803-804
+
+    STATE: New York City, NY 10002
+
+    MAIN_ADDRESS: 453 Fdr Dr Unit C803-804New York City, NY 10002
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 453
+
+    FORMATTED_ADDRESS: 453 FDR Dr c803, New York, NY 10002, USA
+
+    LATITUDE: 40.7129113
+
+    LONGITUDE: -73.9781415

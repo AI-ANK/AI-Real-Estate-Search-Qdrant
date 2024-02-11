@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman  -111 Fifth Ave
+
+    TYPE: Townhouse for sale
+
+    PRICE: 7550000
+
+    BEDS: 5
+
+    BATH: 5.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 48 Charles St
+
+    STATE: New York, NY 10014
+
+    MAIN_ADDRESS: 48 Charles StNew York, NY 10014
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: Charles Street
+
+    FORMATTED_ADDRESS: 48 Charles St, New York, NY 10014, USA
+
+    LATITUDE: 40.7348673
+
+    LONGITUDE: -74.0023636

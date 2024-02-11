@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Robert DeFalco Realty, Inc.
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1739888
+
+    BEDS: 8
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 3375.0
+
+    ADDRESS: 1938 Bay Ridge Ave
+
+    STATE: Brooklyn, NY 11204
+
+    MAIN_ADDRESS: 1938 Bay Ridge AveBrooklyn, NY 11204
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Bay Ridge Avenue
+
+    FORMATTED_ADDRESS: 1938 Bay Ridge Ave, Brooklyn, NY 11204, USA
+
+    LATITUDE: 40.6148276
+
+    LONGITUDE: -73.9896373

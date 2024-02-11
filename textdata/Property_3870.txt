@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Edge
+
+    TYPE: Condo for sale
+
+    PRICE: 475000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 739.0
+
+    ADDRESS: 3016 Brighton 5th St Apt 1C
+
+    STATE: Brooklyn, NY 11235
+
+    MAIN_ADDRESS: 3016 Brighton 5th St Apt 1CBrooklyn, NY 11235
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Brighton Beach
+
+    LONG_NAME: 3016
+
+    FORMATTED_ADDRESS: 3016 Brighton 5th St #1c, Brooklyn, NY 11235, USA
+
+    LATITUDE: 40.5789422
+
+    LONGITUDE: -73.9632143

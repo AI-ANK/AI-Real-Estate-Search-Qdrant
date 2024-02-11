@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by VYLLA Homes
+
+    TYPE: Contingent
+
+    PRICE: 436000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 912.0
+
+    ADDRESS: 43 Purdy Pl
+
+    STATE: Staten Island, NY 10309
+
+    MAIN_ADDRESS: 43 Purdy PlStaten Island, NY 10309
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Purdy Place
+
+    FORMATTED_ADDRESS: 43 Purdy Pl, Staten Island, NY 10309, USA
+
+    LATITUDE: 40.5132319
+
+    LONGITUDE: -74.1952211

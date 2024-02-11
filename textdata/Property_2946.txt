@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Jadestone Development Realty Llc
+
+    TYPE: House for sale
+
+    PRICE: 599900
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1204.0
+
+    ADDRESS: 3774 Hylan Blvd
+
+    STATE: Staten Island, NY 10308
+
+    MAIN_ADDRESS: 3774 Hylan BlvdStaten Island, NY 10308
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Hylan Boulevard
+
+    FORMATTED_ADDRESS: 3774 Hylan Blvd, Staten Island, NY 10308, USA
+
+    LATITUDE: 40.5466066
+
+    LONGITUDE: -74.1406837

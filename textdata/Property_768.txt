@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Exp Realty
+
+    TYPE: House for sale
+
+    PRICE: 850000
+
+    BEDS: 6
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2886.0
+
+    ADDRESS: 1358 Norton Dr
+
+    STATE: Far Rockaway, NY 11691
+
+    MAIN_ADDRESS: 1358 Norton DrFar Rockaway, NY 11691
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Norton Drive
+
+    FORMATTED_ADDRESS: 1358 Norton Dr, Far Rockaway, NY 11691, USA
+
+    LATITUDE: 40.6085633
+
+    LONGITUDE: -73.7686771

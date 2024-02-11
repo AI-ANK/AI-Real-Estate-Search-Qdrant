@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by eXp Realty BKNY
+
+    TYPE: Condo for sale
+
+    PRICE: 629000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1360.0
+
+    ADDRESS: 269 Bay 8th St Apt 2R
+
+    STATE: Brooklyn, NY 11228
+
+    MAIN_ADDRESS: 269 Bay 8th St Apt 2RBrooklyn, NY 11228
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Bath Beach
+
+    LONG_NAME: 269
+
+    FORMATTED_ADDRESS: 269 Bay 8th St #2r, Brooklyn, NY 11228, USA
+
+    LATITUDE: 40.6063017
+
+    LONGITUDE: -74.0157592

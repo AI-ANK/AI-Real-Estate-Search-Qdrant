@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Westside Columbus
+
+    TYPE: Co-op for sale
+
+    PRICE: 280000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1050.0
+
+    ADDRESS: 3000 Valentine Ave Apt 3B
+
+    STATE: Bronx, NY 10458
+
+    MAIN_ADDRESS: 3000 Valentine Ave Apt 3BBronx, NY 10458
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: West Bronx
+
+    LONG_NAME: 3000
+
+    FORMATTED_ADDRESS: 3000 Valentine Ave #3b, Bronx, NY 10458, USA
+
+    LATITUDE: 40.8724137
+
+    LONGITUDE: -73.8852231

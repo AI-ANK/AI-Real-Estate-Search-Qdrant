@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Avenue & Street Realty Inc
+
+    TYPE: Co-op for sale
+
+    PRICE: 268000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 750.0
+
+    ADDRESS: 13839 Jewel Ave Apt 3A
+
+    STATE: Flushing, NY 11367
+
+    MAIN_ADDRESS: 13839 Jewel Ave Apt 3AFlushing, NY 11367
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 13839
+
+    FORMATTED_ADDRESS: 13839 Jewel Ave #3a, Flushing, NY 11367, USA
+
+    LATITUDE: 40.7295527
+
+    LONGITUDE: -73.8272075

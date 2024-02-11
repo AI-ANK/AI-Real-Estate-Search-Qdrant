@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Nest Seekers International, Long Island
+
+    TYPE: Condo for sale
+
+    PRICE: 1530000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1229.0
+
+    ADDRESS: 26 Broadway Apt 402
+
+    STATE: Brooklyn, NY 11249
+
+    MAIN_ADDRESS: 26 Broadway Apt 402Brooklyn, NY 11249
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Southside
+
+    LONG_NAME: 26
+
+    FORMATTED_ADDRESS: 26 Broadway APT 402, Brooklyn, NY 11249, USA
+
+    LATITUDE: 40.7102454
+
+    LONGITUDE: -73.9682413

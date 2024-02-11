@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Ditommaso Real Estate
+
+    TYPE: Pending
+
+    PRICE: 499000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1176.0
+
+    ADDRESS: 161 Greenleaf Ave
+
+    STATE: Staten Island, NY 10310
+
+    MAIN_ADDRESS: 161 Greenleaf AveStaten Island, NY 10310
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Greenleaf Avenue
+
+    FORMATTED_ADDRESS: 161 Greenleaf Ave, Staten Island, NY 10310, USA
+
+    LATITUDE: 40.6265387
+
+    LONGITUDE: -74.1263932

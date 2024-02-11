@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Yoreevo Llc
+
+    TYPE: Co-op for sale
+
+    PRICE: 950000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 168 E 90th St Apt 3W
+
+    STATE: New York, NY 10128
+
+    MAIN_ADDRESS: 168 E 90th St Apt 3WNew York, NY 10128
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 168
+
+    FORMATTED_ADDRESS: 168 E 90th St #3w, New York, NY 10128, USA
+
+    LATITUDE: 40.781483
+
+    LONGITUDE: -73.952964

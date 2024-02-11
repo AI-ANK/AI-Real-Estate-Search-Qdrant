@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 575 Madison Ave
+
+    TYPE: House for sale
+
+    PRICE: 14750000
+
+    BEDS: 6
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 8790.0
+
+    ADDRESS: 7 E 69th St
+
+    STATE: New York, NY 10021
+
+    MAIN_ADDRESS: 7 E 69th StNew York, NY 10021
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: East 69th Street
+
+    FORMATTED_ADDRESS: 7 E 69th St, New York, NY 10021, USA
+
+    LATITUDE: 40.7703119
+
+    LONGITUDE: -73.967354

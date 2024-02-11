@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Exit Realty DKC
+
+    TYPE: Co-op for sale
+
+    PRICE: 97500
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 791.0
+
+    ADDRESS: 1160 Colgate Ave Apt 1D
+
+    STATE: Bronx, NY 10472
+
+    MAIN_ADDRESS: 1160 Colgate Ave Apt 1DBronx, NY 10472
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: East Bronx
+
+    LONG_NAME: 1160
+
+    FORMATTED_ADDRESS: 1160 Colgate Ave #1d, Bronx, NY 10472, USA
+
+    LATITUDE: 40.8279037
+
+    LONGITUDE: -73.881623

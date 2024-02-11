@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens Forest Hills LLC
+
+    TYPE: Co-op for sale
+
+    PRICE: 390000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1100.0
+
+    ADDRESS: 112-50 78th Ave Unit 2J
+
+    STATE: Queens, NY 11375
+
+    MAIN_ADDRESS: 112-50 78th Ave Unit 2JQueens, NY 11375
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 78th Avenue
+
+    FORMATTED_ADDRESS: 112-50 78th Ave, Forest Hills, NY 11375, USA
+
+    LATITUDE: 40.7155654
+
+    LONGITUDE: -73.8311146

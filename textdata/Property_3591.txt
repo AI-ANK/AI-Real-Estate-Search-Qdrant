@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Housebiz Realty Inc.
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 975000
+
+    BEDS: 7
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 1920.0
+
+    ADDRESS: 1392 Commonwealth Ave
+
+    STATE: Bronx, NY 10472
+
+    MAIN_ADDRESS: 1392 Commonwealth AveBronx, NY 10472
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Commonwealth Avenue
+
+    FORMATTED_ADDRESS: 1392 Commonwealth Ave, Bronx, NY 10472, USA
+
+    LATITUDE: 40.8345273
+
+    LONGITUDE: -73.8686683

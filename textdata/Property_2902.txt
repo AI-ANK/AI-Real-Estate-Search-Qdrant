@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Benjamin Realty Since 1980
+
+    TYPE: Co-op for sale
+
+    PRICE: 208000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 76-36 113th St Unit 3F
+
+    STATE: Forest Hills, NY 11375
+
+    MAIN_ADDRESS: 76-36 113th St Unit 3FForest Hills, NY 11375
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Forest Hills
+
+    LONG_NAME: 76-36
+
+    FORMATTED_ADDRESS: 76-36 113th St #3f, Forest Hills, NY 11375, USA
+
+    LATITUDE: 40.7170693
+
+    LONGITUDE: -73.8332429

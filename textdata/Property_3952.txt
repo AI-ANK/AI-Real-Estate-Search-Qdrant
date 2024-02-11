@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by E Realty International Corp
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1290000
+
+    BEDS: 5
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 44-12 65th St
+
+    STATE: Woodside, NY 11377
+
+    MAIN_ADDRESS: 44-12 65th StWoodside, NY 11377
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 65th Street
+
+    FORMATTED_ADDRESS: 44-12 65th St, Flushing, NY 11377, USA
+
+    LATITUDE: 40.7404458
+
+    LONGITUDE: -73.9008992

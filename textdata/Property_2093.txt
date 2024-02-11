@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Edge
+
+    TYPE: Co-op for sale
+
+    PRICE: 379000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1000.0
+
+    ADDRESS: 1680 Ocean Ave Apt 5L
+
+    STATE: Brooklyn, NY 11230
+
+    MAIN_ADDRESS: 1680 Ocean Ave Apt 5LBrooklyn, NY 11230
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Midwood
+
+    LONG_NAME: 1680
+
+    FORMATTED_ADDRESS: 1680 Ocean Ave #5l, Brooklyn, NY 11230, USA
+
+    LATITUDE: 40.6211681
+
+    LONGITUDE: -73.9559582

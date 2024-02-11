@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by EXIT REALTY PRIVATE CLIENT
+
+    TYPE: House for sale
+
+    PRICE: 509000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1100.0
+
+    ADDRESS: 3054 Lawton Ave
+
+    STATE: Bronx, NY 10465
+
+    MAIN_ADDRESS: 3054 Lawton AveBronx, NY 10465
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Lawton Avenue
+
+    FORMATTED_ADDRESS: 3054 Lawton Ave, Bronx, NY 10465, USA
+
+    LATITUDE: 40.8181427
+
+    LONGITUDE: -73.8105454

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Ashford Homes
+
+    TYPE: House for sale
+
+    PRICE: 558000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1108.0
+
+    ADDRESS: 3811 Hylan Blvd
+
+    STATE: Staten Island, NY 10308
+
+    MAIN_ADDRESS: 3811 Hylan BlvdStaten Island, NY 10308
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Hylan Boulevard
+
+    FORMATTED_ADDRESS: 3811 Hylan Blvd, Staten Island, NY 10308, USA
+
+    LATITUDE: 40.5463363
+
+    LONGITUDE: -74.1420026

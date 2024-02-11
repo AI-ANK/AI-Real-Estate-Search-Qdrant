@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Fillmore Real Estate
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 788888
+
+    BEDS: 5
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 3443.0
+
+    ADDRESS: 1125 E 57th St
+
+    STATE: Brooklyn, NY 11234
+
+    MAIN_ADDRESS: 1125 E 57th StBrooklyn, NY 11234
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: East 57th Street
+
+    FORMATTED_ADDRESS: 1125 E 57th St, Brooklyn, NY 11234, USA
+
+    LATITUDE: 40.6255174
+
+    LONGITUDE: -73.9205183

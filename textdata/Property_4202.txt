@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Habitat Realty Of New York Inc
+
+    TYPE: Condo for sale
+
+    PRICE: 650000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1050.0
+
+    ADDRESS: 2501 Snyder Ave Unit 3E
+
+    STATE: Prospect Lefferts Gardens, NY 11225
+
+    MAIN_ADDRESS: 2501 Snyder Ave Unit 3EProspect Lefferts Gardens, NY 11225
+
+    ADMINISTRATIVE_AREA_LEVEL_2: Brooklyn
+
+    LOCALITY: Flatbush
+
+    SUBLOCALITY: Snyder Avenue
+
+    STREET_NAME: 2501
+
+    LONG_NAME: Parking
+
+    FORMATTED_ADDRESS: Parking, Parking lot, 2501 Snyder Ave APT 3F, Brooklyn, NY 11226, USA
+
+    LATITUDE: 40.6492401
+
+    LONGITUDE: -73.9534818

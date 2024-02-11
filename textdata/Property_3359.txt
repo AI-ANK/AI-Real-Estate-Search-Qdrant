@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: NoBroker
+
+    TYPE: Co-op for sale
+
+    PRICE: 550000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 804 W 180th St Apt 52
+
+    STATE: New York, NY 10033
+
+    MAIN_ADDRESS: 804 W 180th St Apt 52New York, NY 10033
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 804
+
+    FORMATTED_ADDRESS: 804 W 180th St Apt 52, New York, NY 10033, USA
+
+    LATITUDE: 40.8499127
+
+    LONGITUDE: -73.9389587

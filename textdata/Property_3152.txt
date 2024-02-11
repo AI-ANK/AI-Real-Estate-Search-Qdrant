@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by The Agency
+
+    TYPE: Co-op for sale
+
+    PRICE: 549995
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 57 Montague St Apt 8K
+
+    STATE: Brooklyn, NY 11201
+
+    MAIN_ADDRESS: 57 Montague St Apt 8KBrooklyn, NY 11201
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Brooklyn Heights
+
+    LONG_NAME: 57
+
+    FORMATTED_ADDRESS: 57 Montague St #8c, Brooklyn, NY 11201, USA
+
+    LATITUDE: 40.6957468
+
+    LONGITUDE: -73.9970996

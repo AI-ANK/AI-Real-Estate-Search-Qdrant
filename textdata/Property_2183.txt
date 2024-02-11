@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 140 Franklin
+
+    TYPE: Co-op for sale
+
+    PRICE: 640000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 85 First Ave Unit 7B
+
+    STATE: New York, NY 10003
+
+    MAIN_ADDRESS: 85 First Ave Unit 7BNew York, NY 10003
+
+    ADMINISTRATIVE_AREA_LEVEL_2: 10003
+
+    LOCALITY: United States
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: New York County
+
+    LONG_NAME: Manhattan
+
+    FORMATTED_ADDRESS: 1st Ave., New York, NY 10003, USA
+
+    LATITUDE: 40.7301239
+
+    LONGITUDE: -73.9834424

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Townhouse for sale
+
+    PRICE: 3995000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 3412.0
+
+    ADDRESS: 98 Degraw St
+
+    STATE: Brooklyn, NY 11231
+
+    MAIN_ADDRESS: 98 Degraw StBrooklyn, NY 11231
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Degraw Street
+
+    FORMATTED_ADDRESS: 98 Degraw St, Brooklyn, NY 11231, USA
+
+    LATITUDE: 40.6857092
+
+    LONGITUDE: -74.003264

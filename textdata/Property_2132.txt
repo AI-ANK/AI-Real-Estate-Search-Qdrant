@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Exit Realty Prime
+
+    TYPE: Pending
+
+    PRICE: 765000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 46-10 Glenwood St
+
+    STATE: Little Neck, NY 11362
+
+    MAIN_ADDRESS: 46-10 Glenwood StLittle Neck, NY 11362
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Glenwood Street
+
+    FORMATTED_ADDRESS: 46-10 Glenwood St, Flushing, NY 11362, USA
+
+    LATITUDE: 40.7714061
+
+    LONGITUDE: -73.732929

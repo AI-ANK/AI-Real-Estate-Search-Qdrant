@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by CENTURY 21 Future Homes Realty
+
+    TYPE: Co-op for sale
+
+    PRICE: 190000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 875.0
+
+    ADDRESS: 3065 Sedgwick Ave Apt 3E
+
+    STATE: Bronx, NY 10468
+
+    MAIN_ADDRESS: 3065 Sedgwick Ave Apt 3EBronx, NY 10468
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: West Bronx
+
+    LONG_NAME: 3065
+
+    FORMATTED_ADDRESS: 3065 Sedgwick Ave #3e, Bronx, NY 10468, USA
+
+    LATITUDE: 40.8766081
+
+    LONGITUDE: -73.8998497

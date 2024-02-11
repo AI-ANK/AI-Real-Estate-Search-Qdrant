@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by KELLER WILLIAMS REALTY LANDMARK II
+
+    TYPE: House for sale
+
+    PRICE: 699000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 78-18 74th St
+
+    STATE: Glendale, NY 11385
+
+    MAIN_ADDRESS: 78-18 74th StGlendale, NY 11385
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 74th Street
+
+    FORMATTED_ADDRESS: 78-18 74th St, Flushing, NY 11385, USA
+
+    LATITUDE: 40.7037872
+
+    LONGITUDE: -73.8752532

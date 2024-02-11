@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Winzone Realty Inc
+
+    TYPE: Co-op for sale
+
+    PRICE: 285000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 98-120 Queens Blvd Unit 2H
+
+    STATE: Rego Park, NY 11374
+
+    MAIN_ADDRESS: 98-120 Queens Blvd Unit 2HRego Park, NY 11374
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Rego Park
+
+    LONG_NAME: 120
+
+    FORMATTED_ADDRESS: 120 Queens Blvd #98, Rego Park, NY 11374, USA
+
+    LATITUDE: 40.726843
+
+    LONGITUDE: -73.85458

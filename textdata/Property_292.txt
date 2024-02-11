@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Scott Dobrin Realty
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 815156
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2945.0
+
+    ADDRESS: 156 Davis Ave
+
+    STATE: Staten Island, NY 10310
+
+    MAIN_ADDRESS: 156 Davis AveStaten Island, NY 10310
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Davis Avenue
+
+    FORMATTED_ADDRESS: 156 Davis Ave, Staten Island, NY 10310, USA
+
+    LATITUDE: 40.6402659
+
+    LONGITUDE: -74.110402

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by E Realty International Corp
+
+    TYPE: House for sale
+
+    PRICE: 1250000
+
+    BEDS: 4
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 32-15 168th St
+
+    STATE: Flushing, NY 11358
+
+    MAIN_ADDRESS: 32-15 168th StFlushing, NY 11358
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 168th Street
+
+    FORMATTED_ADDRESS: 32-15 168th St, Flushing, NY 11358, USA
+
+    LATITUDE: 40.7684367
+
+    LONGITUDE: -73.7969886

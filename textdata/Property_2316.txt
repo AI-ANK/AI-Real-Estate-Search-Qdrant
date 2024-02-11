@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Real Broker LLC
+
+    TYPE: Pending
+
+    PRICE: 1390000
+
+    BEDS: 5
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 1992.0
+
+    ADDRESS: 1429 Avenue H
+
+    STATE: Brooklyn, NY 11230
+
+    MAIN_ADDRESS: 1429 Avenue HBrooklyn, NY 11230
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Avenue H
+
+    FORMATTED_ADDRESS: 1429 Avenue H, Brooklyn, NY 11230, USA
+
+    LATITUDE: 40.6302066
+
+    LONGITUDE: -73.962272

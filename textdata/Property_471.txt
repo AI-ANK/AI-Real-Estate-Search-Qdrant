@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by American Homes Group
+
+    TYPE: House for sale
+
+    PRICE: 265000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 660.0
+
+    ADDRESS: 19 Vera St
+
+    STATE: Staten Island, NY 10305
+
+    MAIN_ADDRESS: 19 Vera StStaten Island, NY 10305
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Vera Street
+
+    FORMATTED_ADDRESS: 19 Vera St, Staten Island, NY 10305, USA
+
+    LATITUDE: 40.5849224
+
+    LONGITUDE: -74.0968781

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Island Advantage Realty LLC
+
+    TYPE: Foreclosure
+
+    PRICE: 750000
+
+    BEDS: 4
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 3098.0
+
+    ADDRESS: 3037 Richmond Rd
+
+    STATE: Staten Island, NY 10306
+
+    MAIN_ADDRESS: 3037 Richmond RdStaten Island, NY 10306
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Richmond Road
+
+    FORMATTED_ADDRESS: 3037 Richmond Rd, Staten Island, NY 10306, USA
+
+    LATITUDE: 40.5758238
+
+    LONGITUDE: -74.1227343

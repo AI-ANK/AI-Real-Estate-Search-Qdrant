@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sotheby's International Realty - East Side Manhattan Brokerage
+
+    TYPE: Co-op for sale
+
+    PRICE: 3495000
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 129 E 69th St Apt 7B
+
+    STATE: New York, NY 10021
+
+    MAIN_ADDRESS: 129 E 69th St Apt 7BNew York, NY 10021
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 129
+
+    FORMATTED_ADDRESS: 129 E 69th St #7b, New York, NY 10021, USA
+
+    LATITUDE: 40.7687653
+
+    LONGITUDE: -73.9638365

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Homemax Realty Inc
+
+    TYPE: Condo for sale
+
+    PRICE: 679000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 879.0
+
+    ADDRESS: 511 68th St Apt 1A
+
+    STATE: Brooklyn, NY 11220
+
+    MAIN_ADDRESS: 511 68th St Apt 1ABrooklyn, NY 11220
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Bay Ridge
+
+    LONG_NAME: 511
+
+    FORMATTED_ADDRESS: 511 68th St #1a, Brooklyn, NY 11220, USA
+
+    LATITUDE: 40.6341182
+
+    LONGITUDE: -74.0202284

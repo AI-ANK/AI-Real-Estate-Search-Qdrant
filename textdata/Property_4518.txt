@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by E Realty International Corp
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1690000
+
+    BEDS: 7
+
+    BATH: 7.0
+
+    PROPERTYSQFT: 4600.0
+
+    ADDRESS: 56-11 Van Cleef St
+
+    STATE: Corona, NY 11368
+
+    MAIN_ADDRESS: 56-11 Van Cleef StCorona, NY 11368
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Van Cleef Street
+
+    FORMATTED_ADDRESS: 56-11 Van Cleef St, Flushing, NY 11368, USA
+
+    LATITUDE: 40.7407623
+
+    LONGITUDE: -73.8521478

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: NoBroker
+
+    TYPE: Co-op for sale
+
+    PRICE: 445000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 138-10 Franklin Ave Unit 1K
+
+    STATE: Flushing, NY 11355
+
+    MAIN_ADDRESS: 138-10 Franklin Ave Unit 1KFlushing, NY 11355
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 138-10
+
+    FORMATTED_ADDRESS: 138-10 Franklin Ave #1g, Flushing, NY 11355, USA
+
+    LATITUDE: 40.7547252
+
+    LONGITUDE: -73.8255572

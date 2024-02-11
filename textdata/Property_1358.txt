@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Distinguished Homes & Properties
+
+    TYPE: House for sale
+
+    PRICE: 499000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1752.0
+
+    ADDRESS: 2712 Heath Ave
+
+    STATE: Bronx, NY 10463
+
+    MAIN_ADDRESS: 2712 Heath AveBronx, NY 10463
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Heath Avenue
+
+    FORMATTED_ADDRESS: 2712 Heath Ave, Bronx, NY 10463, USA
+
+    LATITUDE: 40.8717268
+
+    LONGITUDE: -73.9050847

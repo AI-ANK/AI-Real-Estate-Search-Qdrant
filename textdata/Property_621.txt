@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by ERA Insite Realty Services
+
+    TYPE: Co-op for sale
+
+    PRICE: 229000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 950.0
+
+    ADDRESS: 4315 Webster Ave Apt 3L
+
+    STATE: Bronx, NY 10470
+
+    MAIN_ADDRESS: 4315 Webster Ave Apt 3LBronx, NY 10470
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: East Bronx
+
+    LONG_NAME: 4315
+
+    FORMATTED_ADDRESS: 4315 Webster Ave #3l, Bronx, NY 10470, USA
+
+    LATITUDE: 40.8995193
+
+    LONGITUDE: -73.8623678

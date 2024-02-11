@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Townhouse for sale
+
+    PRICE: 2900000
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1979.0
+
+    ADDRESS: 845 United Nations Plz Apt 6A
+
+    STATE: Manhattan, NY 10017
+
+    MAIN_ADDRESS: 845 United Nations Plz Apt 6AManhattan, NY 10017
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 845
+
+    FORMATTED_ADDRESS: 845 United Nations Plaza APT 6D, New York, NY 10017, USA
+
+    LATITUDE: 40.7525683
+
+    LONGITUDE: -73.9678256

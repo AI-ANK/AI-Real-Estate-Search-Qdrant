@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran East Side
+
+    TYPE: Co-op for sale
+
+    PRICE: 11175000
+
+    BEDS: 4
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 3841.0
+
+    ADDRESS: 1228 Madison Ave Apt 10
+
+    STATE: New York, NY 10128
+
+    MAIN_ADDRESS: 1228 Madison Ave Apt 10New York, NY 10128
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 1228
+
+    FORMATTED_ADDRESS: 1228 Madison Ave #10, New York, NY 10128, USA
+
+    LATITUDE: 40.7825765
+
+    LONGITUDE: -73.9578338

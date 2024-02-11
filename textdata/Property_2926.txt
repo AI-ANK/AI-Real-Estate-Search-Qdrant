@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by BEN BAY REALTY, CO.
+
+    TYPE: Pending
+
+    PRICE: 625000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1040.0
+
+    ADDRESS: 108 Howton Ave
+
+    STATE: Staten Island, NY 10308
+
+    MAIN_ADDRESS: 108 Howton AveStaten Island, NY 10308
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Howton Avenue
+
+    FORMATTED_ADDRESS: 108 Howton Ave, Staten Island, NY 10308, USA
+
+    LATITUDE: 40.557402
+
+    LONGITUDE: -74.148792

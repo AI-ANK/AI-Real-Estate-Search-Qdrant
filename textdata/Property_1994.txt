@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Triolo Realty Group, Inc.
+
+    TYPE: House for sale
+
+    PRICE: 749000
+
+    BEDS: 4
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2013.0
+
+    ADDRESS: 606 Tompkins Ave
+
+    STATE: Staten Island, NY 10305
+
+    MAIN_ADDRESS: 606 Tompkins AveStaten Island, NY 10305
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Tompkins Avenue
+
+    FORMATTED_ADDRESS: 606 Tompkins Ave., Staten Island, NY 10305, USA
+
+    LATITUDE: 40.6109749
+
+    LONGITUDE: -74.0710212

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Americas Real Estate Advisors
+
+    TYPE: House for sale
+
+    PRICE: 400000
+
+    BEDS: 7
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2385.0
+
+    ADDRESS: 340 E 234th St
+
+    STATE: Bronx, NY 10470
+
+    MAIN_ADDRESS: 340 E 234th StBronx, NY 10470
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: East 234th Street
+
+    FORMATTED_ADDRESS: 340 E 234th St, Bronx, NY 10470, USA
+
+    LATITUDE: 40.8969146
+
+    LONGITUDE: -73.8654984

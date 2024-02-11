@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Edge
+
+    TYPE: Pending
+
+    PRICE: 1188000
+
+    BEDS: 4
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 3840.0
+
+    ADDRESS: 139 Atlantic Ave
+
+    STATE: Staten Island, NY 10304
+
+    MAIN_ADDRESS: 139 Atlantic AveStaten Island, NY 10304
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Atlantic Avenue
+
+    FORMATTED_ADDRESS: 139 Atlantic Ave, Staten Island, NY 10304, USA
+
+    LATITUDE: 40.5929709
+
+    LONGITUDE: -74.0937822

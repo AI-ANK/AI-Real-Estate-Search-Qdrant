@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Robert Defalco Realty Inc.
+
+    TYPE: Contingent
+
+    PRICE: 740000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1976.0
+
+    ADDRESS: 391 Fingerboard Rd
+
+    STATE: Staten Island, NY 10305
+
+    MAIN_ADDRESS: 391 Fingerboard RdStaten Island, NY 10305
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Fingerboard Road
+
+    FORMATTED_ADDRESS: 391 Fingerboard Rd, Staten Island, NY 10305, USA
+
+    LATITUDE: 40.6020874
+
+    LONGITUDE: -74.071448

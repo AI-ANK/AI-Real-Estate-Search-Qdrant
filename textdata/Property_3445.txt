@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Scope Realty Bx
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 829000
+
+    BEDS: 9
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2276.0
+
+    ADDRESS: 1378 Bristow St
+
+    STATE: Bronx, NY 10459
+
+    MAIN_ADDRESS: 1378 Bristow StBronx, NY 10459
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Bristow Street
+
+    FORMATTED_ADDRESS: 1378 Bristow St, Bronx, NY 10459, USA
+
+    LATITUDE: 40.8325102
+
+    LONGITUDE: -73.8947147

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Affordable Realty Corp
+
+    TYPE: Co-op for sale
+
+    PRICE: 279000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 160-10 89th Ave Unit 15L
+
+    STATE: Jamaica, NY 11432
+
+    MAIN_ADDRESS: 160-10 89th Ave Unit 15LJamaica, NY 11432
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Jamaica
+
+    LONG_NAME: 16010
+
+    FORMATTED_ADDRESS: 16010 89th Ave Apt 15l, Jamaica, NY 11432, USA
+
+    LATITUDE: 40.7063799
+
+    LONGITUDE: -73.79996

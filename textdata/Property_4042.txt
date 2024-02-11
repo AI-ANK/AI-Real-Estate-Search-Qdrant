@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Bhuiyan Properties LLC
+
+    TYPE: Condo for sale
+
+    PRICE: 474000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 750.0
+
+    ADDRESS: 848 43rd St Apt 22
+
+    STATE: Brooklyn, NY 11232
+
+    MAIN_ADDRESS: 848 43rd St Apt 22Brooklyn, NY 11232
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Sunset Park
+
+    LONG_NAME: 848
+
+    FORMATTED_ADDRESS: 848 43rd St Apt 22, Brooklyn, NY 11232, USA
+
+    LATITUDE: 40.6442712
+
+    LONGITUDE: -73.9986359

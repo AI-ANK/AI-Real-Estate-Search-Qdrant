@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by PPAD - Park Property Advisors
+
+    TYPE: Condo for sale
+
+    PRICE: 2250000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1334.0
+
+    ADDRESS: 415 DE Graw St Unit Ph
+
+    STATE: Brooklyn, NY 11217
+
+    MAIN_ADDRESS: 415 DE Graw St Unit PhBrooklyn, NY 11217
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Degraw Street
+
+    FORMATTED_ADDRESS: 415 Degraw St, Brooklyn, NY 11217, USA
+
+    LATITUDE: 40.6819719
+
+    LONGITUDE: -73.9903277

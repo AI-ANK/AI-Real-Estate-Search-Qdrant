@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by E Realty International Corp
+
+    TYPE: House for sale
+
+    PRICE: 988000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1296.0
+
+    ADDRESS: 43-64 Bowne St
+
+    STATE: Flushing, NY 11355
+
+    MAIN_ADDRESS: 43-64 Bowne StFlushing, NY 11355
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Bowne Street
+
+    FORMATTED_ADDRESS: 43-64 Bowne St, Flushing, NY 11355, USA
+
+    LATITUDE: 40.7540089
+
+    LONGITUDE: -73.8189203

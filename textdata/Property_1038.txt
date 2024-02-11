@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by BRPI - Brooklyn Real Property
+
+    TYPE: Townhouse for sale
+
+    PRICE: 1499000
+
+    BEDS: 9
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 2619 Shore Pkwy
+
+    STATE: Brooklyn, NY 11223
+
+    MAIN_ADDRESS: 2619 Shore PkwyBrooklyn, NY 11223
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Shore Parkway
+
+    FORMATTED_ADDRESS: 2619 Shore Pkwy, Brooklyn, NY 11223, USA
+
+    LATITUDE: 40.583514
+
+    LONGITUDE: -73.9738903

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Robert DeFalco Realty, Inc.
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 949000
+
+    BEDS: 8
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 3500.0
+
+    ADDRESS: 90 Fillmore St
+
+    STATE: Staten Island, NY 10301
+
+    MAIN_ADDRESS: 90 Fillmore StStaten Island, NY 10301
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Fillmore Street
+
+    FORMATTED_ADDRESS: 90 Fillmore St, Staten Island, NY 10301, USA
+
+    LATITUDE: 40.6445278
+
+    LONGITUDE: -74.0913961

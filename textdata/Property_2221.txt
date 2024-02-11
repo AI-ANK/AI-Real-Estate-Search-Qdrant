@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by R New York
+
+    TYPE: Condo for sale
+
+    PRICE: 16995000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 3310.0
+
+    ADDRESS: 23 E 22nd St Unit 55B
+
+    STATE: New York, NY 10010
+
+    MAIN_ADDRESS: 23 E 22nd St Unit 55BNew York, NY 10010
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York County
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Manhattan
+
+    STREET_NAME: East 22nd Street
+
+    LONG_NAME: One Madison
+
+    FORMATTED_ADDRESS: One Madison, 23 E 22nd St #55A, New York, NY 10010, USA
+
+    LATITUDE: 40.7405179
+
+    LONGITUDE: -73.9881093

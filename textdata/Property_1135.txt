@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Pride Estates
+
+    TYPE: Pending
+
+    PRICE: 172800
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 750.0
+
+    ADDRESS: 2010 E 58th St Unit 120B
+
+    STATE: Brooklyn, NY 11234
+
+    MAIN_ADDRESS: 2010 E 58th St Unit 120BBrooklyn, NY 11234
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Mill Basin
+
+    LONG_NAME: 2010
+
+    FORMATTED_ADDRESS: 2010 E 58th St # 120b, Brooklyn, NY 11234, USA
+
+    LATITUDE: 40.6149015
+
+    LONGITUDE: -73.9185548

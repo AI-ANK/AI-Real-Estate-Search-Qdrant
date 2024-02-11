@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Park Avenue South
+
+    TYPE: Co-op for sale
+
+    PRICE: 925000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1000.0
+
+    ADDRESS: 235 E 73rd St # 4B
+
+    STATE: New York, NY 10021
+
+    MAIN_ADDRESS: 235 E 73rd St # 4BNew York, NY 10021
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 235
+
+    FORMATTED_ADDRESS: 235 E 73rd St #4b, New York, NY 10021, USA
+
+    LATITUDE: 40.7699425
+
+    LONGITUDE: -73.9583558

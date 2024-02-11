@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Netter Real Estate Inc
+
+    TYPE: House for sale
+
+    PRICE: 848724
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 53-15 37th Rd
+
+    STATE: Woodside, NY 11377
+
+    MAIN_ADDRESS: 53-15 37th RdWoodside, NY 11377
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 37th Road
+
+    FORMATTED_ADDRESS: 53-15 37th Rd, Flushing, NY 11377, USA
+
+    LATITUDE: 40.7511112
+
+    LONGITUDE: -73.9089639

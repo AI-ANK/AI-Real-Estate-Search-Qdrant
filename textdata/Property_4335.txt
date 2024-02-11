@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Four Seasons Realty Team
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1510000
+
+    BEDS: 5
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 151 31st St
+
+    STATE: Brooklyn, NY 11232
+
+    MAIN_ADDRESS: 151 31st StBrooklyn, NY 11232
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: 31st Street
+
+    FORMATTED_ADDRESS: 151 31st St, Brooklyn, NY 11232, USA
+
+    LATITUDE: 40.6576519
+
+    LONGITUDE: -74.0019986

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by KELLER WILLIAMS REALTY EMPIRE
+
+    TYPE: Co-op for sale
+
+    PRICE: 270000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 275.0
+
+    ADDRESS: 300 8th Ave Apt 1N
+
+    STATE: Brooklyn, NY 11215
+
+    MAIN_ADDRESS: 300 8th Ave Apt 1NBrooklyn, NY 11215
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Park Slope
+
+    LONG_NAME: 300
+
+    FORMATTED_ADDRESS: 300 8th Ave #1n, Brooklyn, NY 11215, USA
+
+    LATITUDE: 40.6692346
+
+    LONGITUDE: -73.9765732

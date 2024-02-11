@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 940000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 401 E 74th St Apt 14A
+
+    STATE: Manhattan, NY 10021
+
+    MAIN_ADDRESS: 401 E 74th St Apt 14AManhattan, NY 10021
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 401
+
+    FORMATTED_ADDRESS: 401 E 74th St #14a, New York, NY 10021, USA
+
+    LATITUDE: 40.7689684
+
+    LONGITUDE: -73.9543121

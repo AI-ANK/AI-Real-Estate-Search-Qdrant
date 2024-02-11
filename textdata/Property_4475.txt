@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Ben Bay Rlty Of Marine Pk Llc
+
+    TYPE: Co-op for sale
+
+    PRICE: 259000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 570.0
+
+    ADDRESS: 160 72nd St Apt 791
+
+    STATE: Brooklyn, NY 11209
+
+    MAIN_ADDRESS: 160 72nd St Apt 791Brooklyn, NY 11209
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Bay Ridge
+
+    LONG_NAME: 160
+
+    FORMATTED_ADDRESS: 160 72nd St Apt 791, Brooklyn, NY 11209, USA
+
+    LATITUDE: 40.6343667
+
+    LONGITUDE: -74.0311335

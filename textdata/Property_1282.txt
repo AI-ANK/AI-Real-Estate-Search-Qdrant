@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 385000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1100.0
+
+    ADDRESS: 640 W 231st St Apt 7C
+
+    STATE: Bronx, NY 10463
+
+    MAIN_ADDRESS: 640 W 231st St Apt 7CBronx, NY 10463
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: Spuyten Duyvil
+
+    LONG_NAME: 640
+
+    FORMATTED_ADDRESS: 640 W 231st St #7c, Bronx, NY 10463, USA
+
+    LATITUDE: 40.8827696
+
+    LONGITUDE: -73.9148245

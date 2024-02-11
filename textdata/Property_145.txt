@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Park Slope
+
+    TYPE: House for sale
+
+    PRICE: 1099000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 204-34 9th Ave
+
+    STATE: Queens, NY 11697
+
+    MAIN_ADDRESS: 204-34 9th AveQueens, NY 11697
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 9th Avenue
+
+    FORMATTED_ADDRESS: 204-34 9th Ave, Breezy Point, NY 11697, USA
+
+    LATITUDE: 40.5595612
+
+    LONGITUDE: -73.9147409

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by B Square Realty
+
+    TYPE: Condo for sale
+
+    PRICE: 748000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 713.0
+
+    ADDRESS: 41-62 Bowne St Unit 3D
+
+    STATE: Flushing, NY 11355
+
+    MAIN_ADDRESS: 41-62 Bowne St Unit 3DFlushing, NY 11355
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 41-62
+
+    FORMATTED_ADDRESS: 41-62 Bowne St #3d, Flushing, NY 11355, USA
+
+    LATITUDE: 40.7576255
+
+    LONGITUDE: -73.8231097

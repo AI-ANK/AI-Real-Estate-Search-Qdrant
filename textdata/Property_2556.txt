@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 575 Madison Ave
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 25750000
+
+    BEDS: 6
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 17 E 76th St
+
+    STATE: New York, NY 10021
+
+    MAIN_ADDRESS: 17 E 76th StNew York, NY 10021
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: East 76th Street
+
+    FORMATTED_ADDRESS: 17 E 76th St, New York, NY 10021, USA
+
+    LATITUDE: 40.7747817
+
+    LONGITUDE: -73.9639595

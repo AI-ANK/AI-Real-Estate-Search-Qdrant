@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Long Island City
+
+    TYPE: Co-op for sale
+
+    PRICE: 350000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 825.0
+
+    ADDRESS: 274 S 2nd St Apt 30
+
+    STATE: Brooklyn, NY 11211
+
+    MAIN_ADDRESS: 274 S 2nd St Apt 30Brooklyn, NY 11211
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Williamsburg
+
+    LONG_NAME: 274
+
+    FORMATTED_ADDRESS: 274 S 2nd St Apartment 30, Brooklyn, NY 11211, USA
+
+    LATITUDE: 40.711175
+
+    LONGITUDE: -73.957086

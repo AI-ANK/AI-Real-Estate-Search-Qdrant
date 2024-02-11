@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Higgins Realty Group Llc
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 899000
+
+    BEDS: 4
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1892.0
+
+    ADDRESS: 1139 E 86th St
+
+    STATE: Brooklyn, NY 11236
+
+    MAIN_ADDRESS: 1139 E 86th StBrooklyn, NY 11236
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: East 86th Street
+
+    FORMATTED_ADDRESS: 1139 E 86th St, Brooklyn, NY 11236, USA
+
+    LATITUDE: 40.6344613
+
+    LONGITUDE: -73.9042326

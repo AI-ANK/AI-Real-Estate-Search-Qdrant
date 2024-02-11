@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Progress Realty Inc.
+
+    TYPE: Co-op for sale
+
+    PRICE: 189000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 800.0
+
+    ADDRESS: 756 Brady Ave Apt 307
+
+    STATE: Bronx, NY 10462
+
+    MAIN_ADDRESS: 756 Brady Ave Apt 307Bronx, NY 10462
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: East Bronx
+
+    LONG_NAME: 756
+
+    FORMATTED_ADDRESS: 756 Brady Ave Apt 307, Bronx, NY 10462, USA
+
+    LATITUDE: 40.8522362
+
+    LONGITUDE: -73.8655005

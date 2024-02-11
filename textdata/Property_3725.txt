@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens- 3531 Johnson Avenue
+
+    TYPE: Co-op for sale
+
+    PRICE: 165000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 750.0
+
+    ADDRESS: 5614 Netherland Ave Apt 4B
+
+    STATE: Bronx, NY 10471
+
+    MAIN_ADDRESS: 5614 Netherland Ave Apt 4BBronx, NY 10471
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: North Riverdale
+
+    LONG_NAME: 5614
+
+    FORMATTED_ADDRESS: 5614 Netherland Ave #4b, Bronx, NY 10471, USA
+
+    LATITUDE: 40.9047804
+
+    LONGITUDE: -73.9057444

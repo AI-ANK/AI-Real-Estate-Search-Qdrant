@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by E Z Sell Realty
+
+    TYPE: Co-op for sale
+
+    PRICE: 279000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 99-05 63rd Dr Unit 14U
+
+    STATE: Rego Park, NY 11374
+
+    MAIN_ADDRESS: 99-05 63rd Dr Unit 14URego Park, NY 11374
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Rego Park
+
+    LONG_NAME: 9905
+
+    FORMATTED_ADDRESS: 9905 63rd Dr Apt 14f, Rego Park, NY 11374, USA
+
+    LATITUDE: 40.7312899
+
+    LONGITUDE: -73.85773

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Diane Realty Ltd.
+
+    TYPE: Contingent
+
+    PRICE: 235000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 301.0
+
+    ADDRESS: 23 Arielle Ln Unit A
+
+    STATE: Staten Island, NY 10314
+
+    MAIN_ADDRESS: 23 Arielle Ln Unit AStaten Island, NY 10314
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Arielle Lane
+
+    FORMATTED_ADDRESS: 23 Arielle Ln, Staten Island, NY 10314, USA
+
+    LATITUDE: 40.5781324
+
+    LONGITUDE: -74.1603451

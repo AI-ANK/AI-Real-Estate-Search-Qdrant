@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Neman Yoska
+
+    TYPE: Land for sale
+
+    PRICE: 149000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 644 Jefferson Ave
+
+    STATE: Staten Island, NY 10306
+
+    MAIN_ADDRESS: 644 Jefferson AveStaten Island, NY 10306
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Jefferson Avenue
+
+    FORMATTED_ADDRESS: 644 Jefferson Ave, Staten Island, NY 10306, USA
+
+    LATITUDE: 40.5742632
+
+    LONGITUDE: -74.086609

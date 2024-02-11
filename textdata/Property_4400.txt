@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by PEERLESS PROPERTIES CORP.
+
+    TYPE: Pending
+
+    PRICE: 329000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1200.0
+
+    ADDRESS: 1750 E 14th St Apt 6B
+
+    STATE: Brooklyn, NY 11229
+
+    MAIN_ADDRESS: 1750 E 14th St Apt 6BBrooklyn, NY 11229
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Homecrest
+
+    LONG_NAME: 1750
+
+    FORMATTED_ADDRESS: 1750 E 14th St #6b, Brooklyn, NY 11229, USA
+
+    LATITUDE: 40.6068155
+
+    LONGITUDE: -73.9592184

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Rlty Landmark
+
+    TYPE: House for sale
+
+    PRICE: 2998888
+
+    BEDS: 5
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 3800.0
+
+    ADDRESS: 28-05 216th St
+
+    STATE: Bayside, NY 11360
+
+    MAIN_ADDRESS: 28-05 216th StBayside, NY 11360
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 216th Street
+
+    FORMATTED_ADDRESS: 28-05 216th St, Bayside, NY 11360, USA
+
+    LATITUDE: 40.7782443
+
+    LONGITUDE: -73.7706926

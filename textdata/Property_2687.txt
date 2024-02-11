@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by EXP COMMERCIAL LLC
+
+    TYPE: House for sale
+
+    PRICE: 1500000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1240.0
+
+    ADDRESS: 243 Bay 13 St
+
+    STATE: Brooklyn, NY 11214
+
+    MAIN_ADDRESS: 243 Bay 13 StBrooklyn, NY 11214
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Bay 13th Street
+
+    FORMATTED_ADDRESS: 243 Bay 13th St, Brooklyn, NY 11214, USA
+
+    LATITUDE: 40.6045606
+
+    LONGITUDE: -74.0114555

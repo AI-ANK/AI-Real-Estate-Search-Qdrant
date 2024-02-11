@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Century 21 Realty First
+
+    TYPE: Land for sale
+
+    PRICE: 5800
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 4515 Avenue N Lot 5
+
+    STATE: Brooklyn, NY 11234
+
+    MAIN_ADDRESS: 4515 Avenue N Lot 5Brooklyn, NY 11234
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Flatlands
+
+    LONG_NAME: 4515
+
+    FORMATTED_ADDRESS: 4515 Avenue N #5, Brooklyn, NY 11234, USA
+
+    LATITUDE: 40.618915
+
+    LONGITUDE: -73.931211

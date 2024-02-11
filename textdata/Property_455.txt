@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Realty NYC Grp
+
+    TYPE: House for sale
+
+    PRICE: 599000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1500.0
+
+    ADDRESS: 242 E 235th St
+
+    STATE: Bronx, NY 10470
+
+    MAIN_ADDRESS: 242 E 235th StBronx, NY 10470
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: East 235th Street
+
+    FORMATTED_ADDRESS: 242 E 235th St, Bronx, NY 10470, USA
+
+    LATITUDE: 40.8972473
+
+    LONGITUDE: -73.868898

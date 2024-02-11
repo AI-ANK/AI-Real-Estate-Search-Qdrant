@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE/MAX Team
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1288000
+
+    BEDS: 5
+
+    BATH: 5.0
+
+    PROPERTYSQFT: 2500.0
+
+    ADDRESS: 48-36 65th Pl
+
+    STATE: Woodside, NY 11377
+
+    MAIN_ADDRESS: 48-36 65th PlWoodside, NY 11377
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 65th Place
+
+    FORMATTED_ADDRESS: 48-36 65th Pl, Flushing, NY 11377, USA
+
+    LATITUDE: 40.7374104
+
+    LONGITUDE: -73.9002424

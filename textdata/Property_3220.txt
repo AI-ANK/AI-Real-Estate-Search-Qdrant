@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Johnson Michael
+
+    TYPE: Condo for sale
+
+    PRICE: 489000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1100.0
+
+    ADDRESS: 1075 E 72nd St Unit 43
+
+    STATE: Brooklyn, NY 11234
+
+    MAIN_ADDRESS: 1075 E 72nd St Unit 43Brooklyn, NY 11234
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Bergen Beach
+
+    LONG_NAME: 1075
+
+    FORMATTED_ADDRESS: 1075 E 72nd St #43, Brooklyn, NY 11234, USA
+
+    LATITUDE: 40.6280579
+
+    LONGITUDE: -73.9171101

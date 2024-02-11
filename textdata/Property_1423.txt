@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by DiTommaso Real Estate
+
+    TYPE: Condo for sale
+
+    PRICE: 354900
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 673.0
+
+    ADDRESS: 160 72nd St Apt 713
+
+    STATE: Brooklyn, NY 11209
+
+    MAIN_ADDRESS: 160 72nd St Apt 713Brooklyn, NY 11209
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Bay Ridge
+
+    LONG_NAME: 160
+
+    FORMATTED_ADDRESS: 160 72nd St Apt 713, Brooklyn, NY 11209, USA
+
+    LATITUDE: 40.6343667
+
+    LONGITUDE: -74.0311335

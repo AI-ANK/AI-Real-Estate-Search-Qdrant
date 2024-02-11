@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens - 445 Park Avenue
+
+    TYPE: Co-op for sale
+
+    PRICE: 1460000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 1060 Park Avenue Ave Unit 2G
+
+    STATE: Manhattan, NY 10128
+
+    MAIN_ADDRESS: 1060 Park Avenue Ave Unit 2GManhattan, NY 10128
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 1060
+
+    FORMATTED_ADDRESS: 1060 Park Ave #2b, New York, NY 10128, USA
+
+    LATITUDE: 40.7812136
+
+    LONGITUDE: -73.9570373

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Dynasty Real Estate, Inc.
+
+    TYPE: Townhouse for sale
+
+    PRICE: 699998
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1548.0
+
+    ADDRESS: 159 Freedom Ave
+
+    STATE: Staten Island, NY 10314
+
+    MAIN_ADDRESS: 159 Freedom AveStaten Island, NY 10314
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Freedom Avenue
+
+    FORMATTED_ADDRESS: 159 Freedom Ave, Staten Island, NY 10314, USA
+
+    LATITUDE: 40.5953144
+
+    LONGITUDE: -74.1628286

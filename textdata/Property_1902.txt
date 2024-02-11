@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Serhant
+
+    TYPE: Condo for sale
+
+    PRICE: 5250000
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1757.0
+
+    ADDRESS: 75 First Ave # A
+
+    STATE: New York, NY 10003
+
+    MAIN_ADDRESS: 75 First Ave # ANew York, NY 10003
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: 1st Avenue
+
+    FORMATTED_ADDRESS: 75 1st Ave., New York, NY 10003, USA
+
+    LATITUDE: 40.725653
+
+    LONGITUDE: -73.987132

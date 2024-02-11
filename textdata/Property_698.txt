@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Mark International Real Estate
+
+    TYPE: Contingent
+
+    PRICE: 479888
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1188.0
+
+    ADDRESS: 124 Hampton Pl
+
+    STATE: Staten Island, NY 10309
+
+    MAIN_ADDRESS: 124 Hampton PlStaten Island, NY 10309
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Hampton Place
+
+    FORMATTED_ADDRESS: 124 Hampton Pl, Staten Island, NY 10309, USA
+
+    LATITUDE: 40.549099
+
+    LONGITUDE: -74.2148258

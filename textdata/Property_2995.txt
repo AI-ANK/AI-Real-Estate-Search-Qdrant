@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Century 21 Zaloom Realty
+
+    TYPE: House for sale
+
+    PRICE: 699900
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1420.0
+
+    ADDRESS: 22 Oakville St
+
+    STATE: Staten Island, NY 10314
+
+    MAIN_ADDRESS: 22 Oakville StStaten Island, NY 10314
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Oakville Street
+
+    FORMATTED_ADDRESS: 22 Oakville St, Staten Island, NY 10314, USA
+
+    LATITUDE: 40.5986989
+
+    LONGITUDE: -74.1318297

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Nest Seekers International, Midtown
+
+    TYPE: Condo for sale
+
+    PRICE: 5100000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2183.0
+
+    ADDRESS: 201 W 17th St Ph F
+
+    STATE: New York, NY 10011
+
+    MAIN_ADDRESS: 201 W 17th St Ph FNew York, NY 10011
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: West 17th Street
+
+    FORMATTED_ADDRESS: 201 W 17th St, New York, NY 10011, USA
+
+    LATITUDE: 40.7408109
+
+    LONGITUDE: -73.998475

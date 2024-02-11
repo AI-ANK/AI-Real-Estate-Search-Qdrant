@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Budget Real Estate Nyc Inc
+
+    TYPE: House for sale
+
+    PRICE: 629000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 1281 E 223rd St
+
+    STATE: Bronx, NY 10466
+
+    MAIN_ADDRESS: 1281 E 223rd StBronx, NY 10466
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: East 223rd Street
+
+    FORMATTED_ADDRESS: 1281 E 223rd St, Bronx, NY 10466, USA
+
+    LATITUDE: 40.8807198
+
+    LONGITUDE: -73.8445368

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by TREBACH REALTY INC
+
+    TYPE: Pending
+
+    PRICE: 1595000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2627.0
+
+    ADDRESS: 519 Tulfan Ter
+
+    STATE: Bronx, NY 10463
+
+    MAIN_ADDRESS: 519 Tulfan TerBronx, NY 10463
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Tulfan Terrace
+
+    FORMATTED_ADDRESS: 519 Tulfan Terrace, Bronx, NY 10463, USA
+
+    LATITUDE: 40.8872408
+
+    LONGITUDE: -73.9082189

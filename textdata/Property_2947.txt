@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran East Side
+
+    TYPE: Townhouse for sale
+
+    PRICE: 22500000
+
+    BEDS: 4
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 4000.0
+
+    ADDRESS: 22 Bank St
+
+    STATE: New York, NY 10014
+
+    MAIN_ADDRESS: 22 Bank StNew York, NY 10014
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: Bank Street
+
+    FORMATTED_ADDRESS: 22 Bank St, New York, NY 10014, USA
+
+    LATITUDE: 40.7368312
+
+    LONGITUDE: -74.0024003

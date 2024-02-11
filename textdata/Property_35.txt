@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Ashford Homes LLC
+
+    TYPE: Condo for sale
+
+    PRICE: 528000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 602.0
+
+    ADDRESS: 1238 63rd St Unit 432
+
+    STATE: Brooklyn, NY 11219
+
+    MAIN_ADDRESS: 1238 63rd St Unit 432Brooklyn, NY 11219
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Dyker Heights
+
+    LONG_NAME: 1238
+
+    FORMATTED_ADDRESS: 1238 63rd St #432, Brooklyn, NY 11219, USA
+
+    LATITUDE: 40.6275896
+
+    LONGITUDE: -74.0016198

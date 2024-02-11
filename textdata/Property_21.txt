@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Apaus, Inc
+
+    TYPE: Condo for sale
+
+    PRICE: 1300000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1244.0
+
+    ADDRESS: 10724 71st Rd Apt 9F
+
+    STATE: Forest Hills, NY 11375
+
+    MAIN_ADDRESS: 10724 71st Rd Apt 9FForest Hills, NY 11375
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Forest Hills
+
+    LONG_NAME: 10724
+
+    FORMATTED_ADDRESS: 10724 71st Rd #9f, Forest Hills, NY 11375, USA
+
+    LATITUDE: 40.7202429
+
+    LONGITUDE: -73.8430513

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by EXP Realty
+
+    TYPE: Pending
+
+    PRICE: 100000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 445.0
+
+    ADDRESS: 87-70 173rd St Unit 5J
+
+    STATE: Jamaica, NY 11432
+
+    MAIN_ADDRESS: 87-70 173rd St Unit 5JJamaica, NY 11432
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Jamaica
+
+    LONG_NAME: 87-70
+
+    FORMATTED_ADDRESS: 87-70 173rd St #5j, Jamaica, NY 11432, USA
+
+    LATITUDE: 40.711337
+
+    LONGITUDE: -73.789277

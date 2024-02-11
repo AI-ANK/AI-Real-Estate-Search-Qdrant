@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Century Homes Realty Group LLC
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1380000
+
+    BEDS: 5
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 31-32 100th St
+
+    STATE: East Elmhurst, NY 11369
+
+    MAIN_ADDRESS: 31-32 100th StEast Elmhurst, NY 11369
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 100th Street
+
+    FORMATTED_ADDRESS: 31-32 100th St, Flushing, NY 11369, USA
+
+    LATITUDE: 40.7600366
+
+    LONGITUDE: -73.8692081

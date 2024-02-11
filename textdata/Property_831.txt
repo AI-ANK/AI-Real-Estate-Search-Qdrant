@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Matias Real Estate
+
+    TYPE: Townhouse for sale
+
+    PRICE: 334999
+
+    BEDS: 1
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1059.0
+
+    ADDRESS: 306 Ilyssa Way
+
+    STATE: Staten Island, NY 10312
+
+    MAIN_ADDRESS: 306 Ilyssa WayStaten Island, NY 10312
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Ilyssa Way
+
+    FORMATTED_ADDRESS: 306 Ilyssa Way, Staten Island, NY 10312, USA
+
+    LATITUDE: 40.560143
+
+    LONGITUDE: -74.1854357

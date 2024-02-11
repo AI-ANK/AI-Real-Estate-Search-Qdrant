@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Winzone Realty Inc
+
+    TYPE: House for sale
+
+    PRICE: 849000
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 2762 Cropsey Ave
+
+    STATE: Brooklyn, NY 11214
+
+    MAIN_ADDRESS: 2762 Cropsey AveBrooklyn, NY 11214
+
+    ADMINISTRATIVE_AREA_LEVEL_2: 11214
+
+    LOCALITY: United States
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Kings County
+
+    LONG_NAME: Cropsey Avenue
+
+    FORMATTED_ADDRESS: 2762 Cropsey Ave, Brooklyn, NY 11214, USA
+
+    LATITUDE: 40.5868122
+
+    LONGITUDE: -73.9890289

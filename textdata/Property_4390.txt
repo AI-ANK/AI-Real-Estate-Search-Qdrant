@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Realty NYC Grp
+
+    TYPE: Co-op for sale
+
+    PRICE: 235000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 660.0
+
+    ADDRESS: 3125 Tibbett Ave Apt 8C
+
+    STATE: Bronx, NY 10463
+
+    MAIN_ADDRESS: 3125 Tibbett Ave Apt 8CBronx, NY 10463
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: Kingsbridge
+
+    LONG_NAME: 3125
+
+    FORMATTED_ADDRESS: 3125 Tibbett Ave #8c, Bronx, NY 10463, USA
+
+    LATITUDE: 40.881546
+
+    LONGITUDE: -73.908104

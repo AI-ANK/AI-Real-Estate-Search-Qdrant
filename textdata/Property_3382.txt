@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by BRISMAN REALTY
+
+    TYPE: House for sale
+
+    PRICE: 849999
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1842.0
+
+    ADDRESS: 906 E 16th St
+
+    STATE: Brooklyn, NY 11230
+
+    MAIN_ADDRESS: 906 E 16th StBrooklyn, NY 11230
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: East 16th Street
+
+    FORMATTED_ADDRESS: 906 East 16th Street, Brooklyn, NY 11230, USA
+
+    LATITUDE: 40.6274471
+
+    LONGITUDE: -73.961091

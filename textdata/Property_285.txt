@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sbny Re
+
+    TYPE: Co-op for sale
+
+    PRICE: 199000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 67-38 108 St Unit D5
+
+    STATE: Forest Hills, NY 11375
+
+    MAIN_ADDRESS: 67-38 108 St Unit D5Forest Hills, NY 11375
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Forest Hills
+
+    LONG_NAME: 6738
+
+    FORMATTED_ADDRESS: 6738 108th St Apt D5, Forest Hills, NY 11375, USA
+
+    LATITUDE: 40.7282899
+
+    LONGITUDE: -73.8472

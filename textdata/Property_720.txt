@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by BERGEN BASIN REALTY
+
+    TYPE: House for sale
+
+    PRICE: 690000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1325.0
+
+    ADDRESS: 2041 E 64th St
+
+    STATE: Brooklyn, NY 11234
+
+    MAIN_ADDRESS: 2041 E 64th StBrooklyn, NY 11234
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: East 64th Street
+
+    FORMATTED_ADDRESS: 2041 E 64th St, Brooklyn, NY 11234, USA
+
+    LATITUDE: 40.6173476
+
+    LONGITUDE: -73.9131449

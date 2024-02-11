@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 475000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 41 Jane St Apt 4C
+
+    STATE: Manhattan, NY 10014
+
+    MAIN_ADDRESS: 41 Jane St Apt 4CManhattan, NY 10014
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 41
+
+    FORMATTED_ADDRESS: 41 Jane St #4c, New York, NY 10014, USA
+
+    LATITUDE: 40.7383084
+
+    LONGITUDE: -74.0046097

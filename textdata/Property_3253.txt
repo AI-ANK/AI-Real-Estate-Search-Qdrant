@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Nest Seekers International, Midtown
+
+    TYPE: Condo for sale
+
+    PRICE: 1199999
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1197.0
+
+    ADDRESS: 143 Meserole St Unit Garden
+
+    STATE: Brooklyn, NY 11206
+
+    MAIN_ADDRESS: 143 Meserole St Unit GardenBrooklyn, NY 11206
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Meserole Street
+
+    FORMATTED_ADDRESS: 143 Meserole St, Brooklyn, NY 11206, USA
+
+    LATITUDE: 40.7081991
+
+    LONGITUDE: -73.9438121

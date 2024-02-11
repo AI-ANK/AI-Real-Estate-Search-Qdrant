@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Chous Realty Group Inc
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1180000
+
+    BEDS: 6
+
+    BATH: 5.0
+
+    PROPERTYSQFT: 1810.0
+
+    ADDRESS: 326 126th St
+
+    STATE: College Point, NY 11356
+
+    MAIN_ADDRESS: 326 126th StCollege Point, NY 11356
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 126th Street
+
+    FORMATTED_ADDRESS: 326 126th St, Queens, NY 11356, USA
+
+    LATITUDE: 40.793158
+
+    LONGITUDE: -73.8419309

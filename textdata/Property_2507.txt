@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Red Door Realty Group
+
+    TYPE: House for sale
+
+    PRICE: 888888
+
+    BEDS: 4
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2088.0
+
+    ADDRESS: 20 Greencroft Ln
+
+    STATE: Staten Island, NY 10308
+
+    MAIN_ADDRESS: 20 Greencroft LnStaten Island, NY 10308
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Greencroft Lane
+
+    FORMATTED_ADDRESS: 20 Greencroft Ln, Staten Island, NY 10308, USA
+
+    LATITUDE: 40.5469948
+
+    LONGITUDE: -74.1413764

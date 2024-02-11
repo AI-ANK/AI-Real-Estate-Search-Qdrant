@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Voyage
+
+    TYPE: Co-op for sale
+
+    PRICE: 315000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 850.0
+
+    ADDRESS: 35-31 85th St Unit 2M
+
+    STATE: Jackson Heights, NY 11372
+
+    MAIN_ADDRESS: 35-31 85th St Unit 2MJackson Heights, NY 11372
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Jackson Heights
+
+    LONG_NAME: 3531
+
+    FORMATTED_ADDRESS: 3531 85th St Apt 2m, Jackson Heights, NY 11372, USA
+
+    LATITUDE: 40.7520799
+
+    LONGITUDE: -73.88188

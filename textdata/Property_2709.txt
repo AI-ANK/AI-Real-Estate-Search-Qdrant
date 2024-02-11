@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Exp Realty
+
+    TYPE: House for sale
+
+    PRICE: 648998
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1296.0
+
+    ADDRESS: 1361 Waring Ave
+
+    STATE: Bronx, NY 10469
+
+    MAIN_ADDRESS: 1361 Waring AveBronx, NY 10469
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Waring Avenue
+
+    FORMATTED_ADDRESS: 1361 Waring Ave, Bronx, NY 10469, USA
+
+    LATITUDE: 40.8611669
+
+    LONGITUDE: -73.8467192

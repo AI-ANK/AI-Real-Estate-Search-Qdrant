@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by eXp Realty NYC
+
+    TYPE: Contingent
+
+    PRICE: 750000
+
+    BEDS: 6
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1476.0
+
+    ADDRESS: 1363 Sutter Ave
+
+    STATE: Brooklyn, NY 11208
+
+    MAIN_ADDRESS: 1363 Sutter AveBrooklyn, NY 11208
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Sutter Avenue
+
+    FORMATTED_ADDRESS: 1363 Sutter Ave, Brooklyn, NY 11208, USA
+
+    LATITUDE: 40.6735859
+
+    LONGITUDE: -73.8674854

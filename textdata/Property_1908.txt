@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Edge
+
+    TYPE: Condo for sale
+
+    PRICE: 999000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1301.0
+
+    ADDRESS: 1414 W 4th St Ph 5
+
+    STATE: Brooklyn, NY 11204
+
+    MAIN_ADDRESS: 1414 W 4th St Ph 5Brooklyn, NY 11204
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Bensonhurst
+
+    LONG_NAME: 1414
+
+    FORMATTED_ADDRESS: 1414 W 4th St ph5, Brooklyn, NY 11204, USA
+
+    LATITUDE: 40.6116529
+
+    LONGITUDE: -73.978693

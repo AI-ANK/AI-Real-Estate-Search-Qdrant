@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Today Realty Corp.
+
+    TYPE: Condo for sale
+
+    PRICE: 379000
+
+    BEDS: 1
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 704.0
+
+    ADDRESS: 190 Schofield St Apt 3I
+
+    STATE: Bronx, NY 10464
+
+    MAIN_ADDRESS: 190 Schofield St Apt 3IBronx, NY 10464
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: City Island
+
+    LONG_NAME: 190
+
+    FORMATTED_ADDRESS: 190 Schofield St #3i, Bronx, NY 10464, USA
+
+    LATITUDE: 40.845063
+
+    LONGITUDE: -73.783581

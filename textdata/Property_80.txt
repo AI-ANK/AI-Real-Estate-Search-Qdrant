@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 575 Madison Ave
+
+    TYPE: Condo for sale
+
+    PRICE: 1650000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1065.0
+
+    ADDRESS: 200 E 94th St Apt 414
+
+    STATE: New York, NY 10128
+
+    MAIN_ADDRESS: 200 E 94th St Apt 414New York, NY 10128
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 200
+
+    FORMATTED_ADDRESS: 200 E 94th St APT 414, New York, NY 10128, USA
+
+    LATITUDE: 40.7833546
+
+    LONGITUDE: -73.9499982

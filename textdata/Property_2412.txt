@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Nest Seekers International, Southampton
+
+    TYPE: Co-op for sale
+
+    PRICE: 299000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 394.0
+
+    ADDRESS: 321 E 54th St Apt 3C
+
+    STATE: New York, NY 10022
+
+    MAIN_ADDRESS: 321 E 54th St Apt 3CNew York, NY 10022
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 321
+
+    FORMATTED_ADDRESS: 321 E 54th St #3c, New York, NY 10022, USA
+
+    LATITUDE: 40.7571764
+
+    LONGITUDE: -73.9656764

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Robert Defalco Realty, Inc.
+
+    TYPE: Pending
+
+    PRICE: 1245000
+
+    BEDS: 4
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2388.0
+
+    ADDRESS: 44 Summit Ave
+
+    STATE: Staten Island, NY 10306
+
+    MAIN_ADDRESS: 44 Summit AveStaten Island, NY 10306
+
+    ADMINISTRATIVE_AREA_LEVEL_2: 10306
+
+    LOCALITY: United States
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Richmond County
+
+    LONG_NAME: Summit Avenue
+
+    FORMATTED_ADDRESS: 44 Summit Ave, Staten Island, NY 10306, USA
+
+    LATITUDE: 40.5771597
+
+    LONGITUDE: -74.123973

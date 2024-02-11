@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Charles Rutenberg Realty Inc
+
+    TYPE: House for sale
+
+    PRICE: 758000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1216.0
+
+    ADDRESS: 960 E 40th St
+
+    STATE: Brooklyn, NY 11210
+
+    MAIN_ADDRESS: 960 E 40th StBrooklyn, NY 11210
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: East 40th Street
+
+    FORMATTED_ADDRESS: 960 E 40th St, Brooklyn, NY 11210, USA
+
+    LATITUDE: 40.6318515
+
+    LONGITUDE: -73.9382094

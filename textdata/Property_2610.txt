@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by B Square Realty
+
+    TYPE: Condo for sale
+
+    PRICE: 528000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 753.0
+
+    ADDRESS: 69-88 136th St Unit B
+
+    STATE: Flushing, NY 11367
+
+    MAIN_ADDRESS: 69-88 136th St Unit BFlushing, NY 11367
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 136th Street
+
+    FORMATTED_ADDRESS: 6988 136th St, Flushing, NY 11367, USA
+
+    LATITUDE: 40.7267616
+
+    LONGITUDE: -73.8294609

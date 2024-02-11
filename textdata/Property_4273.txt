@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by qvtopservice
+
+    TYPE: House for sale
+
+    PRICE: 649000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2000.0
+
+    ADDRESS: 114-30 202nd St
+
+    STATE: Saint Albans, NY 11412
+
+    MAIN_ADDRESS: 114-30 202nd StSaint Albans, NY 11412
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 202nd Street
+
+    FORMATTED_ADDRESS: 114-30 202nd St, Jamaica, NY 11412, USA
+
+    LATITUDE: 40.6995553
+
+    LONGITUDE: -73.7527095

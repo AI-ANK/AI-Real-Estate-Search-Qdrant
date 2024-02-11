@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Garden Square Realty
+
+    TYPE: Co-op for sale
+
+    PRICE: 550000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1069.0
+
+    ADDRESS: 4 Dartmouth St Apt 71
+
+    STATE: Forest Hills, NY 11375
+
+    MAIN_ADDRESS: 4 Dartmouth St Apt 71Forest Hills, NY 11375
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Forest Hills
+
+    LONG_NAME: 4
+
+    FORMATTED_ADDRESS: 4 Dartmouth St Apt 71, Forest Hills, NY 11375, USA
+
+    LATITUDE: 40.7192373
+
+    LONGITUDE: -73.846265

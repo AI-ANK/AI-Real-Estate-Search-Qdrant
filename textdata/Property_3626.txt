@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran East Side
+
+    TYPE: Co-op for sale
+
+    PRICE: 899000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 300 E 54th St Apt 34A
+
+    STATE: New York, NY 10022
+
+    MAIN_ADDRESS: 300 E 54th St Apt 34ANew York, NY 10022
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 300
+
+    FORMATTED_ADDRESS: 300 E 54th St #34a, New York, NY 10022, USA
+
+    LATITUDE: 40.7570928
+
+    LONGITUDE: -73.9663495

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran East Side
+
+    TYPE: Co-op for sale
+
+    PRICE: 6995000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 1050 Fifth Ave Apt 17D
+
+    STATE: New York, NY 10028
+
+    MAIN_ADDRESS: 1050 Fifth Ave Apt 17DNew York, NY 10028
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 1050
+
+    FORMATTED_ADDRESS: 1050 5th Ave #17d, New York, NY 10028, USA
+
+    LATITUDE: 40.7816743
+
+    LONGITUDE: -73.9600313

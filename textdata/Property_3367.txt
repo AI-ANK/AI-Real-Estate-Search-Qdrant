@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by ABC REAL ESTATE SERVICES, INC.
+
+    TYPE: House for sale
+
+    PRICE: 750000
+
+    BEDS: 4
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1806.0
+
+    ADDRESS: 762 E 37th St
+
+    STATE: Brooklyn, NY 11210
+
+    MAIN_ADDRESS: 762 E 37th StBrooklyn, NY 11210
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: East 37th Street
+
+    FORMATTED_ADDRESS: 762 E 37th St, Brooklyn, NY 11210, USA
+
+    LATITUDE: 40.6383047
+
+    LONGITUDE: -73.9417504

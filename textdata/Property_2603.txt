@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE/MAX City Square
+
+    TYPE: Co-op for sale
+
+    PRICE: 204888
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 67-12 Yellowstone Blvd Unit G16
+
+    STATE: Forest Hills, NY 11375
+
+    MAIN_ADDRESS: 67-12 Yellowstone Blvd Unit G16Forest Hills, NY 11375
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Forest Hills
+
+    LONG_NAME: 6712
+
+    FORMATTED_ADDRESS: 6712 Yellowstone Blvd Apt G16, Forest Hills, NY 11375, USA
+
+    LATITUDE: 40.7284499
+
+    LONGITUDE: -73.8492399

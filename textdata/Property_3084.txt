@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Nexthome All Island
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 2300000
+
+    BEDS: 11
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 11549 Inwood St
+
+    STATE: Jamaica, NY 11436
+
+    MAIN_ADDRESS: 11549 Inwood StJamaica, NY 11436
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Inwood Street
+
+    FORMATTED_ADDRESS: 115- 49 Inwood St, Jamaica, NY 11436, USA
+
+    LATITUDE: 40.6818734
+
+    LONGITUDE: -73.7962038

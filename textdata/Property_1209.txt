@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens - 1926 Broadway
+
+    TYPE: Townhouse for sale
+
+    PRICE: 25000000
+
+    BEDS: 6
+
+    BATH: 8.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 7 E 88th St Unit Townhouse
+
+    STATE: Manhattan, NY 10128
+
+    MAIN_ADDRESS: 7 E 88th St Unit TownhouseManhattan, NY 10128
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: East 88th Street
+
+    FORMATTED_ADDRESS: 7 E 88th St, New York, NY 10128, USA
+
+    LATITUDE: 40.782683
+
+    LONGITUDE: -73.9586904

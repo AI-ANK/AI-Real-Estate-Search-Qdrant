@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran SoHo
+
+    TYPE: Co-op for sale
+
+    PRICE: 400000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1150.0
+
+    ADDRESS: 8 Magnolia Pl # 8
+
+    STATE: Bronx, NY 10465
+
+    MAIN_ADDRESS: 8 Magnolia Pl # 8Bronx, NY 10465
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Magnolia Place
+
+    FORMATTED_ADDRESS: 8 Magnolia Pl, Bronx, NY 10465, USA
+
+    LATITUDE: 40.8131429
+
+    LONGITUDE: -73.808397

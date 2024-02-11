@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Coldwell Banker American Homes
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 599000
+
+    BEDS: 4
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1176.0
+
+    ADDRESS: 3100 Richmond Ter
+
+    STATE: Staten Island, NY 10303
+
+    MAIN_ADDRESS: 3100 Richmond TerStaten Island, NY 10303
+
+    ADMINISTRATIVE_AREA_LEVEL_2: 10303
+
+    LOCALITY: United States
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Richmond County
+
+    LONG_NAME: Richmond Terrace
+
+    FORMATTED_ADDRESS: 3100 Richmond Terrace, Staten Island, NY 10303, USA
+
+    LATITUDE: 40.638069
+
+    LONGITUDE: -74.1627747

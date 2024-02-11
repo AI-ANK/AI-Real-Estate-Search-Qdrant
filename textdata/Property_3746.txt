@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran East Side
+
+    TYPE: Co-op for sale
+
+    PRICE: 12500000
+
+    BEDS: 5
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 925 Park Ave # 3 & 4A
+
+    STATE: New York, NY 10028
+
+    MAIN_ADDRESS: 925 Park Ave # 3 & 4ANew York, NY 10028
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 925
+
+    FORMATTED_ADDRESS: 925 Park Ave #4, New York, NY 10028, USA
+
+    LATITUDE: 40.7762654
+
+    LONGITUDE: -73.9595399

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by CHRISTIE'S INT.REAL ESTATE GROUP
+
+    TYPE: Townhouse for sale
+
+    PRICE: 29200000
+
+    BEDS: 12
+
+    BATH: 10.0
+
+    PROPERTYSQFT: 11638.0
+
+    ADDRESS: 123 E 35th St
+
+    STATE: New York, NY 10016
+
+    MAIN_ADDRESS: 123 E 35th StNew York, NY 10016
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: East 35th Street
+
+    FORMATTED_ADDRESS: 123 E 35th St, New York, NY 10016, USA
+
+    LATITUDE: 40.747472
+
+    LONGITUDE: -73.9796788

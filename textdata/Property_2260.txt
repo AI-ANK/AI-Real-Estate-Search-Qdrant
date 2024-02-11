@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Park Slope
+
+    TYPE: House for sale
+
+    PRICE: 2400000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 3424.0
+
+    ADDRESS: 867 Sterling Pl
+
+    STATE: Brooklyn, NY 11216
+
+    MAIN_ADDRESS: 867 Sterling PlBrooklyn, NY 11216
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Sterling Place
+
+    FORMATTED_ADDRESS: 867 Sterling Pl, Brooklyn, NY 11216, USA
+
+    LATITUDE: 40.6727282
+
+    LONGITUDE: -73.9497962

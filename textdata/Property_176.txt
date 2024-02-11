@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Coldwell Banker Advantage
+
+    TYPE: House for sale
+
+    PRICE: 1195000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2688.0
+
+    ADDRESS: 222 Hart Blvd
+
+    STATE: Staten Island, NY 10301
+
+    MAIN_ADDRESS: 222 Hart BlvdStaten Island, NY 10301
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Hart Boulevard
+
+    FORMATTED_ADDRESS: 222 Hart Blvd, Staten Island, NY 10301, USA
+
+    LATITUDE: 40.6296431
+
+    LONGITUDE: -74.1005274

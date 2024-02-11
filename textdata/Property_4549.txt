@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE/MAX Elite
+
+    TYPE: Condo for sale
+
+    PRICE: 385000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 910.0
+
+    ADDRESS: 100 Colfax Ave Apt 3V
+
+    STATE: Staten Island, NY 10306
+
+    MAIN_ADDRESS: 100 Colfax Ave Apt 3VStaten Island, NY 10306
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Richmond County
+
+    SUBLOCALITY: Staten Island
+
+    STREET_NAME: Midland Beach
+
+    LONG_NAME: 100
+
+    FORMATTED_ADDRESS: 100 Colfax Ave APT 3H, Staten Island, NY 10306, USA
+
+    LATITUDE: 40.5795495
+
+    LONGITUDE: -74.1077209

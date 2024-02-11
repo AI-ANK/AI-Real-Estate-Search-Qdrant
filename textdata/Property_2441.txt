@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by HomeLister
+
+    TYPE: Contingent
+
+    PRICE: 193999
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 435.0
+
+    ADDRESS: 16 Bay Ter Apt 2E
+
+    STATE: Staten Island, NY 10306
+
+    MAIN_ADDRESS: 16 Bay Ter Apt 2EStaten Island, NY 10306
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Richmond County
+
+    SUBLOCALITY: Staten Island
+
+    STREET_NAME: Bay Terrace
+
+    LONG_NAME: 16
+
+    FORMATTED_ADDRESS: 16 Bay Terrace #2e, Staten Island, NY 10306, USA
+
+    LATITUDE: 40.5559755
+
+    LONGITUDE: -74.1387681

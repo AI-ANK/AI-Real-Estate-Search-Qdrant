@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sotheby's International Realty - Downtown Manhattan
+
+    TYPE: Condo for sale
+
+    PRICE: 3995000
+
+    BEDS: 4
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2578.0
+
+    ADDRESS: 171 W 57th St Apt 8C
+
+    STATE: New York, NY 10019
+
+    MAIN_ADDRESS: 171 W 57th St Apt 8CNew York, NY 10019
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 171
+
+    FORMATTED_ADDRESS: 171 W 57th St #8c, New York, NY 10019, USA
+
+    LATITUDE: 40.7655712
+
+    LONGITUDE: -73.979561

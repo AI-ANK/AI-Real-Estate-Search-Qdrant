@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Distinguished Homes & Properties
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 799000
+
+    BEDS: 6
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2310.0
+
+    ADDRESS: 669 E 237th St
+
+    STATE: Bronx, NY 10466
+
+    MAIN_ADDRESS: 669 E 237th StBronx, NY 10466
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: East 237th Street
+
+    FORMATTED_ADDRESS: 669 E 237th St, Bronx, NY 10466, USA
+
+    LATITUDE: 40.897885
+
+    LONGITUDE: -73.8562199

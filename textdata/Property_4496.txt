@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Ben Bay Realty Company of Staten Island LLC
+
+    TYPE: Townhouse for sale
+
+    PRICE: 499000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1890.0
+
+    ADDRESS: 328 Taylor St
+
+    STATE: Staten Island, NY 10310
+
+    MAIN_ADDRESS: 328 Taylor StStaten Island, NY 10310
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Taylor Street
+
+    FORMATTED_ADDRESS: 328 Taylor St, Staten Island, NY 10310, USA
+
+    LATITUDE: 40.630181
+
+    LONGITUDE: -74.1228208

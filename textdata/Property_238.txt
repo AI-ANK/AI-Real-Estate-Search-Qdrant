@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Realty Connect USA LLC
+
+    TYPE: Co-op for sale
+
+    PRICE: 349000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 84-70 129 St N Unit 5U
+
+    STATE: Kew Gardens, NY 11415
+
+    MAIN_ADDRESS: 84-70 129 St N Unit 5UKew Gardens, NY 11415
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Jamaica
+
+    LONG_NAME: 84-70
+
+    FORMATTED_ADDRESS: 84-70 129th St #5u, Jamaica, NY 11415, USA
+
+    LATITUDE: 40.7050355
+
+    LONGITUDE: -73.8241699

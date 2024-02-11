@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 237 Smith St
+
+    TYPE: Co-op for sale
+
+    PRICE: 599000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1200.0
+
+    ADDRESS: 7901 4th Ave Apt F7
+
+    STATE: Brooklyn, NY 11209
+
+    MAIN_ADDRESS: 7901 4th Ave Apt F7Brooklyn, NY 11209
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Bay Ridge
+
+    LONG_NAME: 7901
+
+    FORMATTED_ADDRESS: 7901 4th Ave Apt D7, Brooklyn, NY 11209, USA
+
+    LATITUDE: 40.6279352
+
+    LONGITUDE: -74.0260154

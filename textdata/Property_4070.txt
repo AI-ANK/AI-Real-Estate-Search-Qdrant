@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Platinum Star Realty of Grt NY
+
+    TYPE: Co-op for sale
+
+    PRICE: 398000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1000.0
+
+    ADDRESS: 141-10 25th Rd Unit 4B
+
+    STATE: Flushing, NY 11354
+
+    MAIN_ADDRESS: 141-10 25th Rd Unit 4BFlushing, NY 11354
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 141-10
+
+    FORMATTED_ADDRESS: 141-10 25th Rd #4b, Flushing, NY 11354, USA
+
+    LATITUDE: 40.7756728
+
+    LONGITUDE: -73.827111

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Real Estate Professionals
+
+    TYPE: House for sale
+
+    PRICE: 1190000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1360.0
+
+    ADDRESS: 260 89th St
+
+    STATE: Brooklyn, NY 11209
+
+    MAIN_ADDRESS: 260 89th StBrooklyn, NY 11209
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: 89th Street
+
+    FORMATTED_ADDRESS: 260 89th St, Brooklyn, NY 11209, USA
+
+    LATITUDE: 40.6214197
+
+    LONGITUDE: -74.0328467

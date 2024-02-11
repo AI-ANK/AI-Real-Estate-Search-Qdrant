@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Winzone Realty Inc
+
+    TYPE: House for sale
+
+    PRICE: 695000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 84-42 85 Rd
+
+    STATE: Woodhaven, NY 11421
+
+    MAIN_ADDRESS: 84-42 85 RdWoodhaven, NY 11421
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 85th Road
+
+    FORMATTED_ADDRESS: 84-42 85th Rd, Jamaica, NY 11421, USA
+
+    LATITUDE: 40.6950378
+
+    LONGITUDE: -73.8602956

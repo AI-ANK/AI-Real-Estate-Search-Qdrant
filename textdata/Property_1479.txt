@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Magic Of Great Neck Realty Inc
+
+    TYPE: Co-op for sale
+
+    PRICE: 729000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1700.0
+
+    ADDRESS: 26910 Grand Central Pkwy Apt 12O
+
+    STATE: Floral Park, NY 11005
+
+    MAIN_ADDRESS: 26910 Grand Central Pkwy Apt 12OFloral Park, NY 11005
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Glen Oaks
+
+    LONG_NAME: 26910
+
+    FORMATTED_ADDRESS: 26910 Grand Central Pkwy #12o, Queens, NY 11005, USA
+
+    LATITUDE: 40.7577991
+
+    LONGITUDE: -73.7159564

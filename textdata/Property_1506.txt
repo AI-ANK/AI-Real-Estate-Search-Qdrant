@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - Bayside
+
+    TYPE: Condo for sale
+
+    PRICE: 495000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 800.0
+
+    ADDRESS: 83-71 116th St Unit 4E
+
+    STATE: Kew Gardens, NY 11418
+
+    MAIN_ADDRESS: 83-71 116th St Unit 4EKew Gardens, NY 11418
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Richmond Hill
+
+    LONG_NAME: 83-71
+
+    FORMATTED_ADDRESS: 83-71 116th St #4e, Richmond Hill, NY 11418, USA
+
+    LATITUDE: 40.7045515
+
+    LONGITUDE: -73.8356118

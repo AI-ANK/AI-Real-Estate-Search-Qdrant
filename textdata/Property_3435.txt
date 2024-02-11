@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman  -111 Fifth Ave
+
+    TYPE: House for sale
+
+    PRICE: 6995000
+
+    BEDS: 9
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 9550.0
+
+    ADDRESS: 159 Rivington St
+
+    STATE: New York, NY 10002
+
+    MAIN_ADDRESS: 159 Rivington StNew York, NY 10002
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: Rivington Street
+
+    FORMATTED_ADDRESS: 159 Rivington St, New York, NY 10002, USA
+
+    LATITUDE: 40.7189961
+
+    LONGITUDE: -73.9854648

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sotheby's International Realty - Downtown Manhattan
+
+    TYPE: Co-op for sale
+
+    PRICE: 285000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 417 E 87th St Apt 3B
+
+    STATE: New York, NY 10128
+
+    MAIN_ADDRESS: 417 E 87th St Apt 3BNew York, NY 10128
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 417
+
+    FORMATTED_ADDRESS: 417 E 87th St #3b, New York, NY 10128, USA
+
+    LATITUDE: 40.7772709
+
+    LONGITUDE: -73.9477614

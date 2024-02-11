@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - Roslyn
+
+    TYPE: Condo for sale
+
+    PRICE: 649000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1182.0
+
+    ADDRESS: 163-04 71st Ave Unit 122
+
+    STATE: Fresh Meadows, NY 11365
+
+    MAIN_ADDRESS: 163-04 71st Ave Unit 122Fresh Meadows, NY 11365
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Fresh Meadows
+
+    LONG_NAME: 163-4
+
+    FORMATTED_ADDRESS: 163-4 71st Ave #122, Fresh Meadows, NY 11365, USA
+
+    LATITUDE: 40.7302938
+
+    LONGITUDE: -73.8059248

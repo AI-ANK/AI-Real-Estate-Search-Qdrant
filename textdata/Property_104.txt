@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Charles Rutenberg Realty Inc
+
+    TYPE: Pending
+
+    PRICE: 739000
+
+    BEDS: 6
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 38 Dare Ct
+
+    STATE: Brooklyn, NY 11229
+
+    MAIN_ADDRESS: 38 Dare CtBrooklyn, NY 11229
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Dare Court
+
+    FORMATTED_ADDRESS: 38 Dare Ct, Brooklyn, NY 11229, USA
+
+    LATITUDE: 40.5877991
+
+    LONGITUDE: -73.9216187

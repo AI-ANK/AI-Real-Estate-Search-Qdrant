@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Rlty Landmark
+
+    TYPE: Co-op for sale
+
+    PRICE: 369888
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 98-120 Queens Blvd Unit 6K
+
+    STATE: Rego Park, NY 11374
+
+    MAIN_ADDRESS: 98-120 Queens Blvd Unit 6KRego Park, NY 11374
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Rego Park
+
+    LONG_NAME: 120
+
+    FORMATTED_ADDRESS: 120 Queens Blvd #98, Rego Park, NY 11374, USA
+
+    LATITUDE: 40.726843
+
+    LONGITUDE: -73.85458

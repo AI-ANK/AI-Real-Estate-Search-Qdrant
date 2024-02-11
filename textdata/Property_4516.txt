@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Nest Seekers International, Midtown
+
+    TYPE: Co-op for sale
+
+    PRICE: 300000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 800 Grand Concourse Apt 3RS
+
+    STATE: Bronx, NY 10451
+
+    MAIN_ADDRESS: 800 Grand Concourse Apt 3RSBronx, NY 10451
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: Concourse Village
+
+    LONG_NAME: 800
+
+    FORMATTED_ADDRESS: 800 Grand Concourse #3r, Bronx, NY 10451, USA
+
+    LATITUDE: 40.8248699
+
+    LONGITUDE: -73.9229829

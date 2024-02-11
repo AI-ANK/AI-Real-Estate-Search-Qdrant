@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Realty Group
+
+    TYPE: House for sale
+
+    PRICE: 575000
+
+    BEDS: 5
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2076.0
+
+    ADDRESS: 627 E 236th St
+
+    STATE: Bronx, NY 10466
+
+    MAIN_ADDRESS: 627 E 236th StBronx, NY 10466
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: East 236th Street
+
+    FORMATTED_ADDRESS: 627 E 236th St, Bronx, NY 10466, USA
+
+    LATITUDE: 40.8965002
+
+    LONGITUDE: -73.8585406

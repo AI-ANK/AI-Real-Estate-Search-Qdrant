@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Condo for sale
+
+    PRICE: 945000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 903.0
+
+    ADDRESS: 2351 Adam Clayton Powell Jr Blvd Apt 614
+
+    STATE: Manhattan, NY 10030
+
+    MAIN_ADDRESS: 2351 Adam Clayton Powell Jr Blvd Apt 614Manhattan, NY 10030
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 2351
+
+    FORMATTED_ADDRESS: 2351 Adam Clayton Powell Jr Blvd Apartment 614, New York, NY 10030, USA
+
+    LATITUDE: 40.816711
+
+    LONGITUDE: -73.94205

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Fave Realty Inc
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 980000
+
+    BEDS: 11
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 3210.0
+
+    ADDRESS: 2116 Vyse Ave
+
+    STATE: Bronx, NY 10460
+
+    MAIN_ADDRESS: 2116 Vyse AveBronx, NY 10460
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Vyse Avenue
+
+    FORMATTED_ADDRESS: 2116 Vyse Ave, Bronx, NY 10460, USA
+
+    LATITUDE: 40.844215
+
+    LONGITUDE: -73.8799388

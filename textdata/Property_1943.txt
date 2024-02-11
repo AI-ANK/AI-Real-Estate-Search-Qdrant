@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Chelsea/Flatiron
+
+    TYPE: Condo for sale
+
+    PRICE: 6500000
+
+    BEDS: 3
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2190.0
+
+    ADDRESS: 50 W 30th St Ph 2
+
+    STATE: New York, NY 10001
+
+    MAIN_ADDRESS: 50 W 30th St Ph 2New York, NY 10001
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 50
+
+    FORMATTED_ADDRESS: 50 W 30th St Ph 2, New York, NY 10001, USA
+
+    LATITUDE: 40.746995
+
+    LONGITUDE: -73.989381

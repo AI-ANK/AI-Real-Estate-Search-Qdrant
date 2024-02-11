@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Elite Real Estate Group 1 Llc
+
+    TYPE: House for sale
+
+    PRICE: 465000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 988.0
+
+    ADDRESS: 659 Wilcox Ave
+
+    STATE: Bronx, NY 10465
+
+    MAIN_ADDRESS: 659 Wilcox AveBronx, NY 10465
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Wilcox Avenue
+
+    FORMATTED_ADDRESS: 659 Wilcox Ave, Bronx, NY 10465, USA
+
+    LATITUDE: 40.8285177
+
+    LONGITUDE: -73.8155198

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by E Realty International Corp
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 2499000
+
+    BEDS: 18
+
+    BATH: 12.0
+
+    PROPERTYSQFT: 2520.0
+
+    ADDRESS: 116-10 14th Rd
+
+    STATE: College Point, NY 11356
+
+    MAIN_ADDRESS: 116-10 14th RdCollege Point, NY 11356
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 14th Road
+
+    FORMATTED_ADDRESS: 116-10 14th Rd, Flushing, NY 11356, USA
+
+    LATITUDE: 40.7845143
+
+    LONGITUDE: -73.8508657

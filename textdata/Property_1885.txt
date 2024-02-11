@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by E Realty International Corp
+
+    TYPE: Co-op for sale
+
+    PRICE: 468000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1200.0
+
+    ADDRESS: 88-11 Elmhurst Ave Unit C11
+
+    STATE: Elmhurst, NY 11373
+
+    MAIN_ADDRESS: 88-11 Elmhurst Ave Unit C11Elmhurst, NY 11373
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Elmhurst
+
+    LONG_NAME: 8811
+
+    FORMATTED_ADDRESS: 8811 Elmhurst Ave Apt C11, Elmhurst, NY 11373, USA
+
+    LATITUDE: 40.7455899
+
+    LONGITUDE: -73.8778899

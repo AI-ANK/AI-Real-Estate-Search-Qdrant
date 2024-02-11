@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by JM Properties
+
+    TYPE: House for sale
+
+    PRICE: 449999
+
+    BEDS: 4
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1217.0
+
+    ADDRESS: 46 Elizabeth St
+
+    STATE: Staten Island, NY 10310
+
+    MAIN_ADDRESS: 46 Elizabeth StStaten Island, NY 10310
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Elizabeth Street
+
+    FORMATTED_ADDRESS: 46 Elizabeth St, Staten Island, NY 10310, USA
+
+    LATITUDE: 40.6329023
+
+    LONGITUDE: -74.120945

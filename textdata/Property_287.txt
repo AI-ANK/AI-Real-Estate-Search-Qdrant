@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Signature Premier Properties
+
+    TYPE: Condo for sale
+
+    PRICE: 1025000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 800.0
+
+    ADDRESS: 460 E 79th St Apt 9F
+
+    STATE: New York, NY 10075
+
+    MAIN_ADDRESS: 460 E 79th St Apt 9FNew York, NY 10075
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 460
+
+    FORMATTED_ADDRESS: 460 E 79th St #9f, New York, NY 10075, USA
+
+    LATITUDE: 40.7712538
+
+    LONGITUDE: -73.950858

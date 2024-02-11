@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Townhouse for sale
+
+    PRICE: 4400000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2400.0
+
+    ADDRESS: 428 Clinton St
+
+    STATE: Brooklyn, NY 11231
+
+    MAIN_ADDRESS: 428 Clinton StBrooklyn, NY 11231
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Clinton Street
+
+    FORMATTED_ADDRESS: 428 Clinton St, Brooklyn, NY 11231, USA
+
+    LATITUDE: 40.6819385
+
+    LONGITUDE: -73.9985074

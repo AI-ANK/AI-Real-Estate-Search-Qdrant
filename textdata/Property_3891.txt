@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens - 1926 Broadway
+
+    TYPE: Co-op for sale
+
+    PRICE: 2500000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 3200.0
+
+    ADDRESS: 116 W 29th St Apt 3
+
+    STATE: Manhattan, NY 10001
+
+    MAIN_ADDRESS: 116 W 29th St Apt 3Manhattan, NY 10001
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 116
+
+    FORMATTED_ADDRESS: 116 W 29th St #3, New York, NY 10001, USA
+
+    LATITUDE: 40.7468872
+
+    LONGITUDE: -73.9910651

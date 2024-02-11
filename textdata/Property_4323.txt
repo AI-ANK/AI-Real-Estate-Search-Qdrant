@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by BEN BAY REALTY, CO.
+
+    TYPE: Pending
+
+    PRICE: 838000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2780.0
+
+    ADDRESS: 114 Tyrrell St
+
+    STATE: Staten Island, NY 10307
+
+    MAIN_ADDRESS: 114 Tyrrell StStaten Island, NY 10307
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Tyrrell Street
+
+    FORMATTED_ADDRESS: 114 Tyrrell St, Staten Island, NY 10307, USA
+
+    LATITUDE: 40.5124611
+
+    LONGITUDE: -74.2488941

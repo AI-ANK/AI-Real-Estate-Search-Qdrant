@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by MAXIMILLION REALTY, INC.
+
+    TYPE: Condo for sale
+
+    PRICE: 695000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1080.0
+
+    ADDRESS: 601 Surf Ave Apt 8C
+
+    STATE: Brooklyn, NY 11224
+
+    MAIN_ADDRESS: 601 Surf Ave Apt 8CBrooklyn, NY 11224
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Coney Island
+
+    LONG_NAME: 601
+
+    FORMATTED_ADDRESS: 601 Surf Ave #8c, Brooklyn, NY 11224, USA
+
+    LATITUDE: 40.5754825
+
+    LONGITUDE: -73.9747644

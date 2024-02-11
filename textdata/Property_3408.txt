@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Edge
+
+    TYPE: Condo for sale
+
+    PRICE: 538000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1105.0
+
+    ADDRESS: 2546 Stillwell Ave Apt 3B
+
+    STATE: Brooklyn, NY 11223
+
+    MAIN_ADDRESS: 2546 Stillwell Ave Apt 3BBrooklyn, NY 11223
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: 2546
+
+    FORMATTED_ADDRESS: 2546 Stillwell Ave #3b, Brooklyn, NY 11223, USA
+
+    LATITUDE: 40.5857519
+
+    LONGITUDE: -73.9835309

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by KELLER WILLIAMS REALTY LANDMARK II
+
+    TYPE: Condo for sale
+
+    PRICE: 359999
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 753B Saint Anns Ave Unit 52B
+
+    STATE: Bronx, NY 10456
+
+    MAIN_ADDRESS: 753B Saint Anns Ave Unit 52BBronx, NY 10456
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: Woodstock
+
+    LONG_NAME: 753B
+
+    FORMATTED_ADDRESS: 753B St Ann's Ave #52B, Bronx, NY 10456, USA
+
+    LATITUDE: 40.8203804
+
+    LONGITUDE: -73.9109368

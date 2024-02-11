@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by VYLLA Homes
+
+    TYPE: House for sale
+
+    PRICE: 551000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 1606 E 45th St
+
+    STATE: Brooklyn, NY 11234
+
+    MAIN_ADDRESS: 1606 E 45th StBrooklyn, NY 11234
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: East 45th Street
+
+    FORMATTED_ADDRESS: 1606 E 45th St, Brooklyn, NY 11234, USA
+
+    LATITUDE: 40.6214749
+
+    LONGITUDE: -73.932287

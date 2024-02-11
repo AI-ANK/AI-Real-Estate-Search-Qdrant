@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 450000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1026.0
+
+    ADDRESS: 97-10 62nd Dr Unit 8E
+
+    STATE: Rego Park, NY 11374
+
+    MAIN_ADDRESS: 97-10 62nd Dr Unit 8ERego Park, NY 11374
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Rego Park
+
+    LONG_NAME: 97-10
+
+    FORMATTED_ADDRESS: 97-10 62nd Dr #8e, Rego Park, NY 11374, USA
+
+    LATITUDE: 40.7323502
+
+    LONGITUDE: -73.8611654

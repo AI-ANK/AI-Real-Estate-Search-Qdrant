@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 575 Madison Ave
+
+    TYPE: Townhouse for sale
+
+    PRICE: 6850000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 173 E 70th St
+
+    STATE: New York, NY 10021
+
+    MAIN_ADDRESS: 173 E 70th StNew York, NY 10021
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: East 70th Street
+
+    FORMATTED_ADDRESS: 173 E 70th St, New York, NY 10021, USA
+
+    LATITUDE: 40.7688879
+
+    LONGITUDE: -73.962056

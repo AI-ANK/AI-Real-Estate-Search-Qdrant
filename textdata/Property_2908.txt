@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Luxdeal Realty Llc
+
+    TYPE: Co-op for sale
+
+    PRICE: 385000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 920.0
+
+    ADDRESS: 97-40 62nd Dr Unit 3H
+
+    STATE: Rego Park, NY 11374
+
+    MAIN_ADDRESS: 97-40 62nd Dr Unit 3HRego Park, NY 11374
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Rego Park
+
+    LONG_NAME: 97-40
+
+    FORMATTED_ADDRESS: 97-40 62nd Dr #3h, Rego Park, NY 11374, USA
+
+    LATITUDE: 40.7325379
+
+    LONGITUDE: -73.8601516

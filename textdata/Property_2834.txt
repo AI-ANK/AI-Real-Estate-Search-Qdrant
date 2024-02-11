@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Jm Properties
+
+    TYPE: House for sale
+
+    PRICE: 1399900
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 3149.0
+
+    ADDRESS: 292 Raritan Ave
+
+    STATE: Staten Island, NY 10305
+
+    MAIN_ADDRESS: 292 Raritan AveStaten Island, NY 10305
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Raritan Avenue
+
+    FORMATTED_ADDRESS: 292 Raritan Ave, Staten Island, NY 10305, USA
+
+    LATITUDE: 40.5900537
+
+    LONGITUDE: -74.0906619

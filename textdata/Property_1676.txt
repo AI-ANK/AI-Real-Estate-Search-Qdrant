@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Rlty Landmark
+
+    TYPE: Co-op for sale
+
+    PRICE: 329888
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 210-15 23 Ave Unit 1
+
+    STATE: Bayside, NY 11360
+
+    MAIN_ADDRESS: 210-15 23 Ave Unit 1Bayside, NY 11360
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Bayside
+
+    LONG_NAME: 21015
+
+    FORMATTED_ADDRESS: 21015 23rd Ave Apt 1b, Bayside, NY 11360, USA
+
+    LATITUDE: 40.7790999
+
+    LONGITUDE: -73.78125

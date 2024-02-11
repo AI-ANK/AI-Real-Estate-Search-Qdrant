@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Williamsburg Bedford
+
+    TYPE: Condo for sale
+
+    PRICE: 615000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 733.0
+
+    ADDRESS: 148-09 Northern Blvd Apt 4F
+
+    STATE: Queens, NY 11354
+
+    MAIN_ADDRESS: 148-09 Northern Blvd Apt 4FQueens, NY 11354
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Northern Boulevard
+
+    FORMATTED_ADDRESS: 148-09 Northern Blvd, Flushing, NY 11354, USA
+
+    LATITUDE: 40.7654814
+
+    LONGITUDE: -73.8178731

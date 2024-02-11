@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 325 Court
+
+    TYPE: Co-op for sale
+
+    PRICE: 213000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 430.0
+
+    ADDRESS: 345 Webster Ave Apt 3M
+
+    STATE: Brooklyn, NY 11230
+
+    MAIN_ADDRESS: 345 Webster Ave Apt 3MBrooklyn, NY 11230
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Kensington
+
+    LONG_NAME: 345
+
+    FORMATTED_ADDRESS: 345 Webster Ave #3m, Brooklyn, NY 11230, USA
+
+    LATITUDE: 40.6339914
+
+    LONGITUDE: -73.9689071

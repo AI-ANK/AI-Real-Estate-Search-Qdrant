@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Nest Seekers International, Midtown
+
+    TYPE: Condo for sale
+
+    PRICE: 2750000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1856.0
+
+    ADDRESS: 323 E 79th St Apt 3
+
+    STATE: New York, NY 10075
+
+    MAIN_ADDRESS: 323 E 79th St Apt 3New York, NY 10075
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 323
+
+    FORMATTED_ADDRESS: 323 E 79th St #3, New York, NY 10075, USA
+
+    LATITUDE: 40.7730877
+
+    LONGITUDE: -73.9538262

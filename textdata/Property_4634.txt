@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 575 Madison Ave
+
+    TYPE: Condo for sale
+
+    PRICE: 3900000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1700.0
+
+    ADDRESS: 641 Fifth Ave Unit 30F
+
+    STATE: New York, NY 10022
+
+    MAIN_ADDRESS: 641 Fifth Ave Unit 30FNew York, NY 10022
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 641
+
+    FORMATTED_ADDRESS: 641 5th Ave #30H, New York, NY 10022, USA
+
+    LATITUDE: 40.7592091
+
+    LONGITUDE: -73.9760875

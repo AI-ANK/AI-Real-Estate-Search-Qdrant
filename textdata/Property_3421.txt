@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Park Slope
+
+    TYPE: Co-op for sale
+
+    PRICE: 2995000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 35 Prospect Park W Apt 10B
+
+    STATE: Brooklyn, NY 11215
+
+    MAIN_ADDRESS: 35 Prospect Park W Apt 10BBrooklyn, NY 11215
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Park Slope
+
+    LONG_NAME: 35
+
+    FORMATTED_ADDRESS: 35 Prospect Park W #10b, Brooklyn, NY 11215, USA
+
+    LATITUDE: 40.6703253
+
+    LONGITUDE: -73.9724152

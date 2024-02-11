@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran West Side Gallery
+
+    TYPE: Co-op for sale
+
+    PRICE: 1795000
+
+    BEDS: 4
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 622 W 114th St Apt 53
+
+    STATE: New York, NY 10025
+
+    MAIN_ADDRESS: 622 W 114th St Apt 53New York, NY 10025
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 622
+
+    FORMATTED_ADDRESS: 622 W 114th St #53, New York, NY 10025, USA
+
+    LATITUDE: 40.80699
+
+    LONGITUDE: -73.966129

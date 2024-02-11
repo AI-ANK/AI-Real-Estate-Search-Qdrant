@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 575 Madison Ave
+
+    TYPE: House for sale
+
+    PRICE: 16500000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 5834.0
+
+    ADDRESS: 245 W 18th St
+
+    STATE: New York, NY 10011
+
+    MAIN_ADDRESS: 245 W 18th StNew York, NY 10011
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: West 18th Street
+
+    FORMATTED_ADDRESS: 245 W 18th St, New York, NY 10011, USA
+
+    LATITUDE: 40.7420282
+
+    LONGITUDE: -73.9997276

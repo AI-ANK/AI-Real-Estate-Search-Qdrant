@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Parkchester Bronx Realty Inc
+
+    TYPE: Condo for sale
+
+    PRICE: 215000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 789.0
+
+    ADDRESS: 1604 Metropolitan Ave
+
+    STATE: Bronx, NY 10462
+
+    MAIN_ADDRESS: 1604 Metropolitan AveBronx, NY 10462
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Metropolitan Avenue
+
+    FORMATTED_ADDRESS: 1604 Metropolitan Ave, Bronx, NY 10462, USA
+
+    LATITUDE: 40.8396335
+
+    LONGITUDE: -73.8563772

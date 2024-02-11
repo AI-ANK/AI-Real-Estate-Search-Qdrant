@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by EXP Realty
+
+    TYPE: Townhouse for sale
+
+    PRICE: 475000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1364.0
+
+    ADDRESS: 266 Corona Ave
+
+    STATE: Staten Island, NY 10306
+
+    MAIN_ADDRESS: 266 Corona AveStaten Island, NY 10306
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Corona Avenue
+
+    FORMATTED_ADDRESS: 266 Corona Ave, Staten Island, NY 10306, USA
+
+    LATITUDE: 40.5634891
+
+    LONGITUDE: -74.1422664

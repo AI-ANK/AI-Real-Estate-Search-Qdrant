@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Townhouse for sale
+
+    PRICE: 900000
+
+    BEDS: 4
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 6031 Huxley Ave Unit Townhouse
+
+    STATE: Bronx, NY 10471
+
+    MAIN_ADDRESS: 6031 Huxley Ave Unit TownhouseBronx, NY 10471
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Huxley Avenue
+
+    FORMATTED_ADDRESS: 6031 Huxley Ave, Bronx, NY 10471, USA
+
+    LATITUDE: 40.9083747
+
+    LONGITUDE: -73.8985781

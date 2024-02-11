@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: NoBroker
+
+    TYPE: Condo for sale
+
+    PRICE: 888000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1700.0
+
+    ADDRESS: 956 79th St Unit 1B
+
+    STATE: Brooklyn, NY 11228
+
+    MAIN_ADDRESS: 956 79th St Unit 1BBrooklyn, NY 11228
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Dyker Heights
+
+    LONG_NAME: 956
+
+    FORMATTED_ADDRESS: 956 79th St #1b, Brooklyn, NY 11228, USA
+
+    LATITUDE: 40.6226046
+
+    LONGITUDE: -74.0176964

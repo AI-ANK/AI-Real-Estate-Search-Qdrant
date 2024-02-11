@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Goldstone N Y Realty Llc
+
+    TYPE: Co-op for sale
+
+    PRICE: 338000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 150-20 72 Rd Unit 6A
+
+    STATE: Flushing, NY 11367
+
+    MAIN_ADDRESS: 150-20 72 Rd Unit 6AFlushing, NY 11367
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 150-20
+
+    FORMATTED_ADDRESS: 150-20 72nd Rd #6a, Flushing, NY 11367, USA
+
+    LATITUDE: 40.7272797
+
+    LONGITUDE: -73.8163427

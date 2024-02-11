@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Weichert Realtors The Franzese Group
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1750000
+
+    BEDS: 7
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 4065.0
+
+    ADDRESS: 2003 49th St
+
+    STATE: Astoria, NY 11105
+
+    MAIN_ADDRESS: 2003 49th StAstoria, NY 11105
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 49th Street
+
+    FORMATTED_ADDRESS: 20-03 49th St, Astoria, NY 11105, USA
+
+    LATITUDE: 40.7721299
+
+    LONGITUDE: -73.8960008

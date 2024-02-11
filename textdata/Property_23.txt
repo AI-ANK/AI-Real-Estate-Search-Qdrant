@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Martino Realty Group
+
+    TYPE: Condo for sale
+
+    PRICE: 349900
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 651.0
+
+    ADDRESS: 165 Cromwell Ave Apt 2B
+
+    STATE: Staten Island, NY 10304
+
+    MAIN_ADDRESS: 165 Cromwell Ave Apt 2BStaten Island, NY 10304
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Richmond County
+
+    SUBLOCALITY: Staten Island
+
+    STREET_NAME: Dongan Hills
+
+    LONG_NAME: 165
+
+    FORMATTED_ADDRESS: 165 Cromwell Ave #2b, Staten Island, NY 10304, USA
+
+    LATITUDE: 40.5902064
+
+    LONGITUDE: -74.0958034

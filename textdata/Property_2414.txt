@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by BESMATCH REAL ESTATE
+
+    TYPE: Co-op for sale
+
+    PRICE: 235000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 850.0
+
+    ADDRESS: 3512 Oxford Ave Apt 1B
+
+    STATE: Bronx, NY 10463
+
+    MAIN_ADDRESS: 3512 Oxford Ave Apt 1BBronx, NY 10463
+
+    ADMINISTRATIVE_AREA_LEVEL_2: Bronx County
+
+    LOCALITY: The Bronx
+
+    SUBLOCALITY: Riverdale
+
+    STREET_NAME: Oxford Avenue
+
+    LONG_NAME: Parking lot
+
+    FORMATTED_ADDRESS: Parking lot, 3512 Oxford Ave #1b, Bronx, NY 10463, USA
+
+    LATITUDE: 40.8858375
+
+    LONGITUDE: -73.9088586

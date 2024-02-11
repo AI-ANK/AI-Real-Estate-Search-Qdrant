@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Co-op for sale
+
+    PRICE: 435000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 110 Thompson St Apt 2E
+
+    STATE: Manhattan, NY 10012
+
+    MAIN_ADDRESS: 110 Thompson St Apt 2EManhattan, NY 10012
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 110
+
+    FORMATTED_ADDRESS: 110 Thompson St #2a, New York, NY 10012, USA
+
+    LATITUDE: 40.7257358
+
+    LONGITUDE: -74.0017575

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Staten Island Premiere Properties
+
+    TYPE: Contingent
+
+    PRICE: 599000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2800.0
+
+    ADDRESS: 77 Harbour Ct
+
+    STATE: Staten Island, NY 10308
+
+    MAIN_ADDRESS: 77 Harbour CtStaten Island, NY 10308
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Harbour Court
+
+    FORMATTED_ADDRESS: 77 Harbour Ct, Staten Island, NY 10308, USA
+
+    LATITUDE: 40.5387352
+
+    LONGITUDE: -74.1423893

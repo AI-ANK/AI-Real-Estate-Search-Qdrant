@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Edge
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 850000
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2646.0
+
+    ADDRESS: 3029 Brighton 5th St
+
+    STATE: Brooklyn, NY 11235
+
+    MAIN_ADDRESS: 3029 Brighton 5th StBrooklyn, NY 11235
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Brighton 5th Street
+
+    FORMATTED_ADDRESS: 3029 Brighton 5th St, Brooklyn, NY 11235, USA
+
+    LATITUDE: 40.5786954
+
+    LONGITUDE: -73.9626508

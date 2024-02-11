@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Lions Guard Brokerage LLC
+
+    TYPE: Co-op for sale
+
+    PRICE: 399000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 110-50 71 Rd Unit 3L
+
+    STATE: Forest Hills, NY 11375
+
+    MAIN_ADDRESS: 110-50 71 Rd Unit 3LForest Hills, NY 11375
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 110-50
+
+    FORMATTED_ADDRESS: 110-50 71st Rd #3a, Flushing, NY 11375, USA
+
+    LATITUDE: 40.721991
+
+    LONGITUDE: -73.8393784

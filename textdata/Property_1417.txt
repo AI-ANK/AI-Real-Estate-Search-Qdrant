@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Elite
+
+    TYPE: House for sale
+
+    PRICE: 1175000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1192.0
+
+    ADDRESS: 6810 Madeline Ct
+
+    STATE: Brooklyn, NY 11220
+
+    MAIN_ADDRESS: 6810 Madeline CtBrooklyn, NY 11220
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Madeline Court
+
+    FORMATTED_ADDRESS: 6810 Madeline Ct, Brooklyn, NY 11220, USA
+
+    LATITUDE: 40.6369819
+
+    LONGITUDE: -74.0276787

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by BERGEN BASIN REALTY
+
+    TYPE: House for sale
+
+    PRICE: 949000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2172.0
+
+    ADDRESS: 2430 E 71st St
+
+    STATE: Brooklyn, NY 11234
+
+    MAIN_ADDRESS: 2430 E 71st StBrooklyn, NY 11234
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: East 71st Street
+
+    FORMATTED_ADDRESS: 2430 E 71st St, Brooklyn, NY 11234, USA
+
+    LATITUDE: 40.6142439
+
+    LONGITUDE: -73.9015473

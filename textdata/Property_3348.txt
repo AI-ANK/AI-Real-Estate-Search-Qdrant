@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Park Slope
+
+    TYPE: Co-op for sale
+
+    PRICE: 635000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 673 Vanderbilt Ave Apt 1C
+
+    STATE: Brooklyn, NY 11238
+
+    MAIN_ADDRESS: 673 Vanderbilt Ave Apt 1CBrooklyn, NY 11238
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Prospect Heights
+
+    LONG_NAME: 673
+
+    FORMATTED_ADDRESS: 673 Vanderbilt Ave #1c, Brooklyn, NY 11238, USA
+
+    LATITUDE: 40.676549
+
+    LONGITUDE: -73.968922

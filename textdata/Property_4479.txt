@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Coldwell Banker Warburg
+
+    TYPE: Co-op for sale
+
+    PRICE: 950000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 775.0
+
+    ADDRESS: 36 W 35th St Ph F
+
+    STATE: New York, NY 10001
+
+    MAIN_ADDRESS: 36 W 35th St Ph FNew York, NY 10001
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: West 35th Street
+
+    FORMATTED_ADDRESS: 36 W 35th St, New York, NY 10001, USA
+
+    LATITUDE: 40.7497074
+
+    LONGITUDE: -73.9859244

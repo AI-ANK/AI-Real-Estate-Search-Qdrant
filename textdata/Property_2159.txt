@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Queens Quality Management
+
+    TYPE: Co-op for sale
+
+    PRICE: 359000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 16-29 212 St Unit 105
+
+    STATE: Bayside, NY 11360
+
+    MAIN_ADDRESS: 16-29 212 St Unit 105Bayside, NY 11360
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Bayside
+
+    LONG_NAME: 1629
+
+    FORMATTED_ADDRESS: 1629 212th St # 105, Bayside, NY 11360, USA
+
+    LATITUDE: 40.7838199
+
+    LONGITUDE: -73.78072

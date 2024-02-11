@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens - 445 Park Avenue
+
+    TYPE: Co-op for sale
+
+    PRICE: 5999000
+
+    BEDS: 4
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 3900.0
+
+    ADDRESS: 322 E 57th St Units 12 & 13A
+
+    STATE: Manhattan, NY 10022
+
+    MAIN_ADDRESS: 322 E 57th St Units 12 & 13AManhattan, NY 10022
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: East 57th Street
+
+    FORMATTED_ADDRESS: 322 E 57th St, New York, NY 10022, USA
+
+    LATITUDE: 40.7588099
+
+    LONGITUDE: -73.9645276

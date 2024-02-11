@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by NEUHAUS REALTY INC.
+
+    TYPE: House for sale
+
+    PRICE: 2400000
+
+    BEDS: 5
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 3800.0
+
+    ADDRESS: 57 Mace St
+
+    STATE: Staten Island, NY 10306
+
+    MAIN_ADDRESS: 57 Mace StStaten Island, NY 10306
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Mace Street
+
+    FORMATTED_ADDRESS: 57 Mace St, Staten Island, NY 10306, USA
+
+    LATITUDE: 40.5752476
+
+    LONGITUDE: -74.1304878

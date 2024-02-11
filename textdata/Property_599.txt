@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: NoBroker
+
+    TYPE: Co-op for sale
+
+    PRICE: 299000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 2212 Brigham St Apt 3C
+
+    STATE: Brooklyn, NY 11229
+
+    MAIN_ADDRESS: 2212 Brigham St Apt 3CBrooklyn, NY 11229
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Sheepshead Bay
+
+    LONG_NAME: 2212
+
+    FORMATTED_ADDRESS: 2212 Brigham St #3c, Brooklyn, NY 11229, USA
+
+    LATITUDE: 40.5987787
+
+    LONGITUDE: -73.9350489

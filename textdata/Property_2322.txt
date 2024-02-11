@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RELIABLE SELL & BUY REALTY INC
+
+    TYPE: House for sale
+
+    PRICE: 1190000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1500.0
+
+    ADDRESS: 2330 E 15th St
+
+    STATE: Brooklyn, NY 11229
+
+    MAIN_ADDRESS: 2330 E 15th StBrooklyn, NY 11229
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: East 15th Street
+
+    FORMATTED_ADDRESS: 2330 E 15th St, Brooklyn, NY 11229, USA
+
+    LATITUDE: 40.5935138
+
+    LONGITUDE: -73.9556712

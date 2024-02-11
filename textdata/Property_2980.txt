@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Ronald Greene, Realtor
+
+    TYPE: Pending
+
+    PRICE: 698999
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 149-47 115th St
+
+    STATE: South Ozone Park, NY 11420
+
+    MAIN_ADDRESS: 149-47 115th StSouth Ozone Park, NY 11420
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 115th Street
+
+    FORMATTED_ADDRESS: 149-47 115th St, Jamaica, NY 11420, USA
+
+    LATITUDE: 40.6680173
+
+    LONGITUDE: -73.8253534

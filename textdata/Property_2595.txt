@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Serhant
+
+    TYPE: Condo for sale
+
+    PRICE: 3890000
+
+    BEDS: 3
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2446.0
+
+    ADDRESS: 219 E 44th St Unit 31
+
+    STATE: New York, NY 10017
+
+    MAIN_ADDRESS: 219 E 44th St Unit 31New York, NY 10017
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 219
+
+    FORMATTED_ADDRESS: 219 E 44th St #31, New York, NY 10017, USA
+
+    LATITUDE: 40.7518502
+
+    LONGITUDE: -73.9725168

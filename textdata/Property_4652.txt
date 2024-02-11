@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Weichert Realtors TMT Group
+
+    TYPE: Co-op for sale
+
+    PRICE: 495000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 800.0
+
+    ADDRESS: 92-30 56 Ave Unit 1N
+
+    STATE: Elmhurst, NY 11373
+
+    MAIN_ADDRESS: 92-30 56 Ave Unit 1NElmhurst, NY 11373
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Elmhurst
+
+    LONG_NAME: 9230
+
+    FORMATTED_ADDRESS: 9230 56th Ave Apt 1b, Elmhurst, NY 11373, USA
+
+    LATITUDE: 40.7365199
+
+    LONGITUDE: -73.87008

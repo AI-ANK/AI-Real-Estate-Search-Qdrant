@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by City Homes Realty Group Llc
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1359000
+
+    BEDS: 11
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 2240.0
+
+    ADDRESS: 1353 Putnam Ave
+
+    STATE: Brooklyn, NY 11221
+
+    MAIN_ADDRESS: 1353 Putnam AveBrooklyn, NY 11221
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Putnam Avenue
+
+    FORMATTED_ADDRESS: 1353 Putnam Ave, Brooklyn, NY 11221, USA
+
+    LATITUDE: 40.6941915
+
+    LONGITUDE: -73.913053

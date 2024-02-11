@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Points North
+
+    TYPE: Pending
+
+    PRICE: 540000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 823.0
+
+    ADDRESS: 118-82 Metropolitan Ave Unit 7C
+
+    STATE: Kew Gardens, NY 11415
+
+    MAIN_ADDRESS: 118-82 Metropolitan Ave Unit 7CKew Gardens, NY 11415
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Jamaica
+
+    LONG_NAME: 118-82
+
+    FORMATTED_ADDRESS: 118-82 Metropolitan Ave #7c, Jamaica, NY 11415, USA
+
+    LATITUDE: 40.7059564
+
+    LONGITUDE: -73.8319922

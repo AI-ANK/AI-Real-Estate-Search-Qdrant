@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by O Kane Realty
+
+    TYPE: Co-op for sale
+
+    PRICE: 149000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 112-50 Northern Blvd Unit 1E
+
+    STATE: Corona, NY 11368
+
+    MAIN_ADDRESS: 112-50 Northern Blvd Unit 1ECorona, NY 11368
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Corona
+
+    LONG_NAME: 11250
+
+    FORMATTED_ADDRESS: 11250 Northern Blvd Apt 1f, Corona, NY 11368, USA
+
+    LATITUDE: 40.7581299
+
+    LONGITUDE: -73.8569399

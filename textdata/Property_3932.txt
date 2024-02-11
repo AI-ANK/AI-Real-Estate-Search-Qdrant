@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Chelsea/Flatiron
+
+    TYPE: Co-op for sale
+
+    PRICE: 649000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 687.0
+
+    ADDRESS: 400 E 56th St Apt 25K
+
+    STATE: New York, NY 10022
+
+    MAIN_ADDRESS: 400 E 56th St Apt 25KNew York, NY 10022
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 400
+
+    FORMATTED_ADDRESS: 400 E 56th St #25c, New York, NY 10022, USA
+
+    LATITUDE: 40.7571111
+
+    LONGITUDE: -73.9630783

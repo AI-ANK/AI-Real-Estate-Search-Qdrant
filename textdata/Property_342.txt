@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - Franklin Square
+
+    TYPE: Pending
+
+    PRICE: 668000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1606.0
+
+    ADDRESS: 88-08 Gettysburg St
+
+    STATE: Bellerose, NY 11426
+
+    MAIN_ADDRESS: 88-08 Gettysburg StBellerose, NY 11426
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Gettysburg Street
+
+    FORMATTED_ADDRESS: 88-08 Gettysburg St, Jamaica, NY 11426, USA
+
+    LATITUDE: 40.7299787
+
+    LONGITUDE: -73.7310756

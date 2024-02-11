@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by eXp Realty BKNY
+
+    TYPE: House for sale
+
+    PRICE: 2199000
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 3454.0
+
+    ADDRESS: 181 Hastings St
+
+    STATE: Brooklyn, NY 11235
+
+    MAIN_ADDRESS: 181 Hastings StBrooklyn, NY 11235
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Hastings Street
+
+    FORMATTED_ADDRESS: 181 Hastings St, Brooklyn, NY 11235, USA
+
+    LATITUDE: 40.5782802
+
+    LONGITUDE: -73.9442713

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Momentum Real Estate LLC
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 798000
+
+    BEDS: 3
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2150.0
+
+    ADDRESS: 425 Father Capodanno Blvd
+
+    STATE: Staten Island, NY 10305
+
+    MAIN_ADDRESS: 425 Father Capodanno BlvdStaten Island, NY 10305
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Father Capodanno Boulevard
+
+    FORMATTED_ADDRESS: 425 Father Capodanno Blvd, Staten Island, NY 10305, USA
+
+    LATITUDE: 40.5874844
+
+    LONGITUDE: -74.0701056

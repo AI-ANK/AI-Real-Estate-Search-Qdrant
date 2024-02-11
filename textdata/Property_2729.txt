@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 1950000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 56 Jane St Unit 4EF
+
+    STATE: Manhattan, NY 10014
+
+    MAIN_ADDRESS: 56 Jane St Unit 4EFManhattan, NY 10014
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 56
+
+    FORMATTED_ADDRESS: 56 Jane St #4e, New York, NY 10014, USA
+
+    LATITUDE: 40.7380264
+
+    LONGITUDE: -74.0053843

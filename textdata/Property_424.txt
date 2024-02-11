@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Soverign Homes Realty Inc
+
+    TYPE: Land for sale
+
+    PRICE: 265000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 1698 E New York Ave
+
+    STATE: Brooklyn, NY 11212
+
+    MAIN_ADDRESS: 1698 E New York AveBrooklyn, NY 11212
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: East New York Avenue
+
+    FORMATTED_ADDRESS: 1698 E New York Ave, Brooklyn, NY 11212, USA
+
+    LATITUDE: 40.6743408
+
+    LONGITUDE: -73.9056237

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - New Hyde Park
+
+    TYPE: Co-op for sale
+
+    PRICE: 310000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 675.0
+
+    ADDRESS: 247-16A 76 Ave Unit 1FL
+
+    STATE: Bellerose, NY 11426
+
+    MAIN_ADDRESS: 247-16A 76 Ave Unit 1FLBellerose, NY 11426
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Jamaica
+
+    LONG_NAME: 247-16
+
+    FORMATTED_ADDRESS: 247-16 76th Ave #1fl, Jamaica, NY 11426, USA
+
+    LATITUDE: 40.7444053
+
+    LONGITUDE: -73.7237661

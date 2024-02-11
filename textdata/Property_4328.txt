@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Real Estate Professionals
+
+    TYPE: House for sale
+
+    PRICE: 619000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 804.0
+
+    ADDRESS: 15 Eunice Pl
+
+    STATE: Staten Island, NY 10303
+
+    MAIN_ADDRESS: 15 Eunice PlStaten Island, NY 10303
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Eunice Place
+
+    FORMATTED_ADDRESS: 15 Eunice Pl, Staten Island, NY 10303, USA
+
+    LATITUDE: 40.6250376
+
+    LONGITUDE: -74.1522209

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Neuhaus Realty, Inc.
+
+    TYPE: House for sale
+
+    PRICE: 2800000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1800.0
+
+    ADDRESS: 98A-98G Discala Ln
+
+    STATE: Staten Island, NY 10312
+
+    MAIN_ADDRESS: 98A-98G Discala LnStaten Island, NY 10312
+
+    ADMINISTRATIVE_AREA_LEVEL_2: 10312
+
+    LOCALITY: United States
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Richmond County
+
+    LONG_NAME: Southeast Annadale
+
+    FORMATTED_ADDRESS: Discala Ln, Staten Island, NY 10312, USA
+
+    LATITUDE: 40.5240723
+
+    LONGITUDE: -74.1710503

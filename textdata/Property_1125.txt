@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by E Realty International Corp
+
+    TYPE: House for sale
+
+    PRICE: 1480000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 1596.0
+
+    ADDRESS: 30-07 143rd St
+
+    STATE: Flushing, NY 11354
+
+    MAIN_ADDRESS: 30-07 143rd StFlushing, NY 11354
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 143rd Street
+
+    FORMATTED_ADDRESS: 30-07 143rd St, Flushing, NY 11354, USA
+
+    LATITUDE: 40.7699832
+
+    LONGITUDE: -73.8257555

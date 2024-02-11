@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Momentum Real Estate Llc
+
+    TYPE: House for sale
+
+    PRICE: 549000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1152.0
+
+    ADDRESS: 15 Astor Ave
+
+    STATE: Staten Island, NY 10314
+
+    MAIN_ADDRESS: 15 Astor AveStaten Island, NY 10314
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Astor Avenue
+
+    FORMATTED_ADDRESS: 15 Astor Ave, Staten Island, NY 10314, USA
+
+    LATITUDE: 40.6144686
+
+    LONGITUDE: -74.1592392

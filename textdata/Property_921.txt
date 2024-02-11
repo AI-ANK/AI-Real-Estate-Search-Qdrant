@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Townhouse for sale
+
+    PRICE: 4800000
+
+    BEDS: 10
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 5353.0
+
+    ADDRESS: 407 3rd St
+
+    STATE: Brooklyn, NY 11215
+
+    MAIN_ADDRESS: 407 3rd StBrooklyn, NY 11215
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: 3rd Street
+
+    FORMATTED_ADDRESS: 407 3rd St., Brooklyn, NY 11215, USA
+
+    LATITUDE: 40.6722614
+
+    LONGITUDE: -73.9816141

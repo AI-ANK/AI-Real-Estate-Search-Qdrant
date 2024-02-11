@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 156 Montague
+
+    TYPE: Townhouse for sale
+
+    PRICE: 1499999
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2264.0
+
+    ADDRESS: 3623 Avenue T
+
+    STATE: Brooklyn, NY 11234
+
+    MAIN_ADDRESS: 3623 Avenue TBrooklyn, NY 11234
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Avenue T
+
+    FORMATTED_ADDRESS: 3623 Avenue T, Brooklyn, NY 11234, USA
+
+    LATITUDE: 40.6087059
+
+    LONGITUDE: -73.9290715

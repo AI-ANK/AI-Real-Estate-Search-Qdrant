@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Elite
+
+    TYPE: Pending
+
+    PRICE: 1649000
+
+    BEDS: 7
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 3162.0
+
+    ADDRESS: 628 56th St
+
+    STATE: Brooklyn, NY 11220
+
+    MAIN_ADDRESS: 628 56th StBrooklyn, NY 11220
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: 56th Street
+
+    FORMATTED_ADDRESS: 628 56th St, Brooklyn, NY 11220, USA
+
+    LATITUDE: 40.6398568
+
+    LONGITUDE: -74.0109732

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Century Homes Realty Group LLC
+
+    TYPE: Condo for sale
+
+    PRICE: 465000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 708.0
+
+    ADDRESS: 104-21 39th Ave Unit 212D
+
+    STATE: Corona, NY 11368
+
+    MAIN_ADDRESS: 104-21 39th Ave Unit 212DCorona, NY 11368
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Corona
+
+    LONG_NAME: 10421
+
+    FORMATTED_ADDRESS: 10421 39th Ave #212D, Corona, NY 11368, USA
+
+    LATITUDE: 40.7511218
+
+    LONGITUDE: -73.8614488

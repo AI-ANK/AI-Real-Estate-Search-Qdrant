@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 575 Madison Ave
+
+    TYPE: Pending
+
+    PRICE: 1999000
+
+    BEDS: 3
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2840.0
+
+    ADDRESS: 158 Jaffrey St
+
+    STATE: Brooklyn, NY 11235
+
+    MAIN_ADDRESS: 158 Jaffrey StBrooklyn, NY 11235
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Jaffray Street
+
+    FORMATTED_ADDRESS: 158 Jaffray St, Brooklyn, NY 11235, USA
+
+    LATITUDE: 40.5789619
+
+    LONGITUDE: -73.9430773

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Nest Seekers International, Tribeca
+
+    TYPE: Co-op for sale
+
+    PRICE: 455000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 725.0
+
+    ADDRESS: 415 E 85th St Apt 1A
+
+    STATE: New York, NY 10028
+
+    MAIN_ADDRESS: 415 E 85th St Apt 1ANew York, NY 10028
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 415
+
+    FORMATTED_ADDRESS: 415 E 85th St #1a, New York, NY 10028, USA
+
+    LATITUDE: 40.7760324
+
+    LONGITUDE: -73.9487922

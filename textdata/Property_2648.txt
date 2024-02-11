@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Avenues - Headquarters
+
+    TYPE: Townhouse for sale
+
+    PRICE: 795000
+
+    BEDS: 5
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 1065 Hegeman Ave
+
+    STATE: Brooklyn, NY 11208
+
+    MAIN_ADDRESS: 1065 Hegeman AveBrooklyn, NY 11208
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Hegeman Avenue
+
+    FORMATTED_ADDRESS: 1065 Hegeman Ave, Brooklyn, NY 11208, USA
+
+    LATITUDE: 40.6678086
+
+    LONGITUDE: -73.8739629

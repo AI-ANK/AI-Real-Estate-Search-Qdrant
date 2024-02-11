@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Realty Greater Nassau
+
+    TYPE: House for sale
+
+    PRICE: 1599000
+
+    BEDS: 5
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 5600.0
+
+    ADDRESS: 1233 Todt Hill Rd
+
+    STATE: Staten Island, NY 10304
+
+    MAIN_ADDRESS: 1233 Todt Hill RdStaten Island, NY 10304
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Todt Hill Road
+
+    FORMATTED_ADDRESS: 1233 Todt Hill Rd, Staten Island, NY 10304, USA
+
+    LATITUDE: 40.5813757
+
+    LONGITUDE: -74.1131912

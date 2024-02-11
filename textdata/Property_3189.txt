@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Ben Bay Rlty Co. Of Ave U Llc
+
+    TYPE: Condo for sale
+
+    PRICE: 299000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 671.0
+
+    ADDRESS: 837 Washington Ave Apt 4A
+
+    STATE: Bronx, NY 10451
+
+    MAIN_ADDRESS: 837 Washington Ave Apt 4ABronx, NY 10451
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: Melrose
+
+    LONG_NAME: 837
+
+    FORMATTED_ADDRESS: 837 Washington Ave #4a, Bronx, NY 10451, USA
+
+    LATITUDE: 40.8225186
+
+    LONGITUDE: -73.9117785

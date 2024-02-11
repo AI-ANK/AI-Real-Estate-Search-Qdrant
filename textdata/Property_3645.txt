@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by BHHS New York Properties
+
+    TYPE: Co-op for sale
+
+    PRICE: 4395000
+
+    BEDS: 6
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2700.0
+
+    ADDRESS: 47 E 88th St Unit 4C
+
+    STATE: New York, NY 10128
+
+    MAIN_ADDRESS: 47 E 88th St Unit 4CNew York, NY 10128
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 47
+
+    FORMATTED_ADDRESS: 47 E 88th St #4c, New York, NY 10128, USA
+
+    LATITUDE: 40.7822272
+
+    LONGITUDE: -73.9575194

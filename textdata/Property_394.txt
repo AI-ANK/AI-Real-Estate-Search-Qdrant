@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Gateway Arms Realty Corp.
+
+    TYPE: House for sale
+
+    PRICE: 675000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1404.0
+
+    ADDRESS: 44 Hunter Pl
+
+    STATE: Staten Island, NY 10301
+
+    MAIN_ADDRESS: 44 Hunter PlStaten Island, NY 10301
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Hunter Place
+
+    FORMATTED_ADDRESS: 44 Hunter Pl, Staten Island, NY 10301, USA
+
+    LATITUDE: 40.6333513
+
+    LONGITUDE: -74.1021333

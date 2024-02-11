@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sotheby's International Realty - Downtown Manhattan
+
+    TYPE: Condo for sale
+
+    PRICE: 950000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 29 W 65th St Apt 2F
+
+    STATE: New York, NY 10023
+
+    MAIN_ADDRESS: 29 W 65th St Apt 2FNew York, NY 10023
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York County
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Manhattan
+
+    STREET_NAME: West 65th Street
+
+    LONG_NAME: Goldmark Practice Center
+
+    FORMATTED_ADDRESS: Goldmark Practice Center, 29 W 65th St #2f, New York, NY 10023, USA
+
+    LATITUDE: 40.7727634
+
+    LONGITUDE: -73.9809139

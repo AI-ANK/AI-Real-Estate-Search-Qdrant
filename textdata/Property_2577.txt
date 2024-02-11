@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Halvatzis Realty Inc
+
+    TYPE: Co-op for sale
+
+    PRICE: 225000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 21-68 35th St Unit 5D
+
+    STATE: Astoria, NY 11105
+
+    MAIN_ADDRESS: 21-68 35th St Unit 5DAstoria, NY 11105
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Astoria
+
+    LONG_NAME: 21-68
+
+    FORMATTED_ADDRESS: 21-68 35th St #5d, Astoria, NY 11105, USA
+
+    LATITUDE: 40.7753572
+
+    LONGITUDE: -73.9085482

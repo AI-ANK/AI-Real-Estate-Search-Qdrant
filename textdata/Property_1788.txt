@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sotheby's International Realty - Downtown Manhattan
+
+    TYPE: Pending
+
+    PRICE: 998000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1600.0
+
+    ADDRESS: 309 E 108th St Apt 2B
+
+    STATE: New York, NY 10029
+
+    MAIN_ADDRESS: 309 E 108th St Apt 2BNew York, NY 10029
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 309
+
+    FORMATTED_ADDRESS: 309 E 108th St #2b, New York, NY 10029, USA
+
+    LATITUDE: 40.7917785
+
+    LONGITUDE: -73.9406204

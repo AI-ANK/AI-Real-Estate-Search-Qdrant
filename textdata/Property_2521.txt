@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by BRAITHWAITE REALTY LLC
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 850000
+
+    BEDS: 6
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2230.0
+
+    ADDRESS: 3019 Kingsbridge Ter
+
+    STATE: Bronx, NY 10463
+
+    MAIN_ADDRESS: 3019 Kingsbridge TerBronx, NY 10463
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Kingsbridge Terrace
+
+    FORMATTED_ADDRESS: 3019 Kingsbridge Terrace, Bronx, NY 10463, USA
+
+    LATITUDE: 40.8760983
+
+    LONGITUDE: -73.9021193

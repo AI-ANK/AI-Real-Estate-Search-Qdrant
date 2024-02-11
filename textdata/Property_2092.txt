@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Momentum Real Estate Llc
+
+    TYPE: Pending
+
+    PRICE: 949000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2920.0
+
+    ADDRESS: 6 Mann Ave
+
+    STATE: Staten Island, NY 10314
+
+    MAIN_ADDRESS: 6 Mann AveStaten Island, NY 10314
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Mann Avenue
+
+    FORMATTED_ADDRESS: 6 Mann Ave, Staten Island, NY 10314, USA
+
+    LATITUDE: 40.6134167
+
+    LONGITUDE: -74.1334698

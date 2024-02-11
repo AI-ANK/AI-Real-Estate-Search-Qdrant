@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Roz Khan
+
+    TYPE: Condo for sale
+
+    PRICE: 625000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 14-40 31 Ave Unit 2R
+
+    STATE: Astoria, NY 11106
+
+    MAIN_ADDRESS: 14-40 31 Ave Unit 2RAstoria, NY 11106
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Astoria
+
+    LONG_NAME: 14-40
+
+    FORMATTED_ADDRESS: 14-40 31st Ave #2r, Astoria, NY 11106, USA
+
+    LATITUDE: 40.767458
+
+    LONGITUDE: -73.9308615

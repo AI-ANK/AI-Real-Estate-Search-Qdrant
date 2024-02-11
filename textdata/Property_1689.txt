@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Co-op for sale
+
+    PRICE: 565000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 107 W 70th St Apt 4F
+
+    STATE: Manhattan, NY 10023
+
+    MAIN_ADDRESS: 107 W 70th St Apt 4FManhattan, NY 10023
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 107
+
+    FORMATTED_ADDRESS: 107 W 70th St #4f, New York, NY 10023, USA
+
+    LATITUDE: 40.776443
+
+    LONGITUDE: -73.979985

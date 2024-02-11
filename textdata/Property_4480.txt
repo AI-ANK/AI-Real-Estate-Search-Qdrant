@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by KORR REALTY
+
+    TYPE: Condo for sale
+
+    PRICE: 749999
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1602.0
+
+    ADDRESS: 1906 Bergen Ave Unit 9A
+
+    STATE: Brooklyn, NY 11234
+
+    MAIN_ADDRESS: 1906 Bergen Ave Unit 9ABrooklyn, NY 11234
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Bergen Beach
+
+    LONG_NAME: 1906
+
+    FORMATTED_ADDRESS: 1906 Bergen Ave #9a, Brooklyn, NY 11234, USA
+
+    LATITUDE: 40.625366
+
+    LONGITUDE: -73.908929

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Ashford Homes LLC
+
+    TYPE: Condo for sale
+
+    PRICE: 599000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1095.0
+
+    ADDRESS: 2818 W 17th St Apt 1B
+
+    STATE: Brooklyn, NY 11224
+
+    MAIN_ADDRESS: 2818 W 17th St Apt 1BBrooklyn, NY 11224
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Coney Island
+
+    LONG_NAME: 2818
+
+    FORMATTED_ADDRESS: 2818 W 17th St #1b, Brooklyn, NY 11224, USA
+
+    LATITUDE: 40.5784256
+
+    LONGITUDE: -73.9853674

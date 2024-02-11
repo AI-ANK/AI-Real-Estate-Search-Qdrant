@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 575 Madison Ave
+
+    TYPE: House for sale
+
+    PRICE: 19499999
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 10000.0
+
+    ADDRESS: 182 Franklin St
+
+    STATE: New York, NY 10013
+
+    MAIN_ADDRESS: 182 Franklin StNew York, NY 10013
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: Franklin Street
+
+    FORMATTED_ADDRESS: 182 Franklin St, New York, NY 10013, USA
+
+    LATITUDE: 40.7195687
+
+    LONGITUDE: -74.0094317

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens W Hampton
+
+    TYPE: Co-op for sale
+
+    PRICE: 399000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 102-10 66th Rd Unit 14A
+
+    STATE: Forest Hills, NY 11375
+
+    MAIN_ADDRESS: 102-10 66th Rd Unit 14AForest Hills, NY 11375
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 102-10
+
+    FORMATTED_ADDRESS: 102-10 66th Rd #14a, Flushing, NY 11375, USA
+
+    LATITUDE: 40.7282586
+
+    LONGITUDE: -73.8513251

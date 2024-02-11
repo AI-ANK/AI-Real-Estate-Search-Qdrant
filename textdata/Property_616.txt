@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by BHHS New York Properties
+
+    TYPE: Co-op for sale
+
+    PRICE: 875000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 20 E 35th St Apt 3D
+
+    STATE: New York, NY 10016
+
+    MAIN_ADDRESS: 20 E 35th St Apt 3DNew York, NY 10016
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 20
+
+    FORMATTED_ADDRESS: 20 E 35th St #3d, New York, NY 10016, USA
+
+    LATITUDE: 40.748098
+
+    LONGITUDE: -73.9824791

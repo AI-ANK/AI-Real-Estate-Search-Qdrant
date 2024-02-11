@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by City Connections Realty
+
+    TYPE: Contingent
+
+    PRICE: 599000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 578.0
+
+    ADDRESS: 20 West St Apt 15F
+
+    STATE: New York, NY 10004
+
+    MAIN_ADDRESS: 20 West St Apt 15FNew York, NY 10004
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 20
+
+    FORMATTED_ADDRESS: 20 West St #15f, New York, NY 10004, USA
+
+    LATITUDE: 40.706541
+
+    LONGITUDE: -74.0158244

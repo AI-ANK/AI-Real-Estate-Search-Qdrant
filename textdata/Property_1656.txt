@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Elegran Real Estate And Development
+
+    TYPE: Condo for sale
+
+    PRICE: 799000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 684.0
+
+    ADDRESS: 155 E 34th St Apt 20A
+
+    STATE: New York, NY 10016
+
+    MAIN_ADDRESS: 155 E 34th St Apt 20ANew York, NY 10016
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 155
+
+    FORMATTED_ADDRESS: 155 E 34th St #20a, New York, NY 10016, USA
+
+    LATITUDE: 40.746232
+
+    LONGITUDE: -73.978689

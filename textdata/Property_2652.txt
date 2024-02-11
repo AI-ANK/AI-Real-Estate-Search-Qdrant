@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Brooklyn Heights
+
+    TYPE: Townhouse for sale
+
+    PRICE: 595000
+
+    BEDS: 1
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 846.0
+
+    ADDRESS: 943 Saint Marks Ave Apt 1A
+
+    STATE: Brooklyn, NY 11213
+
+    MAIN_ADDRESS: 943 Saint Marks Ave Apt 1ABrooklyn, NY 11213
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Crown Heights
+
+    LONG_NAME: 943
+
+    FORMATTED_ADDRESS: 943 St Marks Ave #1a, Brooklyn, NY 11213, USA
+
+    LATITUDE: 40.6749628
+
+    LONGITUDE: -73.9401841

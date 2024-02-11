@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Jaymore Realty Llc
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 585000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 12-86 Augustina Ave
+
+    STATE: Far Rockaway, NY 11691
+
+    MAIN_ADDRESS: 12-86 Augustina AveFar Rockaway, NY 11691
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Augustina Avenue
+
+    FORMATTED_ADDRESS: 12-86 Augustina Ave, Far Rockaway, NY 11691, USA
+
+    LATITUDE: 40.6082787
+
+    LONGITUDE: -73.7495095

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Real Estate Professionals
+
+    TYPE: House for sale
+
+    PRICE: 1149000
+
+    BEDS: 4
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1800.0
+
+    ADDRESS: 284 Sullivan Pl
+
+    STATE: Brooklyn, NY 11225
+
+    MAIN_ADDRESS: 284 Sullivan PlBrooklyn, NY 11225
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Sullivan Place
+
+    FORMATTED_ADDRESS: 284 Sullivan Pl, Brooklyn, NY 11225, USA
+
+    LATITUDE: 40.6644629
+
+    LONGITUDE: -73.951745

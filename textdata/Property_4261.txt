@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Real Estate Professionals
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1195000
+
+    BEDS: 14
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 5100.0
+
+    ADDRESS: 320 61st St
+
+    STATE: Brooklyn, NY 11220
+
+    MAIN_ADDRESS: 320 61st StBrooklyn, NY 11220
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: 61st Street
+
+    FORMATTED_ADDRESS: 320 61st St, Brooklyn, NY 11220, USA
+
+    LATITUDE: 40.6411025
+
+    LONGITUDE: -74.0207743

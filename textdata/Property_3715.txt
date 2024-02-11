@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by TURFNYC LLC
+
+    TYPE: Condo for sale
+
+    PRICE: 2300000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1035.0
+
+    ADDRESS: 108 W 75th St Apt 3
+
+    STATE: New York, NY 10023
+
+    MAIN_ADDRESS: 108 W 75th St Apt 3New York, NY 10023
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 108
+
+    FORMATTED_ADDRESS: 108 W 75th St Apartment 3, New York, NY 10023, USA
+
+    LATITUDE: 40.779437
+
+    LONGITUDE: -73.97814

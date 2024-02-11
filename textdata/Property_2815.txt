@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Realty Network Of N Y Corp
+
+    TYPE: House for sale
+
+    PRICE: 925000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 50-02 60th St
+
+    STATE: Woodside, NY 11377
+
+    MAIN_ADDRESS: 50-02 60th StWoodside, NY 11377
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 60th Street
+
+    FORMATTED_ADDRESS: 50-02 60th St, Queens, NY 11377, USA
+
+    LATITUDE: 40.737003
+
+    LONGITUDE: -73.904942

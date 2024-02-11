@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Voro Llc
+
+    TYPE: Co-op for sale
+
+    PRICE: 298999
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 229-17 87th Ave Unit Upper
+
+    STATE: Queens Village, NY 11427
+
+    MAIN_ADDRESS: 229-17 87th Ave Unit UpperQueens Village, NY 11427
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 87th Avenue
+
+    FORMATTED_ADDRESS: 229-17 87th Ave, Queens Village, NY 11427, USA
+
+    LATITUDE: 40.7317712
+
+    LONGITUDE: -73.739171

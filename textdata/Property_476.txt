@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Real Broker NY LLC
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1150000
+
+    BEDS: 5
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 162-14 97th St
+
+    STATE: Howard Beach, NY 11414
+
+    MAIN_ADDRESS: 162-14 97th StHoward Beach, NY 11414
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 97th Street
+
+    FORMATTED_ADDRESS: 162-14 97th St, Howard Beach, NY 11414, USA
+
+    LATITUDE: 40.6542535
+
+    LONGITUDE: -73.8350556

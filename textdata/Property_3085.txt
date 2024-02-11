@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Gateway Arms Realty Corp.
+
+    TYPE: Condo for sale
+
+    PRICE: 560000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1008.0
+
+    ADDRESS: 155 Bay St Apt 4F
+
+    STATE: Staten Island, NY 10301
+
+    MAIN_ADDRESS: 155 Bay St Apt 4FStaten Island, NY 10301
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Richmond County
+
+    SUBLOCALITY: Staten Island
+
+    STREET_NAME: Mid Island
+
+    LONG_NAME: 155
+
+    FORMATTED_ADDRESS: 155 Bay St #4f, Staten Island, NY 10301, USA
+
+    LATITUDE: 40.638148
+
+    LONGITUDE: -74.0756332

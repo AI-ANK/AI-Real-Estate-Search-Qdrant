@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Elite Realty of USA Inc
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 989000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 120-10 135th St
+
+    STATE: Jamaica, NY 11420
+
+    MAIN_ADDRESS: 120-10 135th StJamaica, NY 11420
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 135th Street
+
+    FORMATTED_ADDRESS: 120-10 135th St, Jamaica, NY 11420, USA
+
+    LATITUDE: 40.6751744
+
+    LONGITUDE: -73.8037556

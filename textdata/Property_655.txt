@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Modern Spaces Love Your Place
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1400000
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 25-01 23rd Ave
+
+    STATE: Long Island City, NY 11105
+
+    MAIN_ADDRESS: 25-01 23rd AveLong Island City, NY 11105
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 23rd Avenue
+
+    FORMATTED_ADDRESS: 25-01 23rd Ave, Astoria, NY 11105, USA
+
+    LATITUDE: 40.7770879
+
+    LONGITUDE: -73.9162687

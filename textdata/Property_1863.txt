@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Garfield, Leslie J. & Co., Inc.
+
+    TYPE: Townhouse for sale
+
+    PRICE: 17995000
+
+    BEDS: 6
+
+    BATH: 7.0
+
+    PROPERTYSQFT: 8068.0
+
+    ADDRESS: 25 W 88th St
+
+    STATE: New York, NY 10024
+
+    MAIN_ADDRESS: 25 W 88th StNew York, NY 10024
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: West 88th Street
+
+    FORMATTED_ADDRESS: 25 W 88th St, New York, NY 10024, USA
+
+    LATITUDE: 40.7871816
+
+    LONGITUDE: -73.96924

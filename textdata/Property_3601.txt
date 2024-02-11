@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran West Side
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1895000
+
+    BEDS: 5
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 595 Van Buren St
+
+    STATE: Brooklyn, NY 11221
+
+    MAIN_ADDRESS: 595 Van Buren StBrooklyn, NY 11221
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Van Buren Street
+
+    FORMATTED_ADDRESS: 595 Van Buren St, Brooklyn, NY 11221, USA
+
+    LATITUDE: 40.6925254
+
+    LONGITUDE: -73.9260278

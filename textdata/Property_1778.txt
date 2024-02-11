@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by EXP Realty
+
+    TYPE: Contingent
+
+    PRICE: 1175000
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2774.0
+
+    ADDRESS: 29 Douglas Rd
+
+    STATE: Staten Island, NY 10304
+
+    MAIN_ADDRESS: 29 Douglas RdStaten Island, NY 10304
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Douglas Road
+
+    FORMATTED_ADDRESS: 29 Douglas Rd, Staten Island, NY 10304, USA
+
+    LATITUDE: 40.6069353
+
+    LONGITUDE: -74.0933004

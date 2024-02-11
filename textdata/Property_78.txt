@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Meyers Enterprise Realty Group
+
+    TYPE: Land for sale
+
+    PRICE: 119000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 3652 DE Reimer Ave
+
+    STATE: Bronx, NY 10466
+
+    MAIN_ADDRESS: 3652 DE Reimer AveBronx, NY 10466
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: De Reimer Avenue
+
+    FORMATTED_ADDRESS: 3652 De Reimer Ave, Bronx, NY 10466, USA
+
+    LATITUDE: 40.8841699
+
+    LONGITUDE: -73.8388387

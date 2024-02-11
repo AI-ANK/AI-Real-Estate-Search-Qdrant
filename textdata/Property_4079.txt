@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by CARINI GROUP - CARINI GROUP
+
+    TYPE: Co-op for sale
+
+    PRICE: 525000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 111 Fourth Ave Unit 12A
+
+    STATE: New York, NY 10003
+
+    MAIN_ADDRESS: 111 Fourth Ave Unit 12ANew York, NY 10003
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 111
+
+    FORMATTED_ADDRESS: 111 4th Ave #12a, New York, NY 10003, USA
+
+    LATITUDE: 40.7324146
+
+    LONGITUDE: -73.9898491

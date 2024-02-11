@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Best Find Realty
+
+    TYPE: Co-op for sale
+
+    PRICE: 219000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 190-05 39 Ave Unit 142
+
+    STATE: Flushing, NY 11358
+
+    MAIN_ADDRESS: 190-05 39 Ave Unit 142Flushing, NY 11358
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 19005
+
+    FORMATTED_ADDRESS: 19005 39th Ave Apt 142, Flushing, NY 11358, USA
+
+    LATITUDE: 40.7617299
+
+    LONGITUDE: -73.79176

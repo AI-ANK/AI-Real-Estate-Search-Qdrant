@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by EXP Realty
+
+    TYPE: Co-op for sale
+
+    PRICE: 324888
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 713.0
+
+    ADDRESS: 61-15 97th St Unit 6D
+
+    STATE: Rego Park, NY 11374
+
+    MAIN_ADDRESS: 61-15 97th St Unit 6DRego Park, NY 11374
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Rego Park
+
+    LONG_NAME: 61-15
+
+    FORMATTED_ADDRESS: 61-15 97th St #6d, Rego Park, NY 11374, USA
+
+    LATITUDE: 40.7337965
+
+    LONGITUDE: -73.8620837

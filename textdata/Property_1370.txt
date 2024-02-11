@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Compass Greater Ny, Llc
+
+    TYPE: House for sale
+
+    PRICE: 1199000
+
+    BEDS: 4
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1840.0
+
+    ADDRESS: 7702 15th Ave
+
+    STATE: Brooklyn, NY 11228
+
+    MAIN_ADDRESS: 7702 15th AveBrooklyn, NY 11228
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: 15th Avenue
+
+    FORMATTED_ADDRESS: 7702 15th Ave, Brooklyn, NY 11228, USA
+
+    LATITUDE: 40.6165131
+
+    LONGITUDE: -74.0045846

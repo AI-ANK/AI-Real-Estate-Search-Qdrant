@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Winzone Realty Inc
+
+    TYPE: House for sale
+
+    PRICE: 899000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1672.0
+
+    ADDRESS: 140-95 Burden Cres
+
+    STATE: Jamaica, NY 11435
+
+    MAIN_ADDRESS: 140-95 Burden CresJamaica, NY 11435
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Burden Crescent
+
+    FORMATTED_ADDRESS: 140-95 Burden Crescent, Jamaica, NY 11435, USA
+
+    LATITUDE: 40.7114945
+
+    LONGITUDE: -73.8152211

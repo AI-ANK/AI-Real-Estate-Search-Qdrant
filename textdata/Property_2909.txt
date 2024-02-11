@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by KELLER WILLIAMS REALTY EMPIRE
+
+    TYPE: Co-op for sale
+
+    PRICE: 250000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 750.0
+
+    ADDRESS: 2241 Plumb 1st St Apt 1N
+
+    STATE: Brooklyn, NY 11229
+
+    MAIN_ADDRESS: 2241 Plumb 1st St Apt 1NBrooklyn, NY 11229
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Gerritsen Beach
+
+    LONG_NAME: 2241
+
+    FORMATTED_ADDRESS: 2241 Plumb 1st St Apt 1l, Brooklyn, NY 11229, USA
+
+    LATITUDE: 40.5986758
+
+    LONGITUDE: -73.9325474

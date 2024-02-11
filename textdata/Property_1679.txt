@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Distinguished Homes & Properties
+
+    TYPE: Co-op for sale
+
+    PRICE: 159000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 800.0
+
+    ADDRESS: 2630 Kingsbridge Ter Apt 7Y
+
+    STATE: Bronx, NY 10463
+
+    MAIN_ADDRESS: 2630 Kingsbridge Ter Apt 7YBronx, NY 10463
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: Fordham Manor
+
+    LONG_NAME: 2630
+
+    FORMATTED_ADDRESS: 2630 Kingsbridge Terrace #7b, Bronx, NY 10463, USA
+
+    LATITUDE: 40.8697508
+
+    LONGITUDE: -73.905391

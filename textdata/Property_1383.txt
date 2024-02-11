@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Tom Crimmins Realty, Ltd.
+
+    TYPE: Condo for sale
+
+    PRICE: 399900
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 853.0
+
+    ADDRESS: 120 Wellington Ct Apt 1B
+
+    STATE: Staten Island, NY 10314
+
+    MAIN_ADDRESS: 120 Wellington Ct Apt 1BStaten Island, NY 10314
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Richmond County
+
+    SUBLOCALITY: Staten Island
+
+    STREET_NAME: New Springville
+
+    LONG_NAME: 120
+
+    FORMATTED_ADDRESS: 120 Wellington Ct #1b, Staten Island, NY 10314, USA
+
+    LATITUDE: 40.5803785
+
+    LONGITUDE: -74.1578058

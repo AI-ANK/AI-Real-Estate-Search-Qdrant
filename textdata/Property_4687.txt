@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by New Group Realty Inc
+
+    TYPE: House for sale
+
+    PRICE: 948000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1368.0
+
+    ADDRESS: 30-41 86th St
+
+    STATE: East Elmhurst, NY 11369
+
+    MAIN_ADDRESS: 30-41 86th StEast Elmhurst, NY 11369
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 86th Street
+
+    FORMATTED_ADDRESS: 30-41 86th St, Flushing, NY 11369, USA
+
+    LATITUDE: 40.7604064
+
+    LONGITUDE: -73.882048

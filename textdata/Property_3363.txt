@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Townhouse for sale
+
+    PRICE: 2560000
+
+    BEDS: 13
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 413 Greene Ave Unit Townhouse
+
+    STATE: Brooklyn, NY 11216
+
+    MAIN_ADDRESS: 413 Greene Ave Unit TownhouseBrooklyn, NY 11216
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Greene Avenue
+
+    FORMATTED_ADDRESS: 413 Greene Ave, Brooklyn, NY 11216, USA
+
+    LATITUDE: 40.6882331
+
+    LONGITUDE: -73.9543243

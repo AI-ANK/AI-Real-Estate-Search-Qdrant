@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Space Marketing Shop Inc.
+
+    TYPE: Condo for sale
+
+    PRICE: 1500000
+
+    BEDS: 1
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1218.0
+
+    ADDRESS: 490 Lorimer St Unit 1A
+
+    STATE: Brooklyn, NY 11211
+
+    MAIN_ADDRESS: 490 Lorimer St Unit 1ABrooklyn, NY 11211
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Williamsburg
+
+    LONG_NAME: 490
+
+    FORMATTED_ADDRESS: 490 Lorimer St #1a, Brooklyn, NY 11211, USA
+
+    LATITUDE: 40.7115725
+
+    LONGITUDE: -73.948677

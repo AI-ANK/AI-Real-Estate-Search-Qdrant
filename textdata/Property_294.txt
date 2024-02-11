@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Redfin Real Estate
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 669000
+
+    BEDS: 5
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1893.0
+
+    ADDRESS: 418 Beach 37th St
+
+    STATE: Far Rockaway, NY 11691
+
+    MAIN_ADDRESS: 418 Beach 37th StFar Rockaway, NY 11691
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Beach 37th Street
+
+    FORMATTED_ADDRESS: 418 Beach 37th St, Far Rockaway, NY 11691, USA
+
+    LATITUDE: 40.5967151
+
+    LONGITUDE: -73.7696424

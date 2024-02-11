@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by CENTURY 21 Achievers
+
+    TYPE: House for sale
+
+    PRICE: 735000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1600.0
+
+    ADDRESS: 894 E 38th St
+
+    STATE: Brooklyn, NY 11210
+
+    MAIN_ADDRESS: 894 E 38th StBrooklyn, NY 11210
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: East 38th Street
+
+    FORMATTED_ADDRESS: 894 E 38th St, Brooklyn, NY 11210, USA
+
+    LATITUDE: 40.6334425
+
+    LONGITUDE: -73.9402186

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens - 445 Park Avenue
+
+    TYPE: Co-op for sale
+
+    PRICE: 1250000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1500.0
+
+    ADDRESS: 125 E 63rd St Apt 4B
+
+    STATE: Manhattan, NY 10065
+
+    MAIN_ADDRESS: 125 E 63rd St Apt 4BManhattan, NY 10065
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 125
+
+    FORMATTED_ADDRESS: 125 E 63rd St #4b, New York, NY 10065, USA
+
+    LATITUDE: 40.7651694
+
+    LONGITUDE: -73.9667031

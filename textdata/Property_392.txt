@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Prereal Prendamano Real Estate
+
+    TYPE: Land for sale
+
+    PRICE: 3950000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 750 Barclay Ave
+
+    STATE: Staten Island, NY 10312
+
+    MAIN_ADDRESS: 750 Barclay AveStaten Island, NY 10312
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Barclay Avenue
+
+    FORMATTED_ADDRESS: 750 Barclay Ave, Staten Island, NY 10312, USA
+
+    LATITUDE: 40.525422
+
+    LONGITUDE: -74.166603

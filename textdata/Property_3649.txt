@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Coleman Real Estate Team
+
+    TYPE: House for sale
+
+    PRICE: 285000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 372 Atkins Ave
+
+    STATE: Brooklyn, NY 11208
+
+    MAIN_ADDRESS: 372 Atkins AveBrooklyn, NY 11208
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Atkins Avenue
+
+    FORMATTED_ADDRESS: 372 Atkins Ave, Brooklyn, NY 11208, USA
+
+    LATITUDE: 40.6695084
+
+    LONGITUDE: -73.8779921

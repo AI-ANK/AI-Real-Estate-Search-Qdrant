@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by BESMATCH REAL ESTATE
+
+    TYPE: Co-op for sale
+
+    PRICE: 329999
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 950.0
+
+    ADDRESS: 880 Boynton Ave Apt 18F
+
+    STATE: Bronx, NY 10473
+
+    MAIN_ADDRESS: 880 Boynton Ave Apt 18FBronx, NY 10473
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: East Bronx
+
+    LONG_NAME: 880
+
+    FORMATTED_ADDRESS: 880 Boynton Ave #18f, Bronx, NY 10473, USA
+
+    LATITUDE: 40.8214206
+
+    LONGITUDE: -73.8759785

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran West Side
+
+    TYPE: Co-op for sale
+
+    PRICE: 2395000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1650.0
+
+    ADDRESS: 320 E 57th St # E
+
+    STATE: New York, NY 10022
+
+    MAIN_ADDRESS: 320 E 57th St # ENew York, NY 10022
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: East 57th Street
+
+    FORMATTED_ADDRESS: 320 E 57th St, New York, NY 10022, USA
+
+    LATITUDE: 40.7588081
+
+    LONGITUDE: -73.9647057

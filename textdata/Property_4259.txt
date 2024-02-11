@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 575 Madison Ave
+
+    TYPE: Condo for sale
+
+    PRICE: 3695000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1978.0
+
+    ADDRESS: 160 W 66th St Apt 57C
+
+    STATE: New York, NY 10023
+
+    MAIN_ADDRESS: 160 W 66th St Apt 57CNew York, NY 10023
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 160
+
+    FORMATTED_ADDRESS: 160 W 66th St #57b, New York, NY 10023, USA
+
+    LATITUDE: 40.774282
+
+    LONGITUDE: -73.9841771

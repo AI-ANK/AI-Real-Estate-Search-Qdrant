@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by BEN BAY REALTY, CO.
+
+    TYPE: House for sale
+
+    PRICE: 1188000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1580.0
+
+    ADDRESS: 1268 76th St
+
+    STATE: Brooklyn, NY 11228
+
+    MAIN_ADDRESS: 1268 76th StBrooklyn, NY 11228
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: 76th Street
+
+    FORMATTED_ADDRESS: 1268 76th St, Brooklyn, NY 11228, USA
+
+    LATITUDE: 40.6198659
+
+    LONGITUDE: -74.0087151

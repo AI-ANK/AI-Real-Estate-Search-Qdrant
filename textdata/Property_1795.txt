@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Park Slope
+
+    TYPE: Townhouse for sale
+
+    PRICE: 6295000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 4650.0
+
+    ADDRESS: 612 3rd St
+
+    STATE: Brooklyn, NY 11215
+
+    MAIN_ADDRESS: 612 3rd StBrooklyn, NY 11215
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: 3rd Street
+
+    FORMATTED_ADDRESS: 612 3rd St., Brooklyn, NY 11215, USA
+
+    LATITUDE: 40.6685976
+
+    LONGITUDE: -73.975142

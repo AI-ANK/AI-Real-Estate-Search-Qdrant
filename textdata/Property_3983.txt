@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens - 445 Park Avenue
+
+    TYPE: Condo for sale
+
+    PRICE: 4995000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 30 E 76th St Unit Ph
+
+    STATE: Manhattan, NY 10021
+
+    MAIN_ADDRESS: 30 E 76th St Unit PhManhattan, NY 10021
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: East 76th Street
+
+    FORMATTED_ADDRESS: 30 E 76th St, New York, NY 10021, USA
+
+    LATITUDE: 40.774136
+
+    LONGITUDE: -73.96342

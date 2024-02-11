@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Brooklyn Heights
+
+    TYPE: Co-op for sale
+
+    PRICE: 370000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 100 Remsen St Apt 3F
+
+    STATE: Brooklyn, NY 11201
+
+    MAIN_ADDRESS: 100 Remsen St Apt 3FBrooklyn, NY 11201
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Brooklyn Heights
+
+    LONG_NAME: 100
+
+    FORMATTED_ADDRESS: 100 Remsen St #3f, Brooklyn, NY 11201, USA
+
+    LATITUDE: 40.6939582
+
+    LONGITUDE: -73.9943695

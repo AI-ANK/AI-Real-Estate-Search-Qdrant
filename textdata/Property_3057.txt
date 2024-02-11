@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - Syosset
+
+    TYPE: Pending
+
+    PRICE: 1088888
+
+    BEDS: 3
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2550.0
+
+    ADDRESS: 163-36 98th St
+
+    STATE: Howard Beach, NY 11414
+
+    MAIN_ADDRESS: 163-36 98th StHoward Beach, NY 11414
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 98th Street
+
+    FORMATTED_ADDRESS: 163-36 98th St, Howard Beach, NY 11414, USA
+
+    LATITUDE: 40.6520565
+
+    LONGITUDE: -73.8335563

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Telemundo Realty Corp
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1325000
+
+    BEDS: 6
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 29-11 Butler St
+
+    STATE: East Elmhurst, NY 11369
+
+    MAIN_ADDRESS: 29-11 Butler StEast Elmhurst, NY 11369
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Butler Street
+
+    FORMATTED_ADDRESS: 29-11 Butler St, Flushing, NY 11369, USA
+
+    LATITUDE: 40.7635384
+
+    LONGITUDE: -73.8628798

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Winzone Realty Inc
+
+    TYPE: Condo for sale
+
+    PRICE: 720000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 970.0
+
+    ADDRESS: 61-09 39 Ave Unit M6
+
+    STATE: Woodside, NY 11377
+
+    MAIN_ADDRESS: 61-09 39 Ave Unit M6Woodside, NY 11377
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Woodside
+
+    LONG_NAME: 61-09
+
+    FORMATTED_ADDRESS: 61-09 39th Ave m6, Woodside, NY 11377, USA
+
+    LATITUDE: 40.7472374
+
+    LONGITUDE: -73.9021112

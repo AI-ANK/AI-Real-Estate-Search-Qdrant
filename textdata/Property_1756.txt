@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Tony & William R E Brotherhood
+
+    TYPE: Co-op for sale
+
+    PRICE: 199000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 138-69 Jewel Ave Unit A
+
+    STATE: Flushing, NY 11367
+
+    MAIN_ADDRESS: 138-69 Jewel Ave Unit AFlushing, NY 11367
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 13869
+
+    FORMATTED_ADDRESS: 13869 Jewel Ave # A, Flushing, NY 11367, USA
+
+    LATITUDE: 40.7288599
+
+    LONGITUDE: -73.82754

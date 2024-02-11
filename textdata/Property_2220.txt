@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Realty NYC Grp
+
+    TYPE: Co-op for sale
+
+    PRICE: 130000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 720.0
+
+    ADDRESS: 2081 Cruger Ave Apt 4C
+
+    STATE: Bronx, NY 10462
+
+    MAIN_ADDRESS: 2081 Cruger Ave Apt 4CBronx, NY 10462
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: East Bronx
+
+    LONG_NAME: 2081
+
+    FORMATTED_ADDRESS: 2081 Cruger Ave #4c, Bronx, NY 10462, USA
+
+    LATITUDE: 40.8527259
+
+    LONGITUDE: -73.8670374

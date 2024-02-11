@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Brooklyn Heights
+
+    TYPE: Pending
+
+    PRICE: 225000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 100 Remsen St Apt 1E
+
+    STATE: Brooklyn, NY 11201
+
+    MAIN_ADDRESS: 100 Remsen St Apt 1EBrooklyn, NY 11201
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Brooklyn Heights
+
+    LONG_NAME: 100
+
+    FORMATTED_ADDRESS: 100 Remsen St #1e, Brooklyn, NY 11201, USA
+
+    LATITUDE: 40.6939582
+
+    LONGITUDE: -73.9943695

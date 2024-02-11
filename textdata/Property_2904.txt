@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE/MAX City Square
+
+    TYPE: Co-op for sale
+
+    PRICE: 235000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 65-38 Booth St Unit 6H
+
+    STATE: Rego Park, NY 11374
+
+    MAIN_ADDRESS: 65-38 Booth St Unit 6HRego Park, NY 11374
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Rego Park
+
+    LONG_NAME: 65-38
+
+    FORMATTED_ADDRESS: 65-38 Booth St #6h, Rego Park, NY 11374, USA
+
+    LATITUDE: 40.7267837
+
+    LONGITUDE: -73.8587799

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by E Realty International Corp
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 2290000
+
+    BEDS: 4
+
+    BATH: 5.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 13-63 209th St
+
+    STATE: Bayside, NY 11360
+
+    MAIN_ADDRESS: 13-63 209th StBayside, NY 11360
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 209th Street
+
+    FORMATTED_ADDRESS: 13-63 209th St, Flushing, NY 11360, USA
+
+    LATITUDE: 40.7869532
+
+    LONGITUDE: -73.7833849

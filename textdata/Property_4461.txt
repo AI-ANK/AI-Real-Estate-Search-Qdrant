@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Pantiga Group Inc.
+
+    TYPE: Co-op for sale
+
+    PRICE: 159999
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 650.0
+
+    ADDRESS: 1372 Shakespeare Ave Apt 4C
+
+    STATE: Bronx, NY 10452
+
+    MAIN_ADDRESS: 1372 Shakespeare Ave Apt 4CBronx, NY 10452
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: Mount Eden
+
+    LONG_NAME: 1372
+
+    FORMATTED_ADDRESS: 1372 Shakespeare Ave #4c, Bronx, NY 10452, USA
+
+    LATITUDE: 40.8412247
+
+    LONGITUDE: -73.9216103

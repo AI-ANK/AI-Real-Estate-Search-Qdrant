@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE/MAX City Square
+
+    TYPE: Co-op for sale
+
+    PRICE: 319000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 67-41 Burns St Unit 414
+
+    STATE: Forest Hills, NY 11375
+
+    MAIN_ADDRESS: 67-41 Burns St Unit 414Forest Hills, NY 11375
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Forest Hills
+
+    LONG_NAME: 6741
+
+    FORMATTED_ADDRESS: 6741 Burns St Apt 414, Forest Hills, NY 11375, USA
+
+    LATITUDE: 40.7230399
+
+    LONGITUDE: -73.85628

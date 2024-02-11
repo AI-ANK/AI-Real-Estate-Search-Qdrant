@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran West Side
+
+    TYPE: Co-op for sale
+
+    PRICE: 475000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 615.0
+
+    ADDRESS: 520 E 90th St Apt 1L
+
+    STATE: New York, NY 10128
+
+    MAIN_ADDRESS: 520 E 90th St Apt 1LNew York, NY 10128
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 520
+
+    FORMATTED_ADDRESS: 520 E 90th St #1b, New York, NY 10128, USA
+
+    LATITUDE: 40.7779975
+
+    LONGITUDE: -73.9445342

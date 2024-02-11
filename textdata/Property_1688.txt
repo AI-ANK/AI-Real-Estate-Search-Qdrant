@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Chase Global Realty Corp
+
+    TYPE: Condo for sale
+
+    PRICE: 699000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 967.0
+
+    ADDRESS: 31-38 137 St Unit 8A
+
+    STATE: Flushing, NY 11354
+
+    MAIN_ADDRESS: 31-38 137 St Unit 8AFlushing, NY 11354
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 31-38
+
+    FORMATTED_ADDRESS: 31-38 137th St #8c, Flushing, NY 11354, USA
+
+    LATITUDE: 40.7684458
+
+    LONGITUDE: -73.8313888

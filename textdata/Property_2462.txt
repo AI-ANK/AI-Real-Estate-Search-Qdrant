@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Unlimited Homes Realty Inc
+
+    TYPE: House for sale
+
+    PRICE: 730000
+
+    BEDS: 4
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1648.0
+
+    ADDRESS: 191-20 113th Rd
+
+    STATE: Saint Albans, NY 11412
+
+    MAIN_ADDRESS: 191-20 113th RdSaint Albans, NY 11412
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 113th Road
+
+    FORMATTED_ADDRESS: 191-20 113th Rd, Jamaica, NY 11412, USA
+
+    LATITUDE: 40.6987
+
+    LONGITUDE: -73.761794

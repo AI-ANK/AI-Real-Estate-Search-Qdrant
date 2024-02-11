@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Homefinders of SI Inc.
+
+    TYPE: Condo for sale
+
+    PRICE: 615000
+
+    BEDS: 2
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 1568.0
+
+    ADDRESS: 253 Windham Loop
+
+    STATE: Staten Island, NY 10314
+
+    MAIN_ADDRESS: 253 Windham LoopStaten Island, NY 10314
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Windham Loop
+
+    FORMATTED_ADDRESS: 253 Windham Loop, Staten Island, NY 10314, USA
+
+    LATITUDE: 40.577069
+
+    LONGITUDE: -74.161888

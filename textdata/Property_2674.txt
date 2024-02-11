@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by EXIT REALTY ACHIEVE
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 974998
+
+    BEDS: 7
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 759 Glenmore Ave
+
+    STATE: Brooklyn, NY 11208
+
+    MAIN_ADDRESS: 759 Glenmore AveBrooklyn, NY 11208
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Glenmore Avenue
+
+    FORMATTED_ADDRESS: 759 Glenmore Ave, Brooklyn, NY 11208, USA
+
+    LATITUDE: 40.675444
+
+    LONGITUDE: -73.8823121

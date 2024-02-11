@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 140 Franklin
+
+    TYPE: Co-op for sale
+
+    PRICE: 435000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 269 W 72nd St Apt 12D
+
+    STATE: New York, NY 10023
+
+    MAIN_ADDRESS: 269 W 72nd St Apt 12DNew York, NY 10023
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 269
+
+    FORMATTED_ADDRESS: 269 W 72nd St #12d, New York, NY 10023, USA
+
+    LATITUDE: 40.7799639
+
+    LONGITUDE: -73.9841598

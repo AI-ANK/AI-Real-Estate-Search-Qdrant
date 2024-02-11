@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: House for sale
+
+    PRICE: 899000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 46-02 190th St
+
+    STATE: Flushing, NY 11358
+
+    MAIN_ADDRESS: 46-02 190th StFlushing, NY 11358
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 190th Street
+
+    FORMATTED_ADDRESS: 46-2 190th St, Flushing, NY 11358, USA
+
+    LATITUDE: 40.7523748
+
+    LONGITUDE: -73.7900912

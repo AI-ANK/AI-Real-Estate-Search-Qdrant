@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Liberty Chateau Realty Inc
+
+    TYPE: Townhouse for sale
+
+    PRICE: 559900
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 980.0
+
+    ADDRESS: 18 Navigator Ct
+
+    STATE: Staten Island, NY 10309
+
+    MAIN_ADDRESS: 18 Navigator CtStaten Island, NY 10309
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Navigator Court
+
+    FORMATTED_ADDRESS: 18 Navigator Ct, Staten Island, NY 10309, USA
+
+    LATITUDE: 40.5132339
+
+    LONGITUDE: -74.1959753

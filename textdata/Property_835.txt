@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Red Door Realty Group
+
+    TYPE: Contingent
+
+    PRICE: 249999
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 750.0
+
+    ADDRESS: 3747 Amboy Rd Apt 2A
+
+    STATE: Staten Island, NY 10308
+
+    MAIN_ADDRESS: 3747 Amboy Rd Apt 2AStaten Island, NY 10308
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Richmond County
+
+    SUBLOCALITY: Staten Island
+
+    STREET_NAME: Great Kills
+
+    LONG_NAME: 3747
+
+    FORMATTED_ADDRESS: 3747 Amboy Rd #2a, Staten Island, NY 10308, USA
+
+    LATITUDE: 40.5523555
+
+    LONGITUDE: -74.1450647

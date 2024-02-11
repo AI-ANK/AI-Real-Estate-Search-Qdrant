@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX City Square
+
+    TYPE: Co-op for sale
+
+    PRICE: 575000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1480.0
+
+    ADDRESS: 3903 Nostrand Ave Apt 5P
+
+    STATE: Brooklyn, NY 11235
+
+    MAIN_ADDRESS: 3903 Nostrand Ave Apt 5PBrooklyn, NY 11235
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Sheepshead Bay
+
+    LONG_NAME: 3903
+
+    FORMATTED_ADDRESS: 3903 Nostrand Ave. #5p, Brooklyn, NY 11235, USA
+
+    LATITUDE: 40.5886056
+
+    LONGITUDE: -73.9394034

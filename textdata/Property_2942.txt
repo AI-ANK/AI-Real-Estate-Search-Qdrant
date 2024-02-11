@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by East Coast REALTORS Inc
+
+    TYPE: Co-op for sale
+
+    PRICE: 449000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1200.0
+
+    ADDRESS: 23-45 Bell Blvd Unit 2B
+
+    STATE: Bayside, NY 11360
+
+    MAIN_ADDRESS: 23-45 Bell Blvd Unit 2BBayside, NY 11360
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Bayside
+
+    LONG_NAME: 23-45
+
+    FORMATTED_ADDRESS: 23-45 Bell Blvd #2b, Bayside, NY 11360, USA
+
+    LATITUDE: 40.7812626
+
+    LONGITUDE: -73.7745671

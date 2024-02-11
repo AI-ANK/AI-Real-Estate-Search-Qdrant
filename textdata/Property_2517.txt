@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Elegran Real Estate And Development
+
+    TYPE: Condo for sale
+
+    PRICE: 540000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 509.0
+
+    ADDRESS: 150 E 37th St Apt 4B
+
+    STATE: New York, NY 10016
+
+    MAIN_ADDRESS: 150 E 37th St Apt 4BNew York, NY 10016
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 150
+
+    FORMATTED_ADDRESS: 150 E 37th St #4b, New York, NY 10016, USA
+
+    LATITUDE: 40.7478487
+
+    LONGITUDE: -73.9775903

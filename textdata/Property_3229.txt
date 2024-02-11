@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 575 Madison Ave
+
+    TYPE: Co-op for sale
+
+    PRICE: 5400000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 3800.0
+
+    ADDRESS: 14 Wooster St Apt 4
+
+    STATE: New York, NY 10013
+
+    MAIN_ADDRESS: 14 Wooster St Apt 4New York, NY 10013
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 14
+
+    FORMATTED_ADDRESS: 14 Wooster St #4, New York, NY 10013, USA
+
+    LATITUDE: 40.7213533
+
+    LONGITUDE: -74.0032588

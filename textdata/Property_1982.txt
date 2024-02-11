@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Condo for sale
+
+    PRICE: 17500000
+
+    BEDS: 7
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 6300.0
+
+    ADDRESS: 140 Franklin St Apt 2B
+
+    STATE: Manhattan, NY 10013
+
+    MAIN_ADDRESS: 140 Franklin St Apt 2BManhattan, NY 10013
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 140
+
+    FORMATTED_ADDRESS: 140 Franklin St #2b, New York, NY 10013, USA
+
+    LATITUDE: 40.7193658
+
+    LONGITUDE: -74.0072206

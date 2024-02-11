@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by EXP Realty
+
+    TYPE: Pending
+
+    PRICE: 938000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1700.0
+
+    ADDRESS: 66-43 Alderton St
+
+    STATE: Rego Park, NY 11374
+
+    MAIN_ADDRESS: 66-43 Alderton StRego Park, NY 11374
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Alderton Street
+
+    FORMATTED_ADDRESS: 66-43 Alderton St, Flushing, NY 11374, USA
+
+    LATITUDE: 40.7183478
+
+    LONGITUDE: -73.858704

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Rlty Landmark
+
+    TYPE: House for sale
+
+    PRICE: 799888
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 62-24 65 St
+
+    STATE: Middle Village, NY 11379
+
+    MAIN_ADDRESS: 62-24 65 StMiddle Village, NY 11379
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 65th Street
+
+    FORMATTED_ADDRESS: 62-24 65th St, Flushing, NY 11379, USA
+
+    LATITUDE: 40.7138975
+
+    LONGITUDE: -73.8970229

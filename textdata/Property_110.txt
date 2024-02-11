@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: NoBroker
+
+    TYPE: Pending
+
+    PRICE: 4800000
+
+    BEDS: 6
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 3958.0
+
+    ADDRESS: 1151 83rd St
+
+    STATE: Brooklyn, NY 11228
+
+    MAIN_ADDRESS: 1151 83rd StBrooklyn, NY 11228
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: 83rd Street
+
+    FORMATTED_ADDRESS: 1151 83rd St, Brooklyn, NY 11228, USA
+
+    LATITUDE: 40.6178184
+
+    LONGITUDE: -74.0151165

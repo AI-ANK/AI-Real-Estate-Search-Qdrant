@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Century 21 Zaloom Realty
+
+    TYPE: Contingent
+
+    PRICE: 799900
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 1816.0
+
+    ADDRESS: 71 Dewey Ave
+
+    STATE: Staten Island, NY 10308
+
+    MAIN_ADDRESS: 71 Dewey AveStaten Island, NY 10308
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Dewey Avenue
+
+    FORMATTED_ADDRESS: 71 Dewey Ave, Staten Island, NY 10308, USA
+
+    LATITUDE: 40.5570416
+
+    LONGITUDE: -74.1462231

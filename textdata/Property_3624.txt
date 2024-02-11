@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by John Edwards Real Estate, Inc.
+
+    TYPE: Co-op for sale
+
+    PRICE: 315000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1000.0
+
+    ADDRESS: 3935 Blackstone Ave Apt 1A
+
+    STATE: Bronx, NY 10471
+
+    MAIN_ADDRESS: 3935 Blackstone Ave Apt 1ABronx, NY 10471
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: Riverdale
+
+    LONG_NAME: 3935
+
+    FORMATTED_ADDRESS: 3935 Blackstone Ave #1a, Bronx, NY 10471, USA
+
+    LATITUDE: 40.890384
+
+    LONGITUDE: -73.9117878

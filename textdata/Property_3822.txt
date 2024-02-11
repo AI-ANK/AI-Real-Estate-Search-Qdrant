@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens - 445 Park Avenue
+
+    TYPE: Co-op for sale
+
+    PRICE: 15000000
+
+    BEDS: 4
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 820 Fifth Ave Unit Maisonette
+
+    STATE: Manhattan, NY 10065
+
+    MAIN_ADDRESS: 820 Fifth Ave Unit MaisonetteManhattan, NY 10065
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: 5th Avenue
+
+    FORMATTED_ADDRESS: 820 5th Ave, New York, NY 10065, USA
+
+    LATITUDE: 40.7668419
+
+    LONGITUDE: -73.9707457

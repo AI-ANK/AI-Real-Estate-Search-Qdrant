@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Condo for sale
+
+    PRICE: 850000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1005.0
+
+    ADDRESS: 340 Cabrini Blvd Apt 501
+
+    STATE: Manhattan, NY 10040
+
+    MAIN_ADDRESS: 340 Cabrini Blvd Apt 501Manhattan, NY 10040
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 340
+
+    FORMATTED_ADDRESS: 340 Cabrini Blvd APT 501, New York, NY 10040, USA
+
+    LATITUDE: 40.856444
+
+    LONGITUDE: -73.9377616

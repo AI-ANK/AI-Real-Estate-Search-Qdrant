@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Jason Mitchell Real Estate New York
+
+    TYPE: Contingent
+
+    PRICE: 350000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1137.0
+
+    ADDRESS: 145 Lincoln Ave Apt 3J
+
+    STATE: Staten Island, NY 10306
+
+    MAIN_ADDRESS: 145 Lincoln Ave Apt 3JStaten Island, NY 10306
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Richmond County
+
+    SUBLOCALITY: Staten Island
+
+    STREET_NAME: Midland Beach
+
+    LONG_NAME: 145
+
+    FORMATTED_ADDRESS: 145 Lincoln Ave #3j, Staten Island, NY 10306, USA
+
+    LATITUDE: 40.579062
+
+    LONGITUDE: -74.1076165

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Daniel Gale Sotheby's International Realty
+
+    TYPE: Condo for sale
+
+    PRICE: 1355000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 316 22nd St Unit 1B
+
+    STATE: Brooklyn, NY 11215
+
+    MAIN_ADDRESS: 316 22nd St Unit 1BBrooklyn, NY 11215
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Sunset Park
+
+    LONG_NAME: 316
+
+    FORMATTED_ADDRESS: 316 22nd St #1b, Brooklyn, NY 11215, USA
+
+    LATITUDE: 40.6588717
+
+    LONGITUDE: -73.9912442

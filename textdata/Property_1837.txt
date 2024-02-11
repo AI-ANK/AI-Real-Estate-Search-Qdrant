@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Daniel Gale Sotheby's International Realty
+
+    TYPE: Co-op for sale
+
+    PRICE: 399000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1492.0
+
+    ADDRESS: 18-35 Corporal Kennedy St Unit 2K
+
+    STATE: Bayside, NY 11360
+
+    MAIN_ADDRESS: 18-35 Corporal Kennedy St Unit 2KBayside, NY 11360
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Bayside
+
+    LONG_NAME: 1835
+
+    FORMATTED_ADDRESS: 1835 Corporal Kennedy St Apt 2b, Bayside, NY 11360, USA
+
+    LATITUDE: 40.7812699
+
+    LONGITUDE: -73.78434

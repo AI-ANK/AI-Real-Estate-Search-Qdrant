@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Erealty Advisors, Inc
+
+    TYPE: Condo for sale
+
+    PRICE: 1439000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1625.0
+
+    ADDRESS: 800 Bedford Ave Unit 4
+
+    STATE: Brooklyn, NY 11205
+
+    MAIN_ADDRESS: 800 Bedford Ave Unit 4Brooklyn, NY 11205
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Bedford-Stuyvesant
+
+    LONG_NAME: 800
+
+    FORMATTED_ADDRESS: 800 Bedford Ave APT 4A, Brooklyn, NY 11205, USA
+
+    LATITUDE: 40.6972584
+
+    LONGITUDE: -73.9569997

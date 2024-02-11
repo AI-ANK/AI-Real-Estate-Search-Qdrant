@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Winzone Realty Inc
+
+    TYPE: Condo for sale
+
+    PRICE: 555000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 7613 Ditmars Blvd Unit A2
+
+    STATE: East Elmhurst, NY 11370
+
+    MAIN_ADDRESS: 7613 Ditmars Blvd Unit A2East Elmhurst, NY 11370
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Ditmars Boulevard
+
+    FORMATTED_ADDRESS: 76-13 Ditmars Blvd, East Elmhurst, NY 11370, USA
+
+    LATITUDE: 40.7689132
+
+    LONGITUDE: -73.8929233

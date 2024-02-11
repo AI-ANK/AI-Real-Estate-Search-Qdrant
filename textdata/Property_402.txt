@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by C&R Real Estate Group NY LLC
+
+    TYPE: Land for sale
+
+    PRICE: 790000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 1815 College Point Blvd
+
+    STATE: College Point, NY 11356
+
+    MAIN_ADDRESS: 1815 College Point BlvdCollege Point, NY 11356
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: College Point Boulevard
+
+    FORMATTED_ADDRESS: 1815 College Point Blvd, College Point, NY 11356, USA
+
+    LATITUDE: 40.7827104
+
+    LONGITUDE: -73.8457691

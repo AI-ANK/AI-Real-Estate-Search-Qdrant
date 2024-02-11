@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Brooklyn Heights
+
+    TYPE: Condo for sale
+
+    PRICE: 750000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 943.0
+
+    ADDRESS: 1 Tiffany Pl Apt 3N
+
+    STATE: Brooklyn, NY 11231
+
+    MAIN_ADDRESS: 1 Tiffany Pl Apt 3NBrooklyn, NY 11231
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Columbia Street Waterfront District
+
+    LONG_NAME: 1
+
+    FORMATTED_ADDRESS: 1 Tiffany Pl #3b, Brooklyn, NY 11231, USA
+
+    LATITUDE: 40.6870254
+
+    LONGITUDE: -74.0004951

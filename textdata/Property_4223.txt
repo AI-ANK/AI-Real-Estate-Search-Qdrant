@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Real Estate Professionals
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 2375000
+
+    BEDS: 9
+
+    BATH: 5.0
+
+    PROPERTYSQFT: 4164.0
+
+    ADDRESS: 312 83rd St
+
+    STATE: Brooklyn, NY 11209
+
+    MAIN_ADDRESS: 312 83rd StBrooklyn, NY 11209
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: 83rd Street
+
+    FORMATTED_ADDRESS: 312 83rd St, Brooklyn, NY 11209, USA
+
+    LATITUDE: 40.6253551
+
+    LONGITUDE: -74.0297531

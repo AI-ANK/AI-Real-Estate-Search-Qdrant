@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Condo for sale
+
+    PRICE: 1950000
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1300.0
+
+    ADDRESS: 300 E 85th St Unit 1103/1104
+
+    STATE: Manhattan, NY 10028
+
+    MAIN_ADDRESS: 300 E 85th St Unit 1103/1104Manhattan, NY 10028
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 300
+
+    FORMATTED_ADDRESS: 300 E 85th St Apt 1103, New York, NY 10028, USA
+
+    LATITUDE: 40.7770634
+
+    LONGITUDE: -73.9522998

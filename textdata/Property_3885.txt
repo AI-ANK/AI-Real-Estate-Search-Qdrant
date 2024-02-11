@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE/MAX Edge
+
+    TYPE: Condo for sale
+
+    PRICE: 399000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 577.0
+
+    ADDRESS: 231 68th St Apt 303
+
+    STATE: Brooklyn, NY 11220
+
+    MAIN_ADDRESS: 231 68th St Apt 303Brooklyn, NY 11220
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Bay Ridge
+
+    LONG_NAME: 231
+
+    FORMATTED_ADDRESS: 231 68th St APT 303, Brooklyn, NY 11220, USA
+
+    LATITUDE: 40.6373585
+
+    LONGITUDE: -74.0272224

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 2350000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 2 5th Ave Apt 4C
+
+    STATE: Manhattan, NY 10011
+
+    MAIN_ADDRESS: 2 5th Ave Apt 4CManhattan, NY 10011
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 2
+
+    FORMATTED_ADDRESS: 2 5th Ave #4c, New York, NY 10011, USA
+
+    LATITUDE: 40.7324629
+
+    LONGITUDE: -73.9972883

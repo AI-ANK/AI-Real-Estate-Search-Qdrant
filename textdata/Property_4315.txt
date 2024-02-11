@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Edge
+
+    TYPE: House for sale
+
+    PRICE: 949900
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1940.0
+
+    ADDRESS: 130 Avenue S
+
+    STATE: Brooklyn, NY 11223
+
+    MAIN_ADDRESS: 130 Avenue SBrooklyn, NY 11223
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Avenue S
+
+    FORMATTED_ADDRESS: 130 Ave. S, Brooklyn, NY 11223, USA
+
+    LATITUDE: 40.6006625
+
+    LONGITUDE: -73.9808106

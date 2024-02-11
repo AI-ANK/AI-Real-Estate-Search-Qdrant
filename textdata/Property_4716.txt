@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sotheby's International Realty - East Side Manhattan Brokerage
+
+    TYPE: Condo for sale
+
+    PRICE: 15000000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2625.0
+
+    ADDRESS: 432 Park Ave Apt 84A
+
+    STATE: New York, NY 10022
+
+    MAIN_ADDRESS: 432 Park Ave Apt 84ANew York, NY 10022
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 432
+
+    FORMATTED_ADDRESS: 432 Park Ave APT 84B, New York, NY 10022, USA
+
+    LATITUDE: 40.7615061
+
+    LONGITUDE: -73.9717996

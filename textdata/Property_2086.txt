@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Nest Seekers International, Westside
+
+    TYPE: Condo for sale
+
+    PRICE: 4100000
+
+    BEDS: 3
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2200.0
+
+    ADDRESS: 80 Riverside Blvd Apt 15L
+
+    STATE: New York, NY 10069
+
+    MAIN_ADDRESS: 80 Riverside Blvd Apt 15LNew York, NY 10069
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 80
+
+    FORMATTED_ADDRESS: 80 Riverside Blvd #15j, New York, NY 10069, USA
+
+    LATITUDE: 40.77508
+
+    LONGITUDE: -73.990303

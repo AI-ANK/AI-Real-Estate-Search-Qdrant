@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Long Island City
+
+    TYPE: Condo for sale
+
+    PRICE: 695000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 704.0
+
+    ADDRESS: 888 Fulton St Apt 3A
+
+    STATE: Brooklyn, NY 11238
+
+    MAIN_ADDRESS: 888 Fulton St Apt 3ABrooklyn, NY 11238
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Clinton Hill
+
+    LONG_NAME: 888
+
+    FORMATTED_ADDRESS: 888 Fulton St #3a, Brooklyn, NY 11238, USA
+
+    LATITUDE: 40.6829851
+
+    LONGITUDE: -73.9656007

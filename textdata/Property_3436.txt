@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by eXp Realty NYC
+
+    TYPE: Contingent
+
+    PRICE: 1150000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1100.0
+
+    ADDRESS: 2 Grace Ct Apt 3N
+
+    STATE: Brooklyn, NY 11201
+
+    MAIN_ADDRESS: 2 Grace Ct Apt 3NBrooklyn, NY 11201
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Brooklyn Heights
+
+    LONG_NAME: 2
+
+    FORMATTED_ADDRESS: 2 Grace Ct Apt 3e, Brooklyn, NY 11201, USA
+
+    LATITUDE: 40.6944364
+
+    LONGITUDE: -73.9986563

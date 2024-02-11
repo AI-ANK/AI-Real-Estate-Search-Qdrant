@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Momentum Real Estate Llc
+
+    TYPE: House for sale
+
+    PRICE: 599999
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1272.0
+
+    ADDRESS: 67 Reynolds St
+
+    STATE: Staten Island, NY 10305
+
+    MAIN_ADDRESS: 67 Reynolds StStaten Island, NY 10305
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Reynolds Street
+
+    FORMATTED_ADDRESS: 67 Reynolds St, Staten Island, NY 10305, USA
+
+    LATITUDE: 40.6111849
+
+    LONGITUDE: -74.0753235

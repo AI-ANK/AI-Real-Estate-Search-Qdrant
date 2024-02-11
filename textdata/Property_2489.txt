@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Daniel Gale Sotheby's International Realty
+
+    TYPE: Townhouse for sale
+
+    PRICE: 1238000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1500.0
+
+    ADDRESS: 110-39 62nd Dr
+
+    STATE: Forest Hills, NY 11375
+
+    MAIN_ADDRESS: 110-39 62nd DrForest Hills, NY 11375
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 62nd Drive
+
+    FORMATTED_ADDRESS: 110-39 62nd Dr, Forest Hills, NY 11375, USA
+
+    LATITUDE: 40.7367847
+
+    LONGITUDE: -73.8477757

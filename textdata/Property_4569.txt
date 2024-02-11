@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Edge
+
+    TYPE: House for sale
+
+    PRICE: 579999
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1152.0
+
+    ADDRESS: 18 Vanderbilt Ave
+
+    STATE: Staten Island, NY 10304
+
+    MAIN_ADDRESS: 18 Vanderbilt AveStaten Island, NY 10304
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Vanderbilt Avenue
+
+    FORMATTED_ADDRESS: 18 Vanderbilt Ave, Staten Island, NY 10304, USA
+
+    LATITUDE: 40.6219834
+
+    LONGITUDE: -74.073006

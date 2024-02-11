@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by E Realty International Corp
+
+    TYPE: Co-op for sale
+
+    PRICE: 275000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 44-55 Kissena Blvd Unit 5F
+
+    STATE: Flushing, NY 11355
+
+    MAIN_ADDRESS: 44-55 Kissena Blvd Unit 5FFlushing, NY 11355
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 44-55
+
+    FORMATTED_ADDRESS: 44-55 Kissena Blvd #5f, Flushing, NY 11355, USA
+
+    LATITUDE: 40.7528774
+
+    LONGITUDE: -73.8211834

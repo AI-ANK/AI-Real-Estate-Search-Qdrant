@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Perfect Properties Corp
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 599000
+
+    BEDS: 5
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 13-73 Beach Channel Dr
+
+    STATE: Far Rockaway, NY 11691
+
+    MAIN_ADDRESS: 13-73 Beach Channel DrFar Rockaway, NY 11691
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Beach Channel Drive
+
+    FORMATTED_ADDRESS: 13-73 Beach Channel Dr, Far Rockaway, NY 11691, USA
+
+    LATITUDE: 40.607379
+
+    LONGITUDE: -73.754678

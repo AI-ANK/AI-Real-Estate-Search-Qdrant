@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Condo for sale
+
+    PRICE: 200000
+
+    BEDS: 2
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1260.0
+
+    ADDRESS: 2 E 55th St Unit 1136W15
+
+    STATE: Manhattan, NY 10022
+
+    MAIN_ADDRESS: 2 E 55th St Unit 1136W15Manhattan, NY 10022
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: East 55th Street
+
+    FORMATTED_ADDRESS: 2 E 55th St, New York, NY 10022, USA
+
+    LATITUDE: 40.7613979
+
+    LONGITUDE: -73.9746128

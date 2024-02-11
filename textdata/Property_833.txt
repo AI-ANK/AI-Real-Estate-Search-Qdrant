@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by BERGEN BASIN REALTY
+
+    TYPE: House for sale
+
+    PRICE: 799000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2279.0
+
+    ADDRESS: 6911 Avenue Y
+
+    STATE: Brooklyn, NY 11234
+
+    MAIN_ADDRESS: 6911 Avenue YBrooklyn, NY 11234
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Avenue Y
+
+    FORMATTED_ADDRESS: 6911 Avenue Y, Brooklyn, NY 11234, USA
+
+    LATITUDE: 40.6131995
+
+    LONGITUDE: -73.9019711

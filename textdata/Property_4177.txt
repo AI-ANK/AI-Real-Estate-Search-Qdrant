@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by J. Sikar Realty
+
+    TYPE: Condo for sale
+
+    PRICE: 1899000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1757.0
+
+    ADDRESS: 65 Oceana Dr E Apt 8D
+
+    STATE: Brooklyn, NY 11235
+
+    MAIN_ADDRESS: 65 Oceana Dr E Apt 8DBrooklyn, NY 11235
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Brighton Beach
+
+    LONG_NAME: 65
+
+    FORMATTED_ADDRESS: 65 Oceana Dr E #8d, Brooklyn, NY 11235, USA
+
+    LATITUDE: 40.5769367
+
+    LONGITUDE: -73.9570143

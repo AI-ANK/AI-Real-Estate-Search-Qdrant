@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Redfin Real Estate
+
+    TYPE: Co-op for sale
+
+    PRICE: 650000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 332 W 101st St Apt 2R
+
+    STATE: New York, NY 10025
+
+    MAIN_ADDRESS: 332 W 101st St Apt 2RNew York, NY 10025
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 332
+
+    FORMATTED_ADDRESS: 332 W 101st St #2r, New York, NY 10025, USA
+
+    LATITUDE: 40.798761
+
+    LONGITUDE: -73.9721556

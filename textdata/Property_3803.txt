@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Engel & V�������
+
+    TYPE: Condo for sale
+
+    PRICE: 9975000
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2241.0
+
+    ADDRESS: 15 Central Park W Apt 16G
+
+    STATE: New York, NY 10023
+
+    MAIN_ADDRESS: 15 Central Park W Apt 16GNew York, NY 10023
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York County
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Manhattan
+
+    STREET_NAME: Central Park West
+
+    LONG_NAME: 15 Central Park West
+
+    FORMATTED_ADDRESS: 15 Central Park West, 15 Central Park W #16g, New York, NY 10023, USA
+
+    LATITUDE: 40.7697189
+
+    LONGITUDE: -73.9810746

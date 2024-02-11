@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by eXp Realty BKNY
+
+    TYPE: Condo for sale
+
+    PRICE: 1390000
+
+    BEDS: 4
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1950.0
+
+    ADDRESS: 1840 52nd St Apt 7
+
+    STATE: Brooklyn, NY 11204
+
+    MAIN_ADDRESS: 1840 52nd St Apt 7Brooklyn, NY 11204
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Mapleton
+
+    LONG_NAME: 1840
+
+    FORMATTED_ADDRESS: 1840 52nd St APT 7, Brooklyn, NY 11204, USA
+
+    LATITUDE: 40.6259793
+
+    LONGITUDE: -73.9821859

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Asimina Perikleous
+
+    TYPE: Condo for sale
+
+    PRICE: 705000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 66-41 69th St Unit 1E
+
+    STATE: Middle Village, NY 11379
+
+    MAIN_ADDRESS: 66-41 69th St Unit 1EMiddle Village, NY 11379
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 6641
+
+    FORMATTED_ADDRESS: 6641 69th St # P-1, Flushing, NY 11379, USA
+
+    LATITUDE: 40.7135957
+
+    LONGITUDE: -73.8863491

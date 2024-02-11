@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Bedford Stuyvesant
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1350000
+
+    BEDS: 6
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 1179 Lincoln Pl
+
+    STATE: Brooklyn, NY 11213
+
+    MAIN_ADDRESS: 1179 Lincoln PlBrooklyn, NY 11213
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Lincoln Place
+
+    FORMATTED_ADDRESS: 1179 Lincoln Pl, Brooklyn, NY 11213, USA
+
+    LATITUDE: 40.6702558
+
+    LONGITUDE: -73.9375206

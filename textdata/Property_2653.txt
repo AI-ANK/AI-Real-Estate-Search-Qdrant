@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by NEUHAUS REALTY INC.
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 10700000
+
+    BEDS: 42
+
+    BATH: 43.0
+
+    PROPERTYSQFT: 27152.0
+
+    ADDRESS: 646-662 Port Richmond Ave
+
+    STATE: Staten Island, NY 10302
+
+    MAIN_ADDRESS: 646-662 Port Richmond AveStaten Island, NY 10302
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Port Richmond Avenue
+
+    FORMATTED_ADDRESS: 646 Port Richmond Ave, Staten Island, NY 10302, USA
+
+    LATITUDE: 40.6276713
+
+    LONGITUDE: -74.1423518

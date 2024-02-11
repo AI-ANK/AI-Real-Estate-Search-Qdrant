@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sowae Corp
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 625000
+
+    BEDS: 5
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 371 Kosciuszko St
+
+    STATE: Brooklyn, NY 11221
+
+    MAIN_ADDRESS: 371 Kosciuszko StBrooklyn, NY 11221
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Kosciuszko Street
+
+    FORMATTED_ADDRESS: 371 Kosciuszko St, Brooklyn, NY 11221, USA
+
+    LATITUDE: 40.6921071
+
+    LONGITUDE: -73.9400823

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Century Homes Realty Group LLC
+
+    TYPE: Co-op for sale
+
+    PRICE: 180000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 500.0
+
+    ADDRESS: 90-11 35th Ave Unit 1L
+
+    STATE: Jackson Heights, NY 11372
+
+    MAIN_ADDRESS: 90-11 35th Ave Unit 1LJackson Heights, NY 11372
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Jackson Heights
+
+    LONG_NAME: 9011
+
+    FORMATTED_ADDRESS: 9011 35th Ave Apt 1f, Jackson Heights, NY 11372, USA
+
+    LATITUDE: 40.7525699
+
+    LONGITUDE: -73.87724

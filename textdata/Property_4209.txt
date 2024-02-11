@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Excellent Realty Llc
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1990000
+
+    BEDS: 6
+
+    BATH: 5.0
+
+    PROPERTYSQFT: 2100.0
+
+    ADDRESS: 204-16 46 Ave
+
+    STATE: Bayside, NY 11361
+
+    MAIN_ADDRESS: 204-16 46 AveBayside, NY 11361
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 46th Avenue
+
+    FORMATTED_ADDRESS: 204-16 46th Ave, Bayside, NY 11361, USA
+
+    LATITUDE: 40.7556078
+
+    LONGITUDE: -73.7775019

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE/MAX Team
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1595000
+
+    BEDS: 5
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 41-33 68 St
+
+    STATE: Woodside, NY 11377
+
+    MAIN_ADDRESS: 41-33 68 StWoodside, NY 11377
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 68th Street
+
+    FORMATTED_ADDRESS: 41-33 68th St, Flushing, NY 11377, USA
+
+    LATITUDE: 40.7435797
+
+    LONGITUDE: -73.8964717

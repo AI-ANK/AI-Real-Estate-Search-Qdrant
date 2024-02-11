@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by TOP NEST INC
+
+    TYPE: House for sale
+
+    PRICE: 1699900
+
+    BEDS: 7
+
+    BATH: 5.0
+
+    PROPERTYSQFT: 2418.0
+
+    ADDRESS: 186 Covert St
+
+    STATE: Brooklyn, NY 11207
+
+    MAIN_ADDRESS: 186 Covert StBrooklyn, NY 11207
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Covert Street
+
+    FORMATTED_ADDRESS: 186 Covert St., Brooklyn, NY 11207, USA
+
+    LATITUDE: 40.6898884
+
+    LONGITUDE: -73.9085265

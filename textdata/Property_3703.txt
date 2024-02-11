@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sysak Sells Llc
+
+    TYPE: House for sale
+
+    PRICE: 735000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2350.0
+
+    ADDRESS: 3271 Hatting Pl
+
+    STATE: Bronx, NY 10465
+
+    MAIN_ADDRESS: 3271 Hatting PlBronx, NY 10465
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Hatting Place
+
+    FORMATTED_ADDRESS: 3271 Hatting Pl, Bronx, NY 10465, USA
+
+    LATITUDE: 40.8170494
+
+    LONGITUDE: -73.802331

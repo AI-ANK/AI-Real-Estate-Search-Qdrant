@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by EXIT REALTY ONE
+
+    TYPE: House for sale
+
+    PRICE: 1149000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 102-04 63 Rd
+
+    STATE: Forest Hills, NY 11375
+
+    MAIN_ADDRESS: 102-04 63 RdForest Hills, NY 11375
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 63rd Road
+
+    FORMATTED_ADDRESS: 102-04 63rd Rd, Queens, NY 11375, USA
+
+    LATITUDE: 40.7328877
+
+    LONGITUDE: -73.853874

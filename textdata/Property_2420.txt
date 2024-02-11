@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 575 Madison Ave
+
+    TYPE: Co-op for sale
+
+    PRICE: 599000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 69-40 Yellowstone Blvd Unit 202
+
+    STATE: Queens, NY 11375
+
+    MAIN_ADDRESS: 69-40 Yellowstone Blvd Unit 202Queens, NY 11375
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Forest Hills
+
+    LONG_NAME: 6940
+
+    FORMATTED_ADDRESS: 6940 Yellowstone Blvd Apt 202, Forest Hills, NY 11375, USA
+
+    LATITUDE: 40.7230099
+
+    LONGITUDE: -73.84699

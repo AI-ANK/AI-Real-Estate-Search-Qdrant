@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Co-op for sale
+
+    PRICE: 1200000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1100.0
+
+    ADDRESS: 185 Prospect Park SW Apt 304
+
+    STATE: Brooklyn, NY 11218
+
+    MAIN_ADDRESS: 185 Prospect Park SW Apt 304Brooklyn, NY 11218
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Windsor Terrace
+
+    LONG_NAME: 185
+
+    FORMATTED_ADDRESS: 185 Prospect Park Southwest Apt 304, Brooklyn, NY 11218, USA
+
+    LATITUDE: 40.6533033
+
+    LONGITUDE: -73.9730719

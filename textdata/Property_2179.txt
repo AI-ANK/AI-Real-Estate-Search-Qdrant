@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Real Broker NY LLC
+
+    TYPE: House for sale
+
+    PRICE: 715000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 85-10 79th St
+
+    STATE: Woodhaven, NY 11421
+
+    MAIN_ADDRESS: 85-10 79th StWoodhaven, NY 11421
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 79th Street
+
+    FORMATTED_ADDRESS: 85-10 79th St, Jamaica, NY 11421, USA
+
+    LATITUDE: 40.6951138
+
+    LONGITUDE: -73.8648093

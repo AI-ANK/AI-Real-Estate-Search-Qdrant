@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by J Coco Realty Llc
+
+    TYPE: Co-op for sale
+
+    PRICE: 345000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 6610 Thornton Pl Apt 3B
+
+    STATE: Rego Park, NY 11374
+
+    MAIN_ADDRESS: 6610 Thornton Pl Apt 3BRego Park, NY 11374
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 6610
+
+    FORMATTED_ADDRESS: 6610 Thornton Pl #3c, Flushing, NY 11374, USA
+
+    LATITUDE: 40.7233159
+
+    LONGITUDE: -73.858254

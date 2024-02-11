@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Dawning Real Estate, Inc.
+
+    TYPE: House for sale
+
+    PRICE: 699000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1700.0
+
+    ADDRESS: 752 Correll Ave
+
+    STATE: Staten Island, NY 10309
+
+    MAIN_ADDRESS: 752 Correll AveStaten Island, NY 10309
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Correll Avenue
+
+    FORMATTED_ADDRESS: 752 Correll Ave, Staten Island, NY 10309, USA
+
+    LATITUDE: 40.545028
+
+    LONGITUDE: -74.218133

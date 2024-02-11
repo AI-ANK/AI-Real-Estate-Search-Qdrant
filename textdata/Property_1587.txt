@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by EXIT REALTY PRIME
+
+    TYPE: House for sale
+
+    PRICE: 875000
+
+    BEDS: 4
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2129.0
+
+    ADDRESS: 79-26 268th St
+
+    STATE: Glen Oaks, NY 11004
+
+    MAIN_ADDRESS: 79-26 268th StGlen Oaks, NY 11004
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 268th Street
+
+    FORMATTED_ADDRESS: 79-26 268th St, Queens, NY 11004, USA
+
+    LATITUDE: 40.7474641
+
+    LONGITUDE: -73.704456

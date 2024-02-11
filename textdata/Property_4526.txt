@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Engel & V�������
+
+    TYPE: Co-op for sale
+
+    PRICE: 489000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 9 E 96th St Unit 7C
+
+    STATE: New York, NY 10128
+
+    MAIN_ADDRESS: 9 E 96th St Unit 7CNew York, NY 10128
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 9
+
+    FORMATTED_ADDRESS: 9 E 96th St #7c, New York, NY 10128, USA
+
+    LATITUDE: 40.7877526
+
+    LONGITUDE: -73.9547413

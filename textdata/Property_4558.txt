@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 650000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 140 Cabrini Blvd Apt 82
+
+    STATE: Manhattan, NY 10033
+
+    MAIN_ADDRESS: 140 Cabrini Blvd Apt 82Manhattan, NY 10033
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 140
+
+    FORMATTED_ADDRESS: 140 Cabrini Blvd Apt 82, New York, NY 10033, USA
+
+    LATITUDE: 40.8532882
+
+    LONGITUDE: -73.939814

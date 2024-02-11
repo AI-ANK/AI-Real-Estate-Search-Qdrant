@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Claire Properties
+
+    TYPE: House for sale
+
+    PRICE: 774888
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 960.0
+
+    ADDRESS: 417 Genesee Ave
+
+    STATE: Staten Island, NY 10312
+
+    MAIN_ADDRESS: 417 Genesee AveStaten Island, NY 10312
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Genesee Avenue
+
+    FORMATTED_ADDRESS: 417 Genesee Ave, Staten Island, NY 10312, USA
+
+    LATITUDE: 40.5525576
+
+    LONGITUDE: -74.1709014

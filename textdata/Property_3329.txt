@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Legendary
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 3900000
+
+    BEDS: 5
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 183-05 145th Dr
+
+    STATE: Springfield Gardens, NY 11413
+
+    MAIN_ADDRESS: 183-05 145th DrSpringfield Gardens, NY 11413
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 145th Drive
+
+    FORMATTED_ADDRESS: 183-05 145th Dr, Jamaica, NY 11413, USA
+
+    LATITUDE: 40.6632544
+
+    LONGITUDE: -73.7626214

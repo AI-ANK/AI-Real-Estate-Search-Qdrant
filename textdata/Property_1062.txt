@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Wonica REALTORS & Appraisers
+
+    TYPE: Contingent
+
+    PRICE: 689900
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1486.0
+
+    ADDRESS: 72 Campus Rd
+
+    STATE: Staten Island, NY 10301
+
+    MAIN_ADDRESS: 72 Campus RdStaten Island, NY 10301
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Campus Road
+
+    FORMATTED_ADDRESS: 72 Campus Rd, Staten Island, NY 10301, USA
+
+    LATITUDE: 40.6126021
+
+    LONGITUDE: -74.0930021

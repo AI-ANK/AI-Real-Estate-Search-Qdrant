@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 1995 Broadway
+
+    TYPE: Co-op for sale
+
+    PRICE: 699000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 600.0
+
+    ADDRESS: 170 W 74th St Apt 607
+
+    STATE: New York, NY 10023
+
+    MAIN_ADDRESS: 170 W 74th St Apt 607New York, NY 10023
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 170
+
+    FORMATTED_ADDRESS: 170 W 74th St Apt 607, New York, NY 10023, USA
+
+    LATITUDE: 40.7794608
+
+    LONGITUDE: -73.979919

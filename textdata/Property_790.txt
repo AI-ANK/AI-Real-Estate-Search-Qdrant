@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Ilite Realty Inc
+
+    TYPE: Condo for sale
+
+    PRICE: 649000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1400.0
+
+    ADDRESS: 1220 Avenue Y Unit Oa
+
+    STATE: Brooklyn, NY 11235
+
+    MAIN_ADDRESS: 1220 Avenue Y Unit OaBrooklyn, NY 11235
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Avenue Y
+
+    FORMATTED_ADDRESS: 1220 Ave Y, Brooklyn, NY 11235, USA
+
+    LATITUDE: 40.5895025
+
+    LONGITUDE: -73.9579253

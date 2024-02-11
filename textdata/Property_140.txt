@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by HOT HOMES REALTY LLC.
+
+    TYPE: Pending
+
+    PRICE: 90000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 660.0
+
+    ADDRESS: 16 Mapleton Ave
+
+    STATE: Staten Island, NY 10306
+
+    MAIN_ADDRESS: 16 Mapleton AveStaten Island, NY 10306
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Mapleton Avenue
+
+    FORMATTED_ADDRESS: 16 Mapleton Ave, Staten Island, NY 10306, USA
+
+    LATITUDE: 40.574451
+
+    LONGITUDE: -74.0929448

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Edge
+
+    TYPE: Condo for sale
+
+    PRICE: 455000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 939.0
+
+    ADDRESS: 449 Medina St Apt 2C
+
+    STATE: Staten Island, NY 10306
+
+    MAIN_ADDRESS: 449 Medina St Apt 2CStaten Island, NY 10306
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Richmond County
+
+    SUBLOCALITY: Staten Island
+
+    STREET_NAME: Oakwood
+
+    LONG_NAME: 449
+
+    FORMATTED_ADDRESS: 449 Medina St #2c, Staten Island, NY 10306, USA
+
+    LATITUDE: 40.5599528
+
+    LONGITUDE: -74.1198255

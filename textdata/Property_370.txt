@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Apollo Point Realty LLC
+
+    TYPE: House for sale
+
+    PRICE: 600000
+
+    BEDS: 5
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 392 E 7th St
+
+    STATE: Kensington, NY 11218
+
+    MAIN_ADDRESS: 392 E 7th StKensington, NY 11218
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: East 7th Street
+
+    FORMATTED_ADDRESS: 392 E 7th St, Brooklyn, NY 11218, USA
+
+    LATITUDE: 40.6422956
+
+    LONGITUDE: -73.972787

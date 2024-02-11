@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Big Team Realty
+
+    TYPE: Co-op for sale
+
+    PRICE: 175000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 627.0
+
+    ADDRESS: 164-20 Highland Ave Unit 9D
+
+    STATE: Jamaica, NY 11432
+
+    MAIN_ADDRESS: 164-20 Highland Ave Unit 9DJamaica, NY 11432
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Jamaica
+
+    LONG_NAME: 164-20
+
+    FORMATTED_ADDRESS: 164-20 Highland Ave #9d, Jamaica, NY 11432, USA
+
+    LATITUDE: 40.7101573
+
+    LONGITUDE: -73.7988498

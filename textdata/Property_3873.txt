@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Real Estate Professionals
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1799000
+
+    BEDS: 11
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 5031.0
+
+    ADDRESS: 7619 21st Ave
+
+    STATE: Brooklyn, NY 11214
+
+    MAIN_ADDRESS: 7619 21st AveBrooklyn, NY 11214
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: 21st Avenue
+
+    FORMATTED_ADDRESS: 7619 21st Ave, Brooklyn, NY 11214, USA
+
+    LATITUDE: 40.608348
+
+    LONGITUDE: -73.9903259

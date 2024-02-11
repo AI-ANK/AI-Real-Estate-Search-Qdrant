@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Houlihan & O'malley R. E. Serv
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1599999
+
+    BEDS: 6
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 4073.0
+
+    ADDRESS: 3176 Tierney Pl
+
+    STATE: Bronx, NY 10465
+
+    MAIN_ADDRESS: 3176 Tierney PlBronx, NY 10465
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Tierney Place
+
+    FORMATTED_ADDRESS: 3176 Tierney Pl, Bronx, NY 10465, USA
+
+    LATITUDE: 40.813524
+
+    LONGITUDE: -73.802218

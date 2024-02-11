@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Weichert Properties
+
+    TYPE: Contingent
+
+    PRICE: 2400000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 3248.0
+
+    ADDRESS: 891 Montgomery St
+
+    STATE: Brooklyn, NY 11213
+
+    MAIN_ADDRESS: 891 Montgomery StBrooklyn, NY 11213
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Montgomery Street
+
+    FORMATTED_ADDRESS: 891 Montgomery St, Brooklyn, NY 11213, USA
+
+    LATITUDE: 40.6647715
+
+    LONGITUDE: -73.9353047

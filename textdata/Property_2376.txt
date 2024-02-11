@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Cross Island Realty One Inc
+
+    TYPE: House for sale
+
+    PRICE: 1399000
+
+    BEDS: 5
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 256-16 86th Ave
+
+    STATE: Floral Park, NY 11001
+
+    MAIN_ADDRESS: 256-16 86th AveFloral Park, NY 11001
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 86th Avenue
+
+    FORMATTED_ADDRESS: 256-16 86th Ave, Queens, NY 11001, USA
+
+    LATITUDE: 40.7326463
+
+    LONGITUDE: -73.7097434

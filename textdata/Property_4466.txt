@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran East Side
+
+    TYPE: Co-op for sale
+
+    PRICE: 32000000
+
+    BEDS: 4
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 944 Fifth Ave # 3FL
+
+    STATE: New York, NY 10021
+
+    MAIN_ADDRESS: 944 Fifth Ave # 3FLNew York, NY 10021
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: 5th Avenue
+
+    FORMATTED_ADDRESS: 944 5th Ave, New York, NY 10021, USA
+
+    LATITUDE: 40.7745478
+
+    LONGITUDE: -73.9651644

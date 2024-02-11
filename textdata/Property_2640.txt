@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Lombardo Homes & Estates
+
+    TYPE: Co-op for sale
+
+    PRICE: 318888
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 875.0
+
+    ADDRESS: 99-25 60th Ave Unit 6G
+
+    STATE: Corona, NY 11368
+
+    MAIN_ADDRESS: 99-25 60th Ave Unit 6GCorona, NY 11368
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Corona
+
+    LONG_NAME: 99-25
+
+    FORMATTED_ADDRESS: 99-25 60th Ave #6g, Corona, NY 11368, USA
+
+    LATITUDE: 40.736926
+
+    LONGITUDE: -73.8577614

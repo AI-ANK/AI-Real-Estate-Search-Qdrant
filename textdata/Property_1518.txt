@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Connie Profaci Realty
+
+    TYPE: House for sale
+
+    PRICE: 1193000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1518.0
+
+    ADDRESS: 1085 Todt Hill Rd
+
+    STATE: Staten Island, NY 10304
+
+    MAIN_ADDRESS: 1085 Todt Hill RdStaten Island, NY 10304
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Todt Hill Road
+
+    FORMATTED_ADDRESS: 1085 Todt Hill Rd, Staten Island, NY 10304, USA
+
+    LATITUDE: 40.5839283
+
+    LONGITUDE: -74.1113788

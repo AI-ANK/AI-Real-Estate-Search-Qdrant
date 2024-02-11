@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Fillmore Real Estate Fusion Team, INC.
+
+    TYPE: Co-op for sale
+
+    PRICE: 990000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 850.0
+
+    ADDRESS: 24 W 55th St Ph D
+
+    STATE: New York, NY 10019
+
+    MAIN_ADDRESS: 24 W 55th St Ph DNew York, NY 10019
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: West 55th Street
+
+    FORMATTED_ADDRESS: 24 W 55th St, New York, NY 10019, USA
+
+    LATITUDE: 40.7615992
+
+    LONGITUDE: -73.9757944

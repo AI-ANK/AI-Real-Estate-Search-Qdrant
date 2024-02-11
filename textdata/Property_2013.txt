@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Weichert Realtors The Franzese Group
+
+    TYPE: House for sale
+
+    PRICE: 929000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1309.0
+
+    ADDRESS: 1305 Elm Ave
+
+    STATE: Brooklyn, NY 11230
+
+    MAIN_ADDRESS: 1305 Elm AveBrooklyn, NY 11230
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Elm Avenue
+
+    FORMATTED_ADDRESS: 1305 Elm Ave, Brooklyn, NY 11230, USA
+
+    LATITUDE: 40.6174291
+
+    LONGITUDE: -73.9615134

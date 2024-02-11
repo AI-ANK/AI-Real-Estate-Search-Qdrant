@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Edge
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 980000
+
+    BEDS: 3
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2700.0
+
+    ADDRESS: 1 Opal Ct
+
+    STATE: Brooklyn, NY 11229
+
+    MAIN_ADDRESS: 1 Opal CtBrooklyn, NY 11229
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Opal Court
+
+    FORMATTED_ADDRESS: 1 Opal Ct, Brooklyn, NY 11229, USA
+
+    LATITUDE: 40.586018
+
+    LONGITUDE: -73.9252126

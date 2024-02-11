@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 460000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 151 W 106th St Apt 5B
+
+    STATE: Manhattan, NY 10025
+
+    MAIN_ADDRESS: 151 W 106th St Apt 5BManhattan, NY 10025
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 151
+
+    FORMATTED_ADDRESS: 151 W 106th St #5b, New York, NY 10025, USA
+
+    LATITUDE: 40.8002612
+
+    LONGITUDE: -73.9648347

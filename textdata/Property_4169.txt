@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Coldwell Banker Realty
+
+    TYPE: Co-op for sale
+
+    PRICE: 395000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 950.0
+
+    ADDRESS: 5900 Arlington Ave Apt 5H
+
+    STATE: Bronx, NY 10471
+
+    MAIN_ADDRESS: 5900 Arlington Ave Apt 5HBronx, NY 10471
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: North Riverdale
+
+    LONG_NAME: 5900
+
+    FORMATTED_ADDRESS: 5900 Arlington Ave #5h, Bronx, NY 10471, USA
+
+    LATITUDE: 40.909252
+
+    LONGITUDE: -73.905421

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Brooklyn Heights
+
+    TYPE: Townhouse for sale
+
+    PRICE: 4950000
+
+    BEDS: 4
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 3800.0
+
+    ADDRESS: 76 S 2nd St
+
+    STATE: Brooklyn, NY 11249
+
+    MAIN_ADDRESS: 76 S 2nd StBrooklyn, NY 11249
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: South 2nd Street
+
+    FORMATTED_ADDRESS: 76 S 2nd St, Brooklyn, NY 11249, USA
+
+    LATITUDE: 40.7140917
+
+    LONGITUDE: -73.9647828

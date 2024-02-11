@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 329000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 48-17 42nd St Unit 4B
+
+    STATE: Queens, NY 11104
+
+    MAIN_ADDRESS: 48-17 42nd St Unit 4BQueens, NY 11104
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Woodside
+
+    LONG_NAME: 48-17
+
+    FORMATTED_ADDRESS: 48-17 42nd St #4b, Woodside, NY 11377, USA
+
+    LATITUDE: 40.739059
+
+    LONGITUDE: -73.9229803

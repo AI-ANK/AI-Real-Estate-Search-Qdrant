@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Rlty Landmark
+
+    TYPE: Co-op for sale
+
+    PRICE: 309000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 67-50 Thornton Pl Unit 6B
+
+    STATE: Forest Hills, NY 11375
+
+    MAIN_ADDRESS: 67-50 Thornton Pl Unit 6BForest Hills, NY 11375
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Thornton Place
+
+    FORMATTED_ADDRESS: 67-50 Thornton Pl, Flushing, NY 11375, USA
+
+    LATITUDE: 40.7202709
+
+    LONGITUDE: -73.857096

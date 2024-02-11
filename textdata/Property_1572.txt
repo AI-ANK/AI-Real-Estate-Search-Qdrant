@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Legendary
+
+    TYPE: Pending
+
+    PRICE: 999888
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1900.0
+
+    ADDRESS: 29-31 159th St
+
+    STATE: Flushing, NY 11358
+
+    MAIN_ADDRESS: 29-31 159th StFlushing, NY 11358
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 159th Street
+
+    FORMATTED_ADDRESS: 29-31 159th St, Flushing, NY 11358, USA
+
+    LATITUDE: 40.7701584
+
+    LONGITUDE: -73.8052147

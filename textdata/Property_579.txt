@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sotheby's International Realty - Downtown Manhattan
+
+    TYPE: Co-op for sale
+
+    PRICE: 775000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 46 Commerce St # 5
+
+    STATE: New York, NY 10014
+
+    MAIN_ADDRESS: 46 Commerce St # 5New York, NY 10014
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 46
+
+    FORMATTED_ADDRESS: 46 Commerce St # 5, New York, NY 10014, USA
+
+    LATITUDE: 40.7313539
+
+    LONGITUDE: -74.0050572

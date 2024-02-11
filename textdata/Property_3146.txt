@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens - 1926 Broadway
+
+    TYPE: Co-op for sale
+
+    PRICE: 999000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 1010 Fifth Ave Unit 4BB
+
+    STATE: Manhattan, NY 10028
+
+    MAIN_ADDRESS: 1010 Fifth Ave Unit 4BBManhattan, NY 10028
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 1010
+
+    FORMATTED_ADDRESS: 1010 5th Ave #4b, New York, NY 10028, USA
+
+    LATITUDE: 40.7789146
+
+    LONGITUDE: -73.9619806

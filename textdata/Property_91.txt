@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sowae Corp
+
+    TYPE: House for sale
+
+    PRICE: 314000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1572.0
+
+    ADDRESS: 850 E 39th St
+
+    STATE: Brooklyn, NY 11210
+
+    MAIN_ADDRESS: 850 E 39th StBrooklyn, NY 11210
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: East 39th Street
+
+    FORMATTED_ADDRESS: 850 E 39th St, Brooklyn, NY 11210, USA
+
+    LATITUDE: 40.6362368
+
+    LONGITUDE: -73.939679

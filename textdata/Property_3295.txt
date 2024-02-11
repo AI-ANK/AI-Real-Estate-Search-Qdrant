@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Exp Realty
+
+    TYPE: Co-op for sale
+
+    PRICE: 224995
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 550.0
+
+    ADDRESS: 67-71 Yellowstone Blvd Unit 3P
+
+    STATE: Forest Hills, NY 11375
+
+    MAIN_ADDRESS: 67-71 Yellowstone Blvd Unit 3PForest Hills, NY 11375
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Forest Hills
+
+    LONG_NAME: 67-71
+
+    FORMATTED_ADDRESS: 67-71 Yellowstone Blvd #3a, Forest Hills, NY 11375, USA
+
+    LATITUDE: 40.7266666
+
+    LONGITUDE: -73.8482928

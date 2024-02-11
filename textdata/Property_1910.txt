@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Serhant
+
+    TYPE: Co-op for sale
+
+    PRICE: 399000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 530 E 84th St Apt 1M
+
+    STATE: New York, NY 10028
+
+    MAIN_ADDRESS: 530 E 84th St Apt 1MNew York, NY 10028
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 530
+
+    FORMATTED_ADDRESS: 530 E 84th St #1m, New York, NY 10028, USA
+
+    LATITUDE: 40.7738633
+
+    LONGITUDE: -73.9465735

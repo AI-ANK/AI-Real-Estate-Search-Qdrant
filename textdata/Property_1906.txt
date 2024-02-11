@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by All Star Real Estate
+
+    TYPE: Foreclosure
+
+    PRICE: 800000
+
+    BEDS: 5
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 1584.0
+
+    ADDRESS: 189 Corosn Ave
+
+    STATE: Staten Island, NY 10301
+
+    MAIN_ADDRESS: 189 Corosn AveStaten Island, NY 10301
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Corson Avenue
+
+    FORMATTED_ADDRESS: 189 Corson Ave, Staten Island, NY 10301, USA
+
+    LATITUDE: 40.6375111
+
+    LONGITUDE: -74.0852471

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Tom Crimmins Realty, Ltd.
+
+    TYPE: House for sale
+
+    PRICE: 748888
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1260.0
+
+    ADDRESS: 40 Lander Ave
+
+    STATE: Staten Island, NY 10314
+
+    MAIN_ADDRESS: 40 Lander AveStaten Island, NY 10314
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Lander Avenue
+
+    FORMATTED_ADDRESS: 40 Lander Ave, Staten Island, NY 10314, USA
+
+    LATITUDE: 40.6131085
+
+    LONGITUDE: -74.1603745

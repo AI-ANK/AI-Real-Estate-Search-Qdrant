@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 1059000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 334 W 87th St Apt 7B
+
+    STATE: Manhattan, NY 10024
+
+    MAIN_ADDRESS: 334 W 87th St Apt 7BManhattan, NY 10024
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 334
+
+    FORMATTED_ADDRESS: 334 W 87th St Apartment 7a, New York, NY 10024, USA
+
+    LATITUDE: 40.79001
+
+    LONGITUDE: -73.979014

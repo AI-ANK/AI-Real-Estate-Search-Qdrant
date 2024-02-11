@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by City Connections Realty
+
+    TYPE: Condop for sale
+
+    PRICE: 1080000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 310 E 46th St Apt 23U
+
+    STATE: New York, NY 10017
+
+    MAIN_ADDRESS: 310 E 46th St Apt 23UNew York, NY 10017
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 310
+
+    FORMATTED_ADDRESS: 310 E 46th St #23a, New York, NY 10017, USA
+
+    LATITUDE: 40.751918
+
+    LONGITUDE: -73.9698335

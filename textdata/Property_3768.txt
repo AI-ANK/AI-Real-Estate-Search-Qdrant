@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Awaye Realty
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 2100000
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2000.0
+
+    ADDRESS: 155 W 9th St
+
+    STATE: Brooklyn, NY 11231
+
+    MAIN_ADDRESS: 155 W 9th StBrooklyn, NY 11231
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: West 9th Street
+
+    FORMATTED_ADDRESS: 155 W 9th St, Brooklyn, NY 11231, USA
+
+    LATITUDE: 40.6756187
+
+    LONGITUDE: -74.0002793

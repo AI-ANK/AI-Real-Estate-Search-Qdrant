@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Lopez Realty Team Inc
+
+    TYPE: Co-op for sale
+
+    PRICE: 119000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 650.0
+
+    ADDRESS: 754 Brady Ave Apt 205
+
+    STATE: Bronx, NY 10462
+
+    MAIN_ADDRESS: 754 Brady Ave Apt 205Bronx, NY 10462
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: East Bronx
+
+    LONG_NAME: 754
+
+    FORMATTED_ADDRESS: 754 Brady Ave Apt 205, Bronx, NY 10462, USA
+
+    LATITUDE: 40.8522378
+
+    LONGITUDE: -73.8655788

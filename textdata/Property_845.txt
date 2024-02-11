@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - Garden City
+
+    TYPE: Pending
+
+    PRICE: 1149000
+
+    BEDS: 5
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2169.0
+
+    ADDRESS: 48 Highland Pl
+
+    STATE: Brooklyn, NY 11208
+
+    MAIN_ADDRESS: 48 Highland PlBrooklyn, NY 11208
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Highland Place
+
+    FORMATTED_ADDRESS: 48 Highland Pl, Brooklyn, NY 11208, USA
+
+    LATITUDE: 40.6841571
+
+    LONGITUDE: -73.8820567

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Wonica REALTORS & Appraisers
+
+    TYPE: Foreclosure
+
+    PRICE: 899900
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2550.0
+
+    ADDRESS: 712 Katan Ave
+
+    STATE: Staten Island, NY 10312
+
+    MAIN_ADDRESS: 712 Katan AveStaten Island, NY 10312
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Katan Avenue
+
+    FORMATTED_ADDRESS: 712 Katan Ave, Staten Island, NY 10312, USA
+
+    LATITUDE: 40.5499354
+
+    LONGITUDE: -74.1709931

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Edge
+
+    TYPE: House for sale
+
+    PRICE: 850000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2160.0
+
+    ADDRESS: 167 Mills Ave
+
+    STATE: Staten Island, NY 10305
+
+    MAIN_ADDRESS: 167 Mills AveStaten Island, NY 10305
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Mills Avenue
+
+    FORMATTED_ADDRESS: 167 Mills Ave, Staten Island, NY 10305, USA
+
+    LATITUDE: 40.5931048
+
+    LONGITUDE: -74.0663488

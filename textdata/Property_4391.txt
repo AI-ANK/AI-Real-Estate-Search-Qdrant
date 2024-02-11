@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman  -111 Fifth Ave
+
+    TYPE: House for sale
+
+    PRICE: 485000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 525.0
+
+    ADDRESS: 242 E 25th St Apt 3D
+
+    STATE: New York, NY 10010
+
+    MAIN_ADDRESS: 242 E 25th St Apt 3DNew York, NY 10010
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 242
+
+    FORMATTED_ADDRESS: 242 E 25th St #3d, New York, NY 10010, USA
+
+    LATITUDE: 40.7392184
+
+    LONGITUDE: -73.9805521

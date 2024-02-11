@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sowae Corp
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 250000
+
+    BEDS: 5
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 130-24 150th St
+
+    STATE: Jamaica, NY 11436
+
+    MAIN_ADDRESS: 130-24 150th StJamaica, NY 11436
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 150th Street
+
+    FORMATTED_ADDRESS: 130-24 150th St, Jamaica, NY 11436, USA
+
+    LATITUDE: 40.66911
+
+    LONGITUDE: -73.789339

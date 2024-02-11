@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Re/Max In The City
+
+    TYPE: Condo for sale
+
+    PRICE: 290900
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 850.0
+
+    ADDRESS: 5775 Mosholu Ave Apt 7F
+
+    STATE: Bronx, NY 10471
+
+    MAIN_ADDRESS: 5775 Mosholu Ave Apt 7FBronx, NY 10471
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: North Riverdale
+
+    LONG_NAME: 5775
+
+    FORMATTED_ADDRESS: 5775 Mosholu Ave #7f, Bronx, NY 10471, USA
+
+    LATITUDE: 40.9058413
+
+    LONGITUDE: -73.8981827

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Real Estate Professionals
+
+    TYPE: House for sale
+
+    PRICE: 1299000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1700.0
+
+    ADDRESS: 74 89th St
+
+    STATE: Brooklyn, NY 11209
+
+    MAIN_ADDRESS: 74 89th StBrooklyn, NY 11209
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: 89th Street
+
+    FORMATTED_ADDRESS: 74 89th St, Brooklyn, NY 11209, USA
+
+    LATITUDE: 40.622512
+
+    LONGITUDE: -74.038316

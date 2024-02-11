@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Weichert, Realtors - Larchmont
+
+    TYPE: Co-op for sale
+
+    PRICE: 124900
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 676.0
+
+    ADDRESS: 3535 Kings College Pl Apt 3E
+
+    STATE: Bronx, NY 10467
+
+    MAIN_ADDRESS: 3535 Kings College Pl Apt 3EBronx, NY 10467
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: Norwood
+
+    LONG_NAME: 3535
+
+    FORMATTED_ADDRESS: 3535 Kings College Pl #3e, Bronx, NY 10467, USA
+
+    LATITUDE: 40.880833
+
+    LONGITUDE: -73.8758596

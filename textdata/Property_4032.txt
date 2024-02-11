@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 4950000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 1 W 67th St Unit 616
+
+    STATE: Manhattan, NY 10023
+
+    MAIN_ADDRESS: 1 W 67th St Unit 616Manhattan, NY 10023
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 1
+
+    FORMATTED_ADDRESS: 1 W 67th St # 616, New York, NY 10023, USA
+
+    LATITUDE: 40.7731562
+
+    LONGITUDE: -73.9781993

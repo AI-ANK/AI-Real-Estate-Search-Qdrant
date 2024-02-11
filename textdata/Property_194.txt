@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 1895000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 905 Union St Apt 1
+
+    STATE: Brooklyn, NY 11215
+
+    MAIN_ADDRESS: 905 Union St Apt 1Brooklyn, NY 11215
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Park Slope
+
+    LONG_NAME: 905
+
+    FORMATTED_ADDRESS: 905 Union St Apartment 1, Brooklyn, NY 11215, USA
+
+    LATITUDE: 40.673976
+
+    LONGITUDE: -73.973535

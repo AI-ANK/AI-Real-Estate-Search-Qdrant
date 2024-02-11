@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Brooklyn Heights
+
+    TYPE: Co-op for sale
+
+    PRICE: 699000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 114 Remsen St Apt A
+
+    STATE: Brooklyn, NY 11201
+
+    MAIN_ADDRESS: 114 Remsen St Apt ABrooklyn, NY 11201
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Remsen Street
+
+    FORMATTED_ADDRESS: 114 Remsen St, Brooklyn, NY 11201, USA
+
+    LATITUDE: 40.6938368
+
+    LONGITUDE: -73.9941354

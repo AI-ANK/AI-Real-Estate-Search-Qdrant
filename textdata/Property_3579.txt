@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Tscherne Realty Inc
+
+    TYPE: House for sale
+
+    PRICE: 868000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1690.0
+
+    ADDRESS: 64-13 79th St
+
+    STATE: Middle Village, NY 11379
+
+    MAIN_ADDRESS: 64-13 79th StMiddle Village, NY 11379
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 79th Street
+
+    FORMATTED_ADDRESS: 64-13 79th St, Middle Village, NY 11379, USA
+
+    LATITUDE: 40.7187347
+
+    LONGITUDE: -73.875063

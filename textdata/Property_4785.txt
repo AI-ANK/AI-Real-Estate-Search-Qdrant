@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Elite
+
+    TYPE: Pending
+
+    PRICE: 1299999
+
+    BEDS: 6
+
+    BATH: 5.0
+
+    PROPERTYSQFT: 3608.0
+
+    ADDRESS: 557 Beach 129th St
+
+    STATE: Queens, NY 11694
+
+    MAIN_ADDRESS: 557 Beach 129th StQueens, NY 11694
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Beach 129th Street
+
+    FORMATTED_ADDRESS: 557 Beach 129th St, Rockaway Park, NY 11694, USA
+
+    LATITUDE: 40.5812073
+
+    LONGITUDE: -73.8512446

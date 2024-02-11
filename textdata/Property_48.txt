@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by American Homes Group
+
+    TYPE: Condo for sale
+
+    PRICE: 329000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 837.0
+
+    ADDRESS: 55 Austin Pl Apt 4L
+
+    STATE: Staten Island, NY 10304
+
+    MAIN_ADDRESS: 55 Austin Pl Apt 4LStaten Island, NY 10304
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Richmond County
+
+    SUBLOCALITY: Staten Island
+
+    STREET_NAME: Mid Island
+
+    LONG_NAME: 55
+
+    FORMATTED_ADDRESS: 55 Austin Pl APT 4L, Staten Island, NY 10304, USA
+
+    LATITUDE: 40.6315346
+
+    LONGITUDE: -74.0856344

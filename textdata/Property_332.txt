@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Steven Corcoran Real Estate LLC - Steven Corcoran Real Estate TudorCity.com
+
+    TYPE: Co-op for sale
+
+    PRICE: 339000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 250.0
+
+    ADDRESS: 314 E 41st St Apt 303B
+
+    STATE: New York, NY 10017
+
+    MAIN_ADDRESS: 314 E 41st St Apt 303BNew York, NY 10017
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 314
+
+    FORMATTED_ADDRESS: 314 E 41st St Apt 303b, New York, NY 10017, USA
+
+    LATITUDE: 40.7488879
+
+    LONGITUDE: -73.9723947

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Legendary
+
+    TYPE: Condo for sale
+
+    PRICE: 6500000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1639.0
+
+    ADDRESS: 1600 Broadway Ph 4C
+
+    STATE: New York, NY 10019
+
+    MAIN_ADDRESS: 1600 Broadway Ph 4CNew York, NY 10019
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 1600
+
+    FORMATTED_ADDRESS: 1600 Broadway Ph 4b, New York, NY 10019, USA
+
+    LATITUDE: 40.7601885
+
+    LONGITUDE: -73.9843625

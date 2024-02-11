@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Morris Park Realty Group
+
+    TYPE: Co-op for sale
+
+    PRICE: 339000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 822.0
+
+    ADDRESS: 59A Edgewater Park Unit A
+
+    STATE: Bronx, NY 10465
+
+    MAIN_ADDRESS: 59A Edgewater Park Unit ABronx, NY 10465
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Edgewater Park
+
+    FORMATTED_ADDRESS: 59 Edgewater Park, Bronx, NY 10465, USA
+
+    LATITUDE: 40.8224967
+
+    LONGITUDE: -73.8110903

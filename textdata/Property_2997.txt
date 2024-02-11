@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Realty Connect Usa L I Inc
+
+    TYPE: Co-op for sale
+
+    PRICE: 519000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1079.0
+
+    ADDRESS: 110-35 72 Rd Unit 108
+
+    STATE: Forest Hills, NY 11375
+
+    MAIN_ADDRESS: 110-35 72 Rd Unit 108Forest Hills, NY 11375
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Forest Hills
+
+    LONG_NAME: 11035
+
+    FORMATTED_ADDRESS: 11035 72nd Rd Apt 108, Forest Hills, NY 11375, USA
+
+    LATITUDE: 40.7203199
+
+    LONGITUDE: -73.84052

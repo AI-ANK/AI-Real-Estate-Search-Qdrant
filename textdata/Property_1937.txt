@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Condo for sale
+
+    PRICE: 749000
+
+    BEDS: 1
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 908.0
+
+    ADDRESS: 112-01 Queens Blvd Unit 8A
+
+    STATE: Queens, NY 11375
+
+    MAIN_ADDRESS: 112-01 Queens Blvd Unit 8AQueens, NY 11375
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Forest Hills
+
+    LONG_NAME: 112-01
+
+    FORMATTED_ADDRESS: 112-01 Queens Blvd #8a, Forest Hills, NY 11375, USA
+
+    LATITUDE: 40.7190009
+
+    LONGITUDE: -73.8365029

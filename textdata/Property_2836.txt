@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Howard Hanna Coach Realtors - Williston Park
+
+    TYPE: Pending
+
+    PRICE: 775000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1230.0
+
+    ADDRESS: 92-19 241st St
+
+    STATE: Bellerose, NY 11426
+
+    MAIN_ADDRESS: 92-19 241st StBellerose, NY 11426
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 241st Street
+
+    FORMATTED_ADDRESS: 92-19 241st St, Jamaica, NY 11426, USA
+
+    LATITUDE: 40.7258337
+
+    LONGITUDE: -73.7268795

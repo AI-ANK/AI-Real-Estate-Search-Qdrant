@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Voro Llc
+
+    TYPE: House for sale
+
+    PRICE: 686000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 116-34 146th St
+
+    STATE: Jamaica, NY 11436
+
+    MAIN_ADDRESS: 116-34 146th StJamaica, NY 11436
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 146th Street
+
+    FORMATTED_ADDRESS: 116-34 146th St, Jamaica, NY 11436, USA
+
+    LATITUDE: 40.6808451
+
+    LONGITUDE: -73.7952952

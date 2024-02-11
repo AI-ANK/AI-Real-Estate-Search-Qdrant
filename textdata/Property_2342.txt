@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by BEN BAY REALTY CO OF BAY RIDGE, LLC
+
+    TYPE: House for sale
+
+    PRICE: 1288000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1188.0
+
+    ADDRESS: 340 86th St
+
+    STATE: Brooklyn, NY 11209
+
+    MAIN_ADDRESS: 340 86th StBrooklyn, NY 11209
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: 86th Street
+
+    FORMATTED_ADDRESS: 340 86th St, Brooklyn, NY 11209, USA
+
+    LATITUDE: 40.6229377
+
+    LONGITUDE: -74.0298947

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Calabrese Real Estate
+
+    TYPE: Pending
+
+    PRICE: 565000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1238.0
+
+    ADDRESS: 537 Annadale Rd
+
+    STATE: Staten Island, NY 10312
+
+    MAIN_ADDRESS: 537 Annadale RdStaten Island, NY 10312
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Annadale Road
+
+    FORMATTED_ADDRESS: 537 Annadale Rd, Staten Island, NY 10312, USA
+
+    LATITUDE: 40.5493207
+
+    LONGITUDE: -74.1744217

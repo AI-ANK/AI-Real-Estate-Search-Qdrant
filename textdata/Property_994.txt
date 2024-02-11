@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sold By Bart R E Partners Inc
+
+    TYPE: Co-op for sale
+
+    PRICE: 279000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 84-70 129th St Unit 1V
+
+    STATE: Kew Gardens, NY 11415
+
+    MAIN_ADDRESS: 84-70 129th St Unit 1VKew Gardens, NY 11415
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Kew Gardens
+
+    LONG_NAME: 8470
+
+    FORMATTED_ADDRESS: 8470 129th St Apt 1h, Kew Gardens, NY 11415, USA
+
+    LATITUDE: 40.7069299
+
+    LONGITUDE: -73.82404

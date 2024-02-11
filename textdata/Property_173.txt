@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sowae Corp
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 425000
+
+    BEDS: 5
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 755 Coster St
+
+    STATE: Bronx, NY 10474
+
+    MAIN_ADDRESS: 755 Coster StBronx, NY 10474
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Coster Street
+
+    FORMATTED_ADDRESS: 755 Coster St, Bronx, NY 10474, USA
+
+    LATITUDE: 40.8159966
+
+    LONGITUDE: -73.8881001

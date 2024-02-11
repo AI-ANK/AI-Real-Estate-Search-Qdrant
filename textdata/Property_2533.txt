@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Townhouse for sale
+
+    PRICE: 1979000
+
+    BEDS: 5
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 3150.0
+
+    ADDRESS: 185 Weirfield St
+
+    STATE: Brooklyn, NY 11221
+
+    MAIN_ADDRESS: 185 Weirfield StBrooklyn, NY 11221
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Weirfield Street
+
+    FORMATTED_ADDRESS: 185 Weirfield St, Brooklyn, NY 11221, USA
+
+    LATITUDE: 40.6908422
+
+    LONGITUDE: -73.9117096

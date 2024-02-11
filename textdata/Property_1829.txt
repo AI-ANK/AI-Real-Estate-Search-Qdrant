@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Winzone Realty Inc
+
+    TYPE: Condo for sale
+
+    PRICE: 798000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1190.0
+
+    ADDRESS: 206-17 Emily Rd Unit 1002
+
+    STATE: Bayside, NY 11360
+
+    MAIN_ADDRESS: 206-17 Emily Rd Unit 1002Bayside, NY 11360
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Bayside
+
+    LONG_NAME: 206-17
+
+    FORMATTED_ADDRESS: 206-17 Emily Rd #1002, Bayside, NY 11360, USA
+
+    LATITUDE: 40.7885879
+
+    LONGITUDE: -73.7872455

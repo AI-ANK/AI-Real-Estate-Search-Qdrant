@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Co-op for sale
+
+    PRICE: 4250000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2400.0
+
+    ADDRESS: 123 Prince St Unit 1
+
+    STATE: Manhattan, NY 10012
+
+    MAIN_ADDRESS: 123 Prince St Unit 1Manhattan, NY 10012
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 123
+
+    FORMATTED_ADDRESS: 123 Prince St Apt 1f, New York, NY 10012, USA
+
+    LATITUDE: 40.725464
+
+    LONGITUDE: -73.9999212

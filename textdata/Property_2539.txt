@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran East Side
+
+    TYPE: Co-op for sale
+
+    PRICE: 1195000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 24 W 83rd St Apt 5R
+
+    STATE: New York, NY 10024
+
+    MAIN_ADDRESS: 24 W 83rd St Apt 5RNew York, NY 10024
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 24
+
+    FORMATTED_ADDRESS: 24 W 83rd St #5r, New York, NY 10024, USA
+
+    LATITUDE: 40.783637
+
+    LONGITUDE: -73.9719146

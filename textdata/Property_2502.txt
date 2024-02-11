@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Homes R Us Realty of NY, Inc.
+
+    TYPE: Condo for sale
+
+    PRICE: 340000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 850.0
+
+    ADDRESS: 2925 W 5th St Apt 12H
+
+    STATE: Brooklyn, NY 11224
+
+    MAIN_ADDRESS: 2925 W 5th St Apt 12HBrooklyn, NY 11224
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Coney Island
+
+    LONG_NAME: 2925
+
+    FORMATTED_ADDRESS: 2925 W 5th St #12h, Brooklyn, NY 11224, USA
+
+    LATITUDE: 40.5777691
+
+    LONGITUDE: -73.9719866

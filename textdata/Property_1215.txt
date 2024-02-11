@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 575 Madison Ave
+
+    TYPE: Townhouse for sale
+
+    PRICE: 22500000
+
+    BEDS: 5
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 8725.0
+
+    ADDRESS: 10 E 64th St
+
+    STATE: New York, NY 10065
+
+    MAIN_ADDRESS: 10 E 64th StNew York, NY 10065
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: East 64th Street
+
+    FORMATTED_ADDRESS: 10 E 64th St, New York, NY 10065, USA
+
+    LATITUDE: 40.7669348
+
+    LONGITUDE: -73.9701575

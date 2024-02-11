@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Master Associates Inc.
+
+    TYPE: House for sale
+
+    PRICE: 1299800
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2600.0
+
+    ADDRESS: 41 Milburn St
+
+    STATE: Staten Island, NY 10306
+
+    MAIN_ADDRESS: 41 Milburn StStaten Island, NY 10306
+
+    ADMINISTRATIVE_AREA_LEVEL_2: 10306
+
+    LOCALITY: United States
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Richmond County
+
+    LONG_NAME: Milburn Street
+
+    FORMATTED_ADDRESS: 41 Milburn St, Staten Island, NY 10306, USA
+
+    LATITUDE: 40.5774818
+
+    LONGITUDE: -74.1262228

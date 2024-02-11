@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Gillani Homes Inc.
+
+    TYPE: Contingent
+
+    PRICE: 550000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1424.0
+
+    ADDRESS: 572 Davis Ave
+
+    STATE: Staten Island, NY 10310
+
+    MAIN_ADDRESS: 572 Davis AveStaten Island, NY 10310
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Davis Avenue
+
+    FORMATTED_ADDRESS: 572 Davis Ave, Staten Island, NY 10310, USA
+
+    LATITUDE: 40.6292321
+
+    LONGITUDE: -74.1082798

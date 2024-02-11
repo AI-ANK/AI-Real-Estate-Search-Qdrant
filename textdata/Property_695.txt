@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Behfar Team Llc
+
+    TYPE: House for sale
+
+    PRICE: 799000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 1462 E 23rd St
+
+    STATE: Brooklyn, NY 11210
+
+    MAIN_ADDRESS: 1462 E 23rd StBrooklyn, NY 11210
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: East 23rd Street
+
+    FORMATTED_ADDRESS: 1462 E 23rd St, Brooklyn, NY 11210, USA
+
+    LATITUDE: 40.6146692
+
+    LONGITUDE: -73.9515915

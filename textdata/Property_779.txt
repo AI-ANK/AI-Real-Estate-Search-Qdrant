@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by TREBACH REALTY INC
+
+    TYPE: House for sale
+
+    PRICE: 889000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 6012 Delafield Ave
+
+    STATE: Bronx, NY 10471
+
+    MAIN_ADDRESS: 6012 Delafield AveBronx, NY 10471
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Delafield Avenue
+
+    FORMATTED_ADDRESS: 6012 Delafield Ave, Bronx, NY 10471, USA
+
+    LATITUDE: 40.9086225
+
+    LONGITUDE: -73.9024315

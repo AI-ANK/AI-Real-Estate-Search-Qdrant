@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Williamsburg Bedford
+
+    TYPE: House for sale
+
+    PRICE: 5900000
+
+    BEDS: 7
+
+    BATH: 8.0
+
+    PROPERTYSQFT: 10100.0
+
+    ADDRESS: 5020 Grosvenor Ave
+
+    STATE: Bronx, NY 10471
+
+    MAIN_ADDRESS: 5020 Grosvenor AveBronx, NY 10471
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Grosvenor Avenue
+
+    FORMATTED_ADDRESS: 5020 Grosvenor Ave, Bronx, NY 10471, USA
+
+    LATITUDE: 40.897896
+
+    LONGITUDE: -73.903306

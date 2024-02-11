@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Island Advantage Realty LLC
+
+    TYPE: Foreclosure
+
+    PRICE: 605000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1344.0
+
+    ADDRESS: 253 Father Capodanno Blvd
+
+    STATE: Staten Island, NY 10305
+
+    MAIN_ADDRESS: 253 Father Capodanno BlvdStaten Island, NY 10305
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Father Capodanno Boulevard
+
+    FORMATTED_ADDRESS: 253 Father Capodanno Blvd, Staten Island, NY 10305, USA
+
+    LATITUDE: 40.5909939
+
+    LONGITUDE: -74.0662942

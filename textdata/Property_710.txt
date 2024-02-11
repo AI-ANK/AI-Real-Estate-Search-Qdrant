@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - Syosset
+
+    TYPE: House for sale
+
+    PRICE: 899000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 163-43 90th St
+
+    STATE: Howard Beach, NY 11414
+
+    MAIN_ADDRESS: 163-43 90th StHoward Beach, NY 11414
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 90th Street
+
+    FORMATTED_ADDRESS: 163-43 90th St, Jamaica, NY 11414, USA
+
+    LATITUDE: 40.6511946
+
+    LONGITUDE: -73.8405509

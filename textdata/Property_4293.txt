@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by CITIZENS INTERNATIONAL REALTY
+
+    TYPE: House for sale
+
+    PRICE: 975000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 838 Lenox Rd
+
+    STATE: Brooklyn, NY 11203
+
+    MAIN_ADDRESS: 838 Lenox RdBrooklyn, NY 11203
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Lenox Road
+
+    FORMATTED_ADDRESS: 838 Lenox Rd, Brooklyn, NY 11203, USA
+
+    LATITUDE: 40.6553249
+
+    LONGITUDE: -73.9284733

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 140 Franklin
+
+    TYPE: Co-op for sale
+
+    PRICE: 595000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 317 E 3rd St Apt 4
+
+    STATE: New York, NY 10009
+
+    MAIN_ADDRESS: 317 E 3rd St Apt 4New York, NY 10009
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 317
+
+    FORMATTED_ADDRESS: 317 E 3rd St #4, New York, NY 10009, USA
+
+    LATITUDE: 40.7211983
+
+    LONGITUDE: -73.9787559

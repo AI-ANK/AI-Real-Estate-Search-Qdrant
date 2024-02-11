@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Wilk Real Estate I Llc
+
+    TYPE: House for sale
+
+    PRICE: 2499000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1471.0
+
+    ADDRESS: 234 E 70th St Apt 4
+
+    STATE: New York, NY 10021
+
+    MAIN_ADDRESS: 234 E 70th St Apt 4New York, NY 10021
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 234
+
+    FORMATTED_ADDRESS: 234 E 70th St APT 4, New York, NY 10021, USA
+
+    LATITUDE: 40.76749
+
+    LONGITUDE: -73.9599095

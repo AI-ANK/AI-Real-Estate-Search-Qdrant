@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by HIGH CLASS REALTY SB LLC.
+
+    TYPE: House for sale
+
+    PRICE: 2700000
+
+    BEDS: 5
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2690.0
+
+    ADDRESS: 79 Dover St
+
+    STATE: Brooklyn, NY 11235
+
+    MAIN_ADDRESS: 79 Dover StBrooklyn, NY 11235
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Dover Street
+
+    FORMATTED_ADDRESS: 79 Dover St, Brooklyn, NY 11235, USA
+
+    LATITUDE: 40.5801404
+
+    LONGITUDE: -73.9494604

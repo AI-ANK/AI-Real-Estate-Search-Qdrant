@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Edge
+
+    TYPE: House for sale
+
+    PRICE: 875000
+
+    BEDS: 5
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1974.0
+
+    ADDRESS: 1646 E 54th St
+
+    STATE: Brooklyn, NY 11234
+
+    MAIN_ADDRESS: 1646 E 54th StBrooklyn, NY 11234
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: East 54th Street
+
+    FORMATTED_ADDRESS: 1646 E 54th St, Brooklyn, NY 11234, USA
+
+    LATITUDE: 40.6174718
+
+    LONGITUDE: -73.9231114

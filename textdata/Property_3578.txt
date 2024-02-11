@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: NoBroker
+
+    TYPE: Townhouse for sale
+
+    PRICE: 579000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 103-12 114th St
+
+    STATE: Richmond Hill South, NY 11419
+
+    MAIN_ADDRESS: 103-12 114th StRichmond Hill South, NY 11419
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 114th Street
+
+    FORMATTED_ADDRESS: 103-12 114th St, South Richmond Hill, NY 11419, USA
+
+    LATITUDE: 40.6863457
+
+    LONGITUDE: -73.8292298

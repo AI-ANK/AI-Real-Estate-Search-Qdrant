@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Houlihan Lawrence
+
+    TYPE: Co-op for sale
+
+    PRICE: 149999
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 850.0
+
+    ADDRESS: 4295 Webster Ave Apt 4B
+
+    STATE: Bronx, NY 10470
+
+    MAIN_ADDRESS: 4295 Webster Ave Apt 4BBronx, NY 10470
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: East Bronx
+
+    LONG_NAME: 4295
+
+    FORMATTED_ADDRESS: 4295 Webster Ave #4b, Bronx, NY 10470, USA
+
+    LATITUDE: 40.8992144
+
+    LONGITUDE: -73.8624103

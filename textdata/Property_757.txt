@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by BRAI - Braithwaite Realty LLC
+
+    TYPE: Condo for sale
+
+    PRICE: 2150000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 750.0
+
+    ADDRESS: 163 E 71st St Unit 1
+
+    STATE: New York, NY 10021
+
+    MAIN_ADDRESS: 163 E 71st St Unit 1New York, NY 10021
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 163
+
+    FORMATTED_ADDRESS: 163 E 71st St #1, New York, NY 10021, USA
+
+    LATITUDE: 40.7696597
+
+    LONGITUDE: -73.962084

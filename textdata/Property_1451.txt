@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Village Sq Rlt
+
+    TYPE: House for sale
+
+    PRICE: 800000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1224.0
+
+    ADDRESS: 1883 E 53rd St
+
+    STATE: Old Mill Basin, NY 11234
+
+    MAIN_ADDRESS: 1883 E 53rd StOld Mill Basin, NY 11234
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: East 53rd Street
+
+    FORMATTED_ADDRESS: 1883 E 53rd St, Brooklyn, NY 11234, USA
+
+    LATITUDE: 40.6125589
+
+    LONGITUDE: -73.9230425

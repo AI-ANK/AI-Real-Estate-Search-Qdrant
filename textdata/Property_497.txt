@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 1995 Broadway
+
+    TYPE: Condo for sale
+
+    PRICE: 16500000
+
+    BEDS: 5
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 4105.0
+
+    ADDRESS: 2150 Broadway
+
+    STATE: New York, NY 10023
+
+    MAIN_ADDRESS: 2150 BroadwayNew York, NY 10023
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: Broadway
+
+    FORMATTED_ADDRESS: 2150 Broadway, New York, NY 10023, USA
+
+    LATITUDE: 40.7814599
+
+    LONGITUDE: -73.9806864

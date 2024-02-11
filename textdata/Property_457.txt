@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Westside Columbus
+
+    TYPE: Townhouse for sale
+
+    PRICE: 11000000
+
+    BEDS: 5
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 137 Beach 140th St
+
+    STATE: Queens, NY 11694
+
+    MAIN_ADDRESS: 137 Beach 140th StQueens, NY 11694
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: B 140 Street
+
+    FORMATTED_ADDRESS: 137 B 140 St, Rockaway Park, NY 11694, USA
+
+    LATITUDE: 40.5704687
+
+    LONGITUDE: -73.8558742

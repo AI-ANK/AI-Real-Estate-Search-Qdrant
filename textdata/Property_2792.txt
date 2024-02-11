@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by JABOUR REALTY COMPANY
+
+    TYPE: House for sale
+
+    PRICE: 1450000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 1746.0
+
+    ADDRESS: 227 90th St
+
+    STATE: Brooklyn, NY 11209
+
+    MAIN_ADDRESS: 227 90th StBrooklyn, NY 11209
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: 90th Street
+
+    FORMATTED_ADDRESS: 227 90th St, Brooklyn, NY 11209, USA
+
+    LATITUDE: 40.6212482
+
+    LONGITUDE: -74.0338909

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sotheby's International Realty - Downtown Manhattan
+
+    TYPE: Townhouse for sale
+
+    PRICE: 12500000
+
+    BEDS: 9
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 10500.0
+
+    ADDRESS: 180 Second Ave
+
+    STATE: New York, NY 10003
+
+    MAIN_ADDRESS: 180 Second AveNew York, NY 10003
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: 2nd Avenue
+
+    FORMATTED_ADDRESS: 180 2nd Ave, New York, NY 10003, USA
+
+    LATITUDE: 40.7305606
+
+    LONGITUDE: -73.9859258

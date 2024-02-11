@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by ANNE LOPA REAL ESTATE
+
+    TYPE: House for sale
+
+    PRICE: 2147483647
+
+    BEDS: 7
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 10000.0
+
+    ADDRESS: 6659-6675 Amboy Rd
+
+    STATE: New York, NY 10309
+
+    MAIN_ADDRESS: 6659-6675 Amboy RdNew York, NY 10309
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Amboy Road
+
+    FORMATTED_ADDRESS: 6659 Amboy Rd, Staten Island, NY 10309, USA
+
+    LATITUDE: 40.5184841
+
+    LONGITUDE: -74.2244185

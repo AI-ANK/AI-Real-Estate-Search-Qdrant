@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sotheby's International Realty - Downtown Manhattan
+
+    TYPE: Co-op for sale
+
+    PRICE: 990000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 325 E 41st St Apt 601
+
+    STATE: New York, NY 10017
+
+    MAIN_ADDRESS: 325 E 41st St Apt 601New York, NY 10017
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 325
+
+    FORMATTED_ADDRESS: 325 E 41st St Apt 601, New York, NY 10017, USA
+
+    LATITUDE: 40.7490288
+
+    LONGITUDE: -73.9719957

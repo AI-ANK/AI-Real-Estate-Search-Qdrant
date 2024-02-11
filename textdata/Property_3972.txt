@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by E Realty International Corp
+
+    TYPE: Co-op for sale
+
+    PRICE: 325000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 99-30 59 Ave Unit L1
+
+    STATE: Corona, NY 11368
+
+    MAIN_ADDRESS: 99-30 59 Ave Unit L1Corona, NY 11368
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Corona
+
+    LONG_NAME: 99-30
+
+    FORMATTED_ADDRESS: 99-30 59th Ave l1, Corona, NY 11368, USA
+
+    LATITUDE: 40.7373584
+
+    LONGITUDE: -73.8574251

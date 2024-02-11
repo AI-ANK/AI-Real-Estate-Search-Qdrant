@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Park Slope
+
+    TYPE: Townhouse for sale
+
+    PRICE: 1050000
+
+    BEDS: 4
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 1023 Union St
+
+    STATE: Brooklyn, NY 11225
+
+    MAIN_ADDRESS: 1023 Union StBrooklyn, NY 11225
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Union Street
+
+    FORMATTED_ADDRESS: 1023 Union St, Brooklyn, NY 11225, USA
+
+    LATITUDE: 40.6701878
+
+    LONGITUDE: -73.9595284

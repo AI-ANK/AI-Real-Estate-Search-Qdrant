@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 664 Fulton
+
+    TYPE: House for sale
+
+    PRICE: 919000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1565.0
+
+    ADDRESS: 941 Newkirk Ave
+
+    STATE: Brooklyn, NY 11230
+
+    MAIN_ADDRESS: 941 Newkirk AveBrooklyn, NY 11230
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Newkirk Avenue
+
+    FORMATTED_ADDRESS: 941 Newkirk Ave, Brooklyn, NY 11230, USA
+
+    LATITUDE: 40.6335949
+
+    LONGITUDE: -73.9678166

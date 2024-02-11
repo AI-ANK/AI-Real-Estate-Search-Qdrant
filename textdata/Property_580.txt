@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Wonica REALTORS & Appraisers
+
+    TYPE: Foreclosure
+
+    PRICE: 249900
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 800.0
+
+    ADDRESS: 1100 Clove Rd Unit G0
+
+    STATE: Staten Island, NY 10301
+
+    MAIN_ADDRESS: 1100 Clove Rd Unit G0Staten Island, NY 10301
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Clove Road
+
+    FORMATTED_ADDRESS: 1100 Clove Rd, Staten Island, NY 10301, USA
+
+    LATITUDE: 40.6189484
+
+    LONGITUDE: -74.1071576

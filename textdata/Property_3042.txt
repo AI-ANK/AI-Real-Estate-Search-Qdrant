@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by One Manhattan real estate - Upper East Side office
+
+    TYPE: Co-op for sale
+
+    PRICE: 739000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 529 E 84th St Apt 2B
+
+    STATE: New York, NY 10028
+
+    MAIN_ADDRESS: 529 E 84th St Apt 2BNew York, NY 10028
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 529
+
+    FORMATTED_ADDRESS: 529 E 84th St #2b, New York, NY 10028, USA
+
+    LATITUDE: 40.7741621
+
+    LONGITUDE: -73.9467221

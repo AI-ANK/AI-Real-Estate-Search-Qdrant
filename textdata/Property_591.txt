@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Mjr Real Estate Llc
+
+    TYPE: Co-op for sale
+
+    PRICE: 568888
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1100.0
+
+    ADDRESS: 98-05 63 Rd Unit 4E
+
+    STATE: Rego Park, NY 11374
+
+    MAIN_ADDRESS: 98-05 63 Rd Unit 4ERego Park, NY 11374
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 63rd Road
+
+    FORMATTED_ADDRESS: 98-05 63rd Rd, Rego Park, NY 11374, USA
+
+    LATITUDE: 40.7322223
+
+    LONGITUDE: -73.8588845

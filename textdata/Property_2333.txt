@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by CENTURY 21 Zaloom Realty
+
+    TYPE: Pending
+
+    PRICE: 1199900
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2393.0
+
+    ADDRESS: 251 Wilson Ave
+
+    STATE: Staten Island, NY 10308
+
+    MAIN_ADDRESS: 251 Wilson AveStaten Island, NY 10308
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Wilson Avenue
+
+    FORMATTED_ADDRESS: 251 Wilson Ave, Staten Island, NY 10308, USA
+
+    LATITUDE: 40.5477774
+
+    LONGITUDE: -74.160225

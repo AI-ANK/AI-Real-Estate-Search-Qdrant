@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - Roslyn
+
+    TYPE: Condo for sale
+
+    PRICE: 459000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 489.0
+
+    ADDRESS: 138-35 Elder Ave Unit 4DA
+
+    STATE: Flushing, NY 11355
+
+    MAIN_ADDRESS: 138-35 Elder Ave Unit 4DAFlushing, NY 11355
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 138-35
+
+    FORMATTED_ADDRESS: 138-35 Elder Ave #4a, Queens, NY 11355, USA
+
+    LATITUDE: 40.7528527
+
+    LONGITUDE: -73.8236711

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Realty Greater Nassau
+
+    TYPE: House for sale
+
+    PRICE: 899000
+
+    BEDS: 3
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2208.0
+
+    ADDRESS: 82 Mulberry Ave
+
+    STATE: Staten Island, NY 10314
+
+    MAIN_ADDRESS: 82 Mulberry AveStaten Island, NY 10314
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Mulberry Avenue
+
+    FORMATTED_ADDRESS: 82 Mulberry Ave, Staten Island, NY 10314, USA
+
+    LATITUDE: 40.5955552
+
+    LONGITUDE: -74.1677939

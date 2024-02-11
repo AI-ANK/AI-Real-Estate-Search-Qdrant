@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Charles Rutenberg Realty Inc
+
+    TYPE: House for sale
+
+    PRICE: 1370000
+
+    BEDS: 6
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 85-65 159th St
+
+    STATE: Jamaica, NY 11432
+
+    MAIN_ADDRESS: 85-65 159th StJamaica, NY 11432
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 159th Street
+
+    FORMATTED_ADDRESS: 85-65 159th St, Jamaica, NY 11432, USA
+
+    LATITUDE: 40.7102471
+
+    LONGITUDE: -73.8049849

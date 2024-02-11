@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Robert Defalco Realty, Inc.
+
+    TYPE: House for sale
+
+    PRICE: 1250000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 3160.0
+
+    ADDRESS: 1841 Richmond Rd
+
+    STATE: Staten Island, NY 10306
+
+    MAIN_ADDRESS: 1841 Richmond RdStaten Island, NY 10306
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Richmond Road
+
+    FORMATTED_ADDRESS: 1841 Richmond Rd, Staten Island, NY 10306, USA
+
+    LATITUDE: 40.585661
+
+    LONGITUDE: -74.1059417

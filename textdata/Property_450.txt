@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by EXP REALTY
+
+    TYPE: Condo for sale
+
+    PRICE: 329000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 850.0
+
+    ADDRESS: 55 Austin Pl Apt 6Z
+
+    STATE: Staten Island, NY 10304
+
+    MAIN_ADDRESS: 55 Austin Pl Apt 6ZStaten Island, NY 10304
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Austin Place
+
+    FORMATTED_ADDRESS: 55 Austin Pl, Staten Island, NY 10304, USA
+
+    LATITUDE: 40.6316141
+
+    LONGITUDE: -74.0858954

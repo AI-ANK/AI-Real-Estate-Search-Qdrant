@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 7500000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 6000.0
+
+    ADDRESS: 515 Broadway Apt 2B
+
+    STATE: Manhattan, NY 10012
+
+    MAIN_ADDRESS: 515 Broadway Apt 2BManhattan, NY 10012
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 515
+
+    FORMATTED_ADDRESS: 515 Broadway #2b, New York, NY 10012, USA
+
+    LATITUDE: 40.7227148
+
+    LONGITUDE: -73.9993678

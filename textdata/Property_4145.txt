@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by BEN BAY REALTY, CO.
+
+    TYPE: Pending
+
+    PRICE: 599000
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1392.0
+
+    ADDRESS: 245 Doane Ave
+
+    STATE: Staten Island, NY 10308
+
+    MAIN_ADDRESS: 245 Doane AveStaten Island, NY 10308
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Doane Avenue
+
+    FORMATTED_ADDRESS: 245 Doane Ave, Staten Island, NY 10308, USA
+
+    LATITUDE: 40.5556599
+
+    LONGITUDE: -74.1550879

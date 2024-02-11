@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Arc Realty Llc
+
+    TYPE: House for sale
+
+    PRICE: 1249000
+
+    BEDS: 3
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2400.0
+
+    ADDRESS: 1187 Rhinelander Ave
+
+    STATE: Bronx, NY 10461
+
+    MAIN_ADDRESS: 1187 Rhinelander AveBronx, NY 10461
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Rhinelander Avenue
+
+    FORMATTED_ADDRESS: 1187 Rhinelander Ave, Bronx, NY 10461, USA
+
+    LATITUDE: 40.8533232
+
+    LONGITUDE: -73.8509691

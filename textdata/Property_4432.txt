@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Spire Group Inc.- Main Office
+
+    TYPE: Condo for sale
+
+    PRICE: 780000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 550 Vanderbilt Ave Apt 511
+
+    STATE: Brooklyn, NY 11238
+
+    MAIN_ADDRESS: 550 Vanderbilt Ave Apt 511Brooklyn, NY 11238
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Prospect Heights
+
+    LONG_NAME: 550
+
+    FORMATTED_ADDRESS: 550 Vanderbilt Ave Apartment 511, Brooklyn, NY 11238, USA
+
+    LATITUDE: 40.6807067
+
+    LONGITUDE: -73.96822

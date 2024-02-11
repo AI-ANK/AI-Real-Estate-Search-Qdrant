@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by PAULEMA REALTY GROUP INC
+
+    TYPE: Land for sale
+
+    PRICE: 2999950
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 9115-9119 Bedell Ln
+
+    STATE: Canarsie, NY 11236
+
+    MAIN_ADDRESS: 9115-9119 Bedell LnCanarsie, NY 11236
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Bedell Lane
+
+    FORMATTED_ADDRESS: 9115 Bedell Ln, Brooklyn, NY 11236, USA
+
+    LATITUDE: 40.6444117
+
+    LONGITUDE: -73.9100389

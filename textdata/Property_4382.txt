@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Golden Doors Realty Corp
+
+    TYPE: House for sale
+
+    PRICE: 650000
+
+    BEDS: 5
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1951.0
+
+    ADDRESS: 687 E 232nd St
+
+    STATE: Bronx, NY 10466
+
+    MAIN_ADDRESS: 687 E 232nd StBronx, NY 10466
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: East 232nd Street
+
+    FORMATTED_ADDRESS: 687 E 232nd St, Bronx, NY 10466, USA
+
+    LATITUDE: 40.8931042
+
+    LONGITUDE: -73.8582396

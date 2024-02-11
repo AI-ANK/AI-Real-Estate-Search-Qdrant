@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by DiTommaso Real Estate
+
+    TYPE: Contingent
+
+    PRICE: 785000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1950.0
+
+    ADDRESS: 148 Major Ave
+
+    STATE: Staten Island, NY 10305
+
+    MAIN_ADDRESS: 148 Major AveStaten Island, NY 10305
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Major Avenue
+
+    FORMATTED_ADDRESS: 148 Major Ave, Staten Island, NY 10305, USA
+
+    LATITUDE: 40.5990416
+
+    LONGITUDE: -74.0674289

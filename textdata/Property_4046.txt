@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by MNS
+
+    TYPE: Co-op for sale
+
+    PRICE: 590000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 800.0
+
+    ADDRESS: 800 E 17th St Apt 4A
+
+    STATE: Brooklyn, NY 11230
+
+    MAIN_ADDRESS: 800 E 17th St Apt 4ABrooklyn, NY 11230
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Flatbush
+
+    LONG_NAME: 800
+
+    FORMATTED_ADDRESS: 800 E 17th St #4a, Brooklyn, NY 11230, USA
+
+    LATITUDE: 40.6311681
+
+    LONGITUDE: -73.9610093

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by BEN BAY REALTY, CO.
+
+    TYPE: House for sale
+
+    PRICE: 1848000
+
+    BEDS: 6
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 3676.0
+
+    ADDRESS: 976 Ocean Ave
+
+    STATE: Brooklyn, NY 11226
+
+    MAIN_ADDRESS: 976 Ocean AveBrooklyn, NY 11226
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Ocean Avenue
+
+    FORMATTED_ADDRESS: 976 Ocean Ave, Brooklyn, NY 11226, USA
+
+    LATITUDE: 40.6386251
+
+    LONGITUDE: -73.9591955

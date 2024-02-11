@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Built by Toll Brothers
+
+    TYPE: For sale
+
+    PRICE: 2280000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1400.0
+
+    ADDRESS: The Rockwell # 6E
+
+    STATE: New York, NY 10025
+
+    MAIN_ADDRESS: The Rockwell # 6ENew York, NY 10025
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: West 103rd Street
+
+    FORMATTED_ADDRESS: 218 W 103rd St, New York, NY 10025, USA
+
+    LATITUDE: 40.7986579
+
+    LONGITUDE: -73.9679035

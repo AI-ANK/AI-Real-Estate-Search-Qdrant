@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Remax Edge - RE/MAX EDGE
+
+    TYPE: Co-op for sale
+
+    PRICE: 300000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 800.0
+
+    ADDRESS: 2942 W 5th St Apt 11S
+
+    STATE: Brooklyn, NY 11224
+
+    MAIN_ADDRESS: 2942 W 5th St Apt 11SBrooklyn, NY 11224
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Coney Island
+
+    LONG_NAME: 2942
+
+    FORMATTED_ADDRESS: 2942 W 5th St #11d, Brooklyn, NY 11224, USA
+
+    LATITUDE: 40.5774084
+
+    LONGITUDE: -73.9732594

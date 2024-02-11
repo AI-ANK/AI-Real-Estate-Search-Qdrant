@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Floral Homes Inc
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1069000
+
+    BEDS: 6
+
+    BATH: 5.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 120-40 144 St
+
+    STATE: Jamaica, NY 11436
+
+    MAIN_ADDRESS: 120-40 144 StJamaica, NY 11436
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 144th Street
+
+    FORMATTED_ADDRESS: 120-35 144th St, Jamaica, NY 11436, USA
+
+    LATITUDE: 40.6755971
+
+    LONGITUDE: -73.7952881

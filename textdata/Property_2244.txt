@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Serhant
+
+    TYPE: Condo for sale
+
+    PRICE: 1999999
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1865.0
+
+    ADDRESS: 61 N Henry St Unit Garden
+
+    STATE: Brooklyn, NY 11222
+
+    MAIN_ADDRESS: 61 N Henry St Unit GardenBrooklyn, NY 11222
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: North Henry Street
+
+    FORMATTED_ADDRESS: 61 N Henry St, Brooklyn, NY 11222, USA
+
+    LATITUDE: 40.7213959
+
+    LONGITUDE: -73.9430921

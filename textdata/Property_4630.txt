@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 575 Madison Ave
+
+    TYPE: Co-op for sale
+
+    PRICE: 565000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 433 E 56th St Apt 8E
+
+    STATE: New York, NY 10022
+
+    MAIN_ADDRESS: 433 E 56th St Apt 8ENew York, NY 10022
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 433
+
+    FORMATTED_ADDRESS: 433 E 56th St #8e, New York, NY 10022, USA
+
+    LATITUDE: 40.7572719
+
+    LONGITUDE: -73.9620424

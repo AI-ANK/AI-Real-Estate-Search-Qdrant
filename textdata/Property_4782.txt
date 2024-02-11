@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sotheby's International Realty - East Side Manhattan Brokerage
+
+    TYPE: Condo for sale
+
+    PRICE: 2600000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1729.0
+
+    ADDRESS: 242 E 15th St Apt 1
+
+    STATE: New York, NY 10003
+
+    MAIN_ADDRESS: 242 E 15th St Apt 1New York, NY 10003
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 242
+
+    FORMATTED_ADDRESS: 242 E 15th St APT 1, New York, NY 10003, USA
+
+    LATITUDE: 40.733031
+
+    LONGITUDE: -73.9850368

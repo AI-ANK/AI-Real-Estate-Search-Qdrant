@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Ben Bay Rlty Of Marine Pk Llc
+
+    TYPE: Pending
+
+    PRICE: 1488000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1464.0
+
+    ADDRESS: 1119 85th St
+
+    STATE: Brooklyn, NY 11228
+
+    MAIN_ADDRESS: 1119 85th StBrooklyn, NY 11228
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: 85th Street
+
+    FORMATTED_ADDRESS: 1119 85th St, Brooklyn, NY 11228, USA
+
+    LATITUDE: 40.6171732
+
+    LONGITUDE: -74.0169489

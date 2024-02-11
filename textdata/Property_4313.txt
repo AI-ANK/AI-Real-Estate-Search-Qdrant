@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by East Coast REALTORS Inc
+
+    TYPE: Co-op for sale
+
+    PRICE: 458000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 142-15 Franklin Ave Unit 5L
+
+    STATE: Flushing, NY 11355
+
+    MAIN_ADDRESS: 142-15 Franklin Ave Unit 5LFlushing, NY 11355
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 142-15
+
+    FORMATTED_ADDRESS: 142-15 Franklin Ave #5b, Flushing, NY 11355, USA
+
+    LATITUDE: 40.7566557
+
+    LONGITUDE: -73.8232967

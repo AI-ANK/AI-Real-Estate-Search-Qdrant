@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 575 Madison Ave
+
+    TYPE: Condo for sale
+
+    PRICE: 760000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 700.0
+
+    ADDRESS: 404 E 66th St Apt 4N
+
+    STATE: New York, NY 10065
+
+    MAIN_ADDRESS: 404 E 66th St Apt 4NNew York, NY 10065
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 404
+
+    FORMATTED_ADDRESS: 404 E 66th St #4n, New York, NY 10065, USA
+
+    LATITUDE: 40.7636004
+
+    LONGITUDE: -73.9583523

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Park Slope
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 4800000
+
+    BEDS: 5
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 206 Vanderbilt Ave
+
+    STATE: Brooklyn, NY 11205
+
+    MAIN_ADDRESS: 206 Vanderbilt AveBrooklyn, NY 11205
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Vanderbilt Avenue
+
+    FORMATTED_ADDRESS: 206 Vanderbilt Ave, Brooklyn, NY 11205, USA
+
+    LATITUDE: 40.6912637
+
+    LONGITUDE: -73.9696573

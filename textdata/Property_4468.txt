@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Countrywide Real Estate Inc
+
+    TYPE: House for sale
+
+    PRICE: 849000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1890.0
+
+    ADDRESS: 2021 Watson Ave
+
+    STATE: Bronx, NY 10472
+
+    MAIN_ADDRESS: 2021 Watson AveBronx, NY 10472
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Watson Avenue
+
+    FORMATTED_ADDRESS: 2021 Watson Ave, Bronx, NY 10472, USA
+
+    LATITUDE: 40.8292519
+
+    LONGITUDE: -73.855841

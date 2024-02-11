@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Nest Seekers International, Midtown
+
+    TYPE: Condo for sale
+
+    PRICE: 5350000
+
+    BEDS: 3
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2491.0
+
+    ADDRESS: 522 W 29th St Apt 3A
+
+    STATE: New York, NY 10001
+
+    MAIN_ADDRESS: 522 W 29th St Apt 3ANew York, NY 10001
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 522
+
+    FORMATTED_ADDRESS: 522 W 29th St #3a, New York, NY 10001, USA
+
+    LATITUDE: 40.7518261
+
+    LONGITUDE: -74.002774

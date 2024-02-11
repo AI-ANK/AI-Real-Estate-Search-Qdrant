@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Condo for sale
+
+    PRICE: 3795000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1887.0
+
+    ADDRESS: 30 Main St Ph B
+
+    STATE: Brooklyn, NY 11201
+
+    MAIN_ADDRESS: 30 Main St Ph BBrooklyn, NY 11201
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Main Street
+
+    FORMATTED_ADDRESS: 30 Main St, Brooklyn, NY 11201, USA
+
+    LATITUDE: 40.702988
+
+    LONGITUDE: -73.9907803

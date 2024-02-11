@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 575 Madison Ave
+
+    TYPE: Co-op for sale
+
+    PRICE: 495000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 54 E 1st St Apt 2C
+
+    STATE: New York, NY 10003
+
+    MAIN_ADDRESS: 54 E 1st St Apt 2CNew York, NY 10003
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 54
+
+    FORMATTED_ADDRESS: 54 E 1st St #2c, New York, NY 10003, USA
+
+    LATITUDE: 40.7238926
+
+    LONGITUDE: -73.9893733

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman  -111 Fifth Ave
+
+    TYPE: Condo for sale
+
+    PRICE: 315000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1400.0
+
+    ADDRESS: 2 E 55th St Unit 803
+
+    STATE: New York, NY 10022
+
+    MAIN_ADDRESS: 2 E 55th St Unit 803New York, NY 10022
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York County
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Manhattan
+
+    STREET_NAME: East 55th Street
+
+    LONG_NAME: Regis Residence
+
+    FORMATTED_ADDRESS: Regis Residence, 2 E 55th St #803, New York, NY 10022, USA
+
+    LATITUDE: 40.761255
+
+    LONGITUDE: -73.9744834

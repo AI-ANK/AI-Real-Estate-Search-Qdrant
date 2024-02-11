@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by First Class Realty Enterprises
+
+    TYPE: House for sale
+
+    PRICE: 998888
+
+    BEDS: 4
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 115-04 144th St
+
+    STATE: Jamaica, NY 11436
+
+    MAIN_ADDRESS: 115-04 144th StJamaica, NY 11436
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 144th Street
+
+    FORMATTED_ADDRESS: 115-04 144th St, Jamaica, NY 11436, USA
+
+    LATITUDE: 40.682563
+
+    LONGITUDE: -73.799077

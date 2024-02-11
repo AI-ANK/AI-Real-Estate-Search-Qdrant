@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Broadway Realty
+
+    TYPE: Condo for sale
+
+    PRICE: 2300000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1163.0
+
+    ADDRESS: 515 E 72nd St Apt 29D
+
+    STATE: New York, NY 10021
+
+    MAIN_ADDRESS: 515 E 72nd St Apt 29DNew York, NY 10021
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 515
+
+    FORMATTED_ADDRESS: 515 E 72nd St #29d, New York, NY 10021, USA
+
+    LATITUDE: 40.7666839
+
+    LONGITUDE: -73.9527719

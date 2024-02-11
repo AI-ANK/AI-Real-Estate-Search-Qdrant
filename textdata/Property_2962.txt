@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Pamela Lee, Realtor
+
+    TYPE: House for sale
+
+    PRICE: 690000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1500.0
+
+    ADDRESS: 1060 E 52nd St
+
+    STATE: Brooklyn, NY 11234
+
+    MAIN_ADDRESS: 1060 E 52nd StBrooklyn, NY 11234
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: East 52nd Street
+
+    FORMATTED_ADDRESS: 1060 E 52nd St, Brooklyn, NY 11234, USA
+
+    LATITUDE: 40.6342245
+
+    LONGITUDE: -73.9268315

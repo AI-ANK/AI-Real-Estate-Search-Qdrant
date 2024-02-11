@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran West Side Gallery
+
+    TYPE: Pending
+
+    PRICE: 299000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 465 W 57th St Apt 3B
+
+    STATE: New York, NY 10019
+
+    MAIN_ADDRESS: 465 W 57th St Apt 3BNew York, NY 10019
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 465
+
+    FORMATTED_ADDRESS: 465 W 57th St #3b, New York, NY 10019, USA
+
+    LATITUDE: 40.76907
+
+    LONGITUDE: -73.987788

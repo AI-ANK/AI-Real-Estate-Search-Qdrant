@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by ONLY NINE REALTY LLC
+
+    TYPE: House for sale
+
+    PRICE: 275000
+
+    BEDS: 4
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 579 E 29th St
+
+    STATE: Brooklyn, NY 11210
+
+    MAIN_ADDRESS: 579 E 29th StBrooklyn, NY 11210
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: East 29th Street
+
+    FORMATTED_ADDRESS: 579 E 29th St, Brooklyn, NY 11210, USA
+
+    LATITUDE: 40.6366859
+
+    LONGITUDE: -73.9488175

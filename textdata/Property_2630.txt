@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - Roslyn
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1699000
+
+    BEDS: 5
+
+    BATH: 5.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 42-11 Astoria Blvd N
+
+    STATE: Astoria, NY 11105
+
+    MAIN_ADDRESS: 42-11 Astoria Blvd NAstoria, NY 11105
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Astoria Boulevard North
+
+    FORMATTED_ADDRESS: 42-11 Astoria Blvd N, Astoria, NY 11105, USA
+
+    LATITUDE: 40.7691484
+
+    LONGITUDE: -73.9073703

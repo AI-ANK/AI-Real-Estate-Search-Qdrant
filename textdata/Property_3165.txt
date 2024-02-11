@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Top
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1800000
+
+    BEDS: 11
+
+    BATH: 5.0
+
+    PROPERTYSQFT: 3969.0
+
+    ADDRESS: 1637 Nelson Ave
+
+    STATE: Bronx, NY 10453
+
+    MAIN_ADDRESS: 1637 Nelson AveBronx, NY 10453
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Nelson Avenue
+
+    FORMATTED_ADDRESS: 1637 Nelson Ave, Bronx, NY 10453, USA
+
+    LATITUDE: 40.8470503
+
+    LONGITUDE: -73.9188566

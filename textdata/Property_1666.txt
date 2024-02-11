@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Townhouse for sale
+
+    PRICE: 2000000
+
+    BEDS: 5
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 3024.0
+
+    ADDRESS: 246 W 123rd St Unit Townhouse
+
+    STATE: Manhattan, NY 10027
+
+    MAIN_ADDRESS: 246 W 123rd St Unit TownhouseManhattan, NY 10027
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: West 123rd Street
+
+    FORMATTED_ADDRESS: 246 W 123rd St, New York, NY 10027, USA
+
+    LATITUDE: 40.808174
+
+    LONGITUDE: -73.951091

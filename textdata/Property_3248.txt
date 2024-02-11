@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Park Slope
+
+    TYPE: Pending
+
+    PRICE: 1995000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 246 Sherman St
+
+    STATE: Brooklyn, NY 11218
+
+    MAIN_ADDRESS: 246 Sherman StBrooklyn, NY 11218
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Sherman Street
+
+    FORMATTED_ADDRESS: 246 Sherman St, Brooklyn, NY 11218, USA
+
+    LATITUDE: 40.652842
+
+    LONGITUDE: -73.974441

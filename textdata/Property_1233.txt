@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Century Homes Realty Group LLC
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1099000
+
+    BEDS: 6
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2018.0
+
+    ADDRESS: 58-15 Granger St
+
+    STATE: Corona, NY 11368
+
+    MAIN_ADDRESS: 58-15 Granger StCorona, NY 11368
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Granger Street
+
+    FORMATTED_ADDRESS: 58-15 Granger St, Flushing, NY 11368, USA
+
+    LATITUDE: 40.7385519
+
+    LONGITUDE: -73.8545527

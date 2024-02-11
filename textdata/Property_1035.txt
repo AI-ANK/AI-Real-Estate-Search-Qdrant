@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Chase Global Realty Corp
+
+    TYPE: House for sale
+
+    PRICE: 699999
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 18 Pine St
+
+    STATE: Brooklyn, NY 11208
+
+    MAIN_ADDRESS: 18 Pine StBrooklyn, NY 11208
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Pine Street
+
+    FORMATTED_ADDRESS: 18 Pine St, Brooklyn, NY 11208, USA
+
+    LATITUDE: 40.6862137
+
+    LONGITUDE: -73.8740777

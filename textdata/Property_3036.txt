@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Myrta55 Real Estate - Myrta 55 Real Estate
+
+    TYPE: Condo for sale
+
+    PRICE: 539000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 708.0
+
+    ADDRESS: 307 72nd St Apt 4B
+
+    STATE: Brooklyn, NY 11209
+
+    MAIN_ADDRESS: 307 72nd St Apt 4BBrooklyn, NY 11209
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Bay Ridge
+
+    LONG_NAME: 307
+
+    FORMATTED_ADDRESS: 307 72nd St #4b, Brooklyn, NY 11209, USA
+
+    LATITUDE: 40.633546
+
+    LONGITUDE: -74.0266446

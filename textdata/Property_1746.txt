@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams NYC
+
+    TYPE: Townhouse for sale
+
+    PRICE: 3700000
+
+    BEDS: 6
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2400.0
+
+    ADDRESS: 14 Fillmore Pl
+
+    STATE: Brooklyn, NY 11211
+
+    MAIN_ADDRESS: 14 Fillmore PlBrooklyn, NY 11211
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Fillmore Place
+
+    FORMATTED_ADDRESS: 14 Fillmore Pl, Brooklyn, NY 11211, USA
+
+    LATITUDE: 40.7140718
+
+    LONGITUDE: -73.958911

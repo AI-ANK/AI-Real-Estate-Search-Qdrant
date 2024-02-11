@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by J Shayovitz Real Estate Corp
+
+    TYPE: Land for sale
+
+    PRICE: 650000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 2998 Fulton St
+
+    STATE: Brooklyn, NY 11208
+
+    MAIN_ADDRESS: 2998 Fulton StBrooklyn, NY 11208
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Fulton Street
+
+    FORMATTED_ADDRESS: 2998 Fulton St, Brooklyn, NY 11208, USA
+
+    LATITUDE: 40.6799197
+
+    LONGITUDE: -73.8839962

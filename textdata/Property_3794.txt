@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Park Avenue South
+
+    TYPE: Co-op for sale
+
+    PRICE: 2199000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1770.0
+
+    ADDRESS: 565 W End Ave Apt 11D
+
+    STATE: New York, NY 10024
+
+    MAIN_ADDRESS: 565 W End Ave Apt 11DNew York, NY 10024
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 565
+
+    FORMATTED_ADDRESS: 565 West End Ave #11d, New York, NY 10024, USA
+
+    LATITUDE: 40.7899034
+
+    LONGITUDE: -73.9774703

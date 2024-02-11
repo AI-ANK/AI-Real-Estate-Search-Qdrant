@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Condo for sale
+
+    PRICE: 1625000
+
+    BEDS: 1
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 995.0
+
+    ADDRESS: 393 W End Ave Apt 8F
+
+    STATE: Manhattan, NY 10024
+
+    MAIN_ADDRESS: 393 W End Ave Apt 8FManhattan, NY 10024
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 393
+
+    FORMATTED_ADDRESS: 393 West End Ave #8f, New York, NY 10024, USA
+
+    LATITUDE: 40.7842031
+
+    LONGITUDE: -73.9816026

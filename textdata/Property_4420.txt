@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Townhouse for sale
+
+    PRICE: 2099000
+
+    BEDS: 5
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 3200.0
+
+    ADDRESS: 16 DE Koven Ct
+
+    STATE: Brooklyn, NY 11230
+
+    MAIN_ADDRESS: 16 DE Koven CtBrooklyn, NY 11230
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Dekoven Court
+
+    FORMATTED_ADDRESS: 16 Dekoven Ct, Brooklyn, NY 11230, USA
+
+    LATITUDE: 40.6328573
+
+    LONGITUDE: -73.9632363

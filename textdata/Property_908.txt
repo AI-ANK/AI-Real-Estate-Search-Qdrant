@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Exp Realty
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 674999
+
+    BEDS: 5
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2600.0
+
+    ADDRESS: 1463 Longfellow Ave
+
+    STATE: Bronx, NY 10460
+
+    MAIN_ADDRESS: 1463 Longfellow AveBronx, NY 10460
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Longfellow Avenue
+
+    FORMATTED_ADDRESS: 1463 Longfellow Ave, Bronx, NY 10460, USA
+
+    LATITUDE: 40.8315561
+
+    LONGITUDE: -73.8872273

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Shaw Properties
+
+    TYPE: House for sale
+
+    PRICE: 489000
+
+    BEDS: 7
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2500.0
+
+    ADDRESS: 4429 Matilda Ave
+
+    STATE: Bronx, NY 10470
+
+    MAIN_ADDRESS: 4429 Matilda AveBronx, NY 10470
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Matilda Avenue
+
+    FORMATTED_ADDRESS: 4429 Matilda Ave, Bronx, NY 10470, USA
+
+    LATITUDE: 40.9000223
+
+    LONGITUDE: -73.8557587

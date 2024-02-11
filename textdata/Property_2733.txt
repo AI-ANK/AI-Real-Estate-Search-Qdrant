@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by J Home Realty LLC
+
+    TYPE: House for sale
+
+    PRICE: 687000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 57 Shore Dr
+
+    STATE: Bronx, NY 10465
+
+    MAIN_ADDRESS: 57 Shore DrBronx, NY 10465
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Shore Drive
+
+    FORMATTED_ADDRESS: 57 Shore Dr, Bronx, NY 10465, USA
+
+    LATITUDE: 40.8214203
+
+    LONGITUDE: -73.8062717

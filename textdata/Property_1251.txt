@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Cypress Estates Realty LLC
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1175000
+
+    BEDS: 6
+
+    BATH: 5.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 115-11 142nd St
+
+    STATE: Jamaica, NY 11436
+
+    MAIN_ADDRESS: 115-11 142nd StJamaica, NY 11436
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 142nd Street
+
+    FORMATTED_ADDRESS: 115-11 142nd St, Jamaica, NY 11436, USA
+
+    LATITUDE: 40.6820237
+
+    LONGITUDE: -73.800217

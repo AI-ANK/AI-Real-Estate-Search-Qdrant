@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Momentum Real Estate LLC
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 868000
+
+    BEDS: 3
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2024.0
+
+    ADDRESS: 108 Dutchess Ave
+
+    STATE: Staten Island, NY 10304
+
+    MAIN_ADDRESS: 108 Dutchess AveStaten Island, NY 10304
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Dutchess Avenue
+
+    FORMATTED_ADDRESS: 108 Dutchess Ave, Staten Island, NY 10304, USA
+
+    LATITUDE: 40.5963657
+
+    LONGITUDE: -74.0997473

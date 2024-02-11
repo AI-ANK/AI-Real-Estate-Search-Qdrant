@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Monopoly Realty, Inc.
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1350000
+
+    BEDS: 3
+
+    BATH: 5.0
+
+    PROPERTYSQFT: 3210.0
+
+    ADDRESS: 43-15 54th St
+
+    STATE: Woodside, NY 11377
+
+    MAIN_ADDRESS: 43-15 54th StWoodside, NY 11377
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 54th Street
+
+    FORMATTED_ADDRESS: 43-15 54th St, Flushing, NY 11377, USA
+
+    LATITUDE: 40.7432038
+
+    LONGITUDE: -73.9105824

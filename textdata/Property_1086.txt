@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by The Bouklis Group - The Bouklis Group Astoria
+
+    TYPE: Townhouse for sale
+
+    PRICE: 588000
+
+    BEDS: 4
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2160.0
+
+    ADDRESS: 2546 Bailey Ave Unit 2FAM
+
+    STATE: Bronx, NY 10463
+
+    MAIN_ADDRESS: 2546 Bailey Ave Unit 2FAMBronx, NY 10463
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: Fordham Manor
+
+    LONG_NAME: 2546
+
+    FORMATTED_ADDRESS: 2546 Bailey Ave #2f, Bronx, NY 10463, USA
+
+    LATITUDE: 40.8678944
+
+    LONGITUDE: -73.9078533

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Homefinders of SI Inc.
+
+    TYPE: Contingent
+
+    PRICE: 795000
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1860.0
+
+    ADDRESS: 166 Bancroft Ave
+
+    STATE: Staten Island, NY 10306
+
+    MAIN_ADDRESS: 166 Bancroft AveStaten Island, NY 10306
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Bancroft Avenue
+
+    FORMATTED_ADDRESS: 166 Bancroft Ave, Staten Island, NY 10306, USA
+
+    LATITUDE: 40.5763544
+
+    LONGITUDE: -74.1099794

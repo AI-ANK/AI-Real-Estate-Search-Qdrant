@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Prime Realty
+
+    TYPE: Co-op for sale
+
+    PRICE: 349000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 83-75 118 St Unit 2I
+
+    STATE: Kew Gardens, NY 11415
+
+    MAIN_ADDRESS: 83-75 118 St Unit 2IKew Gardens, NY 11415
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Jamaica
+
+    LONG_NAME: 83-75
+
+    FORMATTED_ADDRESS: 83-75 118th St #2i, Jamaica, NY 11415, USA
+
+    LATITUDE: 40.7052273
+
+    LONGITUDE: -73.8336358

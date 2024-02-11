@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by NEUHAUS REALTY INC.
+
+    TYPE: House for sale
+
+    PRICE: 2358000
+
+    BEDS: 4
+
+    BATH: 5.0
+
+    PROPERTYSQFT: 6300.0
+
+    ADDRESS: 797 Woodrow Rd
+
+    STATE: Staten Island, NY 10312
+
+    MAIN_ADDRESS: 797 Woodrow RdStaten Island, NY 10312
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Woodrow Road
+
+    FORMATTED_ADDRESS: 797 Woodrow Rd, Staten Island, NY 10312, USA
+
+    LATITUDE: 40.5467194
+
+    LONGITUDE: -74.1923203

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Condo for sale
+
+    PRICE: 395000
+
+    BEDS: 5
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1000.0
+
+    ADDRESS: 110 E 71st St Unit Medical
+
+    STATE: Manhattan, NY 10021
+
+    MAIN_ADDRESS: 110 E 71st St Unit MedicalManhattan, NY 10021
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: East 71st Street
+
+    FORMATTED_ADDRESS: 110 E 71st St, New York, NY 10021, USA
+
+    LATITUDE: 40.7700395
+
+    LONGITUDE: -73.9638872

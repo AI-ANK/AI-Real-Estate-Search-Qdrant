@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Condo for sale
+
+    PRICE: 11500000
+
+    BEDS: 5
+
+    BATH: 5.0
+
+    PROPERTYSQFT: 5276.0
+
+    ADDRESS: 39 Lispenard St Unit 3RDFLOOR
+
+    STATE: Manhattan, NY 10013
+
+    MAIN_ADDRESS: 39 Lispenard St Unit 3RDFLOORManhattan, NY 10013
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: Lispenard Street
+
+    FORMATTED_ADDRESS: 39 Lispenard St, New York, NY 10013, USA
+
+    LATITUDE: 40.7198832
+
+    LONGITUDE: -74.0033836

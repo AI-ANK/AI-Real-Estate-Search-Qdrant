@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Prospect We Realty Inc.
+
+    TYPE: House for sale
+
+    PRICE: 599000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1196.0
+
+    ADDRESS: 80 Park Hill Cir
+
+    STATE: Staten Island, NY 10304
+
+    MAIN_ADDRESS: 80 Park Hill CirStaten Island, NY 10304
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Park Hill Circle
+
+    FORMATTED_ADDRESS: 80 Park Hill Cir, Staten Island, NY 10304, USA
+
+    LATITUDE: 40.6175888
+
+    LONGITUDE: -74.0775836

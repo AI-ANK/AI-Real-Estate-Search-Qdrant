@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Townhouse for sale
+
+    PRICE: 4000000
+
+    BEDS: 6
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 5854.0
+
+    ADDRESS: 62 3rd St
+
+    STATE: Brooklyn, NY 11231
+
+    MAIN_ADDRESS: 62 3rd StBrooklyn, NY 11231
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: 3rd Street
+
+    FORMATTED_ADDRESS: 62 3rd St., Brooklyn, NY 11231, USA
+
+    LATITUDE: 40.6777386
+
+    LONGITUDE: -73.9939495

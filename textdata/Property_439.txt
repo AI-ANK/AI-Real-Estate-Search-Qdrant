@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Taranto Realty
+
+    TYPE: Condo for sale
+
+    PRICE: 549000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1092.0
+
+    ADDRESS: 4 Jamie Ct
+
+    STATE: Staten Island, NY 10314
+
+    MAIN_ADDRESS: 4 Jamie CtStaten Island, NY 10314
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Jamie Court
+
+    FORMATTED_ADDRESS: 4 Jamie Ct, Staten Island, NY 10314, USA
+
+    LATITUDE: 40.6221107
+
+    LONGITUDE: -74.1499982

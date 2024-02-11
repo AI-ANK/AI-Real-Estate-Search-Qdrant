@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by EXP Realty
+
+    TYPE: Pending
+
+    PRICE: 859000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 110-38 64 Ave Units 36B & 35
+
+    STATE: Forest Hills, NY 11375
+
+    MAIN_ADDRESS: 110-38 64 Ave Units 36B & 35Forest Hills, NY 11375
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 64th Avenue
+
+    FORMATTED_ADDRESS: 110-38 64th Ave, Forest Hills, NY 11375, USA
+
+    LATITUDE: 40.7339078
+
+    LONGITUDE: -73.845842

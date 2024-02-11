@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Hall Homes Realty, Inc.
+
+    TYPE: House for sale
+
+    PRICE: 649000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1120.0
+
+    ADDRESS: 2760 Amboy Rd
+
+    STATE: Staten Island, NY 10306
+
+    MAIN_ADDRESS: 2760 Amboy RdStaten Island, NY 10306
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Amboy Road
+
+    FORMATTED_ADDRESS: 2760 Amboy Rd, Staten Island, NY 10306, USA
+
+    LATITUDE: 40.5694974
+
+    LONGITUDE: -74.1237437

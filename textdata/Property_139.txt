@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Townhouse for sale
+
+    PRICE: 5000000
+
+    BEDS: 10
+
+    BATH: 9.0
+
+    PROPERTYSQFT: 6425.0
+
+    ADDRESS: 137 W 80th St
+
+    STATE: Manhattan, NY 10024
+
+    MAIN_ADDRESS: 137 W 80th StManhattan, NY 10024
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: West 80th Street
+
+    FORMATTED_ADDRESS: 137 W 80th St, New York, NY 10024, USA
+
+    LATITUDE: 40.7832598
+
+    LONGITUDE: -73.976047

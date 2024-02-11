@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 1995 Broadway
+
+    TYPE: Co-op for sale
+
+    PRICE: 699000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 235 W 70th St Apt 3E
+
+    STATE: New York, NY 10023
+
+    MAIN_ADDRESS: 235 W 70th St Apt 3ENew York, NY 10023
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 235
+
+    FORMATTED_ADDRESS: 235 W 70th St #3e, New York, NY 10023, USA
+
+    LATITUDE: 40.7780341
+
+    LONGITUDE: -73.9838802

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Homelink Homes Llc
+
+    TYPE: House for sale
+
+    PRICE: 799999
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1344.0
+
+    ADDRESS: 2047 E 38th St
+
+    STATE: Brooklyn, NY 11234
+
+    MAIN_ADDRESS: 2047 E 38th StBrooklyn, NY 11234
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: East 38th Street
+
+    FORMATTED_ADDRESS: 2047 E 38th St, Brooklyn, NY 11234, USA
+
+    LATITUDE: 40.6099147
+
+    LONGITUDE: -73.9287144

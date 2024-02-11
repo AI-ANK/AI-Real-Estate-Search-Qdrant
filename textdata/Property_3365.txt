@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Brooklyn Heights
+
+    TYPE: Condo for sale
+
+    PRICE: 1049000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 897.0
+
+    ADDRESS: 85 N 3rd St Apt 504
+
+    STATE: Brooklyn, NY 11249
+
+    MAIN_ADDRESS: 85 N 3rd St Apt 504Brooklyn, NY 11249
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Williamsburg
+
+    LONG_NAME: 85
+
+    FORMATTED_ADDRESS: 85 N 3rd St APT 504, Brooklyn, NY 11249, USA
+
+    LATITUDE: 40.7172132
+
+    LONGITUDE: -73.9622559

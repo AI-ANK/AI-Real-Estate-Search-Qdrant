@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Better Homes and Gardens Real Estate Safari Realty
+
+    TYPE: Contingent
+
+    PRICE: 349000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1180.0
+
+    ADDRESS: 8 Ada Dr Unit 47
+
+    STATE: Staten Island, NY 10314
+
+    MAIN_ADDRESS: 8 Ada Dr Unit 47Staten Island, NY 10314
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Richmond County
+
+    SUBLOCALITY: Staten Island
+
+    STREET_NAME: Mid Island
+
+    LONG_NAME: 8
+
+    FORMATTED_ADDRESS: 8 Ada Dr # 47, Staten Island, NY 10314, USA
+
+    LATITUDE: 40.6195692
+
+    LONGITUDE: -74.1550985

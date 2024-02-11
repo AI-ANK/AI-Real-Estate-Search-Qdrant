@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams NYC
+
+    TYPE: Condo for sale
+
+    PRICE: 979000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1272.0
+
+    ADDRESS: 324 77th St Apt 2C
+
+    STATE: Brooklyn, NY 11209
+
+    MAIN_ADDRESS: 324 77th St Apt 2CBrooklyn, NY 11209
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Bay Ridge
+
+    LONG_NAME: 324
+
+    FORMATTED_ADDRESS: 324 77th St #2c, Brooklyn, NY 11209, USA
+
+    LATITUDE: 40.6295982
+
+    LONGITUDE: -74.0275565

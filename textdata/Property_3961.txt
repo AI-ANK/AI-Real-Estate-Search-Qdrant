@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by BHHS New York Properties
+
+    TYPE: Condo for sale
+
+    PRICE: 26000000
+
+    BEDS: 5
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 4859.0
+
+    ADDRESS: 24 Leonard St Apt 2
+
+    STATE: New York, NY 10013
+
+    MAIN_ADDRESS: 24 Leonard St Apt 2New York, NY 10013
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 24
+
+    FORMATTED_ADDRESS: 24 Leonard St Apartment 2, New York, NY 10013, USA
+
+    LATITUDE: 40.718295
+
+    LONGITUDE: -74.007645

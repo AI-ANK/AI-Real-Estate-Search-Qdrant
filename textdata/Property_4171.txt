@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Cruz Network Cruse Realty
+
+    TYPE: Condo for sale
+
+    PRICE: 549000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1113.0
+
+    ADDRESS: 85-09 151st Ave Unit 1H
+
+    STATE: Howard Beach, NY 11414
+
+    MAIN_ADDRESS: 85-09 151st Ave Unit 1HHoward Beach, NY 11414
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Howard Beach
+
+    LONG_NAME: 85-09
+
+    FORMATTED_ADDRESS: 85-09 151st Ave #1h, Howard Beach, NY 11414, USA
+
+    LATITUDE: 40.6687898
+
+    LONGITUDE: -73.8494942

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens - 1926 Broadway
+
+    TYPE: Co-op for sale
+
+    PRICE: 500000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 450.0
+
+    ADDRESS: 101 W 12th St Apt 7B
+
+    STATE: Manhattan, NY 10011
+
+    MAIN_ADDRESS: 101 W 12th St Apt 7BManhattan, NY 10011
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 101
+
+    FORMATTED_ADDRESS: 101 W 12th St Apt 7m, New York, NY 10011, USA
+
+    LATITUDE: 40.7361563
+
+    LONGITUDE: -73.9977295

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Skylight Real Estate Consultan
+
+    TYPE: House for sale
+
+    PRICE: 799999
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1444.0
+
+    ADDRESS: 106-10 217th St
+
+    STATE: Jamaica, NY 11429
+
+    MAIN_ADDRESS: 106-10 217th StJamaica, NY 11429
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 217th Street
+
+    FORMATTED_ADDRESS: 106-10 217th St, Jamaica, NY 11429, USA
+
+    LATITUDE: 40.7110987
+
+    LONGITUDE: -73.741186

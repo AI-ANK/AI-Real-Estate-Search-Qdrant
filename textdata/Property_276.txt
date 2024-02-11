@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sotheby's International Realty - East Side Manhattan Brokerage
+
+    TYPE: For sale
+
+    PRICE: 6500000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 995 Fifth Ave Apt 11N
+
+    STATE: New York, NY 10028
+
+    MAIN_ADDRESS: 995 Fifth Ave Apt 11NNew York, NY 10028
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 995
+
+    FORMATTED_ADDRESS: 995 5th Ave #11b, New York, NY 10028, USA
+
+    LATITUDE: 40.778004
+
+    LONGITUDE: -73.962547

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sotheby's International Realty - East Side Manhattan Brokerage
+
+    TYPE: Co-op for sale
+
+    PRICE: 2250000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 288 W 12th St # 3FR
+
+    STATE: New York, NY 10014
+
+    MAIN_ADDRESS: 288 W 12th St # 3FRNew York, NY 10014
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 288
+
+    FORMATTED_ADDRESS: 288 W 12th St #3f, New York, NY 10014, USA
+
+    LATITUDE: 40.7373809
+
+    LONGITUDE: -74.0040989

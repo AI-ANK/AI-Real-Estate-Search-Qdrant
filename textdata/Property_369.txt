@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Coldwell Banker Advantage
+
+    TYPE: Contingent
+
+    PRICE: 720000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1430.0
+
+    ADDRESS: 190 Chestnut Ave
+
+    STATE: Staten Island, NY 10305
+
+    MAIN_ADDRESS: 190 Chestnut AveStaten Island, NY 10305
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Chestnut Avenue
+
+    FORMATTED_ADDRESS: 190 Chestnut Ave, Staten Island, NY 10305, USA
+
+    LATITUDE: 40.6149561
+
+    LONGITUDE: -74.0745548

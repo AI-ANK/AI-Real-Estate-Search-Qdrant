@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Condo for sale
+
+    PRICE: 15500000
+
+    BEDS: 5
+
+    BATH: 5.0
+
+    PROPERTYSQFT: 4193.0
+
+    ADDRESS: 1045 Madison Ave Apt 11
+
+    STATE: Manhattan, NY 10075
+
+    MAIN_ADDRESS: 1045 Madison Ave Apt 11Manhattan, NY 10075
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 1045
+
+    FORMATTED_ADDRESS: 1045 Madison Ave #11, New York, NY 10075, USA
+
+    LATITUDE: 40.7766637
+
+    LONGITUDE: -73.9615947

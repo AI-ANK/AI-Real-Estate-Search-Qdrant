@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by CENTURY 21 Achievers
+
+    TYPE: House for sale
+
+    PRICE: 569000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 840.0
+
+    ADDRESS: 765 Shepherd Ave
+
+    STATE: Brooklyn, NY 11208
+
+    MAIN_ADDRESS: 765 Shepherd AveBrooklyn, NY 11208
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Shepherd Avenue
+
+    FORMATTED_ADDRESS: 765 Shepherd Ave, Brooklyn, NY 11208, USA
+
+    LATITUDE: 40.6656889
+
+    LONGITUDE: -73.8773179

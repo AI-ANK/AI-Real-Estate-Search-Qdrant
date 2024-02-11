@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Home Global Realty
+
+    TYPE: Co-op for sale
+
+    PRICE: 232000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 750.0
+
+    ADDRESS: 32-22 89th St Unit 106E
+
+    STATE: East Elmhurst, NY 11369
+
+    MAIN_ADDRESS: 32-22 89th St Unit 106EEast Elmhurst, NY 11369
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: East Elmhurst
+
+    LONG_NAME: 3222
+
+    FORMATTED_ADDRESS: 3222 89th St # 106, East Elmhurst, NY 11369, USA
+
+    LATITUDE: 40.7583699
+
+    LONGITUDE: -73.87924

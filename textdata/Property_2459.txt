@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by R New York
+
+    TYPE: Co-op for sale
+
+    PRICE: 850000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 235 Adams St Apt 4D
+
+    STATE: Brooklyn, NY 11201
+
+    MAIN_ADDRESS: 235 Adams St Apt 4DBrooklyn, NY 11201
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Downtown Brooklyn
+
+    LONG_NAME: 235
+
+    FORMATTED_ADDRESS: 235 Adams St #4d, Brooklyn, NY 11201, USA
+
+    LATITUDE: 40.6965776
+
+    LONGITUDE: -73.9883987

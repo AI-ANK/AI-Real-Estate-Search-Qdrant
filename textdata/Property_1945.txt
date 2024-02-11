@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Nareema Baksh Real Estate
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1279000
+
+    BEDS: 16
+
+    BATH: 8.0
+
+    PROPERTYSQFT: 3550.0
+
+    ADDRESS: 761 Home St
+
+    STATE: Bronx, NY 10456
+
+    MAIN_ADDRESS: 761 Home StBronx, NY 10456
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Home Street
+
+    FORMATTED_ADDRESS: 761 Home St, Bronx, NY 10456, USA
+
+    LATITUDE: 40.8282675
+
+    LONGITUDE: -73.9014729

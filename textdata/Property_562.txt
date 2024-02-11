@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Prime Realty
+
+    TYPE: Pending
+
+    PRICE: 999000
+
+    BEDS: 5
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 59-14 69th St
+
+    STATE: Maspeth, NY 11378
+
+    MAIN_ADDRESS: 59-14 69th StMaspeth, NY 11378
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 69th Street
+
+    FORMATTED_ADDRESS: 59-14 69th St, Flushing, NY 11378, USA
+
+    LATITUDE: 40.7227469
+
+    LONGITUDE: -73.8941061

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sotheby's International Realty - East Side Manhattan Brokerage
+
+    TYPE: Co-op for sale
+
+    PRICE: 21000000
+
+    BEDS: 5
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 730 Park Ave # 9A
+
+    STATE: New York, NY 10021
+
+    MAIN_ADDRESS: 730 Park Ave # 9ANew York, NY 10021
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 730
+
+    FORMATTED_ADDRESS: 730 Park Ave #9a, New York, NY 10021, USA
+
+    LATITUDE: 40.7704869
+
+    LONGITUDE: -73.9648893

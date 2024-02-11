@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by East Coast REALTORS Inc
+
+    TYPE: Co-op for sale
+
+    PRICE: 220000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 61-88 Dry Harbor Rd Unit Lh
+
+    STATE: Middle Village, NY 11379
+
+    MAIN_ADDRESS: 61-88 Dry Harbor Rd Unit LhMiddle Village, NY 11379
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Dry Harbor Road
+
+    FORMATTED_ADDRESS: 61-88 Dry Harbor Rd, Flushing, NY 11379, USA
+
+    LATITUDE: 40.7257927
+
+    LONGITUDE: -73.8727767

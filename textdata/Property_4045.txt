@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Coldwell Banker Reliable
+
+    TYPE: House for sale
+
+    PRICE: 6600000
+
+    BEDS: 8
+
+    BATH: 5.0
+
+    PROPERTYSQFT: 5110.0
+
+    ADDRESS: 160 E 105th St
+
+    STATE: New York, NY 10029
+
+    MAIN_ADDRESS: 160 E 105th StNew York, NY 10029
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: East 105th Street
+
+    FORMATTED_ADDRESS: 160 E 105th St, New York, NY 10029, USA
+
+    LATITUDE: 40.7911493
+
+    LONGITUDE: -73.9463028

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by EXIT ALL SEASONS REALTY
+
+    TYPE: Condo for sale
+
+    PRICE: 1300000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1125.0
+
+    ADDRESS: 163 Taaffe Pl Apt 4
+
+    STATE: Brooklyn, NY 11205
+
+    MAIN_ADDRESS: 163 Taaffe Pl Apt 4Brooklyn, NY 11205
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Taaffe Place
+
+    FORMATTED_ADDRESS: 163 Taaffe Pl, Brooklyn, NY 11205, USA
+
+    LATITUDE: 40.6936119
+
+    LONGITUDE: -73.9599302

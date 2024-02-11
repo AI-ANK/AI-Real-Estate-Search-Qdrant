@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by BHHS New York Properties
+
+    TYPE: Townhouse for sale
+
+    PRICE: 2200000
+
+    BEDS: 6
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2385.0
+
+    ADDRESS: 484 A 7th Ave
+
+    STATE: Brooklyn, NY 11215
+
+    MAIN_ADDRESS: 484 A 7th AveBrooklyn, NY 11215
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: 7th Avenue
+
+    FORMATTED_ADDRESS: 484A 7th Ave, Brooklyn, NY 11215, USA
+
+    LATITUDE: 40.6621056
+
+    LONGITUDE: -73.9857576

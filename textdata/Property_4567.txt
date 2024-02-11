@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Real Estate Professionals
+
+    TYPE: House for sale
+
+    PRICE: 650000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1500.0
+
+    ADDRESS: 54 Farrell Ct
+
+    STATE: Staten Island, NY 10306
+
+    MAIN_ADDRESS: 54 Farrell CtStaten Island, NY 10306
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Farrell Court
+
+    FORMATTED_ADDRESS: 54 Farrell Ct, Staten Island, NY 10306, USA
+
+    LATITUDE: 40.5659163
+
+    LONGITUDE: -74.1274652

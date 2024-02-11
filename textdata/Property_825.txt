@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Coldwell Banker American Homes
+
+    TYPE: House for sale
+
+    PRICE: 599000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 312F Beach 101st St
+
+    STATE: Rockaway Park, NY 11694
+
+    MAIN_ADDRESS: 312F Beach 101st StRockaway Park, NY 11694
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Beach 101st Street
+
+    FORMATTED_ADDRESS: 312F Beach 101st St, Rockaway Park, NY 11694, USA
+
+    LATITUDE: 40.5853206
+
+    LONGITUDE: -73.8221893

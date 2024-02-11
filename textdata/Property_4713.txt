@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Diamond Real Inc
+
+    TYPE: Co-op for sale
+
+    PRICE: 519000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1100.0
+
+    ADDRESS: 2 W End Ave Unit L4
+
+    STATE: Brooklyn, NY 11235
+
+    MAIN_ADDRESS: 2 W End Ave Unit L4Brooklyn, NY 11235
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Manhattan Beach
+
+    LONG_NAME: 2
+
+    FORMATTED_ADDRESS: 2 West End Ave Apt 4l, Brooklyn, NY 11235, USA
+
+    LATITUDE: 40.5813269
+
+    LONGITUDE: -73.9541649

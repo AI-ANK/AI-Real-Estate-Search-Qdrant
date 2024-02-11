@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran East Side
+
+    TYPE: Co-op for sale
+
+    PRICE: 1999000
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1950.0
+
+    ADDRESS: 1192 Park Ave # 5D
+
+    STATE: New York, NY 10128
+
+    MAIN_ADDRESS: 1192 Park Ave # 5DNew York, NY 10128
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 1192
+
+    FORMATTED_ADDRESS: 1192 Park Ave #5d, New York, NY 10128, USA
+
+    LATITUDE: 40.7851745
+
+    LONGITUDE: -73.9538945

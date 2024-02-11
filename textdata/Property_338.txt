@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 3544 Johnson Ave
+
+    TYPE: Townhouse for sale
+
+    PRICE: 795000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1440.0
+
+    ADDRESS: 42 Adrian Ave
+
+    STATE: New York, NY 10463
+
+    MAIN_ADDRESS: 42 Adrian AveNew York, NY 10463
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: Adrian Avenue
+
+    FORMATTED_ADDRESS: 42 Adrian Ave, Bronx, NY 10463, USA
+
+    LATITUDE: 40.8767388
+
+    LONGITUDE: -73.911189

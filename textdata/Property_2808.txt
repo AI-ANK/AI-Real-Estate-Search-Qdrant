@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Coldwell Banker Warburg
+
+    TYPE: Townhouse for sale
+
+    PRICE: 3595000
+
+    BEDS: 5
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 4675.0
+
+    ADDRESS: 549 W 149th St
+
+    STATE: New York, NY 10031
+
+    MAIN_ADDRESS: 549 W 149th StNew York, NY 10031
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: West 149th Street
+
+    FORMATTED_ADDRESS: 549 W 149th St, New York, NY 10031, USA
+
+    LATITUDE: 40.828721
+
+    LONGITUDE: -73.947403

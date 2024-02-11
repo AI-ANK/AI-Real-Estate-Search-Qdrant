@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Realty Connect USA LLC
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 999999
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 94-24 53rd Ave
+
+    STATE: Elmhurst, NY 11373
+
+    MAIN_ADDRESS: 94-24 53rd AveElmhurst, NY 11373
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 53rd Avenue
+
+    FORMATTED_ADDRESS: 94-24 53rd Ave, Elmhurst, NY 11373, USA
+
+    LATITUDE: 40.7392278
+
+    LONGITUDE: -73.8677036

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Westside Columbus
+
+    TYPE: Pending
+
+    PRICE: 250000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 246.0
+
+    ADDRESS: 188 E 75th St Apt 1B
+
+    STATE: New York, NY 10021
+
+    MAIN_ADDRESS: 188 E 75th St Apt 1BNew York, NY 10021
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 188
+
+    FORMATTED_ADDRESS: 188 E 75th St #1b, New York, NY 10021, USA
+
+    LATITUDE: 40.7718652
+
+    LONGITUDE: -73.9599302

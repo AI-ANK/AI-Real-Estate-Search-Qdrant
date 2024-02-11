@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Robert DeFalco Realty, Inc.
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1195000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2700.0
+
+    ADDRESS: 72 Jeanette Ave
+
+    STATE: Staten Island, NY 10312
+
+    MAIN_ADDRESS: 72 Jeanette AveStaten Island, NY 10312
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Jeanette Avenue
+
+    FORMATTED_ADDRESS: 72 Jeanette Ave, Staten Island, NY 10312, USA
+
+    LATITUDE: 40.5424657
+
+    LONGITUDE: -74.1746625

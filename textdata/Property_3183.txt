@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Condo for sale
+
+    PRICE: 625000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 458.0
+
+    ADDRESS: 173 McGuinness Blvd Unit 3C
+
+    STATE: Brooklyn, NY 11222
+
+    MAIN_ADDRESS: 173 McGuinness Blvd Unit 3CBrooklyn, NY 11222
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Greenpoint
+
+    LONG_NAME: 173
+
+    FORMATTED_ADDRESS: 173 McGuinness Blvd #3c, Brooklyn, NY 11222, USA
+
+    LATITUDE: 40.7282026
+
+    LONGITUDE: -73.9504745

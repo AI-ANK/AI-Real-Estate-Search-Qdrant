@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Realty Empire
+
+    TYPE: House for sale
+
+    PRICE: 650000
+
+    BEDS: 4
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1152.0
+
+    ADDRESS: 318 Arthur Kill Rd
+
+    STATE: Staten Island, NY 10308
+
+    MAIN_ADDRESS: 318 Arthur Kill RdStaten Island, NY 10308
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Arthur Kill Road
+
+    FORMATTED_ADDRESS: 318 Arthur Kill Rd, Staten Island, NY 10308, USA
+
+    LATITUDE: 40.5663057
+
+    LONGITUDE: -74.1529549

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by MQ Realty - M Q Realty
+
+    TYPE: House for sale
+
+    PRICE: 3750000
+
+    BEDS: 13
+
+    BATH: 8.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 37-02 31st Ave Unit Building
+
+    STATE: Astoria, NY 11103
+
+    MAIN_ADDRESS: 37-02 31st Ave Unit BuildingAstoria, NY 11103
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 31st Avenue
+
+    FORMATTED_ADDRESS: 37-02 31st Ave, Long Island City, NY 11103, USA
+
+    LATITUDE: 40.7618536
+
+    LONGITUDE: -73.9187072

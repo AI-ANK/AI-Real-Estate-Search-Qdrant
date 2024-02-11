@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Co-op for sale
+
+    PRICE: 6000000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 480 Park Avenue Ave Unit 18H
+
+    STATE: Manhattan, NY 10022
+
+    MAIN_ADDRESS: 480 Park Avenue Ave Unit 18HManhattan, NY 10022
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 480
+
+    FORMATTED_ADDRESS: 480 Park Ave Apt 18d, New York, NY 10022, USA
+
+    LATITUDE: 40.7625546
+
+    LONGITUDE: -73.9703842

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: NoBroker
+
+    TYPE: Co-op for sale
+
+    PRICE: 239000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 111-31 66th Ave Unit 2C
+
+    STATE: Forest Hills, NY 11375
+
+    MAIN_ADDRESS: 111-31 66th Ave Unit 2CForest Hills, NY 11375
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Forest Hills
+
+    LONG_NAME: 111- 31
+
+    FORMATTED_ADDRESS: 111- 31 66th Ave #2c, Forest Hills, NY 11375, USA
+
+    LATITUDE: 40.7318103
+
+    LONGITUDE: -73.8443526

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Morris Park Realty Group
+
+    TYPE: Co-op for sale
+
+    PRICE: 149999
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 694.0
+
+    ADDRESS: 5621 Netherland Ave Apt 3C
+
+    STATE: Bronx, NY 10471
+
+    MAIN_ADDRESS: 5621 Netherland Ave Apt 3CBronx, NY 10471
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: North Riverdale
+
+    LONG_NAME: 5621
+
+    FORMATTED_ADDRESS: 5621 Netherland Ave #3c, Bronx, NY 10471, USA
+
+    LATITUDE: 40.9049984
+
+    LONGITUDE: -73.9065719

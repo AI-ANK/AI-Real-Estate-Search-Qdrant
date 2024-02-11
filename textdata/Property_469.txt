@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by IHome Realty Group LLC
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1300000
+
+    BEDS: 15
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 4920.0
+
+    ADDRESS: 3015 Avenue D
+
+    STATE: Brooklyn, NY 11226
+
+    MAIN_ADDRESS: 3015 Avenue DBrooklyn, NY 11226
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Avenue D
+
+    FORMATTED_ADDRESS: 3015 Avenue D, Brooklyn, NY 11226, USA
+
+    LATITUDE: 40.6411388
+
+    LONGITUDE: -73.9478417

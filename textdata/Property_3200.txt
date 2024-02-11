@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Pending
+
+    PRICE: 249000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 900.0
+
+    ADDRESS: 2601 Henry Hudson West Parkway Pkwy W Unit 6C
+
+    STATE: Bronx, NY 10463
+
+    MAIN_ADDRESS: 2601 Henry Hudson West Parkway Pkwy W Unit 6CBronx, NY 10463
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Henry Hudson Parkway West
+
+    FORMATTED_ADDRESS: 2601 Henry Hudson Pkwy W, Bronx, NY 10463, USA
+
+    LATITUDE: 40.8808392
+
+    LONGITUDE: -73.9191025

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Momentum Real Estate LLC
+
+    TYPE: Contingent
+
+    PRICE: 999000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 1798.0
+
+    ADDRESS: 25 Piedmont Ave
+
+    STATE: Staten Island, NY 10305
+
+    MAIN_ADDRESS: 25 Piedmont AveStaten Island, NY 10305
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Piedmont Avenue
+
+    FORMATTED_ADDRESS: 25 Piedmont Ave, Staten Island, NY 10305, USA
+
+    LATITUDE: 40.6032357
+
+    LONGITUDE: -74.0737747

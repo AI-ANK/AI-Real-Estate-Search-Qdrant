@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Townhouse for sale
+
+    PRICE: 13995000
+
+    BEDS: 5
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 6815.0
+
+    ADDRESS: 137 W 77th St
+
+    STATE: Manhattan, NY 10024
+
+    MAIN_ADDRESS: 137 W 77th StManhattan, NY 10024
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: West 77th Street
+
+    FORMATTED_ADDRESS: 137 W 77th St, New York, NY 10024, USA
+
+    LATITUDE: 40.7813836
+
+    LONGITUDE: -73.9776937

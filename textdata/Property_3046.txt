@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Infinity LUXXE Estates LLC
+
+    TYPE: House for sale
+
+    PRICE: 550000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1221.0
+
+    ADDRESS: 10229 Davenport Ct
+
+    STATE: Howard Beach, NY 11414
+
+    MAIN_ADDRESS: 10229 Davenport CtHoward Beach, NY 11414
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Davenport Court
+
+    FORMATTED_ADDRESS: 10229 Davenport Ct, Jamaica, NY 11414, USA
+
+    LATITUDE: 40.653784
+
+    LONGITUDE: -73.8286059

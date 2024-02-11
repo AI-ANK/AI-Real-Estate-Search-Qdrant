@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Exp Realty
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 899975
+
+    BEDS: 6
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1952.0
+
+    ADDRESS: 861 E 231st St
+
+    STATE: Bronx, NY 10466
+
+    MAIN_ADDRESS: 861 E 231st StBronx, NY 10466
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: East 231st Street
+
+    FORMATTED_ADDRESS: 861 E 231st St, Bronx, NY 10466, USA
+
+    LATITUDE: 40.8906352
+
+    LONGITUDE: -73.853094

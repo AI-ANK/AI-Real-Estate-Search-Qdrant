@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Chelsea/Flatiron
+
+    TYPE: Co-op for sale
+
+    PRICE: 1675000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1150.0
+
+    ADDRESS: 315 W 23rd St Apt 9D
+
+    STATE: New York, NY 10011
+
+    MAIN_ADDRESS: 315 W 23rd St Apt 9DNew York, NY 10011
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 315
+
+    FORMATTED_ADDRESS: 315 W 23rd St #9d, New York, NY 10011, USA
+
+    LATITUDE: 40.7458303
+
+    LONGITUDE: -73.9991418

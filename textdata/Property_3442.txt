@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 599000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 320 E 42nd St Apt 1901
+
+    STATE: Manhattan, NY 10017
+
+    MAIN_ADDRESS: 320 E 42nd St Apt 1901Manhattan, NY 10017
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 320
+
+    FORMATTED_ADDRESS: 320 E 42nd St Apt 1901, New York, NY 10017, USA
+
+    LATITUDE: 40.7494678
+
+    LONGITUDE: -73.9717468

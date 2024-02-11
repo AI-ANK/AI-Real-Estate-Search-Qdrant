@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Ashford Homes
+
+    TYPE: Townhouse for sale
+
+    PRICE: 548000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1354.0
+
+    ADDRESS: 17 Bianca Ct
+
+    STATE: Staten Island, NY 10312
+
+    MAIN_ADDRESS: 17 Bianca CtStaten Island, NY 10312
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Bianca Court
+
+    FORMATTED_ADDRESS: 17 Bianca Ct, Staten Island, NY 10312, USA
+
+    LATITUDE: 40.5646084
+
+    LONGITUDE: -74.184535

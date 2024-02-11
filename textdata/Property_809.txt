@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Rlty Landmark
+
+    TYPE: Co-op for sale
+
+    PRICE: 305000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 164-11 Willets Point Blvd Unit 2
+
+    STATE: Whitestone, NY 11357
+
+    MAIN_ADDRESS: 164-11 Willets Point Blvd Unit 2Whitestone, NY 11357
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Whitestone
+
+    LONG_NAME: 164- 11
+
+    FORMATTED_ADDRESS: 164- 11 Willets Point Blvd #2, Whitestone, NY 11357, USA
+
+    LATITUDE: 40.783465
+
+    LONGITUDE: -73.7990603

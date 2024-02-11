@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Benjamin Realty Since 1980
+
+    TYPE: Co-op for sale
+
+    PRICE: 339000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 77-35 113th St Unit 5B
+
+    STATE: Forest Hills, NY 11375
+
+    MAIN_ADDRESS: 77-35 113th St Unit 5BForest Hills, NY 11375
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Forest Hills
+
+    LONG_NAME: 77-35
+
+    FORMATTED_ADDRESS: 77-35 113th St #5b, Forest Hills, NY 11375, USA
+
+    LATITUDE: 40.7162869
+
+    LONGITUDE: -73.8314446

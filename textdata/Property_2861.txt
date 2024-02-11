@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens - 445 Park Avenue
+
+    TYPE: Co-op for sale
+
+    PRICE: 2500000
+
+    BEDS: 5
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 3860.0
+
+    ADDRESS: 870 United Nations Plaza Plz Units 37 & 38C
+
+    STATE: Manhattan, NY 10017
+
+    MAIN_ADDRESS: 870 United Nations Plaza Plz Units 37 & 38CManhattan, NY 10017
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: United Nations Plaza
+
+    FORMATTED_ADDRESS: 870 United Nations Plaza, New York, NY 10017, USA
+
+    LATITUDE: 40.7524819
+
+    LONGITUDE: -73.9654633

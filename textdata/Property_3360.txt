@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Crossings Realty
+
+    TYPE: Co-op for sale
+
+    PRICE: 165000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 400.0
+
+    ADDRESS: 84-25 118 St Unit 3A
+
+    STATE: Kew Gardens, NY 11415
+
+    MAIN_ADDRESS: 84-25 118 St Unit 3AKew Gardens, NY 11415
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Jamaica
+
+    LONG_NAME: 84-25
+
+    FORMATTED_ADDRESS: 84-25 118th St #3a, Jamaica, NY 11415, USA
+
+    LATITUDE: 40.7034174
+
+    LONGITUDE: -73.8331304

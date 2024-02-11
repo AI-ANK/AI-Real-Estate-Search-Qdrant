@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran East Side
+
+    TYPE: Co-op for sale
+
+    PRICE: 15500000
+
+    BEDS: 4
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 1185 Park Ave # 16 & 17F
+
+    STATE: New York, NY 10128
+
+    MAIN_ADDRESS: 1185 Park Ave # 16 & 17FNew York, NY 10128
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: Park Avenue
+
+    FORMATTED_ADDRESS: 1617 Park Ave, New York, NY 10029, USA
+
+    LATITUDE: 40.7985635
+
+    LONGITUDE: -73.943597

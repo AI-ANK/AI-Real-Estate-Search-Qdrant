@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by EXP Realty
+
+    TYPE: Condo for sale
+
+    PRICE: 350000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 527 E 156th St Unit 67C
+
+    STATE: Bronx, NY 10455
+
+    MAIN_ADDRESS: 527 E 156th St Unit 67CBronx, NY 10455
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: Woodstock
+
+    LONG_NAME: 527D
+
+    FORMATTED_ADDRESS: 527D E 156th St #67D, Bronx, NY 10455, USA
+
+    LATITUDE: 40.8203804
+
+    LONGITUDE: -73.9109368

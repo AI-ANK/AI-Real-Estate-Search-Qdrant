@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Peace Of Mind Realty
+
+    TYPE: House for sale
+
+    PRICE: 750000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1868.0
+
+    ADDRESS: 857 E 37th St
+
+    STATE: East Flatbush, NY 11203
+
+    MAIN_ADDRESS: 857 E 37th StEast Flatbush, NY 11203
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: East 37th Street
+
+    FORMATTED_ADDRESS: 857 E 37th St, Brooklyn, NY 11210, USA
+
+    LATITUDE: 40.6359284
+
+    LONGITUDE: -73.9409763

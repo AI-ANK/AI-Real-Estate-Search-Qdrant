@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman  -111 Fifth Ave
+
+    TYPE: Condo for sale
+
+    PRICE: 1650000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1267.0
+
+    ADDRESS: 473 Hicks St Apt 4
+
+    STATE: Brooklyn, NY 11231
+
+    MAIN_ADDRESS: 473 Hicks St Apt 4Brooklyn, NY 11231
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Cobble Hill
+
+    LONG_NAME: 473
+
+    FORMATTED_ADDRESS: 473 Hicks St APT 4, Brooklyn, NY 11231, USA
+
+    LATITUDE: 40.6866098
+
+    LONGITUDE: -73.9997131

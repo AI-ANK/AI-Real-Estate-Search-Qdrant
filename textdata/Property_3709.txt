@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Weichert Properties
+
+    TYPE: Co-op for sale
+
+    PRICE: 3100000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 262 Central Park W Unit 14D
+
+    STATE: New York, NY 10024
+
+    MAIN_ADDRESS: 262 Central Park W Unit 14DNew York, NY 10024
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 262
+
+    FORMATTED_ADDRESS: 262 Central Park W #14d, New York, NY 10024, USA
+
+    LATITUDE: 40.7857788
+
+    LONGITUDE: -73.9693433

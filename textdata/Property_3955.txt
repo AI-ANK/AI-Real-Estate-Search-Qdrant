@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Fillmore Real Estate Fusion Team, INC.
+
+    TYPE: Co-op for sale
+
+    PRICE: 800000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1200.0
+
+    ADDRESS: 100 Avenue P Apt 1H
+
+    STATE: Brooklyn, NY 11204
+
+    MAIN_ADDRESS: 100 Avenue P Apt 1HBrooklyn, NY 11204
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Gravesend
+
+    LONG_NAME: 100
+
+    FORMATTED_ADDRESS: 100 Avenue P #1h, Brooklyn, NY 11204, USA
+
+    LATITUDE: 40.6072346
+
+    LONGITUDE: -73.9847935

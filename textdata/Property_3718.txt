@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sotheby's International Realty - East Side Manhattan Brokerage
+
+    TYPE: Pending
+
+    PRICE: 1150000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 67 Park Ave # 9B
+
+    STATE: New York, NY 10016
+
+    MAIN_ADDRESS: 67 Park Ave # 9BNew York, NY 10016
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 67
+
+    FORMATTED_ADDRESS: 67 Park Ave #9b, New York, NY 10016, USA
+
+    LATITUDE: 40.74958
+
+    LONGITUDE: -73.9790355

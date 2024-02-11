@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by BROWN HARRIS STEVENS BROOKLYN LLC
+
+    TYPE: Townhouse for sale
+
+    PRICE: 1200000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 435 81st St
+
+    STATE: Brooklyn, NY 11209
+
+    MAIN_ADDRESS: 435 81st StBrooklyn, NY 11209
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: 81st Street
+
+    FORMATTED_ADDRESS: 435 81st St, Brooklyn, NY 11209, USA
+
+    LATITUDE: 40.6260506
+
+    LONGITUDE: -74.0258346

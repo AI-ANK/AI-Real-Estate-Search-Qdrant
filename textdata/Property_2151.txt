@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Daniel Gale Sotheby's International Realty
+
+    TYPE: Co-op for sale
+
+    PRICE: 398000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 21-77 33rd St Unit 4F
+
+    STATE: Astoria, NY 11105
+
+    MAIN_ADDRESS: 21-77 33rd St Unit 4FAstoria, NY 11105
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Astoria
+
+    LONG_NAME: 21-77
+
+    FORMATTED_ADDRESS: 21-77 33rd St #4f, Astoria, NY 11105, USA
+
+    LATITUDE: 40.7753841
+
+    LONGITUDE: -73.90928

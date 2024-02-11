@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran East Side
+
+    TYPE: Co-op for sale
+
+    PRICE: 1150000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 50 Central Park W Apt 10D
+
+    STATE: New York, NY 10023
+
+    MAIN_ADDRESS: 50 Central Park W Apt 10DNew York, NY 10023
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 50
+
+    FORMATTED_ADDRESS: 50 Central Park W #10d, New York, NY 10023, USA
+
+    LATITUDE: 40.7717316
+
+    LONGITUDE: -73.9797209

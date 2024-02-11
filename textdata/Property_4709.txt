@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Brooklyn Heights
+
+    TYPE: Condo for sale
+
+    PRICE: 849000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 937.0
+
+    ADDRESS: 733 Ocean Pkwy # 7C
+
+    STATE: Brooklyn, NY 11230
+
+    MAIN_ADDRESS: 733 Ocean Pkwy # 7CBrooklyn, NY 11230
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Kensington
+
+    LONG_NAME: 733
+
+    FORMATTED_ADDRESS: 733 Ocean Pkwy #7c, Brooklyn, NY 11230, USA
+
+    LATITUDE: 40.6305676
+
+    LONGITUDE: -73.9713098

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Pending
+
+    PRICE: 2500000
+
+    BEDS: 5
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 4400.0
+
+    ADDRESS: 210 Jefferson Ave
+
+    STATE: Brooklyn, NY 11216
+
+    MAIN_ADDRESS: 210 Jefferson AveBrooklyn, NY 11216
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Jefferson Avenue
+
+    FORMATTED_ADDRESS: 210 Jefferson Ave, Brooklyn, NY 11216, USA
+
+    LATITUDE: 40.6832052
+
+    LONGITUDE: -73.9491758

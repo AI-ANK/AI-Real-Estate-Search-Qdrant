@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE/MAX City Square
+
+    TYPE: Co-op for sale
+
+    PRICE: 199999
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 471.0
+
+    ADDRESS: 110-20 71st Ave Unit 231
+
+    STATE: Forest Hills, NY 11375
+
+    MAIN_ADDRESS: 110-20 71st Ave Unit 231Forest Hills, NY 11375
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Forest Hills
+
+    LONG_NAME: 11020
+
+    FORMATTED_ADDRESS: 11020 71st Ave Apt 231, Forest Hills, NY 11375, USA
+
+    LATITUDE: 40.7223099
+
+    LONGITUDE: -73.84153

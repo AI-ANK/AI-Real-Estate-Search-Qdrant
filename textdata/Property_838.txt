@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Genstone Properties
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 625000
+
+    BEDS: 5
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 198 Shepherd Ave
+
+    STATE: Brooklyn, NY 11208
+
+    MAIN_ADDRESS: 198 Shepherd AveBrooklyn, NY 11208
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Shepherd Avenue
+
+    FORMATTED_ADDRESS: 198 Shepherd Ave, Brooklyn, NY 11208, USA
+
+    LATITUDE: 40.679665
+
+    LONGITUDE: -73.8819497

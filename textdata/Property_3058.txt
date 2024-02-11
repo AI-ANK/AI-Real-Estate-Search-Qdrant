@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Real Estate Authorities Inc
+
+    TYPE: House for sale
+
+    PRICE: 499000
+
+    BEDS: 5
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1236.0
+
+    ADDRESS: 3636 Barnes Ave
+
+    STATE: Bronx, NY 10467
+
+    MAIN_ADDRESS: 3636 Barnes AveBronx, NY 10467
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Barnes Avenue
+
+    FORMATTED_ADDRESS: 3636 Barnes Ave, Bronx, NY 10467, USA
+
+    LATITUDE: 40.879318
+
+    LONGITUDE: -73.8613522

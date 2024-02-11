@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Townhouse for sale
+
+    PRICE: 2999000
+
+    BEDS: 9
+
+    BATH: 8.0
+
+    PROPERTYSQFT: 5560.0
+
+    ADDRESS: 1937 Madison Ave Unit Townhouse
+
+    STATE: Manhattan, NY 10035
+
+    MAIN_ADDRESS: 1937 Madison Ave Unit TownhouseManhattan, NY 10035
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: Madison Avenue
+
+    FORMATTED_ADDRESS: 1937 Madison Ave, New York, NY 10035, USA
+
+    LATITUDE: 40.8052328
+
+    LONGITUDE: -73.9407352

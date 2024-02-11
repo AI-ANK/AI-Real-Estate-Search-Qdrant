@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Edge
+
+    TYPE: House for sale
+
+    PRICE: 1080000
+
+    BEDS: 6
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 3600.0
+
+    ADDRESS: 47 Wheeler Ave
+
+    STATE: Staten Island, NY 10314
+
+    MAIN_ADDRESS: 47 Wheeler AveStaten Island, NY 10314
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Wheeler Avenue
+
+    FORMATTED_ADDRESS: 47 Wheeler Ave, Staten Island, NY 10314, USA
+
+    LATITUDE: 40.6110496
+
+    LONGITUDE: -74.1309465

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman  -111 Fifth Ave
+
+    TYPE: Co-op for sale
+
+    PRICE: 2300000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1600.0
+
+    ADDRESS: 242 E 7th St Unit Ph
+
+    STATE: New York, NY 10009
+
+    MAIN_ADDRESS: 242 E 7th St Unit PhNew York, NY 10009
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: East 7th Street
+
+    FORMATTED_ADDRESS: 242 E 7th St, New York, NY 10009, USA
+
+    LATITUDE: 40.7236159
+
+    LONGITUDE: -73.9781735

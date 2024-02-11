@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Stonegate Real Estate
+
+    TYPE: Townhouse for sale
+
+    PRICE: 1049000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1224.0
+
+    ADDRESS: 67101 Dartmouth St
+
+    STATE: Forest Hills, NY 11375
+
+    MAIN_ADDRESS: 67101 Dartmouth StForest Hills, NY 11375
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Dartmouth Street
+
+    FORMATTED_ADDRESS: 67-101 Dartmouth St, Flushing, NY 11375, USA
+
+    LATITUDE: 40.7207542
+
+    LONGITUDE: -73.8537801

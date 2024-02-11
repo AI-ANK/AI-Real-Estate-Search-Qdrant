@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Serhant
+
+    TYPE: Condo for sale
+
+    PRICE: 9995000
+
+    BEDS: 3
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2950.0
+
+    ADDRESS: 10 Sullivan St Unit 10A
+
+    STATE: New York, NY 10012
+
+    MAIN_ADDRESS: 10 Sullivan St Unit 10ANew York, NY 10012
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 10
+
+    FORMATTED_ADDRESS: 10 Sullivan St #10a, New York, NY 10012, USA
+
+    LATITUDE: 40.724558
+
+    LONGITUDE: -74.004173

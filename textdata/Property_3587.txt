@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by The Agency
+
+    TYPE: Contingent
+
+    PRICE: 1875000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 140 E 81st St Apt 12A
+
+    STATE: New York, NY 10028
+
+    MAIN_ADDRESS: 140 E 81st St Apt 12ANew York, NY 10028
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 140
+
+    FORMATTED_ADDRESS: 140 E 81st St #12a, New York, NY 10028, USA
+
+    LATITUDE: 40.7760492
+
+    LONGITUDE: -73.9577296

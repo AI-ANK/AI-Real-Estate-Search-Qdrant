@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Chous Realty Group Inc
+
+    TYPE: Co-op for sale
+
+    PRICE: 268000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 850.0
+
+    ADDRESS: 142-20 26 Ave Unit 5G
+
+    STATE: Flushing, NY 11354
+
+    MAIN_ADDRESS: 142-20 26 Ave Unit 5GFlushing, NY 11354
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 14220
+
+    FORMATTED_ADDRESS: 14220 26th Ave #5b, Flushing, NY 11354, USA
+
+    LATITUDE: 40.7741978
+
+    LONGITUDE: -73.8256676

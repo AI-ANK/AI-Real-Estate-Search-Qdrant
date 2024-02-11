@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Co-op for sale
+
+    PRICE: 2850000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 520 Laguardia Pl Apt 7N
+
+    STATE: Manhattan, NY 10012
+
+    MAIN_ADDRESS: 520 Laguardia Pl Apt 7NManhattan, NY 10012
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 520
+
+    FORMATTED_ADDRESS: 520 LaGuardia Pl Apt 7s, New York, NY 10012, USA
+
+    LATITUDE: 40.7282135
+
+    LONGITUDE: -73.9990284

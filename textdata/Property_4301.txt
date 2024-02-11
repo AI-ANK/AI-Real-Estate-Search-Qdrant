@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Condo for sale
+
+    PRICE: 3250000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1509.0
+
+    ADDRESS: 210 Lafayette St Ph 6G
+
+    STATE: Manhattan, NY 10012
+
+    MAIN_ADDRESS: 210 Lafayette St Ph 6GManhattan, NY 10012
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 210
+
+    FORMATTED_ADDRESS: 210 Lafayette St APT 6D, New York, NY 10012, USA
+
+    LATITUDE: 40.7217442
+
+    LONGITUDE: -73.998107

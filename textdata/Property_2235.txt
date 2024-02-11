@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran East Side
+
+    TYPE: Condo for sale
+
+    PRICE: 14950000
+
+    BEDS: 3
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 3228.0
+
+    ADDRESS: 39 W 23rd St
+
+    STATE: New York, NY 10010
+
+    MAIN_ADDRESS: 39 W 23rd StNew York, NY 10010
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: West 23rd Street
+
+    FORMATTED_ADDRESS: 39 W 23rd St, New York, NY 10010, USA
+
+    LATITUDE: 40.7423282
+
+    LONGITUDE: -73.9911409

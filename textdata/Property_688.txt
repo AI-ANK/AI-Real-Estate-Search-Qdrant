@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by CLAS - Classic Marketing, LLC
+
+    TYPE: Condo for sale
+
+    PRICE: 2795000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 965.0
+
+    ADDRESS: 25 Fifth Ave Unit 5B
+
+    STATE: New York, NY 10003
+
+    MAIN_ADDRESS: 25 Fifth Ave Unit 5BNew York, NY 10003
+
+    ADMINISTRATIVE_AREA_LEVEL_2: 10003
+
+    LOCALITY: United States
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: New York County
+
+    LONG_NAME: Manhattan
+
+    FORMATTED_ADDRESS: 5th Ave, New York, NY 10003, USA
+
+    LATITUDE: 40.735321
+
+    LONGITUDE: -73.9941315

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by eXp Realty NYC
+
+    TYPE: Contingent
+
+    PRICE: 695000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 650.0
+
+    ADDRESS: 217 E 5th St Apt 8
+
+    STATE: New York, NY 10003
+
+    MAIN_ADDRESS: 217 E 5th St Apt 8New York, NY 10003
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 217
+
+    FORMATTED_ADDRESS: 217 E 5th St Apt 8, New York, NY 10003, USA
+
+    LATITUDE: 40.727533
+
+    LONGITUDE: -73.99017

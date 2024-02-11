@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Avenues - Headquarters
+
+    TYPE: Townhouse for sale
+
+    PRICE: 1500000
+
+    BEDS: 14
+
+    BATH: 7.0
+
+    PROPERTYSQFT: 6375.0
+
+    ADDRESS: 797 Fairmount Pl Unit Building
+
+    STATE: Bronx, NY 10460
+
+    MAIN_ADDRESS: 797 Fairmount Pl Unit BuildingBronx, NY 10460
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Fairmount Place
+
+    FORMATTED_ADDRESS: 797 Fairmount Pl, Bronx, NY 10460, USA
+
+    LATITUDE: 40.8426571
+
+    LONGITUDE: -73.8884167

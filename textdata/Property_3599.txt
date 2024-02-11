@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by All Island Estates Realty Corp
+
+    TYPE: Land for sale
+
+    PRICE: 650000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 191-43 Foothill Ave
+
+    STATE: Hollis, NY 11423
+
+    MAIN_ADDRESS: 191-43 Foothill AveHollis, NY 11423
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Foothill Avenue
+
+    FORMATTED_ADDRESS: 191-43 Foothill Ave, Hollis, NY 11423, USA
+
+    LATITUDE: 40.7175476
+
+    LONGITUDE: -73.7702388

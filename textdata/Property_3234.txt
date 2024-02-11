@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Realty Elite
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1699000
+
+    BEDS: 6
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 265 78th St
+
+    STATE: Brooklyn, NY 11209
+
+    MAIN_ADDRESS: 265 78th StBrooklyn, NY 11209
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: 78th Street
+
+    FORMATTED_ADDRESS: 265 78th St, Brooklyn, NY 11209, USA
+
+    LATITUDE: 40.629645
+
+    LONGITUDE: -74.0292549

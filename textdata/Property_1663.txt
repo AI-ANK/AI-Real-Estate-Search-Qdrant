@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Robert Defalco Realty, Inc.
+
+    TYPE: Townhouse for sale
+
+    PRICE: 315000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1344.0
+
+    ADDRESS: 2806 Richmond Ter
+
+    STATE: Staten Island, NY 10303
+
+    MAIN_ADDRESS: 2806 Richmond TerStaten Island, NY 10303
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Richmond Terrace
+
+    FORMATTED_ADDRESS: 2806 Richmond Terrace, Staten Island, NY 10303, USA
+
+    LATITUDE: 40.6364
+
+    LONGITUDE: -74.154146

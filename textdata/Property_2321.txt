@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Coldwell Banker Reliable
+
+    TYPE: Condo for sale
+
+    PRICE: 450000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 724.0
+
+    ADDRESS: 2120 Ocean Ave Apt 5B
+
+    STATE: Brooklyn, NY 11229
+
+    MAIN_ADDRESS: 2120 Ocean Ave Apt 5BBrooklyn, NY 11229
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Homecrest
+
+    LONG_NAME: 2120
+
+    FORMATTED_ADDRESS: 2120 Ocean Ave #5b, Brooklyn, NY 11229, USA
+
+    LATITUDE: 40.610069
+
+    LONGITUDE: -73.9537478

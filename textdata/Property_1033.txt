@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Townhouse for sale
+
+    PRICE: 10975000
+
+    BEDS: 3
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 12 College Pl Unit Townhouse
+
+    STATE: Brooklyn, NY 11201
+
+    MAIN_ADDRESS: 12 College Pl Unit TownhouseBrooklyn, NY 11201
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: College Place
+
+    FORMATTED_ADDRESS: 12 College Pl, Brooklyn, NY 11201, USA
+
+    LATITUDE: 40.6963652
+
+    LONGITUDE: -73.9941542

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran East Side
+
+    TYPE: Townhouse for sale
+
+    PRICE: 4995000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2000.0
+
+    ADDRESS: 51 Barrow St
+
+    STATE: New York, NY 10014
+
+    MAIN_ADDRESS: 51 Barrow StNew York, NY 10014
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: Barrow Street
+
+    FORMATTED_ADDRESS: 51 Barrow St, New York, NY 10014, USA
+
+    LATITUDE: 40.7319679
+
+    LONGITUDE: -74.0043858

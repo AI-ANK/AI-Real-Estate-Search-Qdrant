@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams NYC
+
+    TYPE: Condo for sale
+
+    PRICE: 744000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 890.0
+
+    ADDRESS: 32-86 33rd St Unit D7
+
+    STATE: Queens, NY 11106
+
+    MAIN_ADDRESS: 32-86 33rd St Unit D7Queens, NY 11106
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Astoria
+
+    LONG_NAME: 32-86
+
+    FORMATTED_ADDRESS: 32-86 33rd St d7, Astoria, NY 11106, USA
+
+    LATITUDE: 40.7592629
+
+    LONGITUDE: -73.9257407

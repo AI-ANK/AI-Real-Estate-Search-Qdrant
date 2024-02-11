@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Madison Estates Sotheby's International Realty
+
+    TYPE: Co-op for sale
+
+    PRICE: 215000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1100.0
+
+    ADDRESS: 1075 Ocean Pkwy Apt 1C
+
+    STATE: Brooklyn, NY 11230
+
+    MAIN_ADDRESS: 1075 Ocean Pkwy Apt 1CBrooklyn, NY 11230
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Midwood
+
+    LONG_NAME: 1075
+
+    FORMATTED_ADDRESS: 1075 Ocean Pkwy #1c, Brooklyn, NY 11230, USA
+
+    LATITUDE: 40.622324
+
+    LONGITUDE: -73.9695073

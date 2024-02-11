@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Winzone Realty Inc
+
+    TYPE: Co-op for sale
+
+    PRICE: 535000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1350.0
+
+    ADDRESS: 142-05 Roosevelt Ave Unit 225
+
+    STATE: Flushing, NY 11354
+
+    MAIN_ADDRESS: 142-05 Roosevelt Ave Unit 225Flushing, NY 11354
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 14205
+
+    FORMATTED_ADDRESS: 14205 Roosevelt Ave Apt 225, Flushing, NY 11354, USA
+
+    LATITUDE: 40.7607942
+
+    LONGITUDE: -73.8258766

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Excell Choice Realty
+
+    TYPE: House for sale
+
+    PRICE: 799000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 1278 Schenectady Ave
+
+    STATE: Brooklyn, NY 11203
+
+    MAIN_ADDRESS: 1278 Schenectady AveBrooklyn, NY 11203
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Schenectady Avenue
+
+    FORMATTED_ADDRESS: 1278 Schenectady Ave, Brooklyn, NY 11203, USA
+
+    LATITUDE: 40.6414423
+
+    LONGITUDE: -73.9325148

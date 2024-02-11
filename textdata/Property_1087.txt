@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Townhouse for sale
+
+    PRICE: 2977000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2601.0
+
+    ADDRESS: 10 Carroll St
+
+    STATE: Brooklyn, NY 11231
+
+    MAIN_ADDRESS: 10 Carroll StBrooklyn, NY 11231
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Carroll Street
+
+    FORMATTED_ADDRESS: 10 Carroll St, Brooklyn, NY 11231, USA
+
+    LATITUDE: 40.6834305
+
+    LONGITUDE: -74.005483

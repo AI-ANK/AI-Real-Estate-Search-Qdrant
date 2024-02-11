@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by MNS
+
+    TYPE: Condo for sale
+
+    PRICE: 1695000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1035.0
+
+    ADDRESS: 526 Union Ave Ph 1
+
+    STATE: Brooklyn, NY 11211
+
+    MAIN_ADDRESS: 526 Union Ave Ph 1Brooklyn, NY 11211
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Williamsburg
+
+    LONG_NAME: 526
+
+    FORMATTED_ADDRESS: 526 Union Ave Ph 1, Brooklyn, NY 11211, USA
+
+    LATITUDE: 40.7163702
+
+    LONGITUDE: -73.9515728

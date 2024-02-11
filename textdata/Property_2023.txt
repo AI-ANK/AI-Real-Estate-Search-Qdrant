@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Townhouse for sale
+
+    PRICE: 2395000
+
+    BEDS: 5
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2560.0
+
+    ADDRESS: 798 Halsey St
+
+    STATE: Brooklyn, NY 11233
+
+    MAIN_ADDRESS: 798 Halsey StBrooklyn, NY 11233
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Halsey Street
+
+    FORMATTED_ADDRESS: 798 Halsey St, Brooklyn, NY 11233, USA
+
+    LATITUDE: 40.6848322
+
+    LONGITUDE: -73.9220551

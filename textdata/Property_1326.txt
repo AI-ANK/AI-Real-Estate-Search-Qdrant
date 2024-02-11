@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 250000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 11 St Nicholas Ave Unit 3E
+
+    STATE: Manhattan, NY 10026
+
+    MAIN_ADDRESS: 11 St Nicholas Ave Unit 3EManhattan, NY 10026
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 11
+
+    FORMATTED_ADDRESS: 11 St Nicholas Ave #3, New York, NY 10026, USA
+
+    LATITUDE: 40.7992319
+
+    LONGITUDE: -73.9526079

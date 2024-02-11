@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Mitra Hakimi Realty Group LLC
+
+    TYPE: House for sale
+
+    PRICE: 988000
+
+    BEDS: 5
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 3244.0
+
+    ADDRESS: 211 E 53rd St
+
+    STATE: Brooklyn, NY 11203
+
+    MAIN_ADDRESS: 211 E 53rd StBrooklyn, NY 11203
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: East 53rd Street
+
+    FORMATTED_ADDRESS: 211 E 53rd St, Brooklyn, NY 11203, USA
+
+    LATITUDE: 40.6548876
+
+    LONGITUDE: -73.9275423

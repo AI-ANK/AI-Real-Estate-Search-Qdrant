@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Co-op for sale
+
+    PRICE: 1195000
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 995.0
+
+    ADDRESS: 3001 Henry Hudson West Parkway Pkwy W Unit 1FG
+
+    STATE: Bronx, NY 10463
+
+    MAIN_ADDRESS: 3001 Henry Hudson West Parkway Pkwy W Unit 1FGBronx, NY 10463
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: Spuyten Duyvil
+
+    LONG_NAME: 3001
+
+    FORMATTED_ADDRESS: 3001 Henry Hudson Pkwy W #1f, Bronx, NY 10463, USA
+
+    LATITUDE: 40.8830898
+
+    LONGITUDE: -73.9165737

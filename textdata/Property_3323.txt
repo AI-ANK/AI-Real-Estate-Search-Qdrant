@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Co-op for sale
+
+    PRICE: 800000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 9 Barrow St Apt 6G
+
+    STATE: Manhattan, NY 10014
+
+    MAIN_ADDRESS: 9 Barrow St Apt 6GManhattan, NY 10014
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 9
+
+    FORMATTED_ADDRESS: 9 Barrow St #6b, New York, NY 10014, USA
+
+    LATITUDE: 40.7326742
+
+    LONGITUDE: -74.0023327

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by KMS Realty Group, Inc.
+
+    TYPE: House for sale
+
+    PRICE: 2599999
+
+    BEDS: 6
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 6353.0
+
+    ADDRESS: 65 Jenna Ln
+
+    STATE: Staten Island, NY 10304
+
+    MAIN_ADDRESS: 65 Jenna LnStaten Island, NY 10304
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Jenna Lane
+
+    FORMATTED_ADDRESS: 65 Jenna Ln, Staten Island, NY 10304, USA
+
+    LATITUDE: 40.5920591
+
+    LONGITUDE: -74.1031199

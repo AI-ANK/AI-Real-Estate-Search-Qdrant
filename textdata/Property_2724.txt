@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 539999
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 33-04 93rd St Unit 6S
+
+    STATE: Jackson Heights, NY 11372
+
+    MAIN_ADDRESS: 33-04 93rd St Unit 6SJackson Heights, NY 11372
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Jackson Heights
+
+    LONG_NAME: 33-04
+
+    FORMATTED_ADDRESS: 33-04 93rd St Apt 6N, Jackson Heights, NY 11372, USA
+
+    LATITUDE: 40.7563263
+
+    LONGITUDE: -73.8752379

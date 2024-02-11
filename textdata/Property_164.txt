@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Rlty Landmark
+
+    TYPE: House for sale
+
+    PRICE: 2600000
+
+    BEDS: 5
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 3024.0
+
+    ADDRESS: 214-42 27th Ave
+
+    STATE: Bayside, NY 11360
+
+    MAIN_ADDRESS: 214-42 27th AveBayside, NY 11360
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 27th Avenue
+
+    FORMATTED_ADDRESS: 214-42 27th Ave, Flushing, NY 11360, USA
+
+    LATITUDE: 40.7780417
+
+    LONGITUDE: -73.7739629

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 3544 Johnson Ave
+
+    TYPE: Condo for sale
+
+    PRICE: 585000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 988.0
+
+    ADDRESS: 3625 Oxford Ave Apt 2B
+
+    STATE: Bronx, NY 10463
+
+    MAIN_ADDRESS: 3625 Oxford Ave Apt 2BBronx, NY 10463
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: Riverdale
+
+    LONG_NAME: 3625
+
+    FORMATTED_ADDRESS: 3625 Oxford Ave #2b, Bronx, NY 10463, USA
+
+    LATITUDE: 40.8870567
+
+    LONGITUDE: -73.908722

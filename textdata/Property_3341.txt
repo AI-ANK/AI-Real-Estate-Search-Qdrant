@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Highline Residential - Highline Residential
+
+    TYPE: Condo for sale
+
+    PRICE: 650000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 776.0
+
+    ADDRESS: 300 Albany St Apt 3D
+
+    STATE: New York, NY 10280
+
+    MAIN_ADDRESS: 300 Albany St Apt 3DNew York, NY 10280
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 300
+
+    FORMATTED_ADDRESS: 300 Albany St #3d, New York, NY 10280, USA
+
+    LATITUDE: 40.7100278
+
+    LONGITUDE: -74.0168528

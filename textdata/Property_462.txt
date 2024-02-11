@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Chelsea/Flatiron
+
+    TYPE: Pending
+
+    PRICE: 13500000
+
+    BEDS: 5
+
+    BATH: 7.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 112 Waverly Pl
+
+    STATE: New York, NY 10011
+
+    MAIN_ADDRESS: 112 Waverly PlNew York, NY 10011
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: Waverly Place
+
+    FORMATTED_ADDRESS: 112 Waverly Pl, New York, NY 10011, USA
+
+    LATITUDE: 40.7323524
+
+    LONGITUDE: -73.9993358

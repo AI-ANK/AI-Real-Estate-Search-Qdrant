@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by William Raveis New York City
+
+    TYPE: Condo for sale
+
+    PRICE: 1395000
+
+    BEDS: 1
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1220.0
+
+    ADDRESS: 20 Pine St Apt 2504
+
+    STATE: New York, NY 10005
+
+    MAIN_ADDRESS: 20 Pine St Apt 2504New York, NY 10005
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 20
+
+    FORMATTED_ADDRESS: 20 Pine St APT 2504, New York, NY 10005, USA
+
+    LATITUDE: 40.707729
+
+    LONGITUDE: -74.0097327

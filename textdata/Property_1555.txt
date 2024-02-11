@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Flat Rate Realty Of Queens Ltd
+
+    TYPE: Co-op for sale
+
+    PRICE: 169000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 850.0
+
+    ADDRESS: 165-20 Highland Ave Unit 105
+
+    STATE: Jamaica, NY 11432
+
+    MAIN_ADDRESS: 165-20 Highland Ave Unit 105Jamaica, NY 11432
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Jamaica
+
+    LONG_NAME: 16520
+
+    FORMATTED_ADDRESS: 16520 Highland Ave Apt 105, Jamaica, NY 11432, USA
+
+    LATITUDE: 40.7106599
+
+    LONGITUDE: -73.7986899

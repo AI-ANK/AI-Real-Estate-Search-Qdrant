@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by BROWN HARRIS STEVENS BROOKLYN LLC
+
+    TYPE: Co-op for sale
+
+    PRICE: 419000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 1401 Ocean Ave Apt 8J
+
+    STATE: Brooklyn, NY 11230
+
+    MAIN_ADDRESS: 1401 Ocean Ave Apt 8JBrooklyn, NY 11230
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Midwood
+
+    LONG_NAME: 1401
+
+    FORMATTED_ADDRESS: 1401 Ocean Ave #8j, Brooklyn, NY 11230, USA
+
+    LATITUDE: 40.6278433
+
+    LONGITUDE: -73.9564523

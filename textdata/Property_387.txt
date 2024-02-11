@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by EXP Realty
+
+    TYPE: Co-op for sale
+
+    PRICE: 365000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 83-40 Austin St Unit 3E
+
+    STATE: Kew Gardens, NY 11415
+
+    MAIN_ADDRESS: 83-40 Austin St Unit 3EKew Gardens, NY 11415
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Jamaica
+
+    LONG_NAME: 83-40
+
+    FORMATTED_ADDRESS: 83-40 Austin St #3e, Jamaica, NY 11415, USA
+
+    LATITUDE: 40.7083799
+
+    LONGITUDE: -73.8290102

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sowae Corp
+
+    TYPE: House for sale
+
+    PRICE: 330000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 21 Miami Ct
+
+    STATE: Brooklyn, NY 11225
+
+    MAIN_ADDRESS: 21 Miami CtBrooklyn, NY 11225
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Miami Court
+
+    FORMATTED_ADDRESS: 21 Miami Ct, Brooklyn, NY 11225, USA
+
+    LATITUDE: 40.6604827
+
+    LONGITUDE: -73.9468571

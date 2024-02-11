@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 895000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 55 E 65th St Apt 4A
+
+    STATE: Manhattan, NY 10065
+
+    MAIN_ADDRESS: 55 E 65th St Apt 4AManhattan, NY 10065
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 55
+
+    FORMATTED_ADDRESS: 55 E 65th St #4a, New York, NY 10065, USA
+
+    LATITUDE: 40.7669715
+
+    LONGITUDE: -73.9674377

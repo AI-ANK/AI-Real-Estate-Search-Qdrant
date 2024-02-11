@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sotheby's International Realty - Downtown Manhattan
+
+    TYPE: Condo for sale
+
+    PRICE: 5799000
+
+    BEDS: 3
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2497.0
+
+    ADDRESS: 1 John St Apt 4B
+
+    STATE: Brooklyn, NY 11201
+
+    MAIN_ADDRESS: 1 John St Apt 4BBrooklyn, NY 11201
+
+    ADMINISTRATIVE_AREA_LEVEL_2: Kings County
+
+    LOCALITY: Brooklyn
+
+    SUBLOCALITY: Dumbo
+
+    STREET_NAME: John Street
+
+    LONG_NAME: John Street Park
+
+    FORMATTED_ADDRESS: John Street Park, 1 John St #4b, Brooklyn, NY 11201, USA
+
+    LATITUDE: 40.7046228
+
+    LONGITUDE: -73.9878238

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Howard Hanna | Rand Realty
+
+    TYPE: House for sale
+
+    PRICE: 598000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1144.0
+
+    ADDRESS: 3088 Heath Ave
+
+    STATE: Bronx, NY 10463
+
+    MAIN_ADDRESS: 3088 Heath AveBronx, NY 10463
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Heath Avenue
+
+    FORMATTED_ADDRESS: 3088 Heath Ave, Bronx, NY 10463, USA
+
+    LATITUDE: 40.87796
+
+    LONGITUDE: -73.9011666

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Realty Connect USA LLC
+
+    TYPE: House for sale
+
+    PRICE: 719999
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 108-16 36 Ave
+
+    STATE: Corona, NY 11368
+
+    MAIN_ADDRESS: 108-16 36 AveCorona, NY 11368
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 36th Avenue
+
+    FORMATTED_ADDRESS: 108-16 36th Ave, Queens, NY 11368, USA
+
+    LATITUDE: 40.754545
+
+    LONGITUDE: -73.859675

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by E Realty International Corp
+
+    TYPE: Condo for sale
+
+    PRICE: 688000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 982.0
+
+    ADDRESS: 844 50th St Apt 5A
+
+    STATE: Brooklyn, NY 11220
+
+    MAIN_ADDRESS: 844 50th St Apt 5ABrooklyn, NY 11220
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Sunset Park
+
+    LONG_NAME: 844
+
+    FORMATTED_ADDRESS: 844 50th St #5a, Brooklyn, NY 11220, USA
+
+    LATITUDE: 40.6403284
+
+    LONGITUDE: -74.0028134

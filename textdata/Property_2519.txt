@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by East Coast Realty Partners
+
+    TYPE: Co-op for sale
+
+    PRICE: 379000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 64-00 Saunders St Unit 6E
+
+    STATE: Rego Park, NY 11374
+
+    MAIN_ADDRESS: 64-00 Saunders St Unit 6ERego Park, NY 11374
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Rego Park
+
+    LONG_NAME: 6400
+
+    FORMATTED_ADDRESS: 6400 Saunders St #6e, Rego Park, NY 11374, USA
+
+    LATITUDE: 40.7286188
+
+    LONGITUDE: -73.8616623

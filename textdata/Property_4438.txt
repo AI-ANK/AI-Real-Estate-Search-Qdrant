@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by EXP Realty - HAUPPAUGE
+
+    TYPE: Co-op for sale
+
+    PRICE: 365000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 225-08 Hillside Ave Unit Duplex
+
+    STATE: Queens Village, NY 11427
+
+    MAIN_ADDRESS: 225-08 Hillside Ave Unit DuplexQueens Village, NY 11427
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Hillside Avenue
+
+    FORMATTED_ADDRESS: 225-8 Hillside Ave., Queens Village, NY 11427, USA
+
+    LATITUDE: 40.7316971
+
+    LONGITUDE: -73.7409842

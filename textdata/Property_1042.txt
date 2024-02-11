@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens - 1926 Broadway
+
+    TYPE: Co-op for sale
+
+    PRICE: 1395000
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1750.0
+
+    ADDRESS: 789 W End Ave Unit 1A2
+
+    STATE: Manhattan, NY 10025
+
+    MAIN_ADDRESS: 789 W End Ave Unit 1A2Manhattan, NY 10025
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 789
+
+    FORMATTED_ADDRESS: 789 West End Ave #1a2, New York, NY 10025, USA
+
+    LATITUDE: 40.7971343
+
+    LONGITUDE: -73.9722076

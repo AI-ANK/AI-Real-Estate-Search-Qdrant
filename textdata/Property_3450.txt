@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Rk Capital Group Llc
+
+    TYPE: Condo for sale
+
+    PRICE: 568000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 69-45 108th St Unit 2A
+
+    STATE: Forest Hills, NY 11375
+
+    MAIN_ADDRESS: 69-45 108th St Unit 2AForest Hills, NY 11375
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Forest Hills
+
+    LONG_NAME: 69-45
+
+    FORMATTED_ADDRESS: 69-45 108th St #2a, Forest Hills, NY 11375, USA
+
+    LATITUDE: 40.7241743
+
+    LONGITUDE: -73.8448471

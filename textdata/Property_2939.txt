@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran West Side
+
+    TYPE: Co-op for sale
+
+    PRICE: 4500000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1800.0
+
+    ADDRESS: 65 Central Park W Apt 12B
+
+    STATE: New York, NY 10023
+
+    MAIN_ADDRESS: 65 Central Park W Apt 12BNew York, NY 10023
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 65
+
+    FORMATTED_ADDRESS: 65 Central Park W #12b, New York, NY 10023, USA
+
+    LATITUDE: 40.7727705
+
+    LONGITUDE: -73.9787651

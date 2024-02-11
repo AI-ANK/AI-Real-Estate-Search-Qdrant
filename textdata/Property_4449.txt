@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Wagner & Kelly Inc
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1273000
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 34-53 60th St
+
+    STATE: Woodside, NY 11377
+
+    MAIN_ADDRESS: 34-53 60th StWoodside, NY 11377
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 60th Street
+
+    FORMATTED_ADDRESS: 34-53 60th St, Flushing, NY 11377, USA
+
+    LATITUDE: 40.7503477
+
+    LONGITUDE: -73.9019836

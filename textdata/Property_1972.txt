@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Edge
+
+    TYPE: House for sale
+
+    PRICE: 2250000
+
+    BEDS: 6
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 3432.0
+
+    ADDRESS: 2635 E 28th St
+
+    STATE: Brooklyn, NY 11235
+
+    MAIN_ADDRESS: 2635 E 28th StBrooklyn, NY 11235
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: East 28th Street
+
+    FORMATTED_ADDRESS: 2635 E 28th St, Brooklyn, NY 11235, USA
+
+    LATITUDE: 40.5884214
+
+    LONGITUDE: -73.9412863

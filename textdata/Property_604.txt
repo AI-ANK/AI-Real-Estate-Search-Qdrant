@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by NEXTHOME PLATINUM PROPERTIES
+
+    TYPE: House for sale
+
+    PRICE: 950000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2200.0
+
+    ADDRESS: 68 Schenck Ave
+
+    STATE: Brooklyn, NY 11207
+
+    MAIN_ADDRESS: 68 Schenck AveBrooklyn, NY 11207
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Schenck Avenue
+
+    FORMATTED_ADDRESS: 68 Schenck Ave, Brooklyn, NY 11207, USA
+
+    LATITUDE: 40.6795412
+
+    LONGITUDE: -73.8904428

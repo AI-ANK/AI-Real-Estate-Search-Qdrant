@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Coldwell Banker Advantage
+
+    TYPE: House for sale
+
+    PRICE: 798000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 1410.0
+
+    ADDRESS: 11 Goller Pl
+
+    STATE: Staten Island, NY 10314
+
+    MAIN_ADDRESS: 11 Goller PlStaten Island, NY 10314
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Goller Place
+
+    FORMATTED_ADDRESS: 11 Goller Pl, Staten Island, NY 10314, USA
+
+    LATITUDE: 40.607299
+
+    LONGITUDE: -74.159021

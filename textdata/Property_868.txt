@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Cohen And Cohen Consulting
+
+    TYPE: Condo for sale
+
+    PRICE: 469888
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1164.0
+
+    ADDRESS: 152 Tier St Apt 211C
+
+    STATE: Bronx, NY 10464
+
+    MAIN_ADDRESS: 152 Tier St Apt 211CBronx, NY 10464
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Tier Street
+
+    FORMATTED_ADDRESS: 152 Tier St, Bronx, NY 10464, USA
+
+    LATITUDE: 40.8480712
+
+    LONGITUDE: -73.7861809

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Realmart Realty, LLC
+
+    TYPE: Co-op for sale
+
+    PRICE: 789000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 340 W 19th St Apt 4
+
+    STATE: New York, NY 10011
+
+    MAIN_ADDRESS: 340 W 19th St Apt 4New York, NY 10011
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 340
+
+    FORMATTED_ADDRESS: 340 W 19th St Apt 4, New York, NY 10011, USA
+
+    LATITUDE: 40.7432035
+
+    LONGITUDE: -74.0015019

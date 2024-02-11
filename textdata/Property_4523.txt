@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by 5 Boro Realty Corp
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1900000
+
+    BEDS: 14
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 1792 Saint Johns Pl
+
+    STATE: Brooklyn, NY 11233
+
+    MAIN_ADDRESS: 1792 Saint Johns PlBrooklyn, NY 11233
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Saint Johns Place
+
+    FORMATTED_ADDRESS: 1792 St Johns Pl, Brooklyn, NY 11233, USA
+
+    LATITUDE: 40.6696983
+
+    LONGITUDE: -73.9181397

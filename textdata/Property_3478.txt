@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Bedford Stuyvesant
+
+    TYPE: Condo for sale
+
+    PRICE: 899000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1010.0
+
+    ADDRESS: 568 Saint Marks Ave Apt 3A
+
+    STATE: Brooklyn, NY 11216
+
+    MAIN_ADDRESS: 568 Saint Marks Ave Apt 3ABrooklyn, NY 11216
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Crown Heights
+
+    LONG_NAME: 568
+
+    FORMATTED_ADDRESS: 568 St Marks Ave #3a, Brooklyn, NY 11216, USA
+
+    LATITUDE: 40.6756382
+
+    LONGITUDE: -73.9555242

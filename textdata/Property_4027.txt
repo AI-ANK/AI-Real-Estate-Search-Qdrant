@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Hometown Properties
+
+    TYPE: Co-op for sale
+
+    PRICE: 245000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 550.0
+
+    ADDRESS: 7200 Ridge Blvd Unit 409
+
+    STATE: Brooklyn, NY 11209
+
+    MAIN_ADDRESS: 7200 Ridge Blvd Unit 409Brooklyn, NY 11209
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Bay Ridge
+
+    LONG_NAME: 7200
+
+    FORMATTED_ADDRESS: 7200 Ridge Blvd #409, Brooklyn, NY 11209, USA
+
+    LATITUDE: 40.6339001
+
+    LONGITUDE: -74.0299973

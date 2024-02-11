@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by EXIT HOME KEY REALTY
+
+    TYPE: Townhouse for sale
+
+    PRICE: 549990
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 216 Hett Ave
+
+    STATE: Staten Island, NY 10306
+
+    MAIN_ADDRESS: 216 Hett AveStaten Island, NY 10306
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Hett Avenue
+
+    FORMATTED_ADDRESS: 216 Hett Ave, Staten Island, NY 10306, USA
+
+    LATITUDE: 40.5610279
+
+    LONGITUDE: -74.1050355

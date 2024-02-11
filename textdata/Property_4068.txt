@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman  -111 Fifth Ave
+
+    TYPE: Condo for sale
+
+    PRICE: 12495000
+
+    BEDS: 4
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 7 Bond St
+
+    STATE: New York, NY 10012
+
+    MAIN_ADDRESS: 7 Bond StNew York, NY 10012
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: Bond Street
+
+    FORMATTED_ADDRESS: 7 Bond St, New York, NY 10012, USA
+
+    LATITUDE: 40.7265745
+
+    LONGITUDE: -73.9945558

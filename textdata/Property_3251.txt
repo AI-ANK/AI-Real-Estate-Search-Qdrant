@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Naomi Klein, Realtor
+
+    TYPE: Co-op for sale
+
+    PRICE: 499000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1266.0
+
+    ADDRESS: 61-20 Grand Central Pkwy Unit A1105
+
+    STATE: Forest Hills, NY 11375
+
+    MAIN_ADDRESS: 61-20 Grand Central Pkwy Unit A1105Forest Hills, NY 11375
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Forest Hills
+
+    LONG_NAME: 61-20
+
+    FORMATTED_ADDRESS: 61-20 Grand Central Pkwy #1105, Forest Hills, NY 11375, USA
+
+    LATITUDE: 40.7379227
+
+    LONGITUDE: -73.8470718

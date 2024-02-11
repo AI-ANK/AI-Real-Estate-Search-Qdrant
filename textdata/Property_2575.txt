@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 315000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 5 E 131st St Apt 3A
+
+    STATE: Manhattan, NY 10037
+
+    MAIN_ADDRESS: 5 E 131st St Apt 3AManhattan, NY 10037
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 5
+
+    FORMATTED_ADDRESS: 5 E 131st St #3a, New York, NY 10037, USA
+
+    LATITUDE: 40.8101633
+
+    LONGITUDE: -73.9387972

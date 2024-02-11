@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Tom Crimmins Realty, Ltd.
+
+    TYPE: House for sale
+
+    PRICE: 2050000
+
+    BEDS: 6
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 5600.0
+
+    ADDRESS: 254 Flagg Pl
+
+    STATE: Staten Island, NY 10304
+
+    MAIN_ADDRESS: 254 Flagg PlStaten Island, NY 10304
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Flagg Place
+
+    FORMATTED_ADDRESS: 254 Flagg Pl, Staten Island, NY 10304, USA
+
+    LATITUDE: 40.5856353
+
+    LONGITUDE: -74.1068594

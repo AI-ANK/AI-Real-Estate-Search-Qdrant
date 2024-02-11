@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Park Slope
+
+    TYPE: House for sale
+
+    PRICE: 2195000
+
+    BEDS: 3
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 503 4th Ave
+
+    STATE: Brooklyn, NY 11215
+
+    MAIN_ADDRESS: 503 4th AveBrooklyn, NY 11215
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: 4th Avenue
+
+    FORMATTED_ADDRESS: 503 4th Ave, Brooklyn, NY 11215, USA
+
+    LATITUDE: 40.6679746
+
+    LONGITUDE: -73.9903952

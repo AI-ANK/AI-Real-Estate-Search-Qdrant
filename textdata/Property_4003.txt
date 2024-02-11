@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Prestige Homes Ny Inc
+
+    TYPE: Land for sale
+
+    PRICE: 75000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 199th St
+
+    STATE: Saint Albans, NY 11412
+
+    MAIN_ADDRESS: 199th StSaint Albans, NY 11412
+
+    ADMINISTRATIVE_AREA_LEVEL_2: 11412
+
+    LOCALITY: United States
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Queens County
+
+    LONG_NAME: Jamaica
+
+    FORMATTED_ADDRESS: 199th St, Jamaica, NY 11412, USA
+
+    LATITUDE: 40.6942163
+
+    LONGITUDE: -73.7530902

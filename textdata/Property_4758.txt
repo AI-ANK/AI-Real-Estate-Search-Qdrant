@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 550000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 201 E 21st St Apt 2H
+
+    STATE: Manhattan, NY 10010
+
+    MAIN_ADDRESS: 201 E 21st St Apt 2HManhattan, NY 10010
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 201
+
+    FORMATTED_ADDRESS: 201 E 21st St #2b, New York, NY 10010, USA
+
+    LATITUDE: 40.7375456
+
+    LONGITUDE: -73.9836965

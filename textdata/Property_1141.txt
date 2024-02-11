@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Brooklyn Heights
+
+    TYPE: Condo for sale
+
+    PRICE: 1300000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1100.0
+
+    ADDRESS: 529 Court St Apt 406
+
+    STATE: Brooklyn, NY 11231
+
+    MAIN_ADDRESS: 529 Court St Apt 406Brooklyn, NY 11231
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Carroll Gardens
+
+    LONG_NAME: 529
+
+    FORMATTED_ADDRESS: 529 Court St APT 406, Brooklyn, NY 11231, USA
+
+    LATITUDE: 40.6746458
+
+    LONGITUDE: -73.9992831

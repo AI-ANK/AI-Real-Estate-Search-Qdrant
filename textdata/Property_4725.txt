@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Weichert Realtors Evolution Group
+
+    TYPE: Townhouse for sale
+
+    PRICE: 465000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1365.0
+
+    ADDRESS: 40 Post Ln
+
+    STATE: Staten Island, NY 10303
+
+    MAIN_ADDRESS: 40 Post LnStaten Island, NY 10303
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Post Lane
+
+    FORMATTED_ADDRESS: 40 Post Ln, Staten Island, NY 10303, USA
+
+    LATITUDE: 40.638522
+
+    LONGITUDE: -74.1646289

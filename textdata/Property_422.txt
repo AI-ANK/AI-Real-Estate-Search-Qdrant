@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by 5 Boro Realty Corp
+
+    TYPE: Land for sale
+
+    PRICE: 799999
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 1905 Fulton St
+
+    STATE: Bedford Stuyvesant, NY 11233
+
+    MAIN_ADDRESS: 1905 Fulton StBedford Stuyvesant, NY 11233
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Fulton Street
+
+    FORMATTED_ADDRESS: 1905 Fulton St, Brooklyn, NY 11233, USA
+
+    LATITUDE: 40.6789582
+
+    LONGITUDE: -73.9203193

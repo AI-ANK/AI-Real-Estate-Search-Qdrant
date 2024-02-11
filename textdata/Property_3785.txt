@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by USREALTY   .com
+
+    TYPE: Co-op for sale
+
+    PRICE: 479000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1100.0
+
+    ADDRESS: 2932 W 5th St Apt 17C
+
+    STATE: Brooklyn, NY 11224
+
+    MAIN_ADDRESS: 2932 W 5th St Apt 17CBrooklyn, NY 11224
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Coney Island
+
+    LONG_NAME: 2932
+
+    FORMATTED_ADDRESS: 2932 W 5th St #17c, Brooklyn, NY 11224, USA
+
+    LATITUDE: 40.5778092
+
+    LONGITUDE: -73.9728288

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by City Connections Realty
+
+    TYPE: Condo for sale
+
+    PRICE: 1385000
+
+    BEDS: 1
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 875.0
+
+    ADDRESS: 301 W 57th St Apt 34E
+
+    STATE: New York, NY 10019
+
+    MAIN_ADDRESS: 301 W 57th St Apt 34ENew York, NY 10019
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 301
+
+    FORMATTED_ADDRESS: 301 W 57th St #34e, New York, NY 10019, USA
+
+    LATITUDE: 40.767078
+
+    LONGITUDE: -73.9831196

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens - 1926 Broadway
+
+    TYPE: Co-op for sale
+
+    PRICE: 7195000
+
+    BEDS: 3
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 812 Fifth Ave Unit 10A
+
+    STATE: Manhattan, NY 10065
+
+    MAIN_ADDRESS: 812 Fifth Ave Unit 10AManhattan, NY 10065
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 812
+
+    FORMATTED_ADDRESS: 812 5th Ave #10a, New York, NY 10065, USA
+
+    LATITUDE: 40.7662872
+
+    LONGITUDE: -73.9711965

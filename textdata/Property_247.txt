@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Realty Liberty
+
+    TYPE: Co-op for sale
+
+    PRICE: 439500
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1400.0
+
+    ADDRESS: 83-80 118th St Unit 3O
+
+    STATE: Kew Gardens, NY 11415
+
+    MAIN_ADDRESS: 83-80 118th St Unit 3OKew Gardens, NY 11415
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Kew Gardens
+
+    LONG_NAME: 83-80
+
+    FORMATTED_ADDRESS: 83-80 118th St #3a, Queens, NY 11415, USA
+
+    LATITUDE: 40.7047878
+
+    LONGITUDE: -73.8344551

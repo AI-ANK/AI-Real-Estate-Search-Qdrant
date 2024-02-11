@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Beaudoin Realty Group Inc
+
+    TYPE: Co-op for sale
+
+    PRICE: 625000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1025.0
+
+    ADDRESS: 73-12 35 Ave Unit C25
+
+    STATE: Jackson Heights, NY 11372
+
+    MAIN_ADDRESS: 73-12 35 Ave Unit C25Jackson Heights, NY 11372
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Jackson Heights
+
+    LONG_NAME: 73-12
+
+    FORMATTED_ADDRESS: 73-12 35th Ave c 25, Jackson Heights, NY 11372, USA
+
+    LATITUDE: 40.7501671
+
+    LONGITUDE: -73.8924608

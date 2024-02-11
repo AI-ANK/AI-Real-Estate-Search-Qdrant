@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by TREBACH REALTY INC
+
+    TYPE: Land for sale
+
+    PRICE: 1395000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 5239 Independence Ave
+
+    STATE: Bronx, NY 10471
+
+    MAIN_ADDRESS: 5239 Independence AveBronx, NY 10471
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Independence Avenue
+
+    FORMATTED_ADDRESS: 5239 Independence Ave, Bronx, NY 10471, USA
+
+    LATITUDE: 40.9007702
+
+    LONGITUDE: -73.9110778

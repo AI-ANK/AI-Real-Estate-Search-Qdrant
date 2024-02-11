@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Tapestry Real Estate of Queens
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1399000
+
+    BEDS: 4
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2283.0
+
+    ADDRESS: 31-53 45 St
+
+    STATE: Astoria, NY 11103
+
+    MAIN_ADDRESS: 31-53 45 StAstoria, NY 11103
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 45th Street
+
+    FORMATTED_ADDRESS: 31-53 45th St, Long Island City, NY 11103, USA
+
+    LATITUDE: 40.7580197
+
+    LONGITUDE: -73.9140215

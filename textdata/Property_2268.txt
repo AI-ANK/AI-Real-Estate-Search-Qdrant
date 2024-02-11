@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Elite
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1179987
+
+    BEDS: 5
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 4143.0
+
+    ADDRESS: 7069 Amboy Rd
+
+    STATE: Staten Island, NY 10307
+
+    MAIN_ADDRESS: 7069 Amboy RdStaten Island, NY 10307
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Amboy Road
+
+    FORMATTED_ADDRESS: 7069 Amboy Rd, Staten Island, NY 10307, USA
+
+    LATITUDE: 40.515005
+
+    LONGITUDE: -74.235135

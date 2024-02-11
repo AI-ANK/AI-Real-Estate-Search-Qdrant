@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by TOP NEST INC
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 889000
+
+    BEDS: 6
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2280.0
+
+    ADDRESS: 1349 Herschell St
+
+    STATE: Bronx, NY 10461
+
+    MAIN_ADDRESS: 1349 Herschell StBronx, NY 10461
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Herschell Street
+
+    FORMATTED_ADDRESS: 1349 Herschell St, Bronx, NY 10461, USA
+
+    LATITUDE: 40.8368581
+
+    LONGITUDE: -73.8449273

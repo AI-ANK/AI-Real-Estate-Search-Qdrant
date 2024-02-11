@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sotheby's International Realty - Downtown Manhattan
+
+    TYPE: Townhouse for sale
+
+    PRICE: 29950000
+
+    BEDS: 10
+
+    BATH: 13.0
+
+    PROPERTYSQFT: 8750.0
+
+    ADDRESS: 26 Washington Sq N
+
+    STATE: New York, NY 10011
+
+    MAIN_ADDRESS: 26 Washington Sq NNew York, NY 10011
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: Washington Square West
+
+    FORMATTED_ADDRESS: 26 Washington Square W, New York, NY 10011, USA
+
+    LATITUDE: 40.7322213
+
+    LONGITUDE: -73.9986277

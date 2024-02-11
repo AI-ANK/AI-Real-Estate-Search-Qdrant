@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Townhouse for sale
+
+    PRICE: 10000000
+
+    BEDS: 5
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 5660.0
+
+    ADDRESS: 45 W 95th St
+
+    STATE: Manhattan, NY 10025
+
+    MAIN_ADDRESS: 45 W 95th StManhattan, NY 10025
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: West 95th Street
+
+    FORMATTED_ADDRESS: 45 W 95th St, New York, NY 10025, USA
+
+    LATITUDE: 40.791801
+
+    LONGITUDE: -73.9665998

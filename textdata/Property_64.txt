@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Williamsburg Bedford
+
+    TYPE: Condo for sale
+
+    PRICE: 1250000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1201.0
+
+    ADDRESS: 1105 Cortelyou Rd # 301
+
+    STATE: Brooklyn, NY 11218
+
+    MAIN_ADDRESS: 1105 Cortelyou Rd # 301Brooklyn, NY 11218
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Flatbush
+
+    LONG_NAME: 1105
+
+    FORMATTED_ADDRESS: 1105 Cortelyou Rd #301, Brooklyn, NY 11218, USA
+
+    LATITUDE: 40.6400234
+
+    LONGITUDE: -73.9676099

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Charles Rutenberg Realty, Inc.
+
+    TYPE: Co-op for sale
+
+    PRICE: 280000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 975.0
+
+    ADDRESS: 6 Fordham Hill Oval Apt 12G
+
+    STATE: Bronx, NY 10468
+
+    MAIN_ADDRESS: 6 Fordham Hill Oval Apt 12GBronx, NY 10468
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: Fordham Manor
+
+    LONG_NAME: 6
+
+    FORMATTED_ADDRESS: 6 Fordham Hill Oval #12g, Bronx, NY 10468, USA
+
+    LATITUDE: 40.8651305
+
+    LONGITUDE: -73.9068012

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Robert Defalco Realty, Inc.
+
+    TYPE: House for sale
+
+    PRICE: 1275000
+
+    BEDS: 3
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2380.0
+
+    ADDRESS: 47 Brookside Loop
+
+    STATE: Staten Island, NY 10309
+
+    MAIN_ADDRESS: 47 Brookside LoopStaten Island, NY 10309
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Brookside Loop
+
+    FORMATTED_ADDRESS: 47 Brookside Lp, Staten Island, NY 10309, USA
+
+    LATITUDE: 40.5393625
+
+    LONGITUDE: -74.214287

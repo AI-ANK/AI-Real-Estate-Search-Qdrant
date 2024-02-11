@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Condo for sale
+
+    PRICE: 2800000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1687.0
+
+    ADDRESS: 543 W 122nd St Apt 27A
+
+    STATE: Manhattan, NY 10027
+
+    MAIN_ADDRESS: 543 W 122nd St Apt 27AManhattan, NY 10027
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 543
+
+    FORMATTED_ADDRESS: 543 W 122nd St #27a, New York, NY 10027, USA
+
+    LATITUDE: 40.8115505
+
+    LONGITUDE: -73.959759

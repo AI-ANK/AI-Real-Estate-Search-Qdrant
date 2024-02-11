@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens - 445 Park Avenue
+
+    TYPE: Co-op for sale
+
+    PRICE: 650000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 435 E 57th St Apt 11C
+
+    STATE: Manhattan, NY 10022
+
+    MAIN_ADDRESS: 435 E 57th St Apt 11CManhattan, NY 10022
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 435
+
+    FORMATTED_ADDRESS: 435 E 57th St Apt 11a, New York, NY 10022, USA
+
+    LATITUDE: 40.7581185
+
+    LONGITUDE: -73.9620574

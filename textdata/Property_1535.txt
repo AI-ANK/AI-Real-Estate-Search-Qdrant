@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman  -111 Fifth Ave
+
+    TYPE: House for sale
+
+    PRICE: 2975000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 474 Sterling Pl
+
+    STATE: Brooklyn, NY 11238
+
+    MAIN_ADDRESS: 474 Sterling PlBrooklyn, NY 11238
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Sterling Place
+
+    FORMATTED_ADDRESS: 474 Sterling Pl, Brooklyn, NY 11238, USA
+
+    LATITUDE: 40.674276
+
+    LONGITUDE: -73.9626129

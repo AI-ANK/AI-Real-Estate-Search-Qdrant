@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by YOUR HOME SOLD GUARANTEED REALTY
+
+    TYPE: House for sale
+
+    PRICE: 1150000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1352.0
+
+    ADDRESS: 84 W 197th St
+
+    STATE: Bronx, NY 10468
+
+    MAIN_ADDRESS: 84 W 197th StBronx, NY 10468
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: West 197th Street
+
+    FORMATTED_ADDRESS: 84 W 197th St, Bronx, NY 10468, USA
+
+    LATITUDE: 40.871637
+
+    LONGITUDE: -73.8984353

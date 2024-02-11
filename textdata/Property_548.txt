@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Liberty Chateau Realty Inc
+
+    TYPE: Condo for sale
+
+    PRICE: 434900
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1286.0
+
+    ADDRESS: 6 Greentree Ln Unit 6
+
+    STATE: Staten Island, NY 10314
+
+    MAIN_ADDRESS: 6 Greentree Ln Unit 6Staten Island, NY 10314
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Richmond County
+
+    SUBLOCALITY: Staten Island
+
+    STREET_NAME: Bulls Head
+
+    LONG_NAME: 6
+
+    FORMATTED_ADDRESS: 6 Greentree Ln #6, Staten Island, NY 10314, USA
+
+    LATITUDE: 40.6085756
+
+    LONGITUDE: -74.1610387

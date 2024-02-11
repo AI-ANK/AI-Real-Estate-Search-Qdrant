@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Co-op for sale
+
+    PRICE: 479000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 335 W 85th St Apt 4A
+
+    STATE: Manhattan, NY 10024
+
+    MAIN_ADDRESS: 335 W 85th St Apt 4AManhattan, NY 10024
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 335
+
+    FORMATTED_ADDRESS: 335 W 85th St #4a, New York, NY 10024, USA
+
+    LATITUDE: 40.788879
+
+    LONGITUDE: -73.9794905

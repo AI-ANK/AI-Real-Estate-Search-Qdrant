@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 525000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 715.0
+
+    ADDRESS: 67 Park Ave Unit 8E
+
+    STATE: Manhattan, NY 10016
+
+    MAIN_ADDRESS: 67 Park Ave Unit 8EManhattan, NY 10016
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 67
+
+    FORMATTED_ADDRESS: 67 Park Ave #8e, New York, NY 10016, USA
+
+    LATITUDE: 40.74958
+
+    LONGITUDE: -73.9790355

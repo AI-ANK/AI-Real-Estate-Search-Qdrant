@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Real Broker NY LLC
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 699000
+
+    BEDS: 2
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 1735 Pacific St
+
+    STATE: Crown Heights, NY 11213
+
+    MAIN_ADDRESS: 1735 Pacific StCrown Heights, NY 11213
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Pacific Street
+
+    FORMATTED_ADDRESS: 1735 Pacific St, Brooklyn, NY 11213, USA
+
+    LATITUDE: 40.6769065
+
+    LONGITUDE: -73.9327329

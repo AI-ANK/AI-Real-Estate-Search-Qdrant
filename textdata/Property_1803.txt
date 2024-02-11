@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Townhouse for sale
+
+    PRICE: 2250000
+
+    BEDS: 5
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2105.0
+
+    ADDRESS: 615 President St
+
+    STATE: Brooklyn, NY 11215
+
+    MAIN_ADDRESS: 615 President StBrooklyn, NY 11215
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: President Street
+
+    FORMATTED_ADDRESS: 615 President St, Brooklyn, NY 11215, USA
+
+    LATITUDE: 40.6764588
+
+    LONGITUDE: -73.982188

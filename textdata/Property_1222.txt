@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Robert Defalco Realty, Inc.
+
+    TYPE: House for sale
+
+    PRICE: 1999999
+
+    BEDS: 5
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 5301.0
+
+    ADDRESS: 220 Douglas Rd
+
+    STATE: Staten Island, NY 10304
+
+    MAIN_ADDRESS: 220 Douglas RdStaten Island, NY 10304
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Douglas Road
+
+    FORMATTED_ADDRESS: 220 Douglas Rd, Staten Island, NY 10301, USA
+
+    LATITUDE: 40.6071393
+
+    LONGITUDE: -74.097086

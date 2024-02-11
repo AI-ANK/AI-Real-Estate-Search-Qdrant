@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by KUS Realty Premier Inc
+
+    TYPE: Condo for sale
+
+    PRICE: 345000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 172-31 Highland Ave Unit 2A
+
+    STATE: Jamaica, NY 11432
+
+    MAIN_ADDRESS: 172-31 Highland Ave Unit 2AJamaica, NY 11432
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Jamaica
+
+    LONG_NAME: 172-31
+
+    FORMATTED_ADDRESS: 172-31 Highland Ave #2a, Jamaica, NY 11432, USA
+
+    LATITUDE: 40.7135571
+
+    LONGITUDE: -73.7901901

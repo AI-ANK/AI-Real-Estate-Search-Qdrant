@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Park Avenue South
+
+    TYPE: Condo for sale
+
+    PRICE: 12995000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 4155.0
+
+    ADDRESS: 10 Greene St
+
+    STATE: New York, NY 10013
+
+    MAIN_ADDRESS: 10 Greene StNew York, NY 10013
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: Greene Street
+
+    FORMATTED_ADDRESS: 10 Greene St, New York, NY 10013, USA
+
+    LATITUDE: 40.7207039
+
+    LONGITUDE: -74.0027289

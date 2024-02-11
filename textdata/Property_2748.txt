@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Getmore Realty Inc
+
+    TYPE: Co-op for sale
+
+    PRICE: 359000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 950.0
+
+    ADDRESS: 141-09 28 Ave Unit 1D
+
+    STATE: Flushing, NY 11354
+
+    MAIN_ADDRESS: 141-09 28 Ave Unit 1DFlushing, NY 11354
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 141-9
+
+    FORMATTED_ADDRESS: 141-9 28th Ave #1d, Flushing, NY 11354, USA
+
+    LATITUDE: 40.7733297
+
+    LONGITUDE: -73.8274665

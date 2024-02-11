@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran West Side
+
+    TYPE: Co-op for sale
+
+    PRICE: 4150000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 875 Fifth Ave # 12B
+
+    STATE: New York, NY 10065
+
+    MAIN_ADDRESS: 875 Fifth Ave # 12BNew York, NY 10065
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 875
+
+    FORMATTED_ADDRESS: 875 5th Ave #12b, New York, NY 10065, USA
+
+    LATITUDE: 40.7701916
+
+    LONGITUDE: -73.9682413

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX 1st Choice
+
+    TYPE: House for sale
+
+    PRICE: 1375000
+
+    BEDS: 6
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1596.0
+
+    ADDRESS: 33-14 154th St
+
+    STATE: Flushing, NY 11354
+
+    MAIN_ADDRESS: 33-14 154th StFlushing, NY 11354
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 154th Street
+
+    FORMATTED_ADDRESS: 33-14 154th St, Flushing, NY 11354, USA
+
+    LATITUDE: 40.7681033
+
+    LONGITUDE: -73.8107752

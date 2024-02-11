@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX 1st Choice
+
+    TYPE: House for sale
+
+    PRICE: 1280000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2340.0
+
+    ADDRESS: 240-67 Poplar St
+
+    STATE: Douglaston, NY 11363
+
+    MAIN_ADDRESS: 240-67 Poplar StDouglaston, NY 11363
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Poplar Street
+
+    FORMATTED_ADDRESS: 240-67 Poplar St, Flushing, NY 11363, USA
+
+    LATITUDE: 40.7690548
+
+    LONGITUDE: -73.7444989

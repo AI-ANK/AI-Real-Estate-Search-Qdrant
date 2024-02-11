@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by BERKSHIRE HATHAWAY
+
+    TYPE: Land for sale
+
+    PRICE: 675000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 2932 Brighton 5th St
+
+    STATE: Brooklyn, NY 11235
+
+    MAIN_ADDRESS: 2932 Brighton 5th StBrooklyn, NY 11235
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Brighton 5th Street
+
+    FORMATTED_ADDRESS: 2932 Brighton 5th St, Brooklyn, NY 11235, USA
+
+    LATITUDE: 40.580329
+
+    LONGITUDE: -73.963661

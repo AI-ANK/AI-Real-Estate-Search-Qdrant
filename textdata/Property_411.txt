@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Real Estate Top Sales Llc
+
+    TYPE: Land for sale
+
+    PRICE: 350000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 8 Lake Ave
+
+    STATE: Brooklyn, NY 11235
+
+    MAIN_ADDRESS: 8 Lake AveBrooklyn, NY 11235
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Lake Avenue
+
+    FORMATTED_ADDRESS: 8 Lake Ave, Brooklyn, NY 11235, USA
+
+    LATITUDE: 40.5844107
+
+    LONGITUDE: -73.9380366

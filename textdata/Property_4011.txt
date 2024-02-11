@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Exp Realty
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 750000
+
+    BEDS: 5
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 3327.0
+
+    ADDRESS: 4251 Carpenter Ave
+
+    STATE: Bronx, NY 10466
+
+    MAIN_ADDRESS: 4251 Carpenter AveBronx, NY 10466
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Carpenter Avenue
+
+    FORMATTED_ADDRESS: 4251 Carpenter Ave, Bronx, NY 10466, USA
+
+    LATITUDE: 40.8959505
+
+    LONGITUDE: -73.859572

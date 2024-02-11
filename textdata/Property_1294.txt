@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Fillmore Real Estate
+
+    TYPE: House for sale
+
+    PRICE: 549000
+
+    BEDS: 1
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 133-38 130th St
+
+    STATE: South Ozone Park, NY 11420
+
+    MAIN_ADDRESS: 133-38 130th StSouth Ozone Park, NY 11420
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 130th Street
+
+    FORMATTED_ADDRESS: 133-38 130th St, Jamaica, NY 11420, USA
+
+    LATITUDE: 40.669243
+
+    LONGITUDE: -73.809973

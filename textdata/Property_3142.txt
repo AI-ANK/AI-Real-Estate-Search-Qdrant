@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by E Realty International Corp
+
+    TYPE: Condo for sale
+
+    PRICE: 838000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 706.0
+
+    ADDRESS: 48 Market St Apt 3A
+
+    STATE: New York, NY 10002
+
+    MAIN_ADDRESS: 48 Market St Apt 3ANew York, NY 10002
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 48
+
+    FORMATTED_ADDRESS: 48 Market St #3a, New York, NY 10002, USA
+
+    LATITUDE: 40.7118928
+
+    LONGITUDE: -73.9940945

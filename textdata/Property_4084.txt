@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by KELLER WILLIAMS REALTY LANDMARK II
+
+    TYPE: Co-op for sale
+
+    PRICE: 229000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 21-16 35th St Unit 1B
+
+    STATE: Astoria, NY 11105
+
+    MAIN_ADDRESS: 21-16 35th St Unit 1BAstoria, NY 11105
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Astoria
+
+    LONG_NAME: 21-16
+
+    FORMATTED_ADDRESS: 21-16 35th St #1b, Astoria, NY 11105, USA
+
+    LATITUDE: 40.7763731
+
+    LONGITUDE: -73.9073075

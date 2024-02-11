@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Brooklyn Heights
+
+    TYPE: Pending
+
+    PRICE: 599999
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 2601 E 24th St Apt 3B
+
+    STATE: Brooklyn, NY 11235
+
+    MAIN_ADDRESS: 2601 E 24th St Apt 3BBrooklyn, NY 11235
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Sheepshead Bay
+
+    LONG_NAME: 2601
+
+    FORMATTED_ADDRESS: 2601 E 24th St #3b, Brooklyn, NY 11235, USA
+
+    LATITUDE: 40.5887895
+
+    LONGITUDE: -73.9452357

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens - 445 Park Avenue
+
+    TYPE: Co-op for sale
+
+    PRICE: 3950000
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 2 Sutton Pl S Apt 19F
+
+    STATE: Manhattan, NY 10022
+
+    MAIN_ADDRESS: 2 Sutton Pl S Apt 19FManhattan, NY 10022
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 2
+
+    FORMATTED_ADDRESS: 2 Sutton Pl s, New York, NY 10022, USA
+
+    LATITUDE: 40.7573949
+
+    LONGITUDE: -73.9606545

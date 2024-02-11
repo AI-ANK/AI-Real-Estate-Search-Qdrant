@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by East Coast REALTORS Inc
+
+    TYPE: House for sale
+
+    PRICE: 1880000
+
+    BEDS: 3
+
+    BATH: 5.0
+
+    PROPERTYSQFT: 1920.0
+
+    ADDRESS: 143-40 Poplar Ave
+
+    STATE: Flushing, NY 11355
+
+    MAIN_ADDRESS: 143-40 Poplar AveFlushing, NY 11355
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Poplar Avenue
+
+    FORMATTED_ADDRESS: 143-40 Poplar Ave, Flushing, NY 11355, USA
+
+    LATITUDE: 40.7492709
+
+    LONGITUDE: -73.8119666

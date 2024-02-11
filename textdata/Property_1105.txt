@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by JM Properties
+
+    TYPE: House for sale
+
+    PRICE: 729000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1100.0
+
+    ADDRESS: 1700 Carlton Ave
+
+    STATE: Staten Island, NY 10309
+
+    MAIN_ADDRESS: 1700 Carlton AveStaten Island, NY 10309
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Carlton Avenue
+
+    FORMATTED_ADDRESS: 1700 Carlton Ave, Staten Island, NY 10309, USA
+
+    LATITUDE: 40.5343207
+
+    LONGITUDE: -74.1998415

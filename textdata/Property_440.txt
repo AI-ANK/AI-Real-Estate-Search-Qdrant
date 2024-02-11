@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Compass Realty Central Inc.
+
+    TYPE: House for sale
+
+    PRICE: 849000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2000.0
+
+    ADDRESS: 329 Wainwright Ave
+
+    STATE: Staten Island, NY 10312
+
+    MAIN_ADDRESS: 329 Wainwright AveStaten Island, NY 10312
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Wainwright Avenue
+
+    FORMATTED_ADDRESS: 329 Wainwright Ave, Staten Island, NY 10312, USA
+
+    LATITUDE: 40.5528489
+
+    LONGITUDE: -74.1699382

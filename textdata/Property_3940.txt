@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran East Side
+
+    TYPE: Condo for sale
+
+    PRICE: 21500000
+
+    BEDS: 5
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 4179.0
+
+    ADDRESS: 1295 Madison Ave
+
+    STATE: New York, NY 10128
+
+    MAIN_ADDRESS: 1295 Madison AveNew York, NY 10128
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: Madison Avenue
+
+    FORMATTED_ADDRESS: 1295 Madison Ave, New York, NY 10128, USA
+
+    LATITUDE: 40.7847977
+
+    LONGITUDE: -73.9556597

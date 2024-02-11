@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by EXIT REALTY PRIME
+
+    TYPE: House for sale
+
+    PRICE: 699000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1500.0
+
+    ADDRESS: 115-11 126th St
+
+    STATE: South Ozone Park, NY 11420
+
+    MAIN_ADDRESS: 115-11 126th StSouth Ozone Park, NY 11420
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 126th Street
+
+    FORMATTED_ADDRESS: 115-11 126th St, South Ozone Park, NY 11420, USA
+
+    LATITUDE: 40.6785308
+
+    LONGITUDE: -73.8130811

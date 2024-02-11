@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Ha Jones Realty & Management
+
+    TYPE: House for sale
+
+    PRICE: 650000
+
+    BEDS: 5
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 36A Rochester Ave
+
+    STATE: Brooklyn, NY 11233
+
+    MAIN_ADDRESS: 36A Rochester AveBrooklyn, NY 11233
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Rochester Avenue
+
+    FORMATTED_ADDRESS: 36A Rochester Ave, Brooklyn, NY 11233, USA
+
+    LATITUDE: 40.677921
+
+    LONGITUDE: -73.9277691

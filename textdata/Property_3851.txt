@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Leven Real Estate - Head Office
+
+    TYPE: Condo for sale
+
+    PRICE: 800000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 916.0
+
+    ADDRESS: 15 Broad St Apt 1928
+
+    STATE: New York, NY 10005
+
+    MAIN_ADDRESS: 15 Broad St Apt 1928New York, NY 10005
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: Broad Street
+
+    FORMATTED_ADDRESS: 15 Broad St, New York, NY 10005, USA
+
+    LATITUDE: 40.7067114
+
+    LONGITUDE: -74.010457

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Prime Realty
+
+    TYPE: Condo for sale
+
+    PRICE: 1150000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1850.0
+
+    ADDRESS: 12-29 Estates Ln Unit 223L
+
+    STATE: Bayside, NY 11360
+
+    MAIN_ADDRESS: 12-29 Estates Ln Unit 223LBayside, NY 11360
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Bayside
+
+    LONG_NAME: 29-Dec
+
+    FORMATTED_ADDRESS: 12-29 Estates Ln #223, Bayside, NY 11360, USA
+
+    LATITUDE: 40.7878758
+
+    LONGITUDE: -73.786717

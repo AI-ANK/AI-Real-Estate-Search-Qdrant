@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Gateway Arms Realty Corp.
+
+    TYPE: House for sale
+
+    PRICE: 879000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1238.0
+
+    ADDRESS: 48 Princewood Ave
+
+    STATE: Staten Island, NY 10309
+
+    MAIN_ADDRESS: 48 Princewood AveStaten Island, NY 10309
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Princewood Avenue
+
+    FORMATTED_ADDRESS: 48 Princewood Ave, Staten Island, NY 10309, USA
+
+    LATITUDE: 40.5273247
+
+    LONGITUDE: -74.1983282

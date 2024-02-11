@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Robert DeFalco Realty, Inc.
+
+    TYPE: House for sale
+
+    PRICE: 399999
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1056.0
+
+    ADDRESS: 123 Roe St
+
+    STATE: Staten Island, NY 10310
+
+    MAIN_ADDRESS: 123 Roe StStaten Island, NY 10310
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Roe Street
+
+    FORMATTED_ADDRESS: 123 Roe St, Staten Island, NY 10310, USA
+
+    LATITUDE: 40.6309242
+
+    LONGITUDE: -74.1212547

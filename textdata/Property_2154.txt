@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE/MAX Team
+
+    TYPE: Pending
+
+    PRICE: 758888
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 40-26 Benham St
+
+    STATE: Elmhurst, NY 11373
+
+    MAIN_ADDRESS: 40-26 Benham StElmhurst, NY 11373
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Benham Street
+
+    FORMATTED_ADDRESS: 40-26 Benham St, Elmhurst, NY 11373, USA
+
+    LATITUDE: 40.7479833
+
+    LONGITUDE: -73.8746835

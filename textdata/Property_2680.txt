@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran West Side
+
+    TYPE: Co-op for sale
+
+    PRICE: 825000
+
+    BEDS: 1
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1100.0
+
+    ADDRESS: 180 E End Ave Apt 18H
+
+    STATE: New York, NY 10128
+
+    MAIN_ADDRESS: 180 E End Ave Apt 18HNew York, NY 10128
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 180
+
+    FORMATTED_ADDRESS: 180 East End Ave #18h, New York, NY 10128, USA
+
+    LATITUDE: 40.7766673
+
+    LONGITUDE: -73.9439269

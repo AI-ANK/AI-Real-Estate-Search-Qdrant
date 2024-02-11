@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran East Side
+
+    TYPE: Co-op for sale
+
+    PRICE: 614000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 609 Columbus Ave Apt 14K
+
+    STATE: New York, NY 10024
+
+    MAIN_ADDRESS: 609 Columbus Ave Apt 14KNew York, NY 10024
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 609
+
+    FORMATTED_ADDRESS: 609 Columbus Ave #14k, New York, NY 10024, USA
+
+    LATITUDE: 40.7887084
+
+    LONGITUDE: -73.9700091

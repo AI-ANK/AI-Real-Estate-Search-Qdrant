@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Venezia Realty Group LLC
+
+    TYPE: Co-op for sale
+
+    PRICE: 370000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 800.0
+
+    ADDRESS: 1065 Shore Pkwy Unit 2B
+
+    STATE: Brooklyn, NY 11228
+
+    MAIN_ADDRESS: 1065 Shore Pkwy Unit 2BBrooklyn, NY 11228
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Bath Beach
+
+    LONG_NAME: 1065
+
+    FORMATTED_ADDRESS: 1065 Shore Pkwy #2b, Brooklyn, NY 11228, USA
+
+    LATITUDE: 40.6033288
+
+    LONGITUDE: -74.0160805

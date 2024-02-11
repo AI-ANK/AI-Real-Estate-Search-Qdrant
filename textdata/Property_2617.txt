@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Mega Homes Realty Inc
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1095000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 31-36 48th St
+
+    STATE: Astoria, NY 11103
+
+    MAIN_ADDRESS: 31-36 48th StAstoria, NY 11103
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 48th Street
+
+    FORMATTED_ADDRESS: 31-36 48th St, Long Island City, NY 11103, USA
+
+    LATITUDE: 40.757489
+
+    LONGITUDE: -73.9116062

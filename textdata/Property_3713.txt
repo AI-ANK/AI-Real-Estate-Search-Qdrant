@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Realty Group
+
+    TYPE: House for sale
+
+    PRICE: 599000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1665.0
+
+    ADDRESS: 740 E 242nd St
+
+    STATE: Bronx, NY 10470
+
+    MAIN_ADDRESS: 740 E 242nd StBronx, NY 10470
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: East 242nd Street
+
+    FORMATTED_ADDRESS: 740 E 242nd St, Bronx, NY 10470, USA
+
+    LATITUDE: 40.9052119
+
+    LONGITUDE: -73.8481704

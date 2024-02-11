@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Ernest Chi Real Estate LLC
+
+    TYPE: Co-op for sale
+
+    PRICE: 729000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1400.0
+
+    ADDRESS: 4555 Henry Hudson Pkwy Apt 903
+
+    STATE: Bronx, NY 10471
+
+    MAIN_ADDRESS: 4555 Henry Hudson Pkwy Apt 903Bronx, NY 10471
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: Riverdale
+
+    LONG_NAME: 4555
+
+    FORMATTED_ADDRESS: 4555 Henry Hudson Pkwy #903, Bronx, NY 10471, USA
+
+    LATITUDE: 40.8924692
+
+    LONGITUDE: -73.9091145

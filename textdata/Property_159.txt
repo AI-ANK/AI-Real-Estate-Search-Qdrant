@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Garfield, Leslie J. & Co., Inc.
+
+    TYPE: Townhouse for sale
+
+    PRICE: 2750000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 16 Gay St
+
+    STATE: New York, NY 10014
+
+    MAIN_ADDRESS: 16 Gay StNew York, NY 10014
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: Gay Street
+
+    FORMATTED_ADDRESS: 16 Gay St, New York, NY 10014, USA
+
+    LATITUDE: 40.7336687
+
+    LONGITUDE: -74.000518

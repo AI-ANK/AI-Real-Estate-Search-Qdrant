@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran East Side
+
+    TYPE: Condo for sale
+
+    PRICE: 5200000
+
+    BEDS: 3
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 3400.0
+
+    ADDRESS: 29 W 85th St Apt 3
+
+    STATE: New York, NY 10024
+
+    MAIN_ADDRESS: 29 W 85th St Apt 3New York, NY 10024
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 29
+
+    FORMATTED_ADDRESS: 29 W 85th St APT 3, New York, NY 10024, USA
+
+    LATITUDE: 40.7852077
+
+    LONGITUDE: -73.9706676

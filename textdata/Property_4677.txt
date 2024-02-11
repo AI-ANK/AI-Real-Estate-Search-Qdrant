@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by NYC Empire Realty Inc.
+
+    TYPE: House for sale
+
+    PRICE: 700000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1890.0
+
+    ADDRESS: 919 E 224th St
+
+    STATE: Bronx, NY 10466
+
+    MAIN_ADDRESS: 919 E 224th StBronx, NY 10466
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: East 224th Street
+
+    FORMATTED_ADDRESS: 919 E 224th St, Bronx, NY 10466, USA
+
+    LATITUDE: 40.885187
+
+    LONGITUDE: -73.854142

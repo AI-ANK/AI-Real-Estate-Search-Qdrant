@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Century 21 AA Realty
+
+    TYPE: House for sale
+
+    PRICE: 485000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 816.0
+
+    ADDRESS: 1605 Purdy St
+
+    STATE: Bronx, NY 10462
+
+    MAIN_ADDRESS: 1605 Purdy StBronx, NY 10462
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Purdy Street
+
+    FORMATTED_ADDRESS: 1605 Purdy St, Bronx, NY 10462, USA
+
+    LATITUDE: 40.8392076
+
+    LONGITUDE: -73.8539325

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Century 21 Papp Realty
+
+    TYPE: House for sale
+
+    PRICE: 880000
+
+    BEDS: 3
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2100.0
+
+    ADDRESS: 20 Gabriele Ct
+
+    STATE: Staten Island, NY 10312
+
+    MAIN_ADDRESS: 20 Gabriele CtStaten Island, NY 10312
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Gabrielle Court
+
+    FORMATTED_ADDRESS: 20 Gabrielle Ct, Staten Island, NY 10312, USA
+
+    LATITUDE: 40.551314
+
+    LONGITUDE: -74.1670026

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Condo for sale
+
+    PRICE: 595000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 660.0
+
+    ADDRESS: 55 Wall St Apt 714
+
+    STATE: Manhattan, NY 10005
+
+    MAIN_ADDRESS: 55 Wall St Apt 714Manhattan, NY 10005
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 55
+
+    FORMATTED_ADDRESS: 55 Wall St APT 714, New York, NY 10005, USA
+
+    LATITUDE: 40.7059312
+
+    LONGITUDE: -74.0093393

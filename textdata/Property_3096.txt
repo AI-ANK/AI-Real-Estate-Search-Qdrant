@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens - 445 Park Avenue
+
+    TYPE: Condo for sale
+
+    PRICE: 699900
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 558.0
+
+    ADDRESS: 80 Park Avenue Ave Unit 10B
+
+    STATE: Manhattan, NY 10016
+
+    MAIN_ADDRESS: 80 Park Avenue Ave Unit 10BManhattan, NY 10016
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 80
+
+    FORMATTED_ADDRESS: 80 Park Ave #10b, New York, NY 10016, USA
+
+    LATITUDE: 40.7502793
+
+    LONGITUDE: -73.9795235

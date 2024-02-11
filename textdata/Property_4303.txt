@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Townhouse for sale
+
+    PRICE: 1495000
+
+    BEDS: 5
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 1212A Greene Ave Unit Townhouse
+
+    STATE: Brooklyn, NY 11221
+
+    MAIN_ADDRESS: 1212A Greene Ave Unit TownhouseBrooklyn, NY 11221
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Greene Avenue
+
+    FORMATTED_ADDRESS: 1212A Greene Ave, Brooklyn, NY 11221, USA
+
+    LATITUDE: 40.6954487
+
+    LONGITUDE: -73.9217306

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran SoHo
+
+    TYPE: Condo for sale
+
+    PRICE: 295000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 48 W 138th St Apt 6F
+
+    STATE: New York, NY 10037
+
+    MAIN_ADDRESS: 48 W 138th St Apt 6FNew York, NY 10037
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 48
+
+    FORMATTED_ADDRESS: 48 W 138th St #6f, New York, NY 10037, USA
+
+    LATITUDE: 40.8153693
+
+    LONGITUDE: -73.9384161

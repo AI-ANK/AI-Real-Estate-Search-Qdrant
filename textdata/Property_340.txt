@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sowae Corp
+
+    TYPE: House for sale
+
+    PRICE: 250000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 1224.0
+
+    ADDRESS: 164-31 99 St
+
+    STATE: Howard Beach, NY 11414
+
+    MAIN_ADDRESS: 164-31 99 StHoward Beach, NY 11414
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 99th Street
+
+    FORMATTED_ADDRESS: 164-31 99th St, Howard Beach, NY 11414, USA
+
+    LATITUDE: 40.6505528
+
+    LONGITUDE: -73.8316736

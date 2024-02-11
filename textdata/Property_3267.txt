@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by NEUHAUS REALTY INC.
+
+    TYPE: Pending
+
+    PRICE: 1280000
+
+    BEDS: 5
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 3600.0
+
+    ADDRESS: 371 Swinnerton St
+
+    STATE: Staten Island, NY 10307
+
+    MAIN_ADDRESS: 371 Swinnerton StStaten Island, NY 10307
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Swinnerton Street
+
+    FORMATTED_ADDRESS: 371 Swinnerton St, Staten Island, NY 10307, USA
+
+    LATITUDE: 40.4995462
+
+    LONGITUDE: -74.2443078

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Apple Realty Group Corp
+
+    TYPE: Condo for sale
+
+    PRICE: 700000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1124.0
+
+    ADDRESS: 168-03 Powells Cove Blvd Unit 14
+
+    STATE: Whitestone, NY 11357
+
+    MAIN_ADDRESS: 168-03 Powells Cove Blvd Unit 14Whitestone, NY 11357
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Beechhurst
+
+    LONG_NAME: 16803
+
+    FORMATTED_ADDRESS: 16803 Powells Cove Blvd #14, Beechhurst, NY 11357, USA
+
+    LATITUDE: 40.7942255
+
+    LONGITUDE: -73.7950678

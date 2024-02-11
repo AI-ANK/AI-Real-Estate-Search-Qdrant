@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Oxford Property Group
+
+    TYPE: Pending
+
+    PRICE: 799000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1200.0
+
+    ADDRESS: 177 W 83rd St Apt 4S
+
+    STATE: New York, NY 10024
+
+    MAIN_ADDRESS: 177 W 83rd St Apt 4SNew York, NY 10024
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 177
+
+    FORMATTED_ADDRESS: 177 W 83rd St #4s, New York, NY 10024, USA
+
+    LATITUDE: 40.7856899
+
+    LONGITUDE: -73.976047

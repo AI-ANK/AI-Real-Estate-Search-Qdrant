@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Pending
+
+    PRICE: 550000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1292.0
+
+    ADDRESS: 21 Locust Ct
+
+    STATE: Staten Island, NY 10309
+
+    MAIN_ADDRESS: 21 Locust CtStaten Island, NY 10309
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Locust Court
+
+    FORMATTED_ADDRESS: 21 Locust Ct, Staten Island, NY 10309, USA
+
+    LATITUDE: 40.5482041
+
+    LONGITUDE: -74.2109853

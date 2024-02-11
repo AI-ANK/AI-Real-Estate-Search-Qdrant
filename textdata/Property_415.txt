@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: NoBroker
+
+    TYPE: Co-op for sale
+
+    PRICE: 235000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1400.0
+
+    ADDRESS: 143-50 Hoover Ave Unit 307
+
+    STATE: Jamaica, NY 11435
+
+    MAIN_ADDRESS: 143-50 Hoover Ave Unit 307Jamaica, NY 11435
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Jamaica
+
+    LONG_NAME: 14350
+
+    FORMATTED_ADDRESS: 14350 Hoover Ave Apt 307, Jamaica, NY 11435, USA
+
+    LATITUDE: 40.7142299
+
+    LONGITUDE: -73.8152

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by CENTURY 21 Achievers
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 3400000
+
+    BEDS: 3
+
+    BATH: 8.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 567 St Johns Pl
+
+    STATE: Brooklyn, NY 11238
+
+    MAIN_ADDRESS: 567 St Johns PlBrooklyn, NY 11238
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Saint Johns Place
+
+    FORMATTED_ADDRESS: 567 St Johns Pl, Brooklyn, NY 11238, USA
+
+    LATITUDE: 40.6729971
+
+    LONGITUDE: -73.9592414

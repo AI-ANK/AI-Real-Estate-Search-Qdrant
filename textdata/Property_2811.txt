@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Prime Realty
+
+    TYPE: Pending
+
+    PRICE: 1399000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1800.0
+
+    ADDRESS: 35-12 213th St
+
+    STATE: Bayside, NY 11361
+
+    MAIN_ADDRESS: 35-12 213th StBayside, NY 11361
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 213th Street
+
+    FORMATTED_ADDRESS: 35-12 213th St, Flushing, NY 11361, USA
+
+    LATITUDE: 40.768361
+
+    LONGITUDE: -73.7747442

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Pantiga Group Inc.
+
+    TYPE: House for sale
+
+    PRICE: 729000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1400.0
+
+    ADDRESS: 1625 Lurting Ave
+
+    STATE: Bronx, NY 10461
+
+    MAIN_ADDRESS: 1625 Lurting AveBronx, NY 10461
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Lurting Avenue
+
+    FORMATTED_ADDRESS: 1625 Lurting Ave, Bronx, NY 10461, USA
+
+    LATITUDE: 40.846624
+
+    LONGITUDE: -73.8520911

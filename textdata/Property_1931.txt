@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by One Manhattan real estate - Upper East Side office
+
+    TYPE: Co-op for sale
+
+    PRICE: 689000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1500.0
+
+    ADDRESS: 31-21 54th St Unit 1H
+
+    STATE: Queens, NY 11377
+
+    MAIN_ADDRESS: 31-21 54th St Unit 1HQueens, NY 11377
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 31-21
+
+    FORMATTED_ADDRESS: 31-21 54th St #1a, Flushing, NY 11377, USA
+
+    LATITUDE: 40.7563916
+
+    LONGITUDE: -73.9071359

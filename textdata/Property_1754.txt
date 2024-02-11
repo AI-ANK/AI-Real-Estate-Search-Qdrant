@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran East Side
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 750000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 630.0
+
+    ADDRESS: 504 W 110th St Apt 9C
+
+    STATE: New York, NY 10025
+
+    MAIN_ADDRESS: 504 W 110th St Apt 9CNew York, NY 10025
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 504
+
+    FORMATTED_ADDRESS: 504 W 110th St #9c, New York, NY 10025, USA
+
+    LATITUDE: 40.8032133
+
+    LONGITUDE: -73.9648078

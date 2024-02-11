@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Real Estate Professionals
+
+    TYPE: Co-op for sale
+
+    PRICE: 275000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 880.0
+
+    ADDRESS: 275 Webster Ave Apt 5A
+
+    STATE: Brooklyn, NY 11230
+
+    MAIN_ADDRESS: 275 Webster Ave Apt 5ABrooklyn, NY 11230
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Kensington
+
+    LONG_NAME: 275
+
+    FORMATTED_ADDRESS: 275 Webster Ave #5a, Brooklyn, NY 11230, USA
+
+    LATITUDE: 40.6329634
+
+    LONGITUDE: -73.9709274

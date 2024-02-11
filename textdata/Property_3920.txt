@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by CORE Group Marketing, LLC
+
+    TYPE: Condo for sale
+
+    PRICE: 25000000
+
+    BEDS: 5
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 4089.0
+
+    ADDRESS: 555 W 22nd St Apt 11AW
+
+    STATE: New York, NY 10011
+
+    MAIN_ADDRESS: 555 W 22nd St Apt 11AWNew York, NY 10011
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 555
+
+    FORMATTED_ADDRESS: 555 W 22nd St #11a, New York, NY 10011, USA
+
+    LATITUDE: 40.7481933
+
+    LONGITUDE: -74.006941

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Weichert Realtors TMT Group
+
+    TYPE: Co-op for sale
+
+    PRICE: 225000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 35-41 205 St Unit 291
+
+    STATE: Bayside, NY 11361
+
+    MAIN_ADDRESS: 35-41 205 St Unit 291Bayside, NY 11361
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Bayside
+
+    LONG_NAME: 3541
+
+    FORMATTED_ADDRESS: 3541 205th St # 291, Bayside, NY 11361, USA
+
+    LATITUDE: 40.7667099
+
+    LONGITUDE: -73.78272

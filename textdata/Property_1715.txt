@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Serhant
+
+    TYPE: Co-op for sale
+
+    PRICE: 5995000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 110 Franklin St Unit 1
+
+    STATE: New York, NY 10013
+
+    MAIN_ADDRESS: 110 Franklin St Unit 1New York, NY 10013
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 110
+
+    FORMATTED_ADDRESS: 110 Franklin St #1, New York, NY 10013, USA
+
+    LATITUDE: 40.7187102
+
+    LONGITUDE: -74.005987

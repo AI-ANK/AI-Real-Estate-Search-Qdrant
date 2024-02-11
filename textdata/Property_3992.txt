@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens - 445 Park Avenue
+
+    TYPE: Condo for sale
+
+    PRICE: 2400000
+
+    BEDS: 1
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1427.0
+
+    ADDRESS: 15 W 53rd St Unit 14G
+
+    STATE: Manhattan, NY 10019
+
+    MAIN_ADDRESS: 15 W 53rd St Unit 14GManhattan, NY 10019
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 15
+
+    FORMATTED_ADDRESS: 15 W 53rd St #14g, New York, NY 10019, USA
+
+    LATITUDE: 40.7613258
+
+    LONGITUDE: -73.9774014

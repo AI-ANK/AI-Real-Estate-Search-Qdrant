@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Winzone Realty Inc
+
+    TYPE: House for sale
+
+    PRICE: 319000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1224.0
+
+    ADDRESS: 57 Neutral Ave
+
+    STATE: Staten Island, NY 10306
+
+    MAIN_ADDRESS: 57 Neutral AveStaten Island, NY 10306
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Neutral Avenue
+
+    FORMATTED_ADDRESS: 57 Neutral Ave, Staten Island, NY 10306, USA
+
+    LATITUDE: 40.5604695
+
+    LONGITUDE: -74.1018925

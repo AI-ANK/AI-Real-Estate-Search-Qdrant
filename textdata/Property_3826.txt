@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Condo for sale
+
+    PRICE: 795000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 860.0
+
+    ADDRESS: 350 E 62nd St Apt 3B
+
+    STATE: Manhattan, NY 10065
+
+    MAIN_ADDRESS: 350 E 62nd St Apt 3BManhattan, NY 10065
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 350
+
+    FORMATTED_ADDRESS: 350 E 62nd St #3b, New York, NY 10065, USA
+
+    LATITUDE: 40.7614804
+
+    LONGITUDE: -73.9610613

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Nest Seekers International, Midtown
+
+    TYPE: Condo for sale
+
+    PRICE: 1350000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 659 Baltic St Unit Ph
+
+    STATE: Brooklyn, NY 11217
+
+    MAIN_ADDRESS: 659 Baltic St Unit PhBrooklyn, NY 11217
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Baltic Street
+
+    FORMATTED_ADDRESS: 659 Baltic St, Brooklyn, NY 11217, USA
+
+    LATITUDE: 40.6799762
+
+    LONGITUDE: -73.9787904

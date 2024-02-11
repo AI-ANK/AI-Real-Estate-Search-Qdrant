@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Ed Bruno Realty, LLC
+
+    TYPE: Contingent
+
+    PRICE: 835000
+
+    BEDS: 5
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2050.0
+
+    ADDRESS: 393 Guyon Ave
+
+    STATE: Staten Island, NY 10306
+
+    MAIN_ADDRESS: 393 Guyon AveStaten Island, NY 10306
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Guyon Avenue
+
+    FORMATTED_ADDRESS: 393 Guyon Ave, Staten Island, NY 10306, USA
+
+    LATITUDE: 40.5582716
+
+    LONGITUDE: -74.1160817

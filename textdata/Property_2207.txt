@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Utopia Real Estate
+
+    TYPE: Co-op for sale
+
+    PRICE: 239900
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 163-02 17 Ave Unit 1
+
+    STATE: Whitestone, NY 11357
+
+    MAIN_ADDRESS: 163-02 17 Ave Unit 1Whitestone, NY 11357
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 17th Avenue
+
+    FORMATTED_ADDRESS: 163- 2 17th Ave, Whitestone, NY 11357, USA
+
+    LATITUDE: 40.7828417
+
+    LONGITUDE: -73.8000905

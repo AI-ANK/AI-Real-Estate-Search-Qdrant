@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Realty Greater Nassau
+
+    TYPE: Co-op for sale
+
+    PRICE: 188000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 6011 Broadway Apt L5
+
+    STATE: Woodside, NY 11377
+
+    MAIN_ADDRESS: 6011 Broadway Apt L5Woodside, NY 11377
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Woodside
+
+    LONG_NAME: 6011
+
+    FORMATTED_ADDRESS: 6011 Broadway Apt L5, Woodside, NY 11377, USA
+
+    LATITUDE: 40.7511899
+
+    LONGITUDE: -73.90201

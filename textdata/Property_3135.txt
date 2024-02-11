@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by BERGEN BASIN REALTY
+
+    TYPE: House for sale
+
+    PRICE: 649000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1188.0
+
+    ADDRESS: 2509 Mill Ave
+
+    STATE: Brooklyn, NY 11234
+
+    MAIN_ADDRESS: 2509 Mill AveBrooklyn, NY 11234
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Mill Avenue
+
+    FORMATTED_ADDRESS: 2509 Mill Ave, Brooklyn, NY 11234, USA
+
+    LATITUDE: 40.610384
+
+    LONGITUDE: -73.910535

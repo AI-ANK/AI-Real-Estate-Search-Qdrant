@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Bond New York- Columbus Circle
+
+    TYPE: Co-op for sale
+
+    PRICE: 860000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1118.0
+
+    ADDRESS: 300 W 145th St Apt 2P
+
+    STATE: New York, NY 10039
+
+    MAIN_ADDRESS: 300 W 145th St Apt 2PNew York, NY 10039
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 300
+
+    FORMATTED_ADDRESS: 300 W 145th St #2b, New York, NY 10039, USA
+
+    LATITUDE: 40.822922
+
+    LONGITUDE: -73.9426429

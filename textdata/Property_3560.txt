@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 575 Madison Ave
+
+    TYPE: Co-op for sale
+
+    PRICE: 425000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 513 E 5th St Apt 2A
+
+    STATE: New York, NY 10009
+
+    MAIN_ADDRESS: 513 E 5th St Apt 2ANew York, NY 10009
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 513
+
+    FORMATTED_ADDRESS: 513 E 5th St #2a, New York, NY 10009, USA
+
+    LATITUDE: 40.7247015
+
+    LONGITUDE: -73.9835768

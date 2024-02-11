@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Extell Marketing Group LLC
+
+    TYPE: Condo for sale
+
+    PRICE: 2265000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1123.0
+
+    ADDRESS: 252 South St Unit 26L
+
+    STATE: New York, NY 10002
+
+    MAIN_ADDRESS: 252 South St Unit 26LNew York, NY 10002
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 252
+
+    FORMATTED_ADDRESS: 252 South St #26, New York, NY 10002, USA
+
+    LATITUDE: 40.710456
+
+    LONGITUDE: -73.991235

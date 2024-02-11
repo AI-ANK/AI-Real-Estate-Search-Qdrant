@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Edge
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1180000
+
+    BEDS: 4
+
+    BATH: 5.0
+
+    PROPERTYSQFT: 3100.0
+
+    ADDRESS: 47-19 99th St
+
+    STATE: Corona, NY 11368
+
+    MAIN_ADDRESS: 47-19 99th StCorona, NY 11368
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 99th Street
+
+    FORMATTED_ADDRESS: 47-19 99th St, Flushing, NY 11368, USA
+
+    LATITUDE: 40.744266
+
+    LONGITUDE: -73.862867

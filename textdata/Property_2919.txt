@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Park Slope
+
+    TYPE: Townhouse for sale
+
+    PRICE: 4195000
+
+    BEDS: 5
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 445 Waverly Ave
+
+    STATE: Brooklyn, NY 11238
+
+    MAIN_ADDRESS: 445 Waverly AveBrooklyn, NY 11238
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Waverly Avenue
+
+    FORMATTED_ADDRESS: 445 Waverly Ave, Brooklyn, NY 11238, USA
+
+    LATITUDE: 40.6847934
+
+    LONGITUDE: -73.965911

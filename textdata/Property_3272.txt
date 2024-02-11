@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 575 Madison Ave
+
+    TYPE: Townhouse for sale
+
+    PRICE: 6500000
+
+    BEDS: 5
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 4000.0
+
+    ADDRESS: 247 E 71st St
+
+    STATE: New York, NY 10021
+
+    MAIN_ADDRESS: 247 E 71st StNew York, NY 10021
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: East 71st Street
+
+    FORMATTED_ADDRESS: 247 E 71st St, New York, NY 10021, USA
+
+    LATITUDE: 40.7685714
+
+    LONGITUDE: -73.959526

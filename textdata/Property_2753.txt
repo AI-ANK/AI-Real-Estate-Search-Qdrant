@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Core Realty Family
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 965000
+
+    BEDS: 5
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 3520.0
+
+    ADDRESS: 1027 Ward Ave
+
+    STATE: Bronx, NY 10472
+
+    MAIN_ADDRESS: 1027 Ward AveBronx, NY 10472
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Ward Avenue
+
+    FORMATTED_ADDRESS: 1027 Ward Ave, Bronx, NY 10472, USA
+
+    LATITUDE: 40.8247021
+
+    LONGITUDE: -73.8766066

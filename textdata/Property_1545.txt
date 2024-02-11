@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Edge
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1998000
+
+    BEDS: 6
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 3192.0
+
+    ADDRESS: 578 Ovington Ave
+
+    STATE: Brooklyn, NY 11209
+
+    MAIN_ADDRESS: 578 Ovington AveBrooklyn, NY 11209
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Ovington Avenue
+
+    FORMATTED_ADDRESS: 578 Ovington Ave, Brooklyn, NY 11209, USA
+
+    LATITUDE: 40.631406
+
+    LONGITUDE: -74.0193512

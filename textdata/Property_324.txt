@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by New Concept Sheiks Realty Inc.
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 875000
+
+    BEDS: 6
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2860.0
+
+    ADDRESS: 1779 Edenwald Ave
+
+    STATE: Bronx, NY 10466
+
+    MAIN_ADDRESS: 1779 Edenwald AveBronx, NY 10466
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Edenwald Avenue
+
+    FORMATTED_ADDRESS: 1779 Edenwald Ave, Bronx, NY 10466, USA
+
+    LATITUDE: 40.8920958
+
+    LONGITUDE: -73.8487361

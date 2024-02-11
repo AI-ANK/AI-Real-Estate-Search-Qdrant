@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Robert Defalco Realty Inc.
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 589999
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1680.0
+
+    ADDRESS: 393 Heberton Ave
+
+    STATE: Staten Island, NY 10302
+
+    MAIN_ADDRESS: 393 Heberton AveStaten Island, NY 10302
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Heberton Avenue
+
+    FORMATTED_ADDRESS: 393 Heberton Ave, Staten Island, NY 10302, USA
+
+    LATITUDE: 40.6314894
+
+    LONGITUDE: -74.1348461

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Bond New York- Columbus Circle
+
+    TYPE: Condo for sale
+
+    PRICE: 600000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 600.0
+
+    ADDRESS: 1810 Third Ave Unit A9
+
+    STATE: Manhattan, NY 10029
+
+    MAIN_ADDRESS: 1810 Third Ave Unit A9Manhattan, NY 10029
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 1810
+
+    FORMATTED_ADDRESS: 1810 3rd Ave a9, New York, NY 10029, USA
+
+    LATITUDE: 40.7881977
+
+    LONGITUDE: -73.947385

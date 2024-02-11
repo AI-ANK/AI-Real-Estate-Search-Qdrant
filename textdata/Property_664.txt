@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Houlihan Lawrence
+
+    TYPE: House for sale
+
+    PRICE: 499000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1350.0
+
+    ADDRESS: 514 E 235th St
+
+    STATE: Bronx, NY 10470
+
+    MAIN_ADDRESS: 514 E 235th StBronx, NY 10470
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: East 235th Street
+
+    FORMATTED_ADDRESS: 514 E 235th St, Bronx, NY 10470, USA
+
+    LATITUDE: 40.8978428
+
+    LONGITUDE: -73.8633611

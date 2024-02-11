@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Edge
+
+    TYPE: Co-op for sale
+
+    PRICE: 525000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1000.0
+
+    ADDRESS: 6801 Shore Rd Apt 4J
+
+    STATE: Brooklyn, NY 11220
+
+    MAIN_ADDRESS: 6801 Shore Rd Apt 4JBrooklyn, NY 11220
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Bay Ridge
+
+    LONG_NAME: 6801
+
+    FORMATTED_ADDRESS: 6801 Shore Rd #4j, Brooklyn, NY 11220, USA
+
+    LATITUDE: 40.6393755
+
+    LONGITUDE: -74.0352909

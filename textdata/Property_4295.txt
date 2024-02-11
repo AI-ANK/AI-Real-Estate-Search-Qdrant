@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Nest Seekers International, Westside
+
+    TYPE: Condo for sale
+
+    PRICE: 15500000
+
+    BEDS: 5
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 4134.0
+
+    ADDRESS: 1965 Broadway Apt 28E
+
+    STATE: New York, NY 10023
+
+    MAIN_ADDRESS: 1965 Broadway Apt 28ENew York, NY 10023
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 1965
+
+    FORMATTED_ADDRESS: 1965 Broadway #28e, New York, NY 10023, USA
+
+    LATITUDE: 40.7744463
+
+    LONGITUDE: -73.9825007

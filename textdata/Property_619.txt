@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE/MAX Opulent
+
+    TYPE: Co-op for sale
+
+    PRICE: 120000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 600.0
+
+    ADDRESS: 2962 Decatur Ave Apt 1C
+
+    STATE: Bronx, NY 10458
+
+    MAIN_ADDRESS: 2962 Decatur Ave Apt 1CBronx, NY 10458
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: West Bronx
+
+    LONG_NAME: 2962
+
+    FORMATTED_ADDRESS: 2962 Decatur Ave #1c, Bronx, NY 10458, USA
+
+    LATITUDE: 40.8683656
+
+    LONGITUDE: -73.8832093

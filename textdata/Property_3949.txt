@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Weichert Realtors Evolution Group
+
+    TYPE: House for sale
+
+    PRICE: 995000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2200.0
+
+    ADDRESS: 43 Sunnyside Ter
+
+    STATE: Staten Island, NY 10301
+
+    MAIN_ADDRESS: 43 Sunnyside TerStaten Island, NY 10301
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Sunnyside Terrace
+
+    FORMATTED_ADDRESS: 43 Sunnyside Terrace, Staten Island, NY 10301, USA
+
+    LATITUDE: 40.6146934
+
+    LONGITUDE: -74.0996097

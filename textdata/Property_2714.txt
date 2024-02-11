@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Daniel Gale of Brooklyn LLC
+
+    TYPE: Townhouse for sale
+
+    PRICE: 1348000
+
+    BEDS: 5
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 46-03 104 St
+
+    STATE: Queens, NY 11368
+
+    MAIN_ADDRESS: 46-03 104 StQueens, NY 11368
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 104th Street
+
+    FORMATTED_ADDRESS: 46-03 104th St, Flushing, NY 11368, USA
+
+    LATITUDE: 40.7462947
+
+    LONGITUDE: -73.8595834

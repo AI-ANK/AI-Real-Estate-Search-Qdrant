@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Condo for sale
+
+    PRICE: 2800000
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 3341.0
+
+    ADDRESS: 429 Kent Ave Unit L65
+
+    STATE: Brooklyn, NY 11249
+
+    MAIN_ADDRESS: 429 Kent Ave Unit L65Brooklyn, NY 11249
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Southside
+
+    LONG_NAME: 429
+
+    FORMATTED_ADDRESS: 429 Kent Ave #65, Brooklyn, NY 11249, USA
+
+    LATITUDE: 40.7096014
+
+    LONGITUDE: -73.9682173

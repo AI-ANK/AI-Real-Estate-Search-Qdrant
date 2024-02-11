@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by 5 Boro Realty Corp
+
+    TYPE: Condo for sale
+
+    PRICE: 99000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 1368 E 92nd St Unit 300
+
+    STATE: Brooklyn, NY 11236
+
+    MAIN_ADDRESS: 1368 E 92nd St Unit 300Brooklyn, NY 11236
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Canarsie
+
+    LONG_NAME: 1368
+
+    FORMATTED_ADDRESS: 1368 E 92nd St #300, Brooklyn, NY 11236, USA
+
+    LATITUDE: 40.6372545
+
+    LONGITUDE: -73.9002674

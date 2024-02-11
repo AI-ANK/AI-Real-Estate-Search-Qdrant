@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Serhant
+
+    TYPE: Condo for sale
+
+    PRICE: 10800000
+
+    BEDS: 5
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 4544.0
+
+    ADDRESS: 50 Bridge Park Dr Unit 22AB
+
+    STATE: Brooklyn, NY 11201
+
+    MAIN_ADDRESS: 50 Bridge Park Dr Unit 22ABBrooklyn, NY 11201
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Brooklyn Heights
+
+    LONG_NAME: 50
+
+    FORMATTED_ADDRESS: 50 Bridge Park Dr #22a, Brooklyn Heights, NY 11201, USA
+
+    LATITUDE: 40.692916
+
+    LONGITUDE: -74.0008815

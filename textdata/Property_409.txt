@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Lions Guard Brokerage LLC
+
+    TYPE: Land for sale
+
+    PRICE: 2999999
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 153-10 89th Ave
+
+    STATE: Jamaica, NY 11432
+
+    MAIN_ADDRESS: 153-10 89th AveJamaica, NY 11432
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 89th Avenue
+
+    FORMATTED_ADDRESS: 153-10 89th Ave, Jamaica, NY 11432, USA
+
+    LATITUDE: 40.7051444
+
+    LONGITUDE: -73.8030054

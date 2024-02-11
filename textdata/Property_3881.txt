@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Block & Lot Real Estate SVC
+
+    TYPE: Condo for sale
+
+    PRICE: 648888
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 950.0
+
+    ADDRESS: 152-18 Union Tpke Unit 11D
+
+    STATE: Flushing, NY 11367
+
+    MAIN_ADDRESS: 152-18 Union Tpke Unit 11DFlushing, NY 11367
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 152-18
+
+    FORMATTED_ADDRESS: 152-18 Union Tpke #11d, Flushing, NY 11367, USA
+
+    LATITUDE: 40.7188694
+
+    LONGITUDE: -73.8111217

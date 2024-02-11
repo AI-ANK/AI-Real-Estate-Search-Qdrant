@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by IHome Realty Group LLC
+
+    TYPE: House for sale
+
+    PRICE: 650000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1482.0
+
+    ADDRESS: 954 Brooklyn Ave
+
+    STATE: Brooklyn, NY 11203
+
+    MAIN_ADDRESS: 954 Brooklyn AveBrooklyn, NY 11203
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Brooklyn Avenue
+
+    FORMATTED_ADDRESS: 954 Brooklyn Ave, Brooklyn, NY 11203, USA
+
+    LATITUDE: 40.6503361
+
+    LONGITUDE: -73.9440072

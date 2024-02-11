@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by BESMATCH REAL ESTATE
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 699000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2034.0
+
+    ADDRESS: 2728 Hone Ave
+
+    STATE: Bronx, NY 10469
+
+    MAIN_ADDRESS: 2728 Hone AveBronx, NY 10469
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Hone Avenue
+
+    FORMATTED_ADDRESS: 2728 Hone Ave, Bronx, NY 10469, USA
+
+    LATITUDE: 40.8665092
+
+    LONGITUDE: -73.8574012

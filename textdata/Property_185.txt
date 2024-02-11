@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Howard Hanna | Rand Realty
+
+    TYPE: House for sale
+
+    PRICE: 549000
+
+    BEDS: 5
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 496.0
+
+    ADDRESS: 2808 Wickham Ave
+
+    STATE: Bronx, NY 10469
+
+    MAIN_ADDRESS: 2808 Wickham AveBronx, NY 10469
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Wickham Avenue
+
+    FORMATTED_ADDRESS: 2808 Wickham Ave, Bronx, NY 10469, USA
+
+    LATITUDE: 40.8679701
+
+    LONGITUDE: -73.836565

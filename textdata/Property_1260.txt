@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 265000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 1777 Madison Ave Apt 32
+
+    STATE: Manhattan, NY 10035
+
+    MAIN_ADDRESS: 1777 Madison Ave Apt 32Manhattan, NY 10035
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 1777
+
+    FORMATTED_ADDRESS: 1777 Madison Ave Apt 32, New York, NY 10035, USA
+
+    LATITUDE: 40.8003865
+
+    LONGITUDE: -73.9443376

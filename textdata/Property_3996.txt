@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by BESMATCH REAL ESTATE
+
+    TYPE: Co-op for sale
+
+    PRICE: 120000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1100.0
+
+    ADDRESS: 757 E 169th St Apt 2A
+
+    STATE: Bronx, NY 10456
+
+    MAIN_ADDRESS: 757 E 169th St Apt 2ABronx, NY 10456
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: Morrisania
+
+    LONG_NAME: 757
+
+    FORMATTED_ADDRESS: 757 E 169th St #2a, Bronx, NY 10456, USA
+
+    LATITUDE: 40.8310613
+
+    LONGITUDE: -73.8998364

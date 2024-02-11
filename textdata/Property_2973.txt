@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sany Realty Group Llc
+
+    TYPE: Co-op for sale
+
+    PRICE: 268000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 660.0
+
+    ADDRESS: 26-25 141 St Unit 5A
+
+    STATE: Flushing, NY 11354
+
+    MAIN_ADDRESS: 26-25 141 St Unit 5AFlushing, NY 11354
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 26-25
+
+    FORMATTED_ADDRESS: 26-25 141st St #5a, Flushing, NY 11354, USA
+
+    LATITUDE: 40.7739672
+
+    LONGITUDE: -73.8277862

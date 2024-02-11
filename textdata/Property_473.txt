@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Homesmart Homes and Estates
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 849000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2180.0
+
+    ADDRESS: 2033 Hobart Ave
+
+    STATE: Bronx, NY 10461
+
+    MAIN_ADDRESS: 2033 Hobart AveBronx, NY 10461
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Hobart Avenue
+
+    FORMATTED_ADDRESS: 2033 Hobart Ave, Bronx, NY 10461, USA
+
+    LATITUDE: 40.8528127
+
+    LONGITUDE: -73.8312235

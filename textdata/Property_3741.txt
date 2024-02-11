@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Edge
+
+    TYPE: Pending
+
+    PRICE: 495000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1100.0
+
+    ADDRESS: 9967 Shore Rd Apt 7E
+
+    STATE: Brooklyn, NY 11209
+
+    MAIN_ADDRESS: 9967 Shore Rd Apt 7EBrooklyn, NY 11209
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Fort Hamilton
+
+    LONG_NAME: 9967
+
+    FORMATTED_ADDRESS: 9967 Shore Rd #7e, Brooklyn, NY 11209, USA
+
+    LATITUDE: 40.6123382
+
+    LONGITUDE: -74.0356075

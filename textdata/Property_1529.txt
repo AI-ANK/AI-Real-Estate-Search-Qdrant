@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by KMS Realty Group, Inc.
+
+    TYPE: House for sale
+
+    PRICE: 749000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1332.0
+
+    ADDRESS: 767 Brighton Ave
+
+    STATE: Staten Island, NY 10301
+
+    MAIN_ADDRESS: 767 Brighton AveStaten Island, NY 10301
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Brighton Avenue
+
+    FORMATTED_ADDRESS: 767 Brighton Ave, Staten Island, NY 10301, USA
+
+    LATITUDE: 40.6333903
+
+    LONGITUDE: -74.0969828

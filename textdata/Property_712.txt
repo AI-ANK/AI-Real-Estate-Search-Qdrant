@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by BEN BAY REALTY, CO.
+
+    TYPE: House for sale
+
+    PRICE: 588888
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1640.0
+
+    ADDRESS: 187 Latimer Ave
+
+    STATE: Staten Island, NY 10314
+
+    MAIN_ADDRESS: 187 Latimer AveStaten Island, NY 10314
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Latimer Avenue
+
+    FORMATTED_ADDRESS: 187 Latimer Ave, Staten Island, NY 10314, USA
+
+    LATITUDE: 40.5986261
+
+    LONGITUDE: -74.1817717

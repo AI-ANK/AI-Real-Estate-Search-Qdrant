@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by ProBase Real Estate
+
+    TYPE: House for sale
+
+    PRICE: 499000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1786.0
+
+    ADDRESS: 81 Park Hill Ct
+
+    STATE: Staten Island, NY 10304
+
+    MAIN_ADDRESS: 81 Park Hill CtStaten Island, NY 10304
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Park Hill Court
+
+    FORMATTED_ADDRESS: 81 Park Hill Ct, Staten Island, NY 10304, USA
+
+    LATITUDE: 40.6178525
+
+    LONGITUDE: -74.0758856

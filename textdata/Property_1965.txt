@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Manhattan Network Inc
+
+    TYPE: Condo for sale
+
+    PRICE: 479900
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 550.0
+
+    ADDRESS: 2141 2nd Ave Unit 5C
+
+    STATE: New York, NY 10029
+
+    MAIN_ADDRESS: 2141 2nd Ave Unit 5CNew York, NY 10029
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 2141
+
+    FORMATTED_ADDRESS: 2141 2nd Ave #5c, New York, NY 10029, USA
+
+    LATITUDE: 40.7934089
+
+    LONGITUDE: -73.9407833

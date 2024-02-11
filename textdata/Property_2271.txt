@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by All Coast Real Estate LLC
+
+    TYPE: Contingent
+
+    PRICE: 699000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1312.0
+
+    ADDRESS: 74 Greencroft Ave
+
+    STATE: Staten Island, NY 10308
+
+    MAIN_ADDRESS: 74 Greencroft AveStaten Island, NY 10308
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Greencroft Avenue
+
+    FORMATTED_ADDRESS: 74 Greencroft Ave, Staten Island, NY 10308, USA
+
+    LATITUDE: 40.5513508
+
+    LONGITUDE: -74.1356934

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Pending
+
+    PRICE: 499000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1358.0
+
+    ADDRESS: 7272 Royce Pl Unit G1-9
+
+    STATE: Brooklyn, NY 11234
+
+    MAIN_ADDRESS: 7272 Royce Pl Unit G1-9Brooklyn, NY 11234
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Bergen Beach
+
+    LONG_NAME: 7272
+
+    FORMATTED_ADDRESS: 7272 Royce Pl G1, Brooklyn, NY 11234, USA
+
+    LATITUDE: 40.6248278
+
+    LONGITUDE: -73.909396

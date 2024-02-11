@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Brooklyn Heights
+
+    TYPE: Condo for sale
+
+    PRICE: 1175000
+
+    BEDS: 1
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1070.0
+
+    ADDRESS: 40 W 55th St Apt 4D
+
+    STATE: New York, NY 10019
+
+    MAIN_ADDRESS: 40 W 55th St Apt 4DNew York, NY 10019
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 40
+
+    FORMATTED_ADDRESS: 40 W 55th St #4d, New York, NY 10019, USA
+
+    LATITUDE: 40.7622732
+
+    LONGITUDE: -73.9767193

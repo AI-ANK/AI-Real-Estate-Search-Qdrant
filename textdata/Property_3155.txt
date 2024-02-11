@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Coldwell Banker Reliable Real Estate
+
+    TYPE: House for sale
+
+    PRICE: 775000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 46 Aviston St
+
+    STATE: Staten Island, NY 10306
+
+    MAIN_ADDRESS: 46 Aviston StStaten Island, NY 10306
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Aviston Street
+
+    FORMATTED_ADDRESS: 46 Aviston St, Staten Island, NY 10306, USA
+
+    LATITUDE: 40.5572427
+
+    LONGITUDE: -74.1202564

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by CHRISTIE'S INTERNATIONAL REAL ESTATE NEW YORK
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 950000
+
+    BEDS: 9
+
+    BATH: 7.0
+
+    PROPERTYSQFT: 3316.0
+
+    ADDRESS: 2108 Bathgate Ave
+
+    STATE: Bronx, NY 10457
+
+    MAIN_ADDRESS: 2108 Bathgate AveBronx, NY 10457
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Bathgate Avenue
+
+    FORMATTED_ADDRESS: 2108 Bathgate Ave, Bronx, NY 10457, USA
+
+    LATITUDE: 40.8512643
+
+    LONGITUDE: -73.8944397

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Park Avenue South
+
+    TYPE: Condo for sale
+
+    PRICE: 1995000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 826.0
+
+    ADDRESS: 28 E 10th St Apt 1K
+
+    STATE: New York, NY 10003
+
+    MAIN_ADDRESS: 28 E 10th St Apt 1KNew York, NY 10003
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York County
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Manhattan
+
+    STREET_NAME: East 10th Street
+
+    LONG_NAME: Devonshire House
+
+    FORMATTED_ADDRESS: Devonshire House, 28 E 10th St #1k, New York, NY 10003, USA
+
+    LATITUDE: 40.7324605
+
+    LONGITUDE: -73.9936315

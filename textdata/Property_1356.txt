@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Century 21 Amiable Realty Group II, Inc.
+
+    TYPE: House for sale
+
+    PRICE: 1699888
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2275.0
+
+    ADDRESS: 160-14 83rd St
+
+    STATE: Howard Beach, NY 11414
+
+    MAIN_ADDRESS: 160-14 83rd StHoward Beach, NY 11414
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 83rd Street
+
+    FORMATTED_ADDRESS: 160-14 83rd St, Jamaica, NY 11414, USA
+
+    LATITUDE: 40.6556445
+
+    LONGITUDE: -73.848959

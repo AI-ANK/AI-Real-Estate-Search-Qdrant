@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Condo for sale
+
+    PRICE: 849500
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 975.0
+
+    ADDRESS: 161 E 110th St Apt 7A
+
+    STATE: Manhattan, NY 10029
+
+    MAIN_ADDRESS: 161 E 110th St Apt 7AManhattan, NY 10029
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 161-169
+
+    FORMATTED_ADDRESS: 161-169 E 110th St # 7e, New York, NY 10029, USA
+
+    LATITUDE: 40.7946402
+
+    LONGITUDE: -73.9434163

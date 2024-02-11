@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by BROOKLYN`S 4 U REALTY
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1150000
+
+    BEDS: 6
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2400.0
+
+    ADDRESS: 1240 E 48th St
+
+    STATE: Brooklyn, NY 11234
+
+    MAIN_ADDRESS: 1240 E 48th StBrooklyn, NY 11234
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: East 48th Street
+
+    FORMATTED_ADDRESS: 1240 E 48th St, Brooklyn, NY 11234, USA
+
+    LATITUDE: 40.6309272
+
+    LONGITUDE: -73.9303563

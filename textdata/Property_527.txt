@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brownstone Real Estate LLC - Carroll Gardens
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1488000
+
+    BEDS: 6
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 7302 11th Ave
+
+    STATE: Brooklyn, NY 11228
+
+    MAIN_ADDRESS: 7302 11th AveBrooklyn, NY 11228
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: 11th Avenue
+
+    FORMATTED_ADDRESS: 7302 11th Ave, Brooklyn, NY 11228, USA
+
+    LATITUDE: 40.624169
+
+    LONGITUDE: -74.010925

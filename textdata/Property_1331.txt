@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by TUDO - Tudor Realty Services
+
+    TYPE: Co-op for sale
+
+    PRICE: 299000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 5 Tudor City Pl Apt 1426
+
+    STATE: New York, NY 10017
+
+    MAIN_ADDRESS: 5 Tudor City Pl Apt 1426New York, NY 10017
+
+    ADMINISTRATIVE_AREA_LEVEL_2: 10017
+
+    LOCALITY: United States
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: New York County
+
+    LONG_NAME: Manhattan
+
+    FORMATTED_ADDRESS: Tudor City, New York, NY 10017, USA
+
+    LATITUDE: 40.7488491
+
+    LONGITUDE: -73.9716161

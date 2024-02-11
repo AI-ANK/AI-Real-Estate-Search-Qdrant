@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Prodigy Real Estate Inc.
+
+    TYPE: House for sale
+
+    PRICE: 1749999
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2600.0
+
+    ADDRESS: 106 Overlook Ave
+
+    STATE: Staten Island, NY 10304
+
+    MAIN_ADDRESS: 106 Overlook AveStaten Island, NY 10304
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Overlook Avenue
+
+    FORMATTED_ADDRESS: 106 Overlook Ave, Staten Island, NY 10304, USA
+
+    LATITUDE: 40.595688
+
+    LONGITUDE: -74.0982331

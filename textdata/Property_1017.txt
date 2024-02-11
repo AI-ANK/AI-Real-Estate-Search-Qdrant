@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Park Slope
+
+    TYPE: Condo for sale
+
+    PRICE: 1075000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 357 W 30th St # 5/6
+
+    STATE: New York, NY 10001
+
+    MAIN_ADDRESS: 357 W 30th St # 5/6New York, NY 10001
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: West 30th Street
+
+    FORMATTED_ADDRESS: 357 W 30th St, New York, NY 10001, USA
+
+    LATITUDE: 40.7507895
+
+    LONGITUDE: -73.9974127

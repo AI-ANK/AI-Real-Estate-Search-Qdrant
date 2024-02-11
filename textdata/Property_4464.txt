@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran SoHo
+
+    TYPE: Co-op for sale
+
+    PRICE: 749000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 170 E 92nd St # 4CD
+
+    STATE: New York, NY 10128
+
+    MAIN_ADDRESS: 170 E 92nd St # 4CDNew York, NY 10128
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 170
+
+    FORMATTED_ADDRESS: 170 E 92nd St #4c, New York, NY 10128, USA
+
+    LATITUDE: 40.782693
+
+    LONGITUDE: -73.9517106

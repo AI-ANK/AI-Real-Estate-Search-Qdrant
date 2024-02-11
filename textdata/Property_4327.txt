@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Nest Seekers International, Tribeca
+
+    TYPE: Co-op for sale
+
+    PRICE: 2595000
+
+    BEDS: 3
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 39 Gramercy Park N Apt 3C
+
+    STATE: New York, NY 10010
+
+    MAIN_ADDRESS: 39 Gramercy Park N Apt 3CNew York, NY 10010
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 39
+
+    FORMATTED_ADDRESS: 39 Gramercy Park N #3c, New York, NY 10010, USA
+
+    LATITUDE: 40.737769
+
+    LONGITUDE: -73.9843803

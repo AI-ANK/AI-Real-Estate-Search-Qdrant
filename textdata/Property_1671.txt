@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Winzone Realty Inc
+
+    TYPE: House for sale
+
+    PRICE: 998000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 214-39 45th Dr
+
+    STATE: Bayside, NY 11361
+
+    MAIN_ADDRESS: 214-39 45th DrBayside, NY 11361
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 45th Drive
+
+    FORMATTED_ADDRESS: 214-39 45th Dr, Flushing, NY 11361, USA
+
+    LATITUDE: 40.7593442
+
+    LONGITUDE: -73.7673557

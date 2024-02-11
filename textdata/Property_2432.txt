@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Best Solutions Realty Inc
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1150000
+
+    BEDS: 4
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 32-40 87th St
+
+    STATE: East Elmhurst, NY 11369
+
+    MAIN_ADDRESS: 32-40 87th StEast Elmhurst, NY 11369
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 87th Street
+
+    FORMATTED_ADDRESS: 32-40 87th St, Flushing, NY 11369, USA
+
+    LATITUDE: 40.7569734
+
+    LONGITUDE: -73.8811062

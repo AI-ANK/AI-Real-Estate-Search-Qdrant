@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Premium Choice Realty Corp
+
+    TYPE: House for sale
+
+    PRICE: 609000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1620.0
+
+    ADDRESS: 4384 Locust Point Dr
+
+    STATE: Bronx, NY 10465
+
+    MAIN_ADDRESS: 4384 Locust Point DrBronx, NY 10465
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Locust Point Drive
+
+    FORMATTED_ADDRESS: 4384 Locust Point Dr, Bronx, NY 10465, USA
+
+    LATITUDE: 40.8165837
+
+    LONGITUDE: -73.8006996

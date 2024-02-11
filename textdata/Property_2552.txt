@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by NextHome Prestige
+
+    TYPE: House for sale
+
+    PRICE: 599900
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1248.0
+
+    ADDRESS: 9 Lovell Ave Unit A
+
+    STATE: Staten Island, NY 10314
+
+    MAIN_ADDRESS: 9 Lovell Ave Unit AStaten Island, NY 10314
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Lovell Avenue
+
+    FORMATTED_ADDRESS: 9 Lovell Ave, Staten Island, NY 10314, USA
+
+    LATITUDE: 40.5922258
+
+    LONGITUDE: -74.1508322

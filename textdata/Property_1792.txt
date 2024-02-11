@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Williamsburg Bedford
+
+    TYPE: Condo for sale
+
+    PRICE: 1399999
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1041.0
+
+    ADDRESS: 330 E 38th St Apt 14L
+
+    STATE: New York, NY 10016
+
+    MAIN_ADDRESS: 330 E 38th St Apt 14LNew York, NY 10016
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 330
+
+    FORMATTED_ADDRESS: 330 E 38th St #14l, New York, NY 10016, USA
+
+    LATITUDE: 40.7462651
+
+    LONGITUDE: -73.972462

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Prospes Real Estate Corp
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1350000
+
+    BEDS: 5
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 58-16 83rd Pl
+
+    STATE: Middle Village, NY 11379
+
+    MAIN_ADDRESS: 58-16 83rd PlMiddle Village, NY 11379
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 83rd Place
+
+    FORMATTED_ADDRESS: 58-16 83rd Pl, Flushing, NY 11379, USA
+
+    LATITUDE: 40.728555
+
+    LONGITUDE: -73.8780858

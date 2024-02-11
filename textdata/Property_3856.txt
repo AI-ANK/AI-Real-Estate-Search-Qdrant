@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by E Realty International Corp
+
+    TYPE: Condo for sale
+
+    PRICE: 649000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 362 W 127th St Unit 6B
+
+    STATE: New York, NY 10027
+
+    MAIN_ADDRESS: 362 W 127th St Unit 6BNew York, NY 10027
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 362
+
+    FORMATTED_ADDRESS: 362 W 127th St #6b, New York, NY 10027, USA
+
+    LATITUDE: 40.8121684
+
+    LONGITUDE: -73.9523535

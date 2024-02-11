@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 350000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 155 E 49th St Unit 5F
+
+    STATE: Manhattan, NY 10017
+
+    MAIN_ADDRESS: 155 E 49th St Unit 5FManhattan, NY 10017
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 155
+
+    FORMATTED_ADDRESS: 155 E 49th St #5b, New York, NY 10017, USA
+
+    LATITUDE: 40.7556998
+
+    LONGITUDE: -73.9717539

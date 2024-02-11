@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Realty Greater Nassau
+
+    TYPE: Co-op for sale
+
+    PRICE: 220000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 750.0
+
+    ADDRESS: 245-54 62nd Ave Unit Lower
+
+    STATE: Little Neck, NY 11362
+
+    MAIN_ADDRESS: 245-54 62nd Ave Unit LowerLittle Neck, NY 11362
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 62nd Avenue
+
+    FORMATTED_ADDRESS: 245-54 62nd Ave, Douglaston, NY 11362, USA
+
+    LATITUDE: 40.7554479
+
+    LONGITUDE: -73.7319604

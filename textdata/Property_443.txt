@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Eden7 Realty Inc
+
+    TYPE: House for sale
+
+    PRICE: 759999
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 91-18 173rd St
+
+    STATE: Jamaica, NY 11432
+
+    MAIN_ADDRESS: 91-18 173rd StJamaica, NY 11432
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 173rd Street
+
+    FORMATTED_ADDRESS: 91-18 173rd St, Jamaica, NY 11432, USA
+
+    LATITUDE: 40.7083753
+
+    LONGITUDE: -73.787158

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Project Queens LLC
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 898888
+
+    BEDS: 5
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1550.0
+
+    ADDRESS: 24907 88th Rd
+
+    STATE: Bellerose, NY 11426
+
+    MAIN_ADDRESS: 24907 88th RdBellerose, NY 11426
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 88th Road
+
+    FORMATTED_ADDRESS: 249-07 88th Rd, Jamaica, NY 11426, USA
+
+    LATITUDE: 40.7282381
+
+    LONGITUDE: -73.7158123

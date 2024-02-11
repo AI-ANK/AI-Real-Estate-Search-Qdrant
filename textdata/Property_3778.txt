@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by The Bouklis Group - The Bouklis Group Astoria
+
+    TYPE: Condo for sale
+
+    PRICE: 445000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 402.0
+
+    ADDRESS: 25-74 34th St Unit 1C
+
+    STATE: Astoria, NY 11103
+
+    MAIN_ADDRESS: 25-74 34th St Unit 1CAstoria, NY 11103
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Long Island City
+
+    LONG_NAME: 25-74
+
+    FORMATTED_ADDRESS: 25-74 34th St #1c, Long Island City, NY 11103, USA
+
+    LATITUDE: 40.7680157
+
+    LONGITUDE: -73.9174508

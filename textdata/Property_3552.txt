@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by R A L ENTERPRISES
+
+    TYPE: House for sale
+
+    PRICE: 790000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1744.0
+
+    ADDRESS: 966 E 42nd St
+
+    STATE: Brooklyn, NY 11210
+
+    MAIN_ADDRESS: 966 E 42nd StBrooklyn, NY 11210
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: East 42nd Street
+
+    FORMATTED_ADDRESS: 966 E 42nd St, Brooklyn, NY 11210, USA
+
+    LATITUDE: 40.631398
+
+    LONGITUDE: -73.9361773

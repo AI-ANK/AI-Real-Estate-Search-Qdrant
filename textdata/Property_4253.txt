@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Park Avenue South
+
+    TYPE: Condo for sale
+
+    PRICE: 729000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 550.0
+
+    ADDRESS: 200 E 58th St Apt 14C
+
+    STATE: New York, NY 10022
+
+    MAIN_ADDRESS: 200 E 58th St Apt 14CNew York, NY 10022
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 200
+
+    FORMATTED_ADDRESS: 200 E 58th St #14c, New York, NY 10022, USA
+
+    LATITUDE: 40.7606485
+
+    LONGITUDE: -73.9668928

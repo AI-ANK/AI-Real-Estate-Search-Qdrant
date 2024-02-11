@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Nest Seekers International, Midtown
+
+    TYPE: Condo for sale
+
+    PRICE: 500000
+
+    BEDS: 1
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 410 Fenimore St
+
+    STATE: Brooklyn, NY 11225
+
+    MAIN_ADDRESS: 410 Fenimore StBrooklyn, NY 11225
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Fenimore Street
+
+    FORMATTED_ADDRESS: 410 Fenimore St, Brooklyn, NY 11225, USA
+
+    LATITUDE: 40.6586064
+
+    LONGITUDE: -73.9488175

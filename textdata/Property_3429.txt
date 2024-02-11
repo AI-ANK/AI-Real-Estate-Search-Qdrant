@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Dom Realty, Inc
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1085000
+
+    BEDS: 3
+
+    BATH: 8.0
+
+    PROPERTYSQFT: 3480.0
+
+    ADDRESS: 2764 W 15th St
+
+    STATE: Brooklyn, NY 11224
+
+    MAIN_ADDRESS: 2764 W 15th StBrooklyn, NY 11224
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: West 15th Street
+
+    FORMATTED_ADDRESS: 2764 W 15th St, Brooklyn, NY 11224, USA
+
+    LATITUDE: 40.5801478
+
+    LONGITUDE: -73.9835836

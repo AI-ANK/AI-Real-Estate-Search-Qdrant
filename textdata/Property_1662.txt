@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Eva Real Estate LLC
+
+    TYPE: House for sale
+
+    PRICE: 550000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1410.0
+
+    ADDRESS: 690 N Railroad Ave
+
+    STATE: Staten Island, NY 10304
+
+    MAIN_ADDRESS: 690 N Railroad AveStaten Island, NY 10304
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: North Railroad Avenue
+
+    FORMATTED_ADDRESS: 690 N Railroad Ave, Staten Island, NY 10304, USA
+
+    LATITUDE: 40.5882303
+
+    LONGITUDE: -74.0975793

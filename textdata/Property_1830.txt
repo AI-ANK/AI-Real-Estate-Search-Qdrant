@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by EXIT REALTY PRIVATE CLIENT
+
+    TYPE: House for sale
+
+    PRICE: 475000
+
+    BEDS: 5
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1790.0
+
+    ADDRESS: 1604 Harding Park
+
+    STATE: Bronx, NY 10473
+
+    MAIN_ADDRESS: 1604 Harding ParkBronx, NY 10473
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Harding Park
+
+    FORMATTED_ADDRESS: 1604 Harding Park, Bronx, NY 10473, USA
+
+    LATITUDE: 40.8102903
+
+    LONGITUDE: -73.8573667

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Re/Max Edge
+
+    TYPE: House for sale
+
+    PRICE: 1165000
+
+    BEDS: 3
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 3500.0
+
+    ADDRESS: 67 Dexter Ave
+
+    STATE: Staten Island, NY 10309
+
+    MAIN_ADDRESS: 67 Dexter AveStaten Island, NY 10309
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Dexter Avenue
+
+    FORMATTED_ADDRESS: 67 Dexter Ave, Staten Island, NY 10309, USA
+
+    LATITUDE: 40.5397292
+
+    LONGITUDE: -74.2155251

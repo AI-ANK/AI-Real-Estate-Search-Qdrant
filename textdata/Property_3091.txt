@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Park Avenue South
+
+    TYPE: Co-op for sale
+
+    PRICE: 438000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 162 E 2nd St Apt 1A
+
+    STATE: New York, NY 10009
+
+    MAIN_ADDRESS: 162 E 2nd St Apt 1ANew York, NY 10009
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 162
+
+    FORMATTED_ADDRESS: 162 E 2nd St #1a, New York, NY 10009, USA
+
+    LATITUDE: 40.7228235
+
+    LONGITUDE: -73.98509

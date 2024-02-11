@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Classic Homes and Properties
+
+    TYPE: House for sale
+
+    PRICE: 1100000
+
+    BEDS: 5
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2192.0
+
+    ADDRESS: 85-11 164th Ave
+
+    STATE: Howard Beach, NY 11414
+
+    MAIN_ADDRESS: 85-11 164th AveHoward Beach, NY 11414
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 164th Avenue
+
+    FORMATTED_ADDRESS: 85-11 164th Ave, Jamaica, NY 11414, USA
+
+    LATITUDE: 40.6500222
+
+    LONGITUDE: -73.844778

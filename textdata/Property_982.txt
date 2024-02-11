@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Elite
+
+    TYPE: House for sale
+
+    PRICE: 725000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2000.0
+
+    ADDRESS: 328 Manor Rd
+
+    STATE: Staten Island, NY 10314
+
+    MAIN_ADDRESS: 328 Manor RdStaten Island, NY 10314
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Manor Road
+
+    FORMATTED_ADDRESS: 328 Manor Rd, Staten Island, NY 10314, USA
+
+    LATITUDE: 40.6199521
+
+    LONGITUDE: -74.1237895

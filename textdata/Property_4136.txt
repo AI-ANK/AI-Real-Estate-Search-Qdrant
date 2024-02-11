@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Joseph Baratta & Company Realty
+
+    TYPE: House for sale
+
+    PRICE: 629000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1575.0
+
+    ADDRESS: 3312 Paulding Ave Unit A
+
+    STATE: Bronx, NY 10469
+
+    MAIN_ADDRESS: 3312 Paulding Ave Unit ABronx, NY 10469
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Paulding Avenue
+
+    FORMATTED_ADDRESS: 3312 Paulding Ave, Bronx, NY 10469, USA
+
+    LATITUDE: 40.8734881
+
+    LONGITUDE: -73.8582333

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Lombardo Homes & Estates
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1768888
+
+    BEDS: 10
+
+    BATH: 10.0
+
+    PROPERTYSQFT: 3933.0
+
+    ADDRESS: 5502 6th Ave
+
+    STATE: Brooklyn, NY 11220
+
+    MAIN_ADDRESS: 5502 6th AveBrooklyn, NY 11220
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: 6th Avenue
+
+    FORMATTED_ADDRESS: 5502 6th Ave, Brooklyn, NY 11220, USA
+
+    LATITUDE: 40.6410259
+
+    LONGITUDE: -74.0112793

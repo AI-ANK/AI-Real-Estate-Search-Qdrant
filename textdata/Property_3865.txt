@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by One Realty Global Corp
+
+    TYPE: Condo for sale
+
+    PRICE: 380000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 393.0
+
+    ADDRESS: 1548 72nd St Unit 1
+
+    STATE: Brooklyn, NY 11228
+
+    MAIN_ADDRESS: 1548 72nd St Unit 1Brooklyn, NY 11228
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Bensonhurst
+
+    LONG_NAME: 1548
+
+    FORMATTED_ADDRESS: 1548 72nd St #1, Brooklyn, NY 11228, USA
+
+    LATITUDE: 40.6184843
+
+    LONGITUDE: -74.0001507

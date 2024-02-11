@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: House for sale
+
+    PRICE: 1250000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2273.0
+
+    ADDRESS: 5037 Fieldston Rd
+
+    STATE: Bronx, NY 10471
+
+    MAIN_ADDRESS: 5037 Fieldston RdBronx, NY 10471
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Fieldston Road
+
+    FORMATTED_ADDRESS: 5037 Fieldston Rd, Bronx, NY 10471, USA
+
+    LATITUDE: 40.8976524
+
+    LONGITUDE: -73.9019402

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 156 Montague
+
+    TYPE: Townhouse for sale
+
+    PRICE: 5995000
+
+    BEDS: 6
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 4000.0
+
+    ADDRESS: 136 Kane St
+
+    STATE: Brooklyn, NY 11231
+
+    MAIN_ADDRESS: 136 Kane StBrooklyn, NY 11231
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Kane Street
+
+    FORMATTED_ADDRESS: 136 Kane St, Brooklyn, NY 11231, USA
+
+    LATITUDE: 40.6868209
+
+    LONGITUDE: -73.9988226

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Bond New York- Columbus Circle
+
+    TYPE: Condo for sale
+
+    PRICE: 2295000
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1615.0
+
+    ADDRESS: 166 E 63rd St Apt 10C
+
+    STATE: New York, NY 10065
+
+    MAIN_ADDRESS: 166 E 63rd St Apt 10CNew York, NY 10065
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 166
+
+    FORMATTED_ADDRESS: 166 E 63rd St #10c, New York, NY 10065, USA
+
+    LATITUDE: 40.7641145
+
+    LONGITUDE: -73.9651826

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran West Side
+
+    TYPE: Co-op for sale
+
+    PRICE: 415000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 233 E 70th St Apt 6R
+
+    STATE: New York, NY 10021
+
+    MAIN_ADDRESS: 233 E 70th St Apt 6RNew York, NY 10021
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 233
+
+    FORMATTED_ADDRESS: 233 E 70th St #6r, New York, NY 10021, USA
+
+    LATITUDE: 40.7678195
+
+    LONGITUDE: -73.9594251

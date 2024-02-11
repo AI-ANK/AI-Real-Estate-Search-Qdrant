@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by The Agency
+
+    TYPE: Condo for sale
+
+    PRICE: 2249000
+
+    BEDS: 2
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2321.0
+
+    ADDRESS: 211 Madison Ave Unit 22A
+
+    STATE: New York, NY 10016
+
+    MAIN_ADDRESS: 211 Madison Ave Unit 22ANew York, NY 10016
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 211
+
+    FORMATTED_ADDRESS: 211 Madison Ave #22a, New York, NY 10016, USA
+
+    LATITUDE: 40.7486775
+
+    LONGITUDE: -73.9819284

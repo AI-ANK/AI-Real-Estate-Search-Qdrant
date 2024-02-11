@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Williamsburg Bedford
+
+    TYPE: Condo for sale
+
+    PRICE: 2099000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1447.0
+
+    ADDRESS: 79 Bridge St Apt 5C
+
+    STATE: Brooklyn, NY 11201
+
+    MAIN_ADDRESS: 79 Bridge St Apt 5CBrooklyn, NY 11201
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Downtown Brooklyn
+
+    LONG_NAME: 79
+
+    FORMATTED_ADDRESS: 79 Bridge St #5c, Brooklyn, NY 11201, USA
+
+    LATITUDE: 40.7019045
+
+    LONGITUDE: -73.9844236

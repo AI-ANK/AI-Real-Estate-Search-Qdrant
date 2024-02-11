@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Hudson Valley
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 899000
+
+    BEDS: 6
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 3683.0
+
+    ADDRESS: 948 E 217th St
+
+    STATE: Bronx, NY 10469
+
+    MAIN_ADDRESS: 948 E 217th StBronx, NY 10469
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: East 217th Street
+
+    FORMATTED_ADDRESS: 948 E 217th St, Bronx, NY 10469, USA
+
+    LATITUDE: 40.8796143
+
+    LONGITUDE: -73.856153

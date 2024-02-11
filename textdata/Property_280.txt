@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Park Slope
+
+    TYPE: Co-op for sale
+
+    PRICE: 849000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 800.0
+
+    ADDRESS: 299 13th St Apt 3D
+
+    STATE: Brooklyn, NY 11215
+
+    MAIN_ADDRESS: 299 13th St Apt 3DBrooklyn, NY 11215
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Park Slope
+
+    LONG_NAME: 299
+
+    FORMATTED_ADDRESS: 299 13th St #3d, Brooklyn, NY 11215, USA
+
+    LATITUDE: 40.6662599
+
+    LONGITUDE: -73.9870141

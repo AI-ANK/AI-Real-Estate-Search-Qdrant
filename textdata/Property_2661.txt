@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Vylla Home
+
+    TYPE: Condo for sale
+
+    PRICE: 261250
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 857.0
+
+    ADDRESS: 1017 Faile St Unit 1017B
+
+    STATE: Bronx, NY 10459
+
+    MAIN_ADDRESS: 1017 Faile St Unit 1017BBronx, NY 10459
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: Foxhurst
+
+    LONG_NAME: 1017
+
+    FORMATTED_ADDRESS: 1017 Faile St #1017A, Bronx, NY 10459, USA
+
+    LATITUDE: 40.8245968
+
+    LONGITUDE: -73.8898403

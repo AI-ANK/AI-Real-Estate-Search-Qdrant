@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Brooklyn Heights
+
+    TYPE: Co-op for sale
+
+    PRICE: 625000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 652.0
+
+    ADDRESS: 28 Old Fulton St Apt 6M
+
+    STATE: Brooklyn, NY 11201
+
+    MAIN_ADDRESS: 28 Old Fulton St Apt 6MBrooklyn, NY 11201
+
+    ADMINISTRATIVE_AREA_LEVEL_2: Kings County
+
+    LOCALITY: Brooklyn
+
+    SUBLOCALITY: Brooklyn Heights
+
+    STREET_NAME: Old Fulton Street
+
+    LONG_NAME: Eagle Warehouse & Storage Company
+
+    FORMATTED_ADDRESS: Eagle Warehouse & Storage Company, 28 Old Fulton St #6m, Brooklyn, NY 11201, USA
+
+    LATITUDE: 40.702334
+
+    LONGITUDE: -73.9937463

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by GOLDEN REAL CORP.
+
+    TYPE: Co-op for sale
+
+    PRICE: 289000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 750.0
+
+    ADDRESS: 3100 Brighton 3rd St Apt 4B
+
+    STATE: Brooklyn, NY 11235
+
+    MAIN_ADDRESS: 3100 Brighton 3rd St Apt 4BBrooklyn, NY 11235
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Brighton Beach
+
+    LONG_NAME: 3100
+
+    FORMATTED_ADDRESS: 3100 Brighton 3rd St #4b, Brooklyn, NY 11235, USA
+
+    LATITUDE: 40.5764319
+
+    LONGITUDE: -73.9643613

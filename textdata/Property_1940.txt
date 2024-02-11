@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Park Slope
+
+    TYPE: Condo for sale
+
+    PRICE: 700000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1245.0
+
+    ADDRESS: 3536 Cambridge Ave Apt 4F
+
+    STATE: Bronx, NY 10463
+
+    MAIN_ADDRESS: 3536 Cambridge Ave Apt 4FBronx, NY 10463
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: Riverdale
+
+    LONG_NAME: 3536
+
+    FORMATTED_ADDRESS: 3536 Cambridge Ave #4f, Bronx, NY 10463, USA
+
+    LATITUDE: 40.8861342
+
+    LONGITUDE: -73.90767

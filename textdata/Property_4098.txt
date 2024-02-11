@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Motivated Access Realty Corp.
+
+    TYPE: Townhouse for sale
+
+    PRICE: 615000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 1664.0
+
+    ADDRESS: 3217 Radcliff Ave
+
+    STATE: Bronx, NY 10469
+
+    MAIN_ADDRESS: 3217 Radcliff AveBronx, NY 10469
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Radcliff Avenue
+
+    FORMATTED_ADDRESS: 3217 Radcliff Ave, Bronx, NY 10469, USA
+
+    LATITUDE: 40.872068
+
+    LONGITUDE: -73.8605942

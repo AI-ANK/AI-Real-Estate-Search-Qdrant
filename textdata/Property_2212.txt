@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 2500000
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 336 W End Ave Unit 17AF
+
+    STATE: Manhattan, NY 10023
+
+    MAIN_ADDRESS: 336 W End Ave Unit 17AFManhattan, NY 10023
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 336
+
+    FORMATTED_ADDRESS: 336 West End Ave #17a, New York, NY 10023, USA
+
+    LATITUDE: 40.7821377
+
+    LONGITUDE: -73.9824061

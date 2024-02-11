@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Legendary
+
+    TYPE: Townhouse for sale
+
+    PRICE: 1299999
+
+    BEDS: 5
+
+    BATH: 5.0
+
+    PROPERTYSQFT: 3134.0
+
+    ADDRESS: 64-14 Beach Front Rd
+
+    STATE: Arverne, NY 11692
+
+    MAIN_ADDRESS: 64-14 Beach Front RdArverne, NY 11692
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Beach Front Road
+
+    FORMATTED_ADDRESS: 6414 Beach Front Rd, Far Rockaway, NY 11692, USA
+
+    LATITUDE: 40.5883339
+
+    LONGITUDE: -73.7934039

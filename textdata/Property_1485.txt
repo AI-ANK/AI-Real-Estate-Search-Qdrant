@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Fillmore Real Estate
+
+    TYPE: Condo for sale
+
+    PRICE: 725000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1185.0
+
+    ADDRESS: 1322 E 14th St Apt 4B
+
+    STATE: Brooklyn, NY 11230
+
+    MAIN_ADDRESS: 1322 E 14th St Apt 4BBrooklyn, NY 11230
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Midwood
+
+    LONG_NAME: 1322
+
+    FORMATTED_ADDRESS: 1322 E 14th St #4b, Brooklyn, NY 11230, USA
+
+    LATITUDE: 40.6172572
+
+    LONGITUDE: -73.9611011

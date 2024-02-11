@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 575 Madison Ave
+
+    TYPE: Co-op for sale
+
+    PRICE: 3395000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1800.0
+
+    ADDRESS: 399 Washington St Fl 4
+
+    STATE: New York, NY 10013
+
+    MAIN_ADDRESS: 399 Washington St Fl 4New York, NY 10013
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 399
+
+    FORMATTED_ADDRESS: 399 Washington St Fl 4, New York, NY 10013, USA
+
+    LATITUDE: 40.7217139
+
+    LONGITUDE: -74.0103804

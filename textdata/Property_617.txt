@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Westside Columbus
+
+    TYPE: House for sale
+
+    PRICE: 899000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1130.0
+
+    ADDRESS: 529 W 42nd St Apt 6L
+
+    STATE: New York, NY 10036
+
+    MAIN_ADDRESS: 529 W 42nd St Apt 6LNew York, NY 10036
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 529
+
+    FORMATTED_ADDRESS: 529 W 42nd St #6l, New York, NY 10036, USA
+
+    LATITUDE: 40.7604194
+
+    LONGITUDE: -73.9968086

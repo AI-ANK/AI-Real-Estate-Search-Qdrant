@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Comfort Homes Realty Group
+
+    TYPE: House for sale
+
+    PRICE: 299000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 608.0
+
+    ADDRESS: 51 Seafoam St
+
+    STATE: Staten Island, NY 10306
+
+    MAIN_ADDRESS: 51 Seafoam StStaten Island, NY 10306
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Seafoam Street
+
+    FORMATTED_ADDRESS: 51 Seafoam St, Staten Island, NY 10306, USA
+
+    LATITUDE: 40.5638362
+
+    LONGITUDE: -74.0989788

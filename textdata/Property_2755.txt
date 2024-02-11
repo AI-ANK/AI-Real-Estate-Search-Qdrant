@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Howard Hanna | Rand Realty
+
+    TYPE: Condo for sale
+
+    PRICE: 525000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1185.0
+
+    ADDRESS: 170 Mermaid Ln Unit 270
+
+    STATE: Bronx, NY 10473
+
+    MAIN_ADDRESS: 170 Mermaid Ln Unit 270Bronx, NY 10473
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: Clason Point
+
+    LONG_NAME: 170-174
+
+    FORMATTED_ADDRESS: 170-174 Mermaid Ln #270, Bronx, NY 10473, USA
+
+    LATITUDE: 40.807969
+
+    LONGITUDE: -73.854213

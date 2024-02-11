@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Goldstone N Y Realty Llc
+
+    TYPE: Co-op for sale
+
+    PRICE: 338000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 800.0
+
+    ADDRESS: 99-52 66 Rd Unit 11U
+
+    STATE: Rego Park, NY 11374
+
+    MAIN_ADDRESS: 99-52 66 Rd Unit 11URego Park, NY 11374
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Rego Park
+
+    LONG_NAME: 99-52
+
+    FORMATTED_ADDRESS: 99-52 66th Rd #11b, Rego Park, NY 11374, USA
+
+    LATITUDE: 40.7282606
+
+    LONGITUDE: -73.852283

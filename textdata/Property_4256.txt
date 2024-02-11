@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Affordable Realty Corp
+
+    TYPE: Co-op for sale
+
+    PRICE: 189000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 89-15 Parson Blvd Unit 1B
+
+    STATE: Jamaica, NY 11432
+
+    MAIN_ADDRESS: 89-15 Parson Blvd Unit 1BJamaica, NY 11432
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Jamaica
+
+    LONG_NAME: 89-15
+
+    FORMATTED_ADDRESS: 89-15 Parsons Blvd #1b, Jamaica, NY 11432, USA
+
+    LATITUDE: 40.7055595
+
+    LONGITUDE: -73.8012395

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Call It Home Realty LLC
+
+    TYPE: House for sale
+
+    PRICE: 699000
+
+    BEDS: 5
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 1838.0
+
+    ADDRESS: 2845 Decatur Ave
+
+    STATE: Bronx, NY 10458
+
+    MAIN_ADDRESS: 2845 Decatur AveBronx, NY 10458
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Decatur Avenue
+
+    FORMATTED_ADDRESS: 2845 Decatur Ave, Bronx, NY 10458, USA
+
+    LATITUDE: 40.8677282
+
+    LONGITUDE: -73.8849595

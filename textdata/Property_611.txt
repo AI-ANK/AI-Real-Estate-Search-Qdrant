@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Charles Rutenberg Realty Inc
+
+    TYPE: Co-op for sale
+
+    PRICE: 419000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 150-58 Jewel Ave Unit 75A
+
+    STATE: Flushing, NY 11367
+
+    MAIN_ADDRESS: 150-58 Jewel Ave Unit 75AFlushing, NY 11367
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 15058
+
+    FORMATTED_ADDRESS: 15058 Jewel Ave # 75b, Flushing, NY 11367, USA
+
+    LATITUDE: 40.7312799
+
+    LONGITUDE: -73.8192399

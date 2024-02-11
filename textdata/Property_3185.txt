@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Nyc Realty Brokers Llc
+
+    TYPE: Co-op for sale
+
+    PRICE: 419000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1000.0
+
+    ADDRESS: 458 Neptune Ave Apt 6H
+
+    STATE: Brooklyn, NY 11224
+
+    MAIN_ADDRESS: 458 Neptune Ave Apt 6HBrooklyn, NY 11224
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Coney Island
+
+    LONG_NAME: 458
+
+    FORMATTED_ADDRESS: 458 Neptune Ave #6h, Brooklyn, NY 11224, USA
+
+    LATITUDE: 40.5794182
+
+    LONGITUDE: -73.9709078

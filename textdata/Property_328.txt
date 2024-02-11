@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 575 Madison Ave
+
+    TYPE: Co-op for sale
+
+    PRICE: 1200000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 955 Lexington Ave Unit 5C
+
+    STATE: New York, NY 10021
+
+    MAIN_ADDRESS: 955 Lexington Ave Unit 5CNew York, NY 10021
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 955
+
+    FORMATTED_ADDRESS: 955 Lexington Ave #5c, New York, NY 10021, USA
+
+    LATITUDE: 40.7687538
+
+    LONGITUDE: -73.9631311

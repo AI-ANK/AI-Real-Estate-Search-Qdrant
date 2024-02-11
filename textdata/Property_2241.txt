@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Remax Edge - RE/MAX EDGE
+
+    TYPE: House for sale
+
+    PRICE: 2235000
+
+    BEDS: 3
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2750.0
+
+    ADDRESS: 194 Falmouth St
+
+    STATE: Brooklyn, NY 11235
+
+    MAIN_ADDRESS: 194 Falmouth StBrooklyn, NY 11235
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Falmouth Street
+
+    FORMATTED_ADDRESS: 194 Falmouth St, Brooklyn, NY 11235, USA
+
+    LATITUDE: 40.577846
+
+    LONGITUDE: -73.946577

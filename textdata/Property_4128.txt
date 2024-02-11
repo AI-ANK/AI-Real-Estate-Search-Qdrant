@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran SoHo
+
+    TYPE: House for sale
+
+    PRICE: 7188000
+
+    BEDS: 3
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 4108.0
+
+    ADDRESS: 60 Warren St Fl 3
+
+    STATE: New York, NY 10007
+
+    MAIN_ADDRESS: 60 Warren St Fl 3New York, NY 10007
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 60
+
+    FORMATTED_ADDRESS: 60 Warren St FL 3, New York, NY 10007, USA
+
+    LATITUDE: 40.7150155
+
+    LONGITUDE: -74.0093372

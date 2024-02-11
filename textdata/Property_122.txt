@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Realty Liberty
+
+    TYPE: House for sale
+
+    PRICE: 650000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1522.0
+
+    ADDRESS: 237-14 93rd Rd
+
+    STATE: Bellerose, NY 11426
+
+    MAIN_ADDRESS: 237-14 93rd RdBellerose, NY 11426
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 93rd Road
+
+    FORMATTED_ADDRESS: 237-14 93rd Rd, Jamaica, NY 11426, USA
+
+    LATITUDE: 40.723245
+
+    LONGITUDE: -73.7293286

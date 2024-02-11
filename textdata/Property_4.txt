@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sotheby's International Realty - East Side Manhattan Brokerage
+
+    TYPE: Townhouse for sale
+
+    PRICE: 55000000
+
+    BEDS: 7
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 14175.0
+
+    ADDRESS: 5 E 64th St
+
+    STATE: New York, NY 10065
+
+    MAIN_ADDRESS: 5 E 64th StNew York, NY 10065
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: East 64th Street
+
+    FORMATTED_ADDRESS: 5 E 64th St, New York, NY 10065, USA
+
+    LATITUDE: 40.7672235
+
+    LONGITUDE: -73.9698561

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by CITI - Citi Habitats, Inc. - NY
+
+    TYPE: Pending
+
+    PRICE: 199999
+
+    BEDS: 9
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 429 Pennsylvania Ave
+
+    STATE: Brooklyn, NY 11207
+
+    MAIN_ADDRESS: 429 Pennsylvania AveBrooklyn, NY 11207
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Pennsylvania Avenue
+
+    FORMATTED_ADDRESS: 429 Pennsylvania Ave, Brooklyn, NY 11207, USA
+
+    LATITUDE: 40.666792
+
+    LONGITUDE: -73.894205

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Diane Realty Ltd.
+
+    TYPE: Townhouse for sale
+
+    PRICE: 529000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 1618.0
+
+    ADDRESS: 23 Arielle Ln
+
+    STATE: Staten Island, NY 10314
+
+    MAIN_ADDRESS: 23 Arielle LnStaten Island, NY 10314
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Arielle Lane
+
+    FORMATTED_ADDRESS: 23 Arielle Ln, Staten Island, NY 10314, USA
+
+    LATITUDE: 40.5781324
+
+    LONGITUDE: -74.1603451

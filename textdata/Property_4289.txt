@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by KORR REALTY
+
+    TYPE: Co-op for sale
+
+    PRICE: 249000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1000.0
+
+    ADDRESS: 2450 Haring St Apt 1F
+
+    STATE: Brooklyn, NY 11235
+
+    MAIN_ADDRESS: 2450 Haring St Apt 1FBrooklyn, NY 11235
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Sheepshead Bay
+
+    LONG_NAME: 2450
+
+    FORMATTED_ADDRESS: 2450 Haring St #1f, Brooklyn, NY 11235, USA
+
+    LATITUDE: 40.5926138
+
+    LONGITUDE: -73.9396101

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Han Tang Realty Inc.
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 919000
+
+    BEDS: 6
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1760.0
+
+    ADDRESS: 2039 Continental Ave
+
+    STATE: Bronx, NY 10461
+
+    MAIN_ADDRESS: 2039 Continental AveBronx, NY 10461
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Continental Avenue
+
+    FORMATTED_ADDRESS: 2039 Continental Ave, Bronx, NY 10461, USA
+
+    LATITUDE: 40.8529073
+
+    LONGITUDE: -73.830339

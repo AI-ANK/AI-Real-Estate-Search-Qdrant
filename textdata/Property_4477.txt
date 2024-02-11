@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman  -111 Fifth Ave
+
+    TYPE: Co-op for sale
+
+    PRICE: 975000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 300 Riverside Dr Apt 8H
+
+    STATE: New York, NY 10025
+
+    MAIN_ADDRESS: 300 Riverside Dr Apt 8HNew York, NY 10025
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 300
+
+    FORMATTED_ADDRESS: 300 Riverside Dr #8h, New York, NY 10025, USA
+
+    LATITUDE: 40.7997797
+
+    LONGITUDE: -73.9713866

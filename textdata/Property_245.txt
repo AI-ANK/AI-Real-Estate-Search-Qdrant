@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Coldwell Banker Advantage
+
+    TYPE: Condo for sale
+
+    PRICE: 430000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1248.0
+
+    ADDRESS: 527 Willow Rd E Unit 2
+
+    STATE: Staten Island, NY 10314
+
+    MAIN_ADDRESS: 527 Willow Rd E Unit 2Staten Island, NY 10314
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Richmond County
+
+    SUBLOCALITY: Staten Island
+
+    STREET_NAME: Mid Island
+
+    LONG_NAME: 527
+
+    FORMATTED_ADDRESS: 527 Willow Rd E #2, Staten Island, NY 10314, USA
+
+    LATITUDE: 40.6123868
+
+    LONGITUDE: -74.1511288

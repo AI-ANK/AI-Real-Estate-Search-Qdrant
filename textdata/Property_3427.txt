@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by JABOUR REALTY COMPANY
+
+    TYPE: Pending
+
+    PRICE: 1099000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1472.0
+
+    ADDRESS: 32 Oliver St
+
+    STATE: Brooklyn, NY 11209
+
+    MAIN_ADDRESS: 32 Oliver StBrooklyn, NY 11209
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Oliver Street
+
+    FORMATTED_ADDRESS: 32 Oliver St, Brooklyn, NY 11209, USA
+
+    LATITUDE: 40.6193503
+
+    LONGITUDE: -74.0388023

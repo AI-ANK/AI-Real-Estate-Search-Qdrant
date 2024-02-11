@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens - 445 Park Avenue
+
+    TYPE: Pending
+
+    PRICE: 375000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 162 E 2nd St Apt B
+
+    STATE: Manhattan, NY 10009
+
+    MAIN_ADDRESS: 162 E 2nd St Apt BManhattan, NY 10009
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 162
+
+    FORMATTED_ADDRESS: 162 E 2nd St b, New York, NY 10009, USA
+
+    LATITUDE: 40.7228235
+
+    LONGITUDE: -73.98509

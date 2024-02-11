@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Peter Ashe Real Estate- Peter Ashe Real Estate
+
+    TYPE: Townhouse for sale
+
+    PRICE: 7800000
+
+    BEDS: 7
+
+    BATH: 8.0
+
+    PROPERTYSQFT: 7200.0
+
+    ADDRESS: 120 E 61st St
+
+    STATE: New York, NY 10065
+
+    MAIN_ADDRESS: 120 E 61st StNew York, NY 10065
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: East 61st Street
+
+    FORMATTED_ADDRESS: 120 E 61st St, New York, NY 10065, USA
+
+    LATITUDE: 40.7636541
+
+    LONGITUDE: -73.9681695

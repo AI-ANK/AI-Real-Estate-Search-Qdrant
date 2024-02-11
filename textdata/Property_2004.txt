@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: NoBroker
+
+    TYPE: House for sale
+
+    PRICE: 270000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 1158.0
+
+    ADDRESS: 3780 Willett Ave
+
+    STATE: Bronx, NY 10467
+
+    MAIN_ADDRESS: 3780 Willett AveBronx, NY 10467
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Willett Avenue
+
+    FORMATTED_ADDRESS: 3780 Willett Ave, Bronx, NY 10467, USA
+
+    LATITUDE: 40.8838997
+
+    LONGITUDE: -73.864167

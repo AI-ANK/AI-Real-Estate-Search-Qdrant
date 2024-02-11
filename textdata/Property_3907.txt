@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Reliable Sell & Buy Realty Inc
+
+    TYPE: Co-op for sale
+
+    PRICE: 473000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1000.0
+
+    ADDRESS: 150 W End Ave Apt 5H
+
+    STATE: Brooklyn, NY 11235
+
+    MAIN_ADDRESS: 150 W End Ave Apt 5HBrooklyn, NY 11235
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Manhattan Beach
+
+    LONG_NAME: 150
+
+    FORMATTED_ADDRESS: 150 West End Ave #5h, Brooklyn, NY 11235, USA
+
+    LATITUDE: 40.5782536
+
+    LONGITUDE: -73.9534785

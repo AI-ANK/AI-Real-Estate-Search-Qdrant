@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Points North
+
+    TYPE: Co-op for sale
+
+    PRICE: 319000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 925.0
+
+    ADDRESS: 108-49 63rd Ave Unit 6F
+
+    STATE: Forest Hills, NY 11375
+
+    MAIN_ADDRESS: 108-49 63rd Ave Unit 6FForest Hills, NY 11375
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 108-49
+
+    FORMATTED_ADDRESS: 108-49 63rd Ave #6f, Flushing, NY 11375, USA
+
+    LATITUDE: 40.7355842
+
+    LONGITUDE: -73.8491198

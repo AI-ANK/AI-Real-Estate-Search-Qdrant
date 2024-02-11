@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Serhant
+
+    TYPE: Condo for sale
+
+    PRICE: 17500000
+
+    BEDS: 5
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 5499.0
+
+    ADDRESS: 37 Warren St Unit Phcd
+
+    STATE: New York, NY 10007
+
+    MAIN_ADDRESS: 37 Warren St Unit PhcdNew York, NY 10007
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: Warren Street
+
+    FORMATTED_ADDRESS: 37 Warren St, New York, NY 10007, USA
+
+    LATITUDE: 40.7143354
+
+    LONGITUDE: -74.0087443

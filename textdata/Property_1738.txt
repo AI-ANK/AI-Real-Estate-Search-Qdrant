@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by TDMT - The Development Marketing Team
+
+    TYPE: Condo for sale
+
+    PRICE: 1475000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1048.0
+
+    ADDRESS: 429 Kent Ave Unit 902
+
+    STATE: Brooklyn, NY 11249
+
+    MAIN_ADDRESS: 429 Kent Ave Unit 902Brooklyn, NY 11249
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Southside
+
+    LONG_NAME: 429
+
+    FORMATTED_ADDRESS: 429 Kent Ave #902, Brooklyn, NY 11249, USA
+
+    LATITUDE: 40.7095127
+
+    LONGITUDE: -73.9677693

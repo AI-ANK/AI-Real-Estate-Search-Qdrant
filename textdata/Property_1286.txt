@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by EXIT REALTY ONE
+
+    TYPE: House for sale
+
+    PRICE: 968000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1344.0
+
+    ADDRESS: 61-23 Booth St
+
+    STATE: Rego Park, NY 11374
+
+    MAIN_ADDRESS: 61-23 Booth StRego Park, NY 11374
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Booth Street
+
+    FORMATTED_ADDRESS: 61-23 Booth St, Flushing, NY 11374, USA
+
+    LATITUDE: 40.7309404
+
+    LONGITUDE: -73.8683812

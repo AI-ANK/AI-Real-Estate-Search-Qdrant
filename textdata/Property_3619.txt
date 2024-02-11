@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Winzone Realty Inc
+
+    TYPE: House for sale
+
+    PRICE: 3399000
+
+    BEDS: 7
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 3446.0
+
+    ADDRESS: 119-12 83rd Ave
+
+    STATE: Kew Gardens, NY 11415
+
+    MAIN_ADDRESS: 119-12 83rd AveKew Gardens, NY 11415
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 83rd Avenue
+
+    FORMATTED_ADDRESS: 11912 83rd Ave, Jamaica, NY 11415, USA
+
+    LATITUDE: 40.7082867
+
+    LONGITUDE: -73.8335669

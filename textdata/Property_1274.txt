@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX Edge
+
+    TYPE: Co-op for sale
+
+    PRICE: 258888
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 650.0
+
+    ADDRESS: 9031 Fort Hamilton Pkwy Apt 6C
+
+    STATE: Brooklyn, NY 11209
+
+    MAIN_ADDRESS: 9031 Fort Hamilton Pkwy Apt 6CBrooklyn, NY 11209
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Fort Hamilton
+
+    LONG_NAME: 9031
+
+    FORMATTED_ADDRESS: 9031 Fort Hamilton Pkwy #6c, Brooklyn, NY 11209, USA
+
+    LATITUDE: 40.617279
+
+    LONGITUDE: -74.0267532

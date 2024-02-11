@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by VYLLA HOME
+
+    TYPE: Co-op for sale
+
+    PRICE: 220500
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 900.0
+
+    ADDRESS: 350 Richmond Ter Apt 3M
+
+    STATE: Staten Island, NY 10301
+
+    MAIN_ADDRESS: 350 Richmond Ter Apt 3MStaten Island, NY 10301
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Richmond County
+
+    SUBLOCALITY: Staten Island
+
+    STREET_NAME: Mid Island
+
+    LONG_NAME: 350
+
+    FORMATTED_ADDRESS: 350 Richmond Terrace Apt 3n, Staten Island, NY 10301, USA
+
+    LATITUDE: 40.6481488
+
+    LONGITUDE: -74.0847983

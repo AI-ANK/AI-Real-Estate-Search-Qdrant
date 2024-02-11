@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 5995000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 4200.0
+
+    ADDRESS: 17 White St Apt 3B
+
+    STATE: Manhattan, NY 10013
+
+    MAIN_ADDRESS: 17 White St Apt 3BManhattan, NY 10013
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 17
+
+    FORMATTED_ADDRESS: 17 White St #3b, New York, NY 10013, USA
+
+    LATITUDE: 40.7190306
+
+    LONGITUDE: -74.0054491

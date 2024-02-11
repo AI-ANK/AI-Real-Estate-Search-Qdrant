@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Cana Realty
+
+    TYPE: House for sale
+
+    PRICE: 1288000
+
+    BEDS: 3
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 21-26 81st St
+
+    STATE: East Elmhurst, NY 11370
+
+    MAIN_ADDRESS: 21-26 81st StEast Elmhurst, NY 11370
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 81st Street
+
+    FORMATTED_ADDRESS: 21-26 81st St, Flushing, NY 11370, USA
+
+    LATITUDE: 40.7701118
+
+    LONGITUDE: -73.8892017

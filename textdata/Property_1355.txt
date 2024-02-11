@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Sotheby's International Realty - Downtown Manhattan
+
+    TYPE: Co-op for sale
+
+    PRICE: 499000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 519 E 87th St Apt D
+
+    STATE: New York, NY 10128
+
+    MAIN_ADDRESS: 519 E 87th St Apt DNew York, NY 10128
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 519
+
+    FORMATTED_ADDRESS: 519 E 87th St d, New York, NY 10128, USA
+
+    LATITUDE: 40.7762825
+
+    LONGITUDE: -73.9453865

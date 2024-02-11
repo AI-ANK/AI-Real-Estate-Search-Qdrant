@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Townhouse for sale
+
+    PRICE: 14000000
+
+    BEDS: 5
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 7200.0
+
+    ADDRESS: 38 Monroe Pl
+
+    STATE: Brooklyn, NY 11201
+
+    MAIN_ADDRESS: 38 Monroe PlBrooklyn, NY 11201
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Monroe Place
+
+    FORMATTED_ADDRESS: 38 Monroe Pl, Brooklyn, NY 11201, USA
+
+    LATITUDE: 40.6958593
+
+    LONGITUDE: -73.9925234

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Elegran Real Estate And Development
+
+    TYPE: Co-op for sale
+
+    PRICE: 420000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 225 E 36th St Apt 2H
+
+    STATE: New York, NY 10016
+
+    MAIN_ADDRESS: 225 E 36th St Apt 2HNew York, NY 10016
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 225
+
+    FORMATTED_ADDRESS: 225 E 36th St #2h, New York, NY 10016, USA
+
+    LATITUDE: 40.7466605
+
+    LONGITUDE: -73.9758035

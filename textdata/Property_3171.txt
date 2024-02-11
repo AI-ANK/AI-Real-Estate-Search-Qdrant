@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by CHRISTIE'S INT.REAL ESTATE GROUP
+
+    TYPE: Townhouse for sale
+
+    PRICE: 10750000
+
+    BEDS: 5
+
+    BATH: 6.0
+
+    PROPERTYSQFT: 5771.0
+
+    ADDRESS: 123 E 80th St
+
+    STATE: New York, NY 10075
+
+    MAIN_ADDRESS: 123 E 80th StNew York, NY 10075
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: New York County
+
+    STREET_NAME: New York
+
+    LONG_NAME: East 80th Street
+
+    FORMATTED_ADDRESS: 123 E 80th St, New York, NY 10075, USA
+
+    LATITUDE: 40.776067
+
+    LONGITUDE: -73.9588179

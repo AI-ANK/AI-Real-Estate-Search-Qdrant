@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Exp Realty
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 750000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2340.0
+
+    ADDRESS: 4325 Boyd Ave
+
+    STATE: Bronx, NY 10466
+
+    MAIN_ADDRESS: 4325 Boyd AveBronx, NY 10466
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Boyd Avenue
+
+    FORMATTED_ADDRESS: 4325 Boyd Ave, Bronx, NY 10466, USA
+
+    LATITUDE: 40.8959494
+
+    LONGITUDE: -73.85177

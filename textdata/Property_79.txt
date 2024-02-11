@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Gosen Properties Inc
+
+    TYPE: Foreclosure
+
+    PRICE: 269000
+
+    BEDS: 5
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 24149 148th Dr
+
+    STATE: Rosedale, NY 11422
+
+    MAIN_ADDRESS: 24149 148th DrRosedale, NY 11422
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 148th Drive
+
+    FORMATTED_ADDRESS: 241-49 148th Dr, Jamaica, NY 11422, USA
+
+    LATITUDE: 40.6534433
+
+    LONGITUDE: -73.741373

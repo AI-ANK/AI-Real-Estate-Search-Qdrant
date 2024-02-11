@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Get Listed Realty Llc
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 1400000
+
+    BEDS: 6
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1600.0
+
+    ADDRESS: 2419 Arthur Ave
+
+    STATE: Bronx, NY 10458
+
+    MAIN_ADDRESS: 2419 Arthur AveBronx, NY 10458
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Arthur Avenue
+
+    FORMATTED_ADDRESS: 2419 Arthur Ave, Bronx, NY 10458, USA
+
+    LATITUDE: 40.8561226
+
+    LONGITUDE: -73.8873536

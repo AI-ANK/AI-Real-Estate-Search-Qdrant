@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Goldstone N Y Realty Llc
+
+    TYPE: Co-op for sale
+
+    PRICE: 175000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 99-40 63 Rd Unit 5A
+
+    STATE: Rego Park, NY 11374
+
+    MAIN_ADDRESS: 99-40 63 Rd Unit 5ARego Park, NY 11374
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Rego Park
+
+    LONG_NAME: 99-40
+
+    FORMATTED_ADDRESS: 99-40 63rd Rd #5a, Rego Park, NY 11374, USA
+
+    LATITUDE: 40.7324206
+
+    LONGITUDE: -73.8555724

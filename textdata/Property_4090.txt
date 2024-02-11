@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 695000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 205 W 54th St Apt 5D
+
+    STATE: Manhattan, NY 10019
+
+    MAIN_ADDRESS: 205 W 54th St Apt 5DManhattan, NY 10019
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 205
+
+    FORMATTED_ADDRESS: 205 W 54th St #5b, New York, NY 10019, USA
+
+    LATITUDE: 40.7640805
+
+    LONGITUDE: -73.9818551

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Jason Mitchell Real Estate New York
+
+    TYPE: House for sale
+
+    PRICE: 680000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2200.0
+
+    ADDRESS: 54 E Augusta Ave
+
+    STATE: Staten Island, NY 10308
+
+    MAIN_ADDRESS: 54 E Augusta AveStaten Island, NY 10308
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: East Augusta Avenue
+
+    FORMATTED_ADDRESS: 54 E Augusta Ave, Staten Island, NY 10308, USA
+
+    LATITUDE: 40.5529274
+
+    LONGITUDE: -74.159159

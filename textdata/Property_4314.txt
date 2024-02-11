@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Voro Llc
+
+    TYPE: Co-op for sale
+
+    PRICE: 438000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 83-30 Vietor Ave Unit 721
+
+    STATE: Elmhurst, NY 11373
+
+    MAIN_ADDRESS: 83-30 Vietor Ave Unit 721Elmhurst, NY 11373
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 8330
+
+    FORMATTED_ADDRESS: 8330 Vietor Ave Apartment 721, Flushing, NY 11373, USA
+
+    LATITUDE: 40.743059
+
+    LONGITUDE: -73.880983

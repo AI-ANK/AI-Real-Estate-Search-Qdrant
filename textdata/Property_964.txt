@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Century 21 Realty First
+
+    TYPE: Multi-family home for sale
+
+    PRICE: 980000
+
+    BEDS: 4
+
+    BATH: 3.0
+
+    PROPERTYSQFT: 1408.0
+
+    ADDRESS: 1957 Ryder St
+
+    STATE: Brooklyn, NY 11234
+
+    MAIN_ADDRESS: 1957 Ryder StBrooklyn, NY 11234
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Ryder Street
+
+    FORMATTED_ADDRESS: 1957 Ryder St, Brooklyn, NY 11234, USA
+
+    LATITUDE: 40.611841
+
+    LONGITUDE: -73.92961

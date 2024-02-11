@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens
+
+    TYPE: Co-op for sale
+
+    PRICE: 2425000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1300.0
+
+    ADDRESS: 50 E 10th St Apt 6B
+
+    STATE: Manhattan, NY 10003
+
+    MAIN_ADDRESS: 50 E 10th St Apt 6BManhattan, NY 10003
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 50
+
+    FORMATTED_ADDRESS: 50 E 10th St #6b, New York, NY 10003, USA
+
+    LATITUDE: 40.731874
+
+    LONGITUDE: -73.9921379

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - East Setauket
+
+    TYPE: Land for sale
+
+    PRICE: 285000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 12 Point Breeze Ave
+
+    STATE: Far Rockaway, NY 11697
+
+    MAIN_ADDRESS: 12 Point Breeze AveFar Rockaway, NY 11697
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: Point Breeze Avenue
+
+    FORMATTED_ADDRESS: 12 Point Breeze Ave, Breezy Point, NY 11697, USA
+
+    LATITUDE: 40.5607533
+
+    LONGITUDE: -73.9207539

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 310000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 5700 Arlington Ave Apt 2S
+
+    STATE: Bronx, NY 10471
+
+    MAIN_ADDRESS: 5700 Arlington Ave Apt 2SBronx, NY 10471
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Bronx County
+
+    SUBLOCALITY: The Bronx
+
+    STREET_NAME: North Riverdale
+
+    LONG_NAME: 5700
+
+    FORMATTED_ADDRESS: 5700 Arlington Ave #2s, Bronx, NY 10471, USA
+
+    LATITUDE: 40.9069228
+
+    LONGITUDE: -73.9062512

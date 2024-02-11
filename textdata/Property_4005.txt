@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Katz Realty
+
+    TYPE: House for sale
+
+    PRICE: 1200000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2173.0
+
+    ADDRESS: 16 Monroe Pl
+
+    STATE: Staten Island, NY 10314
+
+    MAIN_ADDRESS: 16 Monroe PlStaten Island, NY 10314
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Monroe Place
+
+    FORMATTED_ADDRESS: 16 Monroe Pl, Staten Island, NY 10314, USA
+
+    LATITUDE: 40.5995725
+
+    LONGITUDE: -74.1264046

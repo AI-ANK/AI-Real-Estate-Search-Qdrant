@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 545000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 28 W 87th St Apt 4A
+
+    STATE: Manhattan, NY 10024
+
+    MAIN_ADDRESS: 28 W 87th St Apt 4AManhattan, NY 10024
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 28
+
+    FORMATTED_ADDRESS: 28 W 87th St #4a, New York, NY 10024, USA
+
+    LATITUDE: 40.7863158
+
+    LONGITUDE: -73.9702042

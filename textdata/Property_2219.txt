@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE/MAX Team
+
+    TYPE: Co-op for sale
+
+    PRICE: 199900
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 550.0
+
+    ADDRESS: 66-36 Yellowstone Blvd Unit 23C
+
+    STATE: Forest Hills, NY 11375
+
+    MAIN_ADDRESS: 66-36 Yellowstone Blvd Unit 23CForest Hills, NY 11375
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Forest Hills
+
+    LONG_NAME: 6636
+
+    FORMATTED_ADDRESS: 6636 Yellowstone Blvd Apt 23h, Forest Hills, NY 11375, USA
+
+    LATITUDE: 40.7291499
+
+    LONGITUDE: -73.84944

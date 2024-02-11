@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: NoBroker
+
+    TYPE: Condo for sale
+
+    PRICE: 509000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 91-10 34th Ave Unit 5J
+
+    STATE: Jackson Heights, NY 11372
+
+    MAIN_ADDRESS: 91-10 34th Ave Unit 5JJackson Heights, NY 11372
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Jackson Heights
+
+    LONG_NAME: 91-10
+
+    FORMATTED_ADDRESS: 91-10 34th Ave #5j, Jackson Heights, NY 11372, USA
+
+    LATITUDE: 40.7544029
+
+    LONGITUDE: -73.876343

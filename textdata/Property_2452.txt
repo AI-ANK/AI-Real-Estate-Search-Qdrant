@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Park Avenue South
+
+    TYPE: Condo for sale
+
+    PRICE: 2195000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1708.0
+
+    ADDRESS: 500 Park Ave # 16D
+
+    STATE: New York, NY 10022
+
+    MAIN_ADDRESS: 500 Park Ave # 16DNew York, NY 10022
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 500
+
+    FORMATTED_ADDRESS: 500 Park Ave #16a, New York, NY 10022, USA
+
+    LATITUDE: 40.7629604
+
+    LONGITUDE: -73.9705452

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Cross Country Realty
+
+    TYPE: Condo for sale
+
+    PRICE: 410000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 85 Elmwood Park Dr Apt 60
+
+    STATE: Staten Island, NY 10314
+
+    MAIN_ADDRESS: 85 Elmwood Park Dr Apt 60Staten Island, NY 10314
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Richmond County
+
+    SUBLOCALITY: Staten Island
+
+    STREET_NAME: New Springville
+
+    LONG_NAME: 85
+
+    FORMATTED_ADDRESS: 85 Elmwood Park Dr APT 60, Staten Island, NY 10314, USA
+
+    LATITUDE: 40.5800127
+
+    LONGITUDE: -74.1614787

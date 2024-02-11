@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 575 Madison Ave
+
+    TYPE: Co-op for sale
+
+    PRICE: 1150000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 984.0
+
+    ADDRESS: 40 Remsen St Apt 4
+
+    STATE: Brooklyn, NY 11201
+
+    MAIN_ADDRESS: 40 Remsen St Apt 4Brooklyn, NY 11201
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Brooklyn Heights
+
+    LONG_NAME: 40
+
+    FORMATTED_ADDRESS: 40 Remsen St Apt 4, Brooklyn, NY 11201, USA
+
+    LATITUDE: 40.6946221
+
+    LONGITUDE: -73.9969945

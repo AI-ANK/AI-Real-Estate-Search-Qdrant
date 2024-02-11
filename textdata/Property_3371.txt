@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brown Harris Stevens - 445 Park Avenue
+
+    TYPE: Co-op for sale
+
+    PRICE: 935000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 781 Fifth Ave Unit 407
+
+    STATE: Manhattan, NY 10022
+
+    MAIN_ADDRESS: 781 Fifth Ave Unit 407Manhattan, NY 10022
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 781
+
+    FORMATTED_ADDRESS: 781 5th Ave # 407, New York, NY 10022, USA
+
+    LATITUDE: 40.7643563
+
+    LONGITUDE: -73.9727544

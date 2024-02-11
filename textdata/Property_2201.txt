@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Valley Realty
+
+    TYPE: Co-op for sale
+
+    PRICE: 529000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1200.0
+
+    ADDRESS: 4150 78th St Apt 222
+
+    STATE: Elmhurst, NY 11373
+
+    MAIN_ADDRESS: 4150 78th St Apt 222Elmhurst, NY 11373
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Elmhurst
+
+    LONG_NAME: 41-50
+
+    FORMATTED_ADDRESS: 41-50 78th St #222, Elmhurst, NY 11373, USA
+
+    LATITUDE: 40.7438826
+
+    LONGITUDE: -73.8873872

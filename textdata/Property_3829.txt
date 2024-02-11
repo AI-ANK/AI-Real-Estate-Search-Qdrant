@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Douglas Elliman - 575 Madison Ave
+
+    TYPE: House for sale
+
+    PRICE: 2150000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 300 E 40th St Apt 28B
+
+    STATE: New York, NY 10016
+
+    MAIN_ADDRESS: 300 E 40th St Apt 28BNew York, NY 10016
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 300
+
+    FORMATTED_ADDRESS: 300 E 40th St #28b, New York, NY 10016, USA
+
+    LATITUDE: 40.7479844
+
+    LONGITUDE: -73.9728389

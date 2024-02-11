@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Jamie & Connie Real Estate Grp
+
+    TYPE: Co-op for sale
+
+    PRICE: 430000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 91-15 Lamont Ave Unit 6D
+
+    STATE: Elmhurst, NY 11373
+
+    MAIN_ADDRESS: 91-15 Lamont Ave Unit 6DElmhurst, NY 11373
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Elmhurst
+
+    LONG_NAME: 91-15
+
+    FORMATTED_ADDRESS: 91-15 Lamont Ave #6d, Elmhurst, NY 11373, USA
+
+    LATITUDE: 40.7438639
+
+    LONGITUDE: -73.8745722

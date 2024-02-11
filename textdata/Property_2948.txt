@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Kaloshi Real Estate Inc
+
+    TYPE: House for sale
+
+    PRICE: 739000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1473.0
+
+    ADDRESS: 19 Alton Pl
+
+    STATE: Brooklyn, NY 11210
+
+    MAIN_ADDRESS: 19 Alton PlBrooklyn, NY 11210
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Alton Place
+
+    FORMATTED_ADDRESS: 19 Alton Pl, Brooklyn, NY 11210, USA
+
+    LATITUDE: 40.6241803
+
+    LONGITUDE: -73.9375665

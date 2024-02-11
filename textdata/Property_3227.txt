@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Brooklynnybpo.Com Llc
+
+    TYPE: Pending
+
+    PRICE: 1600000
+
+    BEDS: 6
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 2128.0
+
+    ADDRESS: 155 Sterling St
+
+    STATE: Brooklyn, NY 11225
+
+    MAIN_ADDRESS: 155 Sterling StBrooklyn, NY 11225
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: Sterling Street
+
+    FORMATTED_ADDRESS: 155 Sterling St, Brooklyn, NY 11225, USA
+
+    LATITUDE: 40.6630373
+
+    LONGITUDE: -73.9558549

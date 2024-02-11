@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Corcoran Brooklyn Heights
+
+    TYPE: Condo for sale
+
+    PRICE: 750000
+
+    BEDS: 2
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 732.0
+
+    ADDRESS: 109 Troutman St # 3B
+
+    STATE: Brooklyn, NY 11206
+
+    MAIN_ADDRESS: 109 Troutman St # 3BBrooklyn, NY 11206
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Bushwick
+
+    LONG_NAME: 109
+
+    FORMATTED_ADDRESS: 109 Troutman St #3b, Brooklyn, NY 11206, USA
+
+    LATITUDE: 40.6996109
+
+    LONGITUDE: -73.9302507

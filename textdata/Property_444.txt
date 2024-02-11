@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Martino Realty Group
+
+    TYPE: Contingent
+
+    PRICE: 489000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 978.0
+
+    ADDRESS: 615 Correll Ave
+
+    STATE: Staten Island, NY 10309
+
+    MAIN_ADDRESS: 615 Correll AveStaten Island, NY 10309
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Correll Avenue
+
+    FORMATTED_ADDRESS: 615 Correll Ave, Staten Island, NY 10309, USA
+
+    LATITUDE: 40.546573
+
+    LONGITUDE: -74.213449

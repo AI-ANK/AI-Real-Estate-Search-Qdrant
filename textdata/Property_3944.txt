@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Rty Gold Coast
+
+    TYPE: Condo for sale
+
+    PRICE: 735000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 42-37 27th St Unit 5B
+
+    STATE: Long Island City, NY 11101
+
+    MAIN_ADDRESS: 42-37 27th St Unit 5BLong Island City, NY 11101
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Long Island City
+
+    LONG_NAME: 4237
+
+    FORMATTED_ADDRESS: 4237 27th St #5b, Long Island City, NY 11101, USA
+
+    LATITUDE: 40.7491662
+
+    LONGITUDE: -73.9406038

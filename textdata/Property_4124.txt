@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Dwell Residential
+
+    TYPE: Townhouse for sale
+
+    PRICE: 2250000
+
+    BEDS: 4
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1360.0
+
+    ADDRESS: 571 17th St
+
+    STATE: Brooklyn, NY 11218
+
+    MAIN_ADDRESS: 571 17th StBrooklyn, NY 11218
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Kings County
+
+    STREET_NAME: Brooklyn
+
+    LONG_NAME: 17th Street
+
+    FORMATTED_ADDRESS: 571 17th St, Brooklyn, NY 11218, USA
+
+    LATITUDE: 40.6568189
+
+    LONGITUDE: -73.9795706

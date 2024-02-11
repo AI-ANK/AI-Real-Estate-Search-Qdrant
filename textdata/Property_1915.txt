@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE/MAX City Square
+
+    TYPE: Co-op for sale
+
+    PRICE: 284888
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 37-21 80th St Unit 4A
+
+    STATE: Jackson Heights, NY 11372
+
+    MAIN_ADDRESS: 37-21 80th St Unit 4AJackson Heights, NY 11372
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 37-21
+
+    FORMATTED_ADDRESS: 37-21 80th St #4a, Flushing, NY 11372, USA
+
+    LATITUDE: 40.748924
+
+    LONGITUDE: -73.8857529

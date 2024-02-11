@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by qvtopservice
+
+    TYPE: Condo for sale
+
+    PRICE: 599999
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 932.0
+
+    ADDRESS: 478 Bainbridge St Apt 3A
+
+    STATE: Bedford Stuyvesant, NY 11233
+
+    MAIN_ADDRESS: 478 Bainbridge St Apt 3ABedford Stuyvesant, NY 11233
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Kings County
+
+    SUBLOCALITY: Brooklyn
+
+    STREET_NAME: Ocean Hill
+
+    LONG_NAME: 478
+
+    FORMATTED_ADDRESS: 478 Bainbridge St. #3a, Brooklyn, NY 11233, USA
+
+    LATITUDE: 40.6822675
+
+    LONGITUDE: -73.9178308

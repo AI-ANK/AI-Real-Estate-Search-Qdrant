@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Realty Greater Nassau
+
+    TYPE: Townhouse for sale
+
+    PRICE: 660000
+
+    BEDS: 3
+
+    BATH: 2.3738608579684373
+
+    PROPERTYSQFT: 1283.0
+
+    ADDRESS: 1761 Tenbroeck Ave
+
+    STATE: Bronx, NY 10461
+
+    MAIN_ADDRESS: 1761 Tenbroeck AveBronx, NY 10461
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Bronx County
+
+    STREET_NAME: The Bronx
+
+    LONG_NAME: Tenbroeck Avenue
+
+    FORMATTED_ADDRESS: 1761 Tenbroeck Ave, Bronx, NY 10461, USA
+
+    LATITUDE: 40.851494
+
+    LONGITUDE: -73.8492232

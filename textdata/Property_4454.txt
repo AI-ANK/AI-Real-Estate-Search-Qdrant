@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Momentum Real Estate LLC
+
+    TYPE: House for sale
+
+    PRICE: 499000
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1024.0
+
+    ADDRESS: 140 Kiswick St
+
+    STATE: Staten Island, NY 10306
+
+    MAIN_ADDRESS: 140 Kiswick StStaten Island, NY 10306
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Kiswick Street
+
+    FORMATTED_ADDRESS: 140 Kiswick St, Staten Island, NY 10306, USA
+
+    LATITUDE: 40.5757598
+
+    LONGITUDE: -74.0943577

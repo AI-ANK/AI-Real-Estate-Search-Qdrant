@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Century Homes Realty Group LLC
+
+    TYPE: Condo for sale
+
+    PRICE: 418000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 684.0
+
+    ADDRESS: 120-17 Cove Ct Unit 91B
+
+    STATE: College Point, NY 11356
+
+    MAIN_ADDRESS: 120-17 Cove Ct Unit 91BCollege Point, NY 11356
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: College Point
+
+    LONG_NAME: 120-17
+
+    FORMATTED_ADDRESS: 120-17 Cove Ct #91, College Point, NY 11356, USA
+
+    LATITUDE: 40.7946644
+
+    LONGITUDE: -73.8473931

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by E Realty International Corp
+
+    TYPE: Co-op for sale
+
+    PRICE: 350000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 61-15 97 St Unit 12D
+
+    STATE: Rego Park, NY 11374
+
+    MAIN_ADDRESS: 61-15 97 St Unit 12DRego Park, NY 11374
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Rego Park
+
+    LONG_NAME: 61-15
+
+    FORMATTED_ADDRESS: 61-15 97th St #12d, Rego Park, NY 11374, USA
+
+    LATITUDE: 40.7337965
+
+    LONGITUDE: -73.8620837

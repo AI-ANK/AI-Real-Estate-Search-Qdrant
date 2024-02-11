@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Winzone Realty Inc
+
+    TYPE: Condo for sale
+
+    PRICE: 558000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 747.0
+
+    ADDRESS: 22-40 80th St Unit 133F
+
+    STATE: East Elmhurst, NY 11370
+
+    MAIN_ADDRESS: 22-40 80th St Unit 133FEast Elmhurst, NY 11370
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Flushing
+
+    LONG_NAME: 2240
+
+    FORMATTED_ADDRESS: 2240 80th St #133A, Flushing, NY 11370, USA
+
+    LATITUDE: 40.7677997
+
+    LONGITUDE: -73.8900207

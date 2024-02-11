@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by RE MAX 1st Choice
+
+    TYPE: House for sale
+
+    PRICE: 1750000
+
+    BEDS: 4
+
+    BATH: 4.0
+
+    PROPERTYSQFT: 3645.0
+
+    ADDRESS: 2-11 147 St
+
+    STATE: Whitestone, NY 11357
+
+    MAIN_ADDRESS: 2-11 147 StWhitestone, NY 11357
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Queens County
+
+    STREET_NAME: Queens
+
+    LONG_NAME: 147th Street
+
+    FORMATTED_ADDRESS: 2-11 147th St, Flushing, NY 11357, USA
+
+    LATITUDE: 40.7968959
+
+    LONGITUDE: -73.822999

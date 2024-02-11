@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by COMPASS
+
+    TYPE: Co-op for sale
+
+    PRICE: 999995
+
+    BEDS: 3
+
+    BATH: 2.0
+
+    PROPERTYSQFT: 1750.0
+
+    ADDRESS: 205 E 63rd St Unit 11EF
+
+    STATE: Manhattan, NY 10065
+
+    MAIN_ADDRESS: 205 E 63rd St Unit 11EFManhattan, NY 10065
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: New York County
+
+    SUBLOCALITY: New York
+
+    STREET_NAME: Manhattan
+
+    LONG_NAME: 205
+
+    FORMATTED_ADDRESS: 205 E 63rd St #11e, New York, NY 10065, USA
+
+    LATITUDE: 40.7640501
+
+    LONGITUDE: -73.964336

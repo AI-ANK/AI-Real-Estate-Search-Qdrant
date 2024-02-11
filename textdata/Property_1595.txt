@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Keller Williams Realty Staten Island
+
+    TYPE: Contingent
+
+    PRICE: 459000
+
+    BEDS: 2
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 1188.0
+
+    ADDRESS: 382 Sprague Ave
+
+    STATE: Staten Island, NY 10307
+
+    MAIN_ADDRESS: 382 Sprague AveStaten Island, NY 10307
+
+    ADMINISTRATIVE_AREA_LEVEL_2: United States
+
+    LOCALITY: New York
+
+    SUBLOCALITY: Richmond County
+
+    STREET_NAME: Staten Island
+
+    LONG_NAME: Sprague Avenue
+
+    FORMATTED_ADDRESS: 382 Sprague Ave, Staten Island, NY 10307, USA
+
+    LATITUDE: 40.5019991
+
+    LONGITUDE: -74.2372284

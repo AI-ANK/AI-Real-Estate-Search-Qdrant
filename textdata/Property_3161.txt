@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Properties Logan Inc
+
+    TYPE: Co-op for sale
+
+    PRICE: 250000
+
+    BEDS: 3
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 2184.207862
+
+    ADDRESS: 37-30 83rd St Unit 5
+
+    STATE: Jackson Heights, NY 11372
+
+    MAIN_ADDRESS: 37-30 83rd St Unit 5Jackson Heights, NY 11372
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Jackson Heights
+
+    LONG_NAME: 3730
+
+    FORMATTED_ADDRESS: 3730 83rd St Apt 5n, Jackson Heights, NY 11372, USA
+
+    LATITUDE: 40.7493341
+
+    LONGITUDE: -73.8834178

@@ -1,0 +1,34 @@
+   
+    BROKERTITLE: Brokered by Winzone Realty Inc
+
+    TYPE: Condo for sale
+
+    PRICE: 498000
+
+    BEDS: 1
+
+    BATH: 1.0
+
+    PROPERTYSQFT: 785.0
+
+    ADDRESS: 64-48 Booth St Unit 1E
+
+    STATE: Rego Park, NY 11374
+
+    MAIN_ADDRESS: 64-48 Booth St Unit 1ERego Park, NY 11374
+
+    ADMINISTRATIVE_AREA_LEVEL_2: New York
+
+    LOCALITY: Queens County
+
+    SUBLOCALITY: Queens
+
+    STREET_NAME: Rego Park
+
+    LONG_NAME: 64-48
+
+    FORMATTED_ADDRESS: 64-48 Booth St #1e, Rego Park, NY 11374, USA
+
+    LATITUDE: 40.7275115
+
+    LONGITUDE: -73.86069
