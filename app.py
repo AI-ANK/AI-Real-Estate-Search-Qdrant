@@ -119,7 +119,7 @@ else:
     st.error("Data file not found. Please check the path and ensure it's correct.")
 
 # Input from user
-user_query = st.text_input("Enter your query:", "Suggest 3 houses in Manhattan brokered by compass and are condos.")
+user_query = st.text_input("Enter your query:", "Suggest 3 houses in Manhattan brokered by compass.")
 
 # Define the options for the radio button
 options = ['Simple: Qdrant Similarity Search + LLM Call (works well for filtering type of queries)', 'Advanced: Qdrant Similarity Search + Llamaindex Text-to-SQL']
@@ -157,7 +157,7 @@ if st.button("Submit Query"):
             for property_dict in properties_list:
                 st.json(json.dumps(property_dict, indent=4))
                 print(property_dict)
-            status.update(label="retrieved points/nodes based on user query", state="complete", expanded=False)
+            status.update(label="Retrieved points/nodes based on user query", state="complete", expanded=False)
         
         with st.status("Simple Method: Generating response based on Similarity Search + LLM Call", expanded = True) as status:
             prompt_template = f"""
