@@ -35,7 +35,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 For support, please open an issue in the GitHub issue tracker.
 
 ## Live Demo
-Try the demo [here]!
+Try the demo [here](https://huggingface.co/spaces/AI-ANK/AI-Real-Estate-Search-Qdrant-Llamaindex)!
 
 ## Authors
 ### Developed by [Harshad Suryawanshi](https://www.linkedin.com/in/harshadsuryawanshi/)
