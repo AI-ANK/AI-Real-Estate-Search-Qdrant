@@ -6,3 +6,5 @@ llama-index
 google-generativeai
 transformers
 torch
+qdrant-client
+fastembed

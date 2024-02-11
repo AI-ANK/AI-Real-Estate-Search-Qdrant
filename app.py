@@ -29,6 +29,8 @@ from llama_index.query_engine.retriever_query_engine import (
     RetrieverQueryEngine,
 )
 
+from sqlalchemy import text, event
+
 st.set_page_config(layout="wide")
 write_dir = Path("textdata")
 
@@ -193,6 +195,15 @@ if st.button("Submit Query"):
             df2 = df.drop('text', axis=1)
             #Create a SQLite database and engine
             engine = create_engine("sqlite:///NY_House_Dataset.db?mode=ro", connect_args={"uri": True})
+
+            @event.listens_for(engine, "before_cursor_execute")
+            def receive_before_cursor_execute(conn, cursor, statement, params, context, executemany):
+                if statement.strip().lower().startswith(("insert", "update", "delete")):
+                    # Instead of raising an error, log or print a warning
+                    print("Read-only mode: Modification attempt blocked.")
+                    # Prevent execution by skipping the operation
+                    raise Exception("Attempted to modify the database in read-only mode.")
+
             sql_database = SQLDatabase(engine)
             #Convert the DataFrame to a SQL table within the SQLite database
             df2.to_sql('housing_data_sql', con=engine, if_exists='replace', index=False)
