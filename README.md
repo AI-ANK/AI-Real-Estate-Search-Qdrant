@@ -1,4 +1,4 @@
-# NY Housing Market Explorer: AI-Powered Real Estate Search
+# AI Real Estate Search - Powered by Qdrant and Llamaindex
 
 NY Housing Market Explorer is a Streamlit-based application designed to revolutionize the real estate search process with the power of AI. Utilizing Qdrant for efficient similarity searches and LlamaIndex for advanced natural language processing, this application offers users an intuitive way to find their dream property in New York.
 
