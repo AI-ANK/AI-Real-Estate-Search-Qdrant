@@ -250,5 +250,5 @@ if st.button("Submit Query"):
             query_engine = SQLAutoVectorQueryEngine(
                 sql_tool, vector_tool, service_context=service_context
             )
-            response = query_engine.query(f"{user_query}+. Provide a detailed response and include lONG_NAME, name of broker, number of beds, number of baths, propertysqft and FORMATTED_ADDRESS. ALWAYS USE LIKE in WHERE CLAUSE. ALWAYS RESPOND IN WELL FORMATTED MARKDOWN")
+            response = query_engine.query(f"{user_query}+. Provide a detailed response and include lONG_NAME, PRICE, name of broker, number of beds, number of baths, propertysqft and FORMATTED_ADDRESS. ALWAYS USE LIKE in WHERE CLAUSE. ALWAYS RESPOND IN WELL FORMATTED MARKDOWN")
             st.markdown(response.response)
