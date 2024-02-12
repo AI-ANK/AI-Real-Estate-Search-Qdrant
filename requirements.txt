@@ -8,3 +8,4 @@ transformers
 torch
 qdrant-client
 fastembed
+python-dotenv
