@@ -28,6 +28,9 @@ from llama_index.vector_stores.types import MetadataInfo, VectorStoreInfo
 from llama_index.query_engine.retriever_query_engine import (
     RetrieverQueryEngine,
 )
+from dotenv import load_dotenv
+load_dotenv()
+
 
 st.set_page_config(layout="wide")
 write_dir = Path("textdata")
