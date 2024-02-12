@@ -24,6 +24,7 @@ This is a Streamlit-based application designed to revolutionize the real estate 
 ```cd AI-Real-Estate-Search-Qdrant```
 
 ```pip install -r requirements.txt```
+
 Create a .env file in the root directory of the project and add your OpenAI API key, Qdrant URL, and Qdrant API key. Replace the placeholder values with your actual keys:
 ```
 OPENAI_API_KEY=your_openai_api_key_here
