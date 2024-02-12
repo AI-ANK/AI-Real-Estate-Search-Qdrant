@@ -10,16 +10,24 @@ This is a Streamlit-based application designed to revolutionize the real estate 
 - **Real-Time Results**: Instantly retrieve and explore the top property matches based on your query.
 
 ## How to Use
-1. **Set Up Your Environment**: Ensure Python and Streamlit are installed. Clone the repository and install dependencies.
-2. **Launch the Application**: Execute `streamlit run app.py` to start the app.
-3. **Search for Properties**: Enter your housing query, select a search approach, and view the matching properties.
-4. **Explore Results**: Interact with the search results to find more about each property.
+- **Set Up Your Environment**: Ensure Python and Streamlit are installed. Clone the repository and install dependencies.
+- **Configure Qdrant**: Before launching the application, ensure you have set up a Qdrant cluster. This involves creating a cluster in the Qdrant Cloud and noting down the URL and API key. You'll need these to configure your application to communicate with the Qdrant database. See this link for more details: https://qdrant.tech/documentation/cloud/quickstart-cloud/
+- **Prepare the Qdrant Collection**: Determine the name for your Qdrant collection where the property embeddings will be stored. If you're running the application for the first time, ensure the code on line 52-54 of app.py to create and populate the collection is uncommented and correctly configured with your chosen collection name.
+- **Launch the Application**: Execute `streamlit run app.py` to start the app.
+- **Search for Properties**: Enter your housing query, select a search approach, and view the matching properties.
+- **Explore Results**: Interact with the search results to find more about each property.
+
 
 ## Installation
-```git clone https://github.com/your-username/NYHousingExplorer.git```
-```cd NYHousingExplorer```
+```git clone https://github.com/AI-ANK/AI-Real-Estate-Search-Qdrant.git```
+```cd AI-Real-Estate-Search-Qdrant```
 ```pip install -r requirements.txt```
-
+Create a .env file in the root directory of the project and add your OpenAI API key, Qdrant URL, and Qdrant API key. Replace the placeholder values with your actual keys:
+```
+OPENAI_API_KEY=your_openai_api_key_here
+QDRANT_URL=your_qdrant_url_here
+QDRANT_API_KEY=your_qdrant_api_key_here
+```
 
 ## Tools and Technologies
 - **UI**: Streamlit
