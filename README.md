@@ -1,6 +1,6 @@
 # AI Real Estate Search - Powered by Qdrant and Llamaindex
 
-This is a Streamlit-based application designed to revolutionize the real estate search process with the power of AI. Utilizing Qdrant for efficient vector similarity searches and LlamaIndex for advanced natural language processing, this application offers users an intuitive way to find their dream property in New York.
+his tool transforms how users search for houses, moving beyond traditional keyword-based engines. By leveraging advanced capabilities of Qdrant and LlamaIndex, it uses a combination of Vector Similarity Search, LLM and Text-to-SQL to searching for properties using natural human language.
 
 ## Features
 - **Interactive UI**: Explore New York's housing market through a user-friendly web interface.
